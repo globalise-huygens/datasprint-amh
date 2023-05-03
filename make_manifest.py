@@ -159,7 +159,7 @@ def make_manifest(
             ),
             iiif_prezi3.KeyValueString(
                 label="Date",
-                value={"none": [date]},
+                value={"none": [date or "?"]},
             ),
             iiif_prezi3.KeyValueString(
                 label="Permalink",
