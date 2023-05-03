@@ -24,7 +24,7 @@ BASE_URL = Namespace("https://globalise-huygens.github.io/datasprint-amh/")
 # Config
 collection_number = "4.VEL"
 collection_filename = f"manifests/{collection_number}.json"
-collection_id = BASE_URL.term(f"manifests/{collection_number}/{collection_filename}")
+collection_id = BASE_URL.term(collection_filename)
 
 os.makedirs(f"manifests/{collection_number}", exist_ok=True)
 iiif_prezi3.config.configs["helpers.auto_fields.AutoLang"].auto_lang = "nl"
