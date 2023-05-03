@@ -1,6 +1,7 @@
 import os
 import json
 import iiif_prezi3
+from requests.exceptions import HTTPError
 
 with open("data/inventory2info.json", "r") as infile:
     inventory2info = json.load(infile)
@@ -87,7 +88,12 @@ def get_rdf(
 
 
 def make_collection(
-    collection_number: str, metadata_file: str, base_url: str, language: str = "nl"
+    collection_number: str,
+    collection_label: str,
+    collection_permalink: str,
+    metadata_file: str,
+    base_url: str,
+    language: str = "nl",
 ) -> iiif_prezi3.Collection:
     collection_filename = f"manifests/{collection_number}.json"
     collection_id = base_url + collection_filename
@@ -97,8 +103,20 @@ def make_collection(
 
     iiif_prezi3.config.configs["helpers.auto_fields.AutoLang"].auto_lang = language
 
-    collection = iiif_prezi3.Collection(id=collection_id)
-    collection.label = {"en": ["Leupe Collection"]}
+    collection = iiif_prezi3.Collection(
+        id=collection_id,
+        label=collection_label,
+        metadata=[
+            iiif_prezi3.KeyValueString(
+                label="Identifier",
+                value={"none": [collection_number]},
+            ),
+            iiif_prezi3.KeyValueString(
+                label="Permalink",
+                value={"none": [f'<a href="{collection_permalink}"></a>']},
+            ),
+        ],
+    )
 
     manifests = []
     for n, (inventory_number, metadata) in enumerate(metadata_file, 1):
@@ -169,12 +187,15 @@ def make_manifest(
         seeAlso=[ore_aggregation],
         rights=license_id,
     )
-    canvas = manifest.make_canvas_from_iiif(
-        url=iiif_service,
-        id=f"{manifest_id}#canvas/p1",
-        anno_id=f"{manifest_id}#canvas/p1/anno",
-        anno_page_id=f"{manifest_id}#canvas/p1/annotationpage",
-    )
+    try:
+        canvas = manifest.make_canvas_from_iiif(
+            url=iiif_service,
+            id=f"{manifest_id}#canvas/p1",
+            anno_id=f"{manifest_id}#canvas/p1/anno",
+            anno_page_id=f"{manifest_id}#canvas/p1/annotationpage",
+        )
+    except HTTPError:
+        pass
 
     with open(manifest_filename, "w") as outfile:
         outfile.write(manifest.json(indent=4))
@@ -182,9 +203,17 @@ def make_manifest(
     return manifest
 
 
-def main(metadata_file: str, collection_number: str, base_url: str) -> None:
+def main(
+    metadata_file: str,
+    collection_number: str,
+    collection_label: str,
+    collection_permalink: str,
+    base_url: str,
+) -> None:
     collection = make_collection(
         collection_number,
+        collection_label,
+        collection_permalink,
         metadata_file,
         base_url,
     )
@@ -194,5 +223,7 @@ if __name__ == "__main__":
     main(
         metadata_file=metadata_VEL,
         collection_number="4.VEL",
+        collection_label="Inventaris van de verzameling buitenlandse kaarten Leupe, 1584-1813 (1865)",
+        collection_permalink="http://hdl.handle.net/10648/2baed20f-8a3e-4ae7-b8f8-cd9d9fa88646",
         base_url="https://globalise-huygens.github.io/datasprint-amh/",
     )
