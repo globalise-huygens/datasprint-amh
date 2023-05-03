@@ -1,7 +1,6 @@
 import os
 import json
 import iiif_prezi3
-from rdflib import ConjunctiveGraph
 
 with open("data/inventory2info.json", "r") as infile:
     inventory2info = json.load(infile)
@@ -28,6 +27,7 @@ def get_rdf(
     manifest_id: str,
     manifest_label: str,
     license_id: str,
+    base_url: str,
 ) -> dict:
     iiif_default_url = iiif_service + "/full/full/0/default.jpg"  # IIIF2
 
@@ -35,21 +35,22 @@ def get_rdf(
         "id": cho_id,
         "type": ["edm:ProvidedCHO", "schema:Map"],
         "image": metadata["og:image"],
-        "schema:text": metadata["inscription"],
+        "schema:text": metadata.get("inscription"),
         "dc:title": metadata["og:title"],
         "dc:description": "\n".join(metadata["comments"]),
-        "dc:type": metadata["kind"],
+        "dc:type": metadata.get("kind"),
         "dc:identifier": metadata["number"],
-        "dc:subject": metadata["tags"],
+        "dc:subject": metadata.get("tags"),
         "dc:language": "nl",
         "dcterms:medium": metadata["material"],
-        "edmfp:technique": metadata["technique"],
-        "dcterms:extent": metadata["dimension"],
-        "dcterms:date": metadata["period"],
+        "edmfp:technique": metadata.get("technique"),
+        "dcterms:extent": metadata.get("dimension"),
+        "dcterms:date": metadata.get("period"),
         "dcterms:provenance": "Nationaal Archief",
         "dcterms:isPartOf": "Atlas of Mutual Heritage",
         "seeAlso": metadata["og:url"].replace("/nl/page/", "/page/"),
     }
+    cho = {k: v for k, v in cho.items() if v}
 
     webResource = {
         "id": iiif_default_url,
@@ -69,27 +70,7 @@ def get_rdf(
     }
 
     aggregation = {
-        "@context": {
-            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-            "iiif": "http://iiif.io/api/presentation/3#",
-            "edm": "http://www.europeana.eu/schemas/edm/",
-            "ore": "http://www.openarchives.org/ore/terms/",
-            "schema": "https://schema.org/",
-            "dc": "http://purl.org/dc/elements/1.1/",
-            "dcterms": "http://purl.org/dc/terms/",
-            "edmfp": "http://www.europeanafashion.eu/edmfp/",
-            "svcs": "http://rdfs.org/sioc/services#",
-            "implements": {
-                "@type": "@id",
-                "@id": "http://usefulinc.com/ns/doap#implements",
-            },
-            "profile": {"@type": "@vocab", "@id": "dcterms:conformsTo"},
-            "isReferencedBy": {"@type": "@id", "@id": "dcterms:isReferencedBy"},
-            "seeAlso": {"@type": "@id", "@id": "rdfs:seeAlso"},
-            "image": {"@type": "@id", "@id": "schema:image"},
-            "id": "@id",
-            "type": "@type",
-        },
+        "@context": base_url + "context.json",
         "id": aggregation_id,
         "type": "ore:Aggregation",
         "edm:aggregatedCHO": cho,
@@ -120,7 +101,7 @@ def make_collection(
     collection.label = {"en": ["Leupe Collection"]}
 
     manifests = []
-    for inventory_number, metadata in metadata_file[:10]:  # DEBUG
+    for inventory_number, metadata in metadata_file:
         manifest = make_manifest(
             inventory_number,
             collection_number,
@@ -163,6 +144,7 @@ def make_manifest(
         manifest_id=manifest_id,
         manifest_label=title,
         license_id=license_id,
+        base_url=base_url,
     )
 
     manifest = iiif_prezi3.Manifest(
