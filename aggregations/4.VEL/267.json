@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/267.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fd71cea2-6d71-4b74-8ed6-ee93a7f42227",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0267.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de rivier van Siam",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Rivier van Siam, van de Zee tot aan de Stad Siam ofte Judea.\nTopografische naam vermeld op deze kaart: Bankok.\nGeheel aan de monding van de rivier bij Bankok is een tweede Nederlandse vlag zichtbaar.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0267",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "pagode / tempel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "1560 x 420 mm",
+        "dcterms:date": "1600-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/928/kaart-van-de-rivier-van-siam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/28/fc/a2/ab/e9/e6/4a/85/ae/be/dc/f7/45/e4/4d/9e/c99ef7e2-ee21-4611-a855-81043afaadfe.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/28/fc/a2/ab/e9/e6/4a/85/ae/be/dc/f7/45/e4/4d/9e/c99ef7e2-ee21-4611-a855-81043afaadfe.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/267.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Rivier van Siam, van de Zee tot aan de Stad Siam ofte Judea."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

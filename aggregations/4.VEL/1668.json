@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1668.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/058ead2e-d644-4bef-b544-ee04c4644cfb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1668.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [left, right, inset map, cartouche] various descriptions and legends, not transcribed",
+        "dc:title": "Kaart van Suriname vertonende de stromen en landstreken",
+        "dc:description": "Titel Leupe: Generale Caart van de Provintie Suriname, rivieren en distrieten, met alle d'ontdekkingen van militaire togten, mitsgaders de groote der gemetene plantagien, gecarteert op de naauwkeurigste waarnemingen.\nAlexander de Lavaux, geboren omstreeks 1704 in Berlijn, kwam in 1729 als vaandrig in dienst van de Soci\u00ebteit naar Suriname, waar hij in de volgende drie jaar onder meer deelnam aan expedities -de gestippelde routes op de kaart\ntegen de Marrons in het gebied tussen de bovenlopen van de Saramacca en de Surinamerivier. Daarnaast was hij werkzaam als landmeter, in welke hoedanigheid hij gebruik kon maken van de bestaande kaarten in het archief van het gouvernement in Paramaribo. Op basis van dit materiaal en uitgebreide eigen opnemingen vervaardigde De Lavaux in de periode 1732-1734 op eigen initiatief deze grote overzichtskaart van de gehele toenmalige kolonie Suriname, die alle eerdere ver overtrof in nauwkeurigheid van de topografische weergave.\nOp de verschillende gedrukte uitgaven van deze kaart tussen 1737 en 1770 komt een kleinschalige overzichtskaart van het deel van de Guyana\u2019s tussen Berbice en Cayenne in steeds aangepaste vorm voor als inzetkaart. De inzetkaart van deze eerste druk is de meest complete versie van deze kaart. Hij toont de expeditieroutes van 1730-1731. Het vierkant (A) geeft \u2018het gecultiveert en wel bekent land van Suriname\u2019 weer, de lijn (B) de grens met Berbice \u2018volgens den Landmeeter Abraham Maas\u2019 (werkzaam in Suriname en Essequibo in de periode 1701-1719). De kaart als geheel is niet alleen inhoudelijk, maar ook druktechnisch van uitzonderlijke kwaliteit, waardoor zelfs in de huidige beschadigde staat de kleinste details nog uitstekend leesbaar zijn. Diverse verklaringen en legenda\u2019s zijn zichtbaar en de kaart bevat een prachtig uitgevoerde vruchtenrand met de wapens der bewindhebbers en dergelijke.\nHet noorden is onder.\nSchaalstokken van 1500 Kettingen a 66 voeten Rhynlands / Agt Surinaamse Mylen = [ca. 1 : 262.000] / [inzetkaart] agt Hollandze Mylen a 20 in een graad = [ca. 1 : 1.585.000].",
+        "dc:type": "drukwerk",
+        "dc:identifier": "VEL1668",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "59 x 89 cm",
+        "dcterms:date": "1737",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9780/kaart-van-suriname-vertonende-de-stromen-en-landstreken"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/49/8b/12/41/74/bc/48/df/a7/5e/b3/c1/9d/13/98/d5/56075ec1-4760-4cf3-aeca-549e1e52914f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/49/8b/12/41/74/bc/48/df/a7/5e/b3/c1/9d/13/98/d5/56075ec1-4760-4cf3-aeca-549e1e52914f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1668.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Generale Caart van de Provintie Suriname, rivieren en distrieten, met alle d'ontdekkingen van militaire togten, mitsgaders de groote der gemetene plantagien, gecarteert op de naauwkeurigste waarnemingen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

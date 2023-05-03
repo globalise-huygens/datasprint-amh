@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1678.58.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Sectie E blad VII"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1678.58"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/c04560fd-abb2-407a-8c92-ac3b948813fa\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1678.58.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1678.58.json#canvas/p1",
+            "type": "Canvas",
+            "height": 12266,
+            "width": 7994,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1678.58.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1678.58.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f4/f7/98/20/50/1c/4a/0f/ac/62/18/f3/29/7a/98/2a/74a1d526-c001-4821-b02e-0c09135b8e4e.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 12266,
+                                "width": 7994,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f4/f7/98/20/50/1c/4a/0f/ac/62/18/f3/29/7a/98/2a/74a1d526-c001-4821-b02e-0c09135b8e4e.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1678.58.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

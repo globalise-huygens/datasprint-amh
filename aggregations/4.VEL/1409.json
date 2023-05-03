@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1409.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3e7c2942-0d3d-4345-9315-3a6b8b26cef4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1409.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de slag bij Camden",
+        "dc:description": "Titel Leupe: A Sketch of the Battle near Camden in South-Caroline, 16 Aug. 1780.\nDeze kaart geeft de slag bij Camden in South-Carolina op 16 augustus 1780 weer. De positie van troepen is terug te vinden in een lanschap dat getekend is met hachures en arcering om het relief aan te duiden. Ten zuiden van hun opstelling vond een aanval plaats waarnaar in een korte aantekening verwezen word.\nSchaal van 2400 V. = 152 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1409",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname",
+            "North en South Carolina",
+            "Verenigde Staten"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.29 - 0.33 El. (38.5 x 43cm.)",
+        "dcterms:date": "1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10338/kaart-van-de-slag-bij-camden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5b/80/99/8e/ca/8f/43/4c/b6/e9/6a/c0/d4/9f/f8/66/4b3c0f33-d3e2-48e9-895b-b4a7b208546d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5b/80/99/8e/ca/8f/43/4c/b6/e9/6a/c0/d4/9f/f8/66/4b3c0f33-d3e2-48e9-895b-b4a7b208546d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1409.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A Sketch of the Battle near Camden in South-Caroline, 16 Aug. 1780."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

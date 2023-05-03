@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1089.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Grondplan van de stadt Palliacatta, met het Casteel Geldria en het visschersdorp De Coepangh."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1089"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/842e635d-3795-4edc-9ca0-239ecdbbbddb\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1089.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1089.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6319,
+            "width": 8914,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1089.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1089.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/2f/e7/41/3d/80/c6/44/66/a7/e9/04/c0/46/a8/db/c5/7ff76509-f482-4a57-8d10-bf3e2150193a.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6319,
+                                "width": 8914,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/2f/e7/41/3d/80/c6/44/66/a7/e9/04/c0/46/a8/db/c5/7ff76509-f482-4a57-8d10-bf3e2150193a.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1089.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

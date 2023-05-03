@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1621.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan van het fort St. Andries, soo als gelegen is in den jare 1756 in Rio Barbice."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1621"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1756"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/6e8580b8-810d-4816-bc9c-e74dcd79e13a\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1621.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1621.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5600,
+            "width": 6939,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1621.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1621.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/61/64/5c/a1/25/67/49/34/8d/f1/a2/d8/53/fe/ef/fb/3f75ef37-17ef-4055-a0f5-ac1b49161ba6.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5600,
+                                "width": 6939,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/61/64/5c/a1/25/67/49/34/8d/f1/a2/d8/53/fe/ef/fb/3f75ef37-17ef-4055-a0f5-ac1b49161ba6.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1621.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

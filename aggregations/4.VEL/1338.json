@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1338.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e782dbc8-e9f8-4da7-94b7-7e2ccf4a3b89",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1338.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "N:o 1 / Gedetaileert project tot kleine forten met en zonder retraite betrekkelijk tot de memorie over de sterktens van Amboina [...]  ter ordre van de weledelgestrenge Heeren Vaillant, Verhuel en Graevestein Commissarissen militair enz. enz.",
+        "dc:title": "Ontwerp voor fortificaties te Amboina",
+        "dc:description": "Titel catalogus Leupe (NA): Gedetaileert project tot kleine forten met en zonder retraite enz. van Amboina.\nGenummerd: No. 7.\nNotities verso: No. 7 / 659 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1338",
+        "dc:subject": [
+            "doorsnede / profiel",
+            "plattegrond / kaart",
+            "vesting",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "57,5 x 82,5 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2366/ontwerp-voor-fortificaties-te-amboina"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/03/24/70/1d/18/6d/41/11/95/1a/79/cc/57/54/5f/2c/966315a9-2a6b-4489-9c22-e1a3911f057a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/03/24/70/1d/18/6d/41/11/95/1a/79/cc/57/54/5f/2c/966315a9-2a6b-4489-9c22-e1a3911f057a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1338.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Gedetailleert project tot kleine forten met en zonder retraite enz. van Amboina."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

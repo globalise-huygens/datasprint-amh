@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/847.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caerte aenwysende de Lantreyesen in 't Lant gedaen enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "847"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1659"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/e5e8d156-1291-4f7e-aec8-d10a401e1952\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/847.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/847.json#canvas/p1",
+            "type": "Canvas",
+            "height": 10160,
+            "width": 9190,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/847.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/847.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/6c/1b/c0/75/21/44/4c/37/b4/24/01/70/d6/4f/68/a3/14abaab6-c788-40ec-ac83-6833208a8a02.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 10160,
+                                "width": 9190,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/6c/1b/c0/75/21/44/4c/37/b4/24/01/70/d6/4f/68/a3/14abaab6-c788-40ec-ac83-6833208a8a02.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/847.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

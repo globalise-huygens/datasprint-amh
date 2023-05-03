@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/962.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/85faa09c-8ba0-41c0-b506-76b59405fc8c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0962.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan en Project tot versterking van het Casteel Colombo",
+        "dc:title": "Plattegrond ter versterking van het kasteel van Colombo",
+        "dc:description": "Titel in catalogus Leupe (NA): Plan als voren hier wordt bedoeld de titel van VEL0961: Plan en Project tot versterking van het Casteel Colombo.\nMet papillote opgeplakt ontwerp voor de vesting van Colombo, zie VEL0962flap.\nNotities verso:[Blauw etiket] nr. 1 Plan ter versterking van het kasteel Colombo.\nLegenda: A-X",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0962",
+        "dc:subject": [
+            "vesting",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "66 x 102 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/751/plattegrond-ter-versterking-van-het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2c/19/cc/4f/56/d2/4d/db/92/a9/8f/e3/b7/38/51/5a/40920e4e-401c-4344-887f-1c03d784a427.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2c/19/cc/4f/56/d2/4d/db/92/a9/8f/e3/b7/38/51/5a/40920e4e-401c-4344-887f-1c03d784a427.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/962.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan en Project tot versterking van het Casteel Colombo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

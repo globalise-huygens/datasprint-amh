@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1177.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c7e64923-0d82-4709-bf6c-657f97da914c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1177.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Het fortje Jaccatra en door de Compagnie aangekochte landen",
+        "dc:description": "Titel catalogus Leupe (NA): Caert van 's Comp.s gekogte landen agter Jaccatra.\nNotities verso: No. 16. Caart van Comp: gekogte landen agter Jaccatra / No. 9 [dit is doorgestreept] / 604 [met vette cijfers gestempeld op een etiketje] / 80 [geschreven op een klein rond etiketje].\nZichtbaar rechtsonder is het kleine fortje Jaccatra, ofwel Jacketraa.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1177",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51 x 70 cm",
+        "dcterms:date": "1615-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6993/het-fortje-jaccatra-en-door-de-compagnie-aangekochte-landen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/00/91/a7/6f/0e/a5/47/66/b6/fe/37/cc/c7/60/d1/d5/01f56c4e-c949-433c-a66e-60e7d2b5879b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/00/91/a7/6f/0e/a5/47/66/b6/fe/37/cc/c7/60/d1/d5/01f56c4e-c949-433c-a66e-60e7d2b5879b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1177.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caert van 's Comp. gekogte landen agter Jaccatra."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1966.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8c41b77f-a2b6-46f9-a82f-12ad870cf993",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1966.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Java",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie Java, strekkende tot aan de Rits van Norandibo (links in 't opvaren).\nDeze kaart toont de plantage Java, eigendom van de A.B. Lemmers (A-F), ten westen van de Motkreek.\nA.B. Lemmers heeft de meting aangevraagd na de grond op 26 Januari 1732 te hebben ontvangen.\nDe plantage blijkt 453 Surinaamse akkers (194,8 hectare) te meten inclusief het een stuk grond van 117 Surinaamse akkers (50,3 hectare) dat eigenlijk aan de Soci\u00ebteit van Suriname behoort.\nDe kaart betreft een kopie uit 1748 van een oorspronkelijk in 1633 gemaakte kaart, waarin bevestigd wordt dat de 117 Surinaamse akkers van de Soci\u00ebteit van Suriname definitief aan de plantage Java vergeven zijn.\nEen blaka-beri bos strekt over het westzijde van de plantage.\nDe kaart is ondertekend op 27 Januari 1733 en erkend op 16 Maart 1733 te Paramaribo.\nSchaal van 50 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 100 strepen.\nOorsprong: OBP Suriname 1749 [fols.] 140-141.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1966",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.41 - 0.32 El.",
+        "dcterms:date": "1748",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10176/kaart-van-de-plantage-java"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5c/62/39/b9/84/ea/47/bd/be/2d/7d/ed/3d/91/7f/6c/7cbbc585-4b18-4012-a2cb-54559ad40742.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5c/62/39/b9/84/ea/47/bd/be/2d/7d/ed/3d/91/7f/6c/7cbbc585-4b18-4012-a2cb-54559ad40742.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1966.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagie Java, strekkende tot aan de Rits van Norandibo (links in 't opvaren)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1850.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ba8e8c5a-0186-41d3-8d94-e4c56216e1b4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1850.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantages ten noorden van de Commewijne rivier",
+        "dc:description": "Titel Leupe: Generaale kaart van de Noordzyde der Beneden rivier Commewyne, van Braamspunt af tot de laatste plantagie in de Warappe Creque enz, waarin met rood aangewezen zyn de gronden die tot Plantagien zouden kunnen worden uitgegeven, zoo men liet graven de Creeq a, b, c, d..\nDeze kaart toont alle kavels en hun achterlanden ten noorden van de Commewijne rivier van de westelijke (links op de kaart) kust bij Bramspunt tot  de Livonia plantage ten noordoosten in de Warapa Kreek.\nIn de kavels staan eigenamen vernoemd, de achterlanden die aan deze reeds bestaande kavels kunnen worden toegevoegd bevatten de omvang in Surinaamse akkers (1 akker is gelijk aan 0,43 hectare) en de rode begrensing toont kavels die ontgonnen kunnen worden voor verkoop.\nIn de uitvoerige verklaringen wordt melding gemaakt van problemen met de waterafvoer, die bij de geplande uitgifte van de rood omrande nieuwe \u2018agterlanden\u2019 1 t/m 43 voorkomen zouden moeten worden door de geprojecteerde kanalen aangeduid met de letters A t/m G.\nDe geel gemarkeerde, deels al uitgegeven percelen konden worden toegevoegd aan de bestaande plantages (groen) langs de rivier en de kreken, terwijl de gestippeld getekende vakken in een later stadium verdeeld zouden kunnen worden tussen de nieuwe ondernemingen landinwaarts en de vergrote rivierplantages.\nHet grootste deel van Helleday\u2019s project, het grote rode blok met de nummers 1 t/m 37, is overigens nooit uitgevoerd.\nVerder plannen ter uitbreiding worden weergegeven op VEL 1849 en 1851 t/m 1854.\nHet fort Nieuw Amsterdam en de twee redoubtes zijn ter referentie weergegeven.\nSchaal van 1400 Kettingen \u00e0 66 Rijnlandse voeten = 324 strepen.\nEen kopie van de kaart is beschikbaar: VEL 1850A.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1850",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.28 - 0.47 El.",
+        "dcterms:date": "1770",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1981/kaart-van-de-plantages-ten-noorden-van-de-commewijne-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b0/2f/47/41/7d/9d/4c/82/b8/a6/7e/7d/b2/c9/87/83/874fa40b-667c-4cc8-b2fc-dfde860a67b2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b0/2f/47/41/7d/9d/4c/82/b8/a6/7e/7d/b2/c9/87/83/874fa40b-667c-4cc8-b2fc-dfde860a67b2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1850.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

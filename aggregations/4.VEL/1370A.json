@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1370A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d6fd4635-e965-4915-a23a-2250762c6235",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1370a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "op 't eylandt P:o Ay m Banda",
+        "dc:title": "Plattegrond in vogelvlucht van het fort Revenge",
+        "dc:description": "Titel catalogus Leupe (NA): Afteekening van 't Casteel Revenge op Pouloe Ay in Banda.\nBijzonderheden: rechtsboven genummerd 399, waarschijnlijk het folionummer in de band.\nDeze kaart hoort bij het rapport van Arnold de Vlaming van Oudtshoorn.\nNotities verso: 398 [folionummer in de band ?] / 664 m.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1370A",
+        "dc:subject": [
+            "vesting",
+            "poort",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "32,5 x 40,5 cm",
+        "dcterms:date": "ca. 1651",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6964/plattegrond-in-vogelvlucht-van-het-fort-revenge"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/19/25/ff/b3/ff/c4/43/37/97/29/4e/14/63/65/c6/e8/7ee24bc5-1bc6-4c7d-ab9b-b5f6dc292b60.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/19/25/ff/b3/ff/c4/43/37/97/29/4e/14/63/65/c6/e8/7ee24bc5-1bc6-4c7d-ab9b-b5f6dc292b60.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1370A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteekening van 't Casteel Revenge op Pouloe Ay in Banda, 1651\n                              "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

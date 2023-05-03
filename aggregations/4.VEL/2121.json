@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2121.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/51ba5271-62f1-4a35-9161-5f82707e7831",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2121.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het Cordon van Defensie aan de Cassewinikakreek",
+        "dc:description": "Titel Leupe: Kaart van de Posten in de Cassewinica Creeq gelegen.\nDeze kaart is onderdeel van de voorbereidingen van het bijna 100 kilometer lange Cordon van Defensie of Cordonpad dat tussen 1774 en 1778 werd aangelegd ter bescherming van de oostelijke plantagegebieden en het aangrenzende kustgebied tegen de aanvankelijk zo succesvolle Marron-troepen onder leiding van Boni. De eerste ontwerpen en opmetingen kwamen al in 1772 tot stand, maar op grotere schaal begonnen de voorbereidende werkzaamheden in het jaar daarop, met daarin een hoofdrol voor de militair ingenieurs Johan Christoph Heneman en Johann Friedrich Ferdinand Wollant. Hier is het Cordon bij de Cassewinikakreek afgebeeld met referenties boven een lijn die verwijzen naar een index rechts op de kaart. Daarnaast is ook een indruk gegeven van de bossen, kreken en rivieren.\nSchaal van 400 Kettingen = 213 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2121",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.44 - 0.56 El.",
+        "dcterms:date": "ca. 1776",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9965/kaart-van-het-cordon-van-defensie-aan-de-cassewinikakreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/17/a7/47/4b/35/81/40/85/b3/f0/ce/d0/87/cb/59/48/4d967dda-029a-473d-a188-b8d2c6c4291c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/17/a7/47/4b/35/81/40/85/b3/f0/ce/d0/87/cb/59/48/4d967dda-029a-473d-a188-b8d2c6c4291c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2121.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Posten in de Cassewinica Creeq gelegen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/208.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/729c6604-fdc9-48e2-b91f-eca37b729581",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0208.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Africae pars",
+        "dc:title": "Kaart van Rio de St. Juan Damaba tot Cerimgapa en een deel van Madagascar",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Oostkust van Afrika, tusschen Rio de St. Juan Damaba en Cerimgapa, en een gedeelte van Madagaskar.\nRechtsboven genummerd: 8.c.\nNotities verso: 11 [in potlood in rechterbovenhoek] / 208 [in rood potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0208",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7990/kaart-van-rio-de-st.-juan-damaba-tot-cerimgapa-en-een-deel-van"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/34/05/3f/04/b7/7d/4a/de/be/5a/a9/3e/43/df/92/f5/2ecedc03-a810-42d9-8269-018d0edfef81.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/34/05/3f/04/b7/7d/4a/de/be/5a/a9/3e/43/df/92/f5/2ecedc03-a810-42d9-8269-018d0edfef81.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/208.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Ooskust van Afrika, tusschen Rio de St. Juoan Damaha en Cerimgapa, en een gedeelte van Madagaskar."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1295.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Land-Kaart van Celebes West-kust, behelzende meerendeels de rykjes van Mandhar, mitsgaders het ryk van Aganiondjo of Tanette. De vorstendommen van Saqitto, Mario, meteen gedeelte van Soping, Sideenring, Toradja, beneffens het Westelyke Zoete Meir."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1295"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1752"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/7ff945d4-8211-49b1-9694-3caede900edb\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1295.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1295.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6159,
+            "width": 8653,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1295.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1295.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ab/e0/26/be/69/71/4e/9b/95/b9/b5/e3/66/82/65/50/759ee2a4-eacc-42be-b035-fc934a4ff15a.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6159,
+                                "width": 8653,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ab/e0/26/be/69/71/4e/9b/95/b9/b5/e3/66/82/65/50/759ee2a4-eacc-42be-b035-fc934a4ff15a.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1295.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

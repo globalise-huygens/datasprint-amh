@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/314.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5aca79ac-4115-4af5-bff2-097cd86fa32d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0314.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Oost-Afrika en Azi\u00eb",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, hiermee wordt bedoeld de titel van VEL0313: Kaart van de Indische Zee, van de Kaap de Goede Hoop tot het eiland Java om de Noord, en een gedeelte van Nieuw-Holland om de Oost.\nDe kaart het rechtsboven en rechtsonder rondingen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0314",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "perkament",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "80,5 x 96,5 cm",
+        "dcterms:date": "1743",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9180/kaart-van-oost-afrika-en-azi%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/60/cc/ea/09/40/4f/4b/9f/a8/d2/66/99/d5/32/44/b3/20fa96fa-294e-4da5-bec8-2899ea95875f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/60/cc/ea/09/40/4f/4b/9f/a8/d2/66/99/d5/32/44/b3/20fa96fa-294e-4da5-bec8-2899ea95875f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/314.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Indische Zee, van de Kaap de Goede Hoop tot het Eiland Java om de Noord, en een gedeelte van Nieuw-Holland om de Oost."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

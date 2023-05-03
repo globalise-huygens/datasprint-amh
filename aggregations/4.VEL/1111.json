@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1111.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6f49683f-f0ca-418d-92f6-af51c97efeee",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1111.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Malakkas Grondteijckeningh 1656 en 1663",
+        "dc:title": "Kaartje van Malakka",
+        "dc:description": "Titel catalogus Leupe (NA): Malakkas Grondteijckeningh 1656 en 1663.\nDit kaartje is een gewijzigde reproductie van VEL1110.\nDatering: 1858, naar het origineel uit 1663.\nNotities verso: Behoort by de stukken betrekkelyk de verovering van Malakka 1641 (Zie Hist. Gen. te Utrecht, Berigten 2 serie, 2 dl, 1 st) [in potlood].",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1111",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "litho",
+        "dcterms:extent": "34,5 x 43 cm",
+        "dcterms:date": "1858",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3871/kaartje-van-malakka"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/94/d1/ec/4d/a1/41/43/6f/af/9b/d9/0a/14/68/bb/02/9ee834a4-ccc0-4b2b-91bc-20db0f7f1da0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/94/d1/ec/4d/a1/41/43/6f/af/9b/d9/0a/14/68/bb/02/9ee834a4-ccc0-4b2b-91bc-20db0f7f1da0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1111.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                          Malakkas Grondtteyckeningh. 1656 en 1663."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

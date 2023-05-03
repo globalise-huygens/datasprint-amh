@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/252.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Kust van Coromandel, tusschen Manapar en Nagapatnam, de Westkust van Ceilon, van Colombo tot Jaffanapatnam."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "252"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/17bca31c-daa8-464c-aee1-5c53de74e905\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/252.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/252.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6336,
+            "width": 8940,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/252.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/252.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/6c/6c/5a/0b/7e/03/4d/4a/b0/0b/bf/87/23/3a/b6/d0/262fdebd-1396-4471-a5d1-ae67830304c4.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6336,
+                                "width": 8940,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/6c/6c/5a/0b/7e/03/4d/4a/b0/0b/bf/87/23/3a/b6/d0/262fdebd-1396-4471-a5d1-ae67830304c4.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/252.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

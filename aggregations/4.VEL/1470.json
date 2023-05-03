@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1470.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7c0f8b26-d96b-4868-8f9a-01695a1600b1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1470.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een redoute aan de Porto Marie Baai",
+        "dc:description": "Titel Leupe: Project plan voor eene Lage battery voor de Piscaderis en St. Michielbay, voor Porto Marie.\nDeze schets is onderdeel van een serie (VEL1462-VEL1472) met plannen tot versterking van de baaien Piscaderis, Sint Michiel en Porto Marie met een lage batterij en een fort. Het hier afgebeelde ontwerp voor een redoute bij de monding van de Porto Marie baai is aangepast aan het landschap met drie bastions richting het land en een lange muur die de kust volgt. Een profiel geeft de gewenste dikte van de muren weer.\nSchaal van 40 roeden Rijnlantsch = 5 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1470",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.24 - 0.38 El.",
+        "dcterms:date": "1746-1747",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1665/ontwerp-voor-een-redoute-aan-de-porto-marie-baai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a6/19/63/29/49/6b/4d/e0/9c/ea/45/72/c0/c9/5e/0e/3b0a594a-1d24-4d69-b9ac-bee4699002bf.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a6/19/63/29/49/6b/4d/e0/9c/ea/45/72/c0/c9/5e/0e/3b0a594a-1d24-4d69-b9ac-bee4699002bf.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1470.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Project plan voor eene Lage battery voor de Piscaderis en St. Michielbay, voor Porto Marie."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1595.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caart van de beplanting en bepooting der E. Comps.'s. Zuyker Plantagie de Dageraad, gelegen in de Benedeb devisie van Rio de Berbice\n                            "
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1595"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1772"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/e1939e02-5afe-420e-920e-40478cf1c16d\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1595.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1595.json#canvas/p1",
+            "type": "Canvas",
+            "height": 10616,
+            "width": 14855,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1595.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1595.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/3d/8f/b8/02/1b/16/4c/0b/a0/f8/16/35/3d/df/df/63/8bc7e740-f482-4e16-8d86-b13fb5fabe81.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 10616,
+                                "width": 14855,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/3d/8f/b8/02/1b/16/4c/0b/a0/f8/16/35/3d/df/df/63/8bc7e740-f482-4e16-8d86-b13fb5fabe81.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1595.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

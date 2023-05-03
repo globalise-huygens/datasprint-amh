@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/158.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Streckingh ende verthoonynch van de Kust van Afryka, beghinnende van de 29 - 10 ende eyndycht op 13 - 10 waarin mede vertoont word de klippen ende vuyle die langs deselve Kust liggen, bevaeren met het yacht Mary, int. Jaer 1658."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "158"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1658"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f112d7f9-2b62-40cc-8a19-1f1d8ea437f9\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/158.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/158.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6985,
+            "width": 9201,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/158.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/158.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/05/74/d4/94/39/08/42/8f/b6/b6/d2/c6/a3/fe/12/99/9e2277aa-b971-4d5c-b668-ed0eb1c77f1a.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6985,
+                                "width": 9201,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/05/74/d4/94/39/08/42/8f/b6/b6/d2/c6/a3/fe/12/99/9e2277aa-b971-4d5c-b668-ed0eb1c77f1a.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/158.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1923.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9b3a8b8d-a0c5-44b5-a8c9-b518a39bab70",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1923.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van stuk grond van Francois de Vries",
+        "dc:description": "Titel Leupe: Kaart van eenige landen, gelegen tusschen Perica en Cottica.\nDeze kaart toont een stuk land (aangeduid met de letters A-F) van de commandeur 'van de fortressen en militie deser colonie' Francois de Vries dat ten noorden ligt van de Perica-rivier en ten zuiden van de Cottica-rivier.\nDe meting is aangevraagd door de commandeur Jan Cornelis Francois de Vries de Rayneval zelf.\nDe omvang van de grond van de commandeur blijkt 358 Surinaamse akkers (153,94 hectare) te meten.\nTen noorden (rechts op de kaart) ligt de grond van de erfgenamen van de heer Rayneval, ten westen (boven op de kaart), ligt grond voor de kerk en verschillende woonhuizen, ten oosten (onder op de kaart) ligt de grond van de weduwe van Saffo,alsook de plantage van de heer Jan Cleij.\nDe kaart is door de landmeter ondertekend op 24 Juni 1731 en officieel erkend op 7 Juli 1731 te Paramaribo.\nSchaal van 60 Kettingen = 138 strepen.\nOorsprong: [OBP Suriname] 1732, [fols.] 76-77.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1923",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.41 -0.325 El.",
+        "dcterms:date": "1731",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10030/kaart-van-stuk-grond-van-francois-de-vries"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ad/5f/76/18/c9/db/4b/79/9b/9f/88/d9/0b/15/45/c5/9f026248-37e9-488b-88fd-570c5a6e7ef9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ad/5f/76/18/c9/db/4b/79/9b/9f/88/d9/0b/15/45/c5/9f026248-37e9-488b-88fd-570c5a6e7ef9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1923.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen, gelegen tusschen Perica en Cottica."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

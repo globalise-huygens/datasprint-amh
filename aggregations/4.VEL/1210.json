@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1210.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4eba6f3e-42fd-4902-9a5e-a2a81ba61103",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1210.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van het fortje Ansjol met de daarby behoorende Profils",
+        "dc:title": "Plattegrond van het fortje Ansjol",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van het Fortje Ansjol met de daarby behoorende profils, gemeten in February 1788.\nNotities verso: No. 24 Plan van het Fortje Ansjol. Register 2, Deel 1, Folio 8, Portefeuille .. [geschreven op een blauw etiket] / 621 [met vette cijfers gestempeld op een etiketje] / No. 66. [vrij groot, op een etiket] / 1788 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1210",
+        "dc:subject": [
+            "vesting",
+            "doorsnede / profiel",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51,5 x 71 cm",
+        "dcterms:date": "February 1788",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5388/plattegrond-van-het-fortje-ansjol"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/13/04/1d/6a/4e/f0/4c/a7/b0/a6/4d/a2/47/a6/7a/b1/d9212bbb-0772-443f-a05f-72b6bbb423dc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/13/04/1d/6a/4e/f0/4c/a7/b0/a6/4d/a2/47/a6/7a/b1/d9212bbb-0772-443f-a05f-72b6bbb423dc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1210.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het Fortjie Ansjol, met de daarby behoorende profils, gemeten in February 1788."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

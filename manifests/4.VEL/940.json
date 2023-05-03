@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/940.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Aanwysinge van de Eliphants Craal, gelegen in het dorp Welancoelaan, onder de Kerk Ilpecarwe."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "940"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1740"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f7105b34-a4bc-4608-afa6-1a31c57e039c\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/940.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/940.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6446,
+            "width": 4550,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/940.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/940.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/63/7c/4a/50/bd/7f/46/16/90/50/fc/95/38/2a/ec/ca/3c3ac80a-2e95-45a2-91d3-92757f50aa89.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6446,
+                                "width": 4550,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/63/7c/4a/50/bd/7f/46/16/90/50/fc/95/38/2a/ec/ca/3c3ac80a-2e95-45a2-91d3-92757f50aa89.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/940.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

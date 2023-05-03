@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1632A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6296e51d-2397-4433-8472-ad49a08dd77e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1632a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "continuation of the title (above centre):\nNeevens een daar by afgaande bereekende Notitie der daar toe gerequireerd werdende metsel materriaalen. Afgevaardigd met Cap:tn Ramelo den 26: september 1771.",
+        "dc:title": "Plan voor een nieuwe versterking bij Nieuw-Amsterdam",
+        "dc:description": "Titel Leupe: Project voor de Berbice.\nDe militair ingenieur Jean-Guillaume d\u2019Arnaud werd in 1770 werd uitgezonden als opzichter over de voorgenomen herbouw van Fort Nassau en Nieuw-Amsterdam. Hij vervaardigde in 1771, overeenkomstig de definitieve keuze van de directie voor de oude locatie, een ontwerp in meerdere versies voor een nieuwe versterking op de plaats van het in 1763 verwoeste fortje.\nVan de vier projecttekeningen die daarvan bewaard zijn gebleven, zijn er twee gesigneerd waaronder deze.\nHier is de geprojecteerde indeling volgens d\u2019Arnauds oorspronkelijke opvatting te zien, met een indeling van de binnenruimtes en een klein profil rechts, maar zonder invulling van het binnenterrein.\nOp de kaart VEL1632B is vermoedelijk de begane grond te zien.\nHet ontwerp met een vierkant grondplan en twee diagonaal tegenover elkaar geplaatst hoekbastions greep terug op een model dat in de Europese en koloniale vestingbouw toen al minstens anderhalve eeuw gangbaar was voor kleine hulpforten en veldschansen, maar minder geschikt was voor een versterking van de afmetingen zoals d\u2019Arnaud had voorzien; met zijn zijden van meer dan 80 meter zou het nieuwe Fort Nassau in oppervlakte vier maal zo groot zijn geworden als het oude.\nDit plan kreeg niet de goedkeuring van de directeuren van de Soci\u00ebteit.\nHet noorden is linksonder.\nSchaalstokken van 10 Roeden Ryn:ds = [ca. 1 : 515] / [profielen] 12 [Rijnlandse voeten] = [ca. 1 : 1.160] .",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1632A",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "33 x 42 cm.",
+        "dcterms:date": "1771",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1931/plan-voor-een-nieuwe-versterking-bij-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a7/c9/f4/22/cd/6c/4c/f7/94/30/40/c0/71/ff/2b/92/aa83b5d9-06e4-4324-91b1-a3b4e531d7d8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a7/c9/f4/22/cd/6c/4c/f7/94/30/40/c0/71/ff/2b/92/aa83b5d9-06e4-4324-91b1-a3b4e531d7d8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1632A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Manuscript"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

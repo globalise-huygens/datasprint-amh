@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/742.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/250bdd8e-55c4-4964-b533-7fc57f14678a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_742.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "GVINEA",
+        "dc:title": "Kaart van de Goudkust",
+        "dc:description": "Kaart van de Goudkust.\nTitel catalogus Leupe (NA): Guina prostrant Amstelaedami, apud:.\nGVINEA.\nRechtsonder: No: 19..\nNotities verso: Kaart van de kusten van Guinea mitsgaders Plans van diverse forten / 443 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0742",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "schip / vaartuig",
+            "fauna",
+            "kompas / windroos",
+            "Persoon"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "55,5 x 65,5 cm",
+        "dcterms:date": "1650 - 1715",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2286/kaart-van-de-goudkust"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e3/23/11/b2/00/d2/43/0a/a3/49/0b/46/71/8f/49/01/3404782c-7c54-4402-a99c-4d86224a2685.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e3/23/11/b2/00/d2/43/0a/a3/49/0b/46/71/8f/49/01/3404782c-7c54-4402-a99c-4d86224a2685.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/742.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                            Guinea. Prostant Amstelaedami, apud: L."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/814.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cfbff269-f877-465b-858c-0a77644af0a7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0814.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond en profiel van fort de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van fort de Goede Hoop, met profil.\nNotities verso: Afteekening van het fort aan de Kaap 1653, behoort in brieven en papieren 1653 van de Kaap I, nr. 498c en nr. 244.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0814",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "320 x 410 mm",
+        "dcterms:date": "ca. 1653",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/365/plattegrond-en-profiel-van-fort-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/97/e7/79/6a/33/ba/4d/ab/ba/f4/ca/78/37/ca/cd/ca/2a55a9dc-0ce7-48f2-8d35-4b27fc866f0a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/97/e7/79/6a/33/ba/4d/ab/ba/f4/ca/78/37/ca/cd/ca/2a55a9dc-0ce7-48f2-8d35-4b27fc866f0a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/814.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort Goede Hoop, met profil."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

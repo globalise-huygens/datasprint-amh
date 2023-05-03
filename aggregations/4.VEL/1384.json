@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1384.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a960dd26-84e2-4a51-8cfa-ee6adb17287d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1384.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Carte Nouvelle de l'Amerique Angloise",
+        "dc:title": "Kaart van Noord Amerika",
+        "dc:description": "Kaart van Noord Amerika.\nTitel Catalogus Leupe (NA): Carte Nouvelle de l'Amerique Angloise, contenant tous ce que les Anglois poss\u00e8dent sur le continent de l'Amerique Septentrionales etc.\nCarte Nouvelle de l'Amerique Angloise.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1384",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde gravure",
+        "dcterms:extent": "60 x 49 cm",
+        "dcterms:date": "ca. 1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7175/kaart-van-noord-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a5/4d/e8/ed/7f/dd/40/31/a7/a1/a5/cd/17/ad/3a/b5/c47b465e-936a-4910-9917-95fb4e854042.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a5/4d/e8/ed/7f/dd/40/31/a7/a1/a5/cd/17/ad/3a/b5/c47b465e-936a-4910-9917-95fb4e854042.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1384.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte Nouvelle de L'Amerique Angloise, contenant tous ce que les Anglois possedent sur le continent de l'Amerique Septentrionales etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

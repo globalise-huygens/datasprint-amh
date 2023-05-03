@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/213.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van een gedeelte van de Kust bij Mozambique ter hoogte van 18\u00ba Z. Br. Met de rivier Quelimana, waar het schip Baarsande in het jaar 1711 is verzeilt."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "213"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/1c36da6a-25b0-41df-aa0d-86c8ff4e3da5\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/213.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/213.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5772,
+            "width": 8291,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/213.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/213.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/d8/a1/f9/ac/7d/b3/48/8a/87/c5/63/22/28/e2/46/18/65e9daaf-d5e1-4646-abd7-a2cc41c12f5a.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5772,
+                                "width": 8291,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/d8/a1/f9/ac/7d/b3/48/8a/87/c5/63/22/28/e2/46/18/65e9daaf-d5e1-4646-abd7-a2cc41c12f5a.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/213.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1353.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/979a3379-97bc-4d94-9a91-03af58103ad8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1353.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caarte van Looki",
+        "dc:title": "Het fort te Loki en troepen van de Compagnie landinwaarts",
+        "dc:description": "Titel catalogus Leupe (NA): Afbeelding als voren, met de reede waarop de schepen met de bloedvlag in top enz., bedoeld wordt de titel van VEL1152: Afbeelding van de negory Locki, 's Comp:s vastigheid, des vyands weren en optogt onzer troepen enz..\nBehoort bij het rapport van Arnold de Vlamingh van Outshoorn.\nDe achterkant is gerestaureerd met rijstpapier waardoor de notities verso moeilijk zijn te lezen.\nCf. \u00d6sterreichisches Nationalbibliothek, inv.nr. Van der Hem 40:15.\nNotities verso: Caerte van Loocki / No. 11 [waarschijnlijk het volgnummer van het stuk in de band OBP] / behoort in PPP2 [in potlood, dit nummer is nu VOC 1193].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1353",
+        "dc:subject": [
+            "veldslag / oorlog (strijd) / inname",
+            "overzicht / aanzicht",
+            "vesting",
+            "flora",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "99,5 x 126 cm",
+        "dcterms:date": "ca. 1652",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5306/het-fort-te-loki-en-troepen-van-de-compagnie-landinwaarts"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4f/cf/69/0c/b1/9c/44/3e/a3/8f/0a/55/e0/a2/61/ea/7fc3de44-8cb0-4467-9c99-a924359da6cc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4f/cf/69/0c/b1/9c/44/3e/a3/8f/0a/55/e0/a2/61/ea/7fc3de44-8cb0-4467-9c99-a924359da6cc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1353.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van de negory Locki, met de reede, waarop de schepen met de bloedvlagt in top enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

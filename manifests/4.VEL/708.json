@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/708.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van het Eiland Antonie Vaaz, het recif en de Stad Pernambuc enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "708"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/a2c3fd6a-3d23-41a2-a9f8-7d34a89bd3f2\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/708.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/708.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7170,
+            "width": 9470,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/708.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/708.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/72/2c/4d/b7/0c/af/44/7d/a4/d1/51/58/1f/a0/6f/9d/48ffa4fd-6796-4927-85dc-e32acae62ef1.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7170,
+                                "width": 9470,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/72/2c/4d/b7/0c/af/44/7d/a4/d1/51/58/1f/a0/6f/9d/48ffa4fd-6796-4927-85dc-e32acae62ef1.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/708.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

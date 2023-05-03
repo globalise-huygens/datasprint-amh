@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/433.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Zuidkust van Java, van 't West Eynde off de Eerste hoeck van Java tot de hoeck van de Wynkoopsbergen."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "433"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1700/1800"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/161c5197-d627-4cfe-b509-19b8f7c5e756\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/433.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/433.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8766,
+            "width": 18275,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/433.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/433.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/b0/11/4a/ca/a8/cb/49/c9/97/5c/e9/3d/1e/e1/96/de/499af6cb-6897-4417-b207-f572584a7c1b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8766,
+                                "width": 18275,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/b0/11/4a/ca/a8/cb/49/c9/97/5c/e9/3d/1e/e1/96/de/499af6cb-6897-4417-b207-f572584a7c1b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/433.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

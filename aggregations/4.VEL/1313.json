@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1313.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/260100b3-8699-4ce9-a9ab-4c9058016d65",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1313.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t Casteel Orange op 't Eylandt Ternate in de Molucos",
+        "dc:title": "Plattegrond van het fort Orangie op Ternaten",
+        "dc:description": "Titel catalogus Leupe (NA): 't Casteel Orange op 't Eylandt Ternate in de Molucos.\nAantekening catalogus Leupe: Behoort bij het rapport van Arnold de Vlamingh van Outshoorn.\nDe randen zijn rondom beplakt.\nNotities verso: 122 [moet het folionummer in de band OBP zijn] / 668 u.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1313",
+        "dc:subject": [
+            "gebouw",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "rede / haven / pier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "32,5 x 41,5 cm",
+        "dcterms:date": "ca. 1651",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7067/plattegrond-van-het-fort-orangie-op-ternaten"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c2/c1/56/7d/91/8b/4e/93/84/1d/b3/68/bf/04/15/83/c6e5c7a0-7d7c-4f5f-951e-9efda31cacd0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c2/c1/56/7d/91/8b/4e/93/84/1d/b3/68/bf/04/15/83/c6e5c7a0-7d7c-4f5f-951e-9efda31cacd0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1313.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "'t Casteel Orange op 't Eylandt Ternate in de Molucos."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

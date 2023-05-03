@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/851.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Landtreys, van de Cabo de Bon Esperance Noordwaerts tot aan de Buffelsrivier."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "851"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/1e10450e-be9c-4ac3-be3e-f22e4dff6950\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/851.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/851.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7044,
+            "width": 17288,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/851.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/851.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/6c/e0/dc/1f/32/70/4a/d3/bc/3f/ee/0f/86/d5/68/9e/4b7a5c0c-d4a5-4499-92f4-86f9d767b0df.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7044,
+                                "width": 17288,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/6c/e0/dc/1f/32/70/4a/d3/bc/3f/ee/0f/86/d5/68/9e/4b7a5c0c-d4a5-4499-92f4-86f9d767b0df.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/851.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

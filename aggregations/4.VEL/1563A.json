@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1563A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4558d4f7-783a-48a7-9ea6-fede1e7ec007",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1563a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(A key to the letters A to M, below) : \nA het Magazyn van Vivres.\nB. het Raad huijs.\nC. Secretarij.\nD. commandeurs woning.\nE. Commandants woning.\nF.G. Wagt en Casernes.\nH. Hospitaal.\nI. Combuys voor Militie.\nK. Kruydmagazijn.\nL. Landing plaats.\nM. Kostgronden voor de Train & Militie.",
+        "dc:title": "Kaart van het eiland Borselen",
+        "dc:description": "Titel Leupe: Plan van het eiland Borselen.\nDeze ongesigneerde kaart kan op grond van de algemene stijl, de kompaswijzer en andere kenmerken met zekerheid worden toegeschreven aan de ingenieur Carl Christiaan Kanne en werd klaarblijkelijk vervaardigd in het kader van diens uitzending als inspecteur der gebouwen in 1779.\nHet plan geeft Kannes eigen projectvoorstel van 1779 weer, dat , veel eenvoudiger en in elk geval goedkoper was dan het ontwerp dat eerder in opdracht van commandeur Van Schuylenburgh was getekend.\nHet noordelijke kwart van het eiland gereserveerd als militair terrein, met op de punt een batterij.\nEen profiel wordt gegeven op VEL1563B.\nZie ook VEL1562.\nHet noorden is linksonder.\nSchaalstok van 50 Roeden Rynlands = [ca. 1 : 2.080].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1563A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.26 - 0.37 El. (233 x 42,5 cm.)",
+        "dcterms:date": "1773-1784",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7798/kaart-van-het-eiland-borselen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ce/8e/6f/18/44/b7/4c/c0/a0/d7/f3/02/c7/36/df/c5/d5f8b530-1116-4eac-a862-8d52a12e90bd.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ce/8e/6f/18/44/b7/4c/c0/a0/d7/f3/02/c7/36/df/c5/d5f8b530-1116-4eac-a862-8d52a12e90bd.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1563A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

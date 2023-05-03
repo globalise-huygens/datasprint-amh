@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1228.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Schets-project van een gesloten blok casernes, tot logeering van een regement van duysent man Infanterie, met hunne officieren."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1228"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1700/1800"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f2eeae7a-12f1-403a-96b9-fee6a8173f5f\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1228.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1228.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4954,
+            "width": 6488,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1228.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1228.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/e0/e1/62/40/14/91/4e/6a/a8/96/f9/bd/68/d0/c5/d7/76ecb5c9-5679-4fdb-8996-2aae74ab1057.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4954,
+                                "width": 6488,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/e0/e1/62/40/14/91/4e/6a/a8/96/f9/bd/68/d0/c5/d7/76ecb5c9-5679-4fdb-8996-2aae74ab1057.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1228.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

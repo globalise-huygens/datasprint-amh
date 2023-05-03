@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/189.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/21b4263c-ab6f-4744-babf-6f7f7708a41f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0189.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Dasse Eylant",
+        "dc:title": "Kaart van Dasseneiland",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaartje van het Dassen Eyland.\nScheurtjes en vochtplekken met name in de onderrand.\nNotities verso: Kaarten en plans van de Kaap de Goede Hoop uit Brieven en papieren van de Kaap. Deel II 1654 / 208 [folionummer in de band ?] / 189 [in rood potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0189",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "32 x 39 cm",
+        "dcterms:date": "ca. 1654",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5604/kaart-van-dasseneiland"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ae/69/bb/de/d2/24/4f/8b/a0/98/51/61/cd/f7/e6/f2/55aa6574-8093-428b-9797-e9433c5e4b3c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ae/69/bb/de/d2/24/4f/8b/a0/98/51/61/cd/f7/e6/f2/55aa6574-8093-428b-9797-e9433c5e4b3c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/189.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaartje van het Dassen Eylant."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

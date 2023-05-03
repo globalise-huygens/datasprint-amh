@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1515.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f82c89bb-1278-4bcc-b96c-995a6696a3fb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1515.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Acte van Meetinge\nIk ondergeschreevene by den hove geadmitteert, en den eed afgelegt hebbende, om in plaats van den geswoore landmeter deser colonie J. F. de Saffon, de landen te meeten, verklaare bij dese dat ik de plantagie van de heer Bakker gemeeten hebbe, groot zijnde aghthondertvijf en seventig akkers en gelegen aan de oost wall van Rio Essequebo, hebbende de plantagie van mevrouw Rousselet aan de bove kant en de plantagie van de heerSpoors aan de benede kant, en dat de fassade van seventig kettingen, noord ten oosten, en zuijd ten westen loopt, en de diepte van hondert en vijftig kettingen oost ten zuijden loopt, hebbende ten hehorlijke plaatse, en volgens aanschrijvingen van den Edele Aghtbare Hove de limiet paalen daarvan geplant. Actum Rio Demerary den 15 februari 1768. P.L. de Saffon\n\nActe van Meetinge\nIk ondergeschreeve by den Edele achtbare hove geadmitteert en den eed afgelegt hebbende om in plaats van den geswoore landmeter deser colonie J. F. de Saffon, de landen te meeten, verklaare bij dese dat ik de plantagie van de heer Vanderheyden gemeeten hebbe groot zijnde duisent akkers en gelegen benede de rivier van rio essequebo langs de kust aan de nord zijde van oenekreek, en dat de fassade van tachtentig kettingen nord en zuijd loopt en de diepte van hondert en vijdtig kettingen aan de west loopt, hebbende ter behoorlijke plaatse en volgens en volgens [sic] aanschrijvinge van den Edele Achtbare hove de limiet paalen daarvan geplant Actum Rio Demerary den 15 februari 1768. P.L. de Saffon",
+        "dc:title": "Kaart met 2 plantages bij de Essequibo",
+        "dc:description": "Titel Leupe: Kaart van ten [sic] Plantagien, gelegen aan de Oostwal van de rivier Demerary. [N.B. dit is onjuist, het betreft plantages aan de Essequibo]\nKaart met twee percelen van plantages, gelegen aan of nabij de Essquibo.\nGemaakt in opdracht van het Hof van Demerary.\nSchaalstok van 100 kettingen van 60 Rijnlandse voeten.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1515",
+        "dc:subject": [
+            "landerij / plantage",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9394/kaart-met-2-plantages-bij-de-essequibo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a5/b5/40/d0/fd/4d/47/39/b2/3b/76/87/4e/0e/23/17/2edc3bb6-5161-40ad-9075-899acaa68e90.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a5/b5/40/d0/fd/4d/47/39/b2/3b/76/87/4e/0e/23/17/2edc3bb6-5161-40ad-9075-899acaa68e90.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1515.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van twee Plantagien, gelegen aan de Oostwal van de rivier Essquibo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/937.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bfd2fda9-7ce7-4848-8df5-fff7abe6ff7c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0937.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaart van de AlloetkoerKorls. Kanneeltuynen, met dies hoofdweegens; geleegen in de volgende Dorpens, en Pattoes; opgenoomen ter hoog G: Eerde ordres",
+        "dc:title": "Kaart van kaneeltuinen Alloetkoerkorle, Ceylon",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, van de Alloetkoer Korls, hiemee wordt verwezen naar de titel van VEL0936: Kaart van de Salpittie Korls Kanneeltuynen, met die Hoofdwegens, geleegen in het district van Kaliture, van de Alloet Korls.\nNotities verso: Kaart van Alloetkoer-Korl, No. 146, 516 [met vette cijfers gestempeld op een etiketje], No. 42 [vrij groot, op een etiket].\nLinksboven de aanduidingen Kaart van de AlloetkoerKorls. Kanneeltuynen, met dies hoofdweegens; geleegen in de volgende Dorpens, en Pattoes; opgenoomen ter hoog G: Eerde ordres; Nota: Root beteekent kanneel Tuynen; geel beteekent kokus Tuynen; groen beteekent Zaayvelden; Root gestippen Vakkies Zyn de Vereelins.\nDe kaart toont genummerde kaneeltuinen van 1-49.\nLinksboven de schaalverdeling R: Roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0937",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "flora",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "60 x 143,5 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2990/kaart-van-kaneeltuinen-alloetkoerkorle-ceylon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/88/d5/ce/95/da/17/42/94/bd/90/e0/3d/77/5b/5e/70/ded261f0-ee3c-471e-93b8-2b638d30918f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/88/d5/ce/95/da/17/42/94/bd/90/e0/3d/77/5b/5e/70/ded261f0-ee3c-471e-93b8-2b638d30918f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/937.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Salpittie Korls Kaneeltuynen, van de Alloetkoer Korls."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

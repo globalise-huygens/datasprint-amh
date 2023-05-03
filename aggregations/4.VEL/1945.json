@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1945.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0fd56a3d-ba87-408f-a4eb-0763bf3b2950",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1945.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kavels van de heer Krayvanger",
+        "dc:description": "Titel Leupe: Kaart van eenige stukken land, gelegen tusschen de Plantagien L'Avanture en Twyfelachtig.\nDeze kaart toont twee kavels van de heer Krayvanger (rood omlijnd aangeduid met de letters a-d en i-m) en de grond van de erfgenamen van de overleden heer Hermans Parisson (groene omlijnd met de letters e-h) ten noorden van de Cottica Rivier (i.e. bovenkant kaart).\nDe meting is aangevraagd door de heer Frederik Krayvanger nadat hij het westelijke stuk land heeft ontvangen op 29 Januari 1721 en het oostelijke stuk land overgekocht heeft van de erfgenamen van de heer Parrisson.\nDe westelijke kavel blijkt 500 Surinaamse akkers (215 hectare) en de oostelijke 333 1/3 akkers (143,3 hectare) te meten.\nTen westen liggen de plantages Twyfelachtig en Kleine Hoop, en ten oosten liggen andere delen van de plantage Twyfelachtig, alsmede de plantage L'Avanture.\nDe kaart is door de landmeter ondertekend op 28 Maart 1733 en officieel erkend op 11 September 1733 te Paramaribo.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 135 strepen.\nOorsprong: [OBP Suriname] 1736 [fols.] 1200-1201.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1945",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.33 - 0.215 El.",
+        "dcterms:date": "1733",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10051/kaart-van-kavels-van-de-heer-krayvanger"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c3/86/9d/53/9f/de/4b/03/96/a5/60/8e/b4/ca/6d/07/60b75d39-30e7-47c6-b860-e2e641273f7e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c3/86/9d/53/9f/de/4b/03/96/a5/60/8e/b4/ca/6d/07/60b75d39-30e7-47c6-b860-e2e641273f7e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1945.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige stukken land, gelegen tusschen de Plantagien L'Avanture en Twyfelachtig."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1406.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e498a876-8578-4251-bbcb-a35bed9f7ba5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1406.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van North Carolina",
+        "dc:description": "Titel Leupe: A Compleat Map of North Carolina from an actual survey.\nEen kaart van Noord Carolina die het gebied tot de Table [Rock] Berg in het achterland weergeeft. Het feit dat zo veel details over het westelijke gedeelte van de provincie bekend waren had te maken met de toename van migratie voorbij het Piedmont plateau sind halverwege de achtiende eeuw. De kaart bleef invloedrijk tot het begin van de negentiende eeuw. Dit had gedeeltelijk te maken met de landmetingen van William Churton waarop grote delen van de kaart gebaseerd waren en gedeeltelijk met de accruate weergave van het relief.\nSchaal van 30 Eng. M. = 98 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1406",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kolonie / dorp",
+            "kompas / windroos",
+            "North en South Carolina",
+            "Verenigde Staten"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.72 - 0.55 El. (43.5 x 28.5 inches)",
+        "dcterms:date": "1770",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10331/kaart-van-north-carolina"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/41/68/5f/a4/7d/12/47/7a/aa/b5/2c/f2/ed/c4/e0/73/5f4e59dd-5f1f-4381-8be1-0207bed8aceb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/41/68/5f/a4/7d/12/47/7a/aa/b5/2c/f2/ed/c4/e0/73/5f4e59dd-5f1f-4381-8be1-0207bed8aceb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1406.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A Compleat Map of North Carolina from an actual survey."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1018C.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e89f989b-7b57-478f-bdf9-a5cab1494838",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1018c.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan en Profils, behoorende tot de Bemerkingen over 't project der Heren Ingenieurs Fornbauer, L\u00f6we en De La Goupilli\u00e8re, om Triconomal\u00e9 vooreerst tegens een coup de main te verzekeren.",
+        "dc:title": "Plattegrond en profielen van het fort te Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan en Profils, behoorende tot de Bemerkingen over 't project der H.H. Ingenieurs Fornbauer, L\u00f6we en De La Goupilli\u00e8re, om Triconomal\u00e9 vooreerst tegens een coup de main te verzekeren enz..\nNotities verso: [Blauw etiket ODG] nr: 37 Plan en profils ter versterking van Trinconomale; nr. 4; Gedrukt etiket nr.: 555.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1018C",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 70 mm",
+        "dcterms:date": "augustus 1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4788/plattegrond-en-profielen-van-het-fort-te-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a8/51/62/f2/dd/a1/4d/87/ac/3f/37/d4/ac/95/9a/02/1ccec997-2e21-4487-823c-d1d20424906f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a8/51/62/f2/dd/a1/4d/87/ac/3f/37/d4/ac/95/9a/02/1ccec997-2e21-4487-823c-d1d20424906f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1018C.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 3"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

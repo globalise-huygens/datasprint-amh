@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/991.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/65a9e1f3-9aaf-4bf0-a207-38c11abb8ae6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0991.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Afbeeldinge van 't Fort Manaer, soodanigh 't selve by d'onse Verovert en namaels Verbetert is",
+        "dc:title": "Plattegrond van het fort Manaer",
+        "dc:description": "Titel catalogus Leupe (NA): Afbeeldinge van 't Fort Manaer, soodanigh 't selve by d'onse verovert en namaels verbetert is.\nPlattegrond van de nieuwe vestingwerken, grachten en sterre schans, aangelegd rond de oude Portugese vesting na de verovering.\nLegenda: A-E\nNotities verso: nr. 41; 544a; (2).",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0991",
+        "dc:subject": [
+            "vesting",
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "70 x 99 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4959/plattegrond-van-het-fort-manaer"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5c/4f/6a/33/0d/a6/4e/67/9b/b3/aa/39/4e/fb/ae/6d/fa834774-9aa1-48f6-81e8-9b2bdd1ecfb0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5c/4f/6a/33/0d/a6/4e/67/9b/b3/aa/39/4e/fb/ae/6d/fa834774-9aa1-48f6-81e8-9b2bdd1ecfb0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/991.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeeldinge van 't Fort Manaer, soodanigh 't selve by d'onse verovert en namaels verbetert is."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

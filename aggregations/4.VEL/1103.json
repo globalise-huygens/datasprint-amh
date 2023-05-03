@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1103.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7add3d75-3a54-452e-b28a-9d1be6c89a7c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1103.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Loge zoals bevorens geweest is",
+        "dc:title": "Plattegrond van de loge te Hougli en omgeving",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de Loge zoals bevorens geweest is.\nDe kaart moet na 1687 gemaakt zijn, het jaar waarin commissaris Van Reede tot Draekenstein de loge bezocht en veranderingen doorvoerde, en voor 1743, het jaar waarin de kaart is overgekomen vanuit Bengalen.\nNotities verso: No. 13 [vermoedelijk het volgnummer van het stuk in de OBP] / Behoort by de overgekomen Brieven en papieren van Bengale etc. 1743, 3 stuks, N 1 / 585 [staat rechts boven bovenstaande tekst] / 593 c / [staat rechtsboven in de hoek].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1103",
+        "dc:subject": [
+            "begraafplaats / kerkhof",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "banderol / cartouche / versiering",
+            "tanck / waterplaats / put",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53,5 x 74,5 cm",
+        "dcterms:date": "1687-1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5441/plattegrond-van-de-loge-te-hougli-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a5/68/74/5c/86/01/47/6b/b9/0f/92/7e/ac/1d/7c/11/2aa24674-dce5-43df-b2e0-44ad0803dcef.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a5/68/74/5c/86/01/47/6b/b9/0f/92/7e/ac/1d/7c/11/2aa24674-dce5-43df-b2e0-44ad0803dcef.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1103.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Loge, zo als bevorens geweest is."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

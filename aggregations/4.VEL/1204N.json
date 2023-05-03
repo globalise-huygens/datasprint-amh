@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1204N.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/46674487-d332-4305-9fbe-314d38021d19",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1204n.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "No. XXIII, plan van 't bolwerk Leiden, volgens 't welcke Westfriesland ook gebouwd is",
+        "dc:title": "Plan van het de bolwerken Leiden en Westfriesland te Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.\nNo. XXIII het bolwerk Leiden.\nNotities verso: 8. U. / 620 [in potlood].\nSerie VEL1204A t/m VEL1204V.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1204N",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "35 x 50,5 cm",
+        "dcterms:date": "ca. 1762",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/520/plan-van-het-de-bolwerken-leiden-en-westfriesland-te-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/76/b5/ce/ff/9d/69/45/ee/81/8f/bd/3a/4a/f8/08/f8/98ba2a88-6073-484b-8c8f-4d397600238a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/76/b5/ce/ff/9d/69/45/ee/81/8f/bd/3a/4a/f8/08/f8/98ba2a88-6073-484b-8c8f-4d397600238a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204N.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 14"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

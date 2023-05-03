@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/301.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Pascaert, waarin verthoont de gelegentheyt van Pehouw tot het Eylandt Tayowan en Wankan, ende Visschersbaey enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "301"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1624/1625"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/51fe82a6-bf23-4b63-952c-c45f9952adca\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/301.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/301.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4666,
+            "width": 11704,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/301.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/301.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/55/f7/34/b8/1b/ad/4d/71/90/47/3e/7c/0c/38/f1/1d/2fe435c0-1652-4d90-ad39-e8412f6093df.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4666,
+                                "width": 11704,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/55/f7/34/b8/1b/ad/4d/71/90/47/3e/7c/0c/38/f1/1d/2fe435c0-1652-4d90-ad39-e8412f6093df.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/301.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/159.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8f10a221-3373-4a64-b52a-51bc07a9e900",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_159.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Caap Negro in Angola",
+        "dc:description": "Kaart van Caap Negro in Angola.\nTitel catalogus Leupe:  Afzonderlycke teekening van Bay de Neghero.\nRechtsonder: Op de [hogte van?] 15-17 suijder bredte.\nNotitie verso: 580.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0159",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "potlood",
+        "dcterms:extent": "21 x 32,5 cm",
+        "dcterms:date": "1658",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8625/kaart-van-caap-negro-in-angola"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e7/5c/cc/29/10/e9/42/6f/aa/c6/06/f4/53/4a/88/ce/e7a495bf-5684-403e-b5ac-a7cfa611afc6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e7/5c/cc/29/10/e9/42/6f/aa/c6/06/f4/53/4a/88/ce/e7a495bf-5684-403e-b5ac-a7cfa611afc6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/159.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afzonderlycke teekening van Bay de Neghero."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/179.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c48796dc-e984-49f0-9a55-5d1fd99f3693",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0179.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Tafel Bhaij ofte Bhaij de Goede Hoope",
+        "dc:title": "Kaart van de Tafelbaai",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Tafel Bhay ofte Bhay de Goede Hoope.\nKompaslijnen gedrukt bij Willem Blaeu (dit gedrukte papier werd ook na diens sterven in 1638 nog dikwijls gebruikt).\nRechts in de baai: t redout Duynhoop.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0179",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde gravure",
+        "dcterms:extent": "775 x 595 mm",
+        "dcterms:date": "ca. 1640",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/360/kaart-van-de-tafelbaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/15/c7/02/65/53/e5/49/ba/aa/c5/7e/3b/a8/6c/0f/39/58994cfa-efca-46ac-9aca-665e93246aa0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/15/c7/02/65/53/e5/49/ba/aa/c5/7e/3b/a8/6c/0f/39/58994cfa-efca-46ac-9aca-665e93246aa0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/179.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Tafel Bhaij ofte Bhaij de Goede Hoope."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

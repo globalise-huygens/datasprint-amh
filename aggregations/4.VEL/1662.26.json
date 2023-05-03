@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.26.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d239f822-1374-4aff-81f1-6b9fe96e837b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_26.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor het ziekenhuis voor het gouvernementscomplex te Nieuw-Amsterdam",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nGezien de teken\nen schrijfstijl, behoort deze schets waarschijnlijk tot de ontwerpen die Abraham van der Hart in de jaren 1779-1781 voor de Soci\u00ebteit van Berbice maakte. Dit lijkt een zijaanzicht van het ziekenhuis dat op van der Hart's overzichtsplan voor het nieuwe gouvernementscomplex op kaart VEL1662.42 als gebouw nr. 4 is weergegeven. Twee verdiepingen zijn getoond en alle kamers op de begane grond zijn aangeduid met een letter, helaas is de index verloren gegaan.\nWegens de Britse bezetting van Berbice in maart 1781, kon dit plan waarschijnlijk niet direct worden overgezonden. Nadat Berbice in 1784 aan de Soci\u00ebteit was teruggegeven, volgden al in het jaar daarop de eerste plannen voor een geheel nieuwe hoofdplaats aan de samenvloeiing van de Berbice en de Canje, waarmee Van der Harts project van 1779-1781 definitief van de baan was.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.26",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1779-1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7583/ontwerp-voor-het-ziekenhuis-voor-het-gouvernementscomplex-te-nieuw"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0d/6f/ba/fb/d3/94/48/c8/9f/21/3c/1f/3e/73/e9/3c/ac2b8885-605a-4c7e-84ae-1dd59d6ff3c5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0d/6f/ba/fb/d3/94/48/c8/9f/21/3c/1f/3e/73/e9/3c/ac2b8885-605a-4c7e-84ae-1dd59d6ff3c5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.26.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 26"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

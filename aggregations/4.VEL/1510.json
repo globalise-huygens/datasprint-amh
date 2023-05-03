@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1510.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/72f5eb3f-c11d-48ff-8b4d-5dc9cee58218",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1510.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaarte van de Plantagien geleegen aan de Westwal van Demerary van de mond der Rivier af tot aan de Kreek Hobabo op ordre van de Edele Achtbaare Heeren en M. B. Albinus en L.I.D. van Grovestins gecommitteerden uit Den Edele Achtbaare Hove van Demerary door de ondergeteekende gewoore landmeeters op gemeeten en gekaarteerd. Demerary den 1. Maart 1776.",
+        "dc:title": "Kaart van plantages op de westelijke oever van de Demerary",
+        "dc:description": "Titel Leupe: Kaarte van de Plantagien geleegen aan de Westwal van de Rivier Demerary van den mond der rivier af tot aan de Kreek Hobabo.\nKaart van enkele plantages op de westelijke oever van de Demerary, met lijst van namen van plantages, eigenaars en de omvang van de plantages.\nDe kaart is gemaakt in opdracht van B. Albinus en L. I. D. van Grovestins, gecommitteerden van het Hof van Demerary.\nSchaalstok van 110 kettingen, 1 ketting is 5 roeden. Daaronder een opmerking over de onbekende miswijzing van het kompas.\nDeze kaart sluit aan op VEL1508.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1510",
+        "dc:subject": [
+            "landerij / plantage",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "1776",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9390/kaart-van-plantages-op-de-westelijke-oever-van-de-demerary"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f7/3b/fb/e3/5e/4d/40/86/aa/2e/c9/1d/a0/a1/45/83/85b46bdc-ebbb-40d3-941a-5f94191eec3c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f7/3b/fb/e3/5e/4d/40/86/aa/2e/c9/1d/a0/a1/45/83/85b46bdc-ebbb-40d3-941a-5f94191eec3c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1510.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaarte van de Plantagien geleegen aan de Westwal van de Rivier Demerary van den mond der rivier af tot aan de Kreek Hobabo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

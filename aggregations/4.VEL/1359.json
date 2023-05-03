@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1359.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e642b012-1504-4d13-867e-dd5edb41cc9e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1359.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t Eyland Neira",
+        "dc:title": "Plattegrond van een gedeelte van het eiland Neira, met de forten Nassouw en Belgica",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van een gedeelte van 't Eyland Neira, waarop 't fort Nassouw.\nRechts boven genummerd: 26.a.\nNotities verso: 664 p.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1359",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos",
+            "landerij / plantage",
+            "speelhuis / soci\u00ebteit",
+            "ziekenhuis / lazaret",
+            "rede / haven / pier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6920/plattegrond-van-een-gedeelte-van-het-eiland-neira-met-de-forten"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5f/ac/d2/ca/29/eb/40/8d/be/0e/93/4d/ec/6a/1d/34/d419827b-f266-42f9-8b81-8dd597c2860b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5f/ac/d2/ca/29/eb/40/8d/be/0e/93/4d/ec/6a/1d/34/d419827b-f266-42f9-8b81-8dd597c2860b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1359.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van een gedeelte van 't Eyland Neira, waarop 't fort Nassouw."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

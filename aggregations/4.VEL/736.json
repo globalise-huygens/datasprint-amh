@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/736.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/76beff2b-7655-4a47-bbea-28a8a4b9b373",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_736.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Ware afbeelding van de gelegentheijt en gedaente der Stadt Baldivia",
+        "dc:title": "Plattegrond van de stad en baai van Baldivia te Chili",
+        "dc:description": "Plattegrond van de stad en baai van Baldivia te Chili.\nTitel Catalogus Leupe (NA): Ware afbeelding van de gelegentheyt en gedaente der Stadt Baldivia, gelegen in Zuyd-Zee. 52 Mylen bezuyden het Eylant La Mocha, op de breedte van 40 graden 46 minuten des Pools Antarticus.\nWare afbeelding van de gelegentheijt en gedaente der Stadt Baldivia, gelgen in de Zuijt-zee 52: mijlen bezuijden 't eylant La Mocha, op de breete van 40 graad: 46: minuuten, des pools Antarticus.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0736",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "gebouw",
+            "huis / woonhuis",
+            "kerk / pastorie"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "31 x 47 cm",
+        "dcterms:date": "1627",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7494/plattegrond-van-de-stad-en-baai-van-baldivia-te-chili"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/32/75/8a/e8/e0/e3/4c/6e/94/eb/06/99/6e/a5/5e/6b/0f035577-d8c4-4ccc-8f6f-32452b652442.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/32/75/8a/e8/e0/e3/4c/6e/94/eb/06/99/6e/a5/5e/6b/0f035577-d8c4-4ccc-8f6f-32452b652442.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/736.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Ware afbeelding van de gelegentheyt en gedaente der Stadt Baldivia, gelegen in Zuyd-Zee. 52 Mylen bezuyden het Eylant La Mocha, op de breedte van 40 garden 40 minuten des Pools garden 46 minuten des Pools Antarticus."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

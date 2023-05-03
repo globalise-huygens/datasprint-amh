@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/292.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Indische Noord. (Van Sumatra tot Japan om de Noord, de Philippynen, Mindanao, Borneo, Celebes enz.)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "292"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1717"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/2e1eec5f-3589-4a1d-a81c-94a4e18a5baa\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/292.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/292.json#canvas/p1",
+            "type": "Canvas",
+            "height": 9731,
+            "width": 11507,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/292.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/292.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/78/3f/57/96/54/3c/43/23/a8/88/67/4a/db/6b/e6/61/b290b851-d712-4e67-8472-b7a25c6b4180.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 9731,
+                                "width": 11507,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/78/3f/57/96/54/3c/43/23/a8/88/67/4a/db/6b/e6/61/b290b851-d712-4e67-8472-b7a25c6b4180.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/292.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

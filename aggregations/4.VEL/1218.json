@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1218.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a9ea13b4-c949-4536-b46b-8171b077e6f7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1218.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Veldschans Tangerang, geleegen omtr. 5 uuren gaans bewesten Batavia",
+        "dc:title": "Plattegrond van de veldschans Tangerang",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de Veld-Schans Tangerang, geleegen omtrent 5 uuren gaans bewesten Batavia.\nOp de kaart staat: 2e Copie.\nDe onderkant is gerafeld.\nNotities verso: No. 13.b. [staat zowel aan de linkerkant als aan de rechterkant].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1218",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "36 x 78 cm",
+        "dcterms:date": "ca. 1764",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7145/plattegrond-van-de-veldschans-tangerang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f8/64/0f/74/33/8d/4e/ec/96/37/b1/12/cf/48/bb/dd/1f23f90a-6fa4-4edc-a73f-2171e0362e2c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f8/64/0f/74/33/8d/4e/ec/96/37/b1/12/cf/48/bb/dd/1f23f90a-6fa4-4edc-a73f-2171e0362e2c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1218.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Veld-schans Tangerang."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

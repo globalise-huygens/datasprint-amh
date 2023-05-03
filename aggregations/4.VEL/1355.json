@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1355.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0d78a84d-f27c-405c-a818-cf24504758c7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1355.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Banda eilanden",
+        "dc:description": "Titel catalogus Leupe (NA): Afteekening van de Eylanden Banda.\nBijzonderheden: de kaart heeft een gat midden op Groot Banda.\nNotities verso: aff teeckening van de eijlanden Banda / 664 a.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1355",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "gebouw",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "47 x 67,5 cm",
+        "dcterms:date": "ca. 1623",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4217/kaart-van-de-banda-eilanden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d7/3d/7e/e5/cc/64/4b/ed/8e/d7/6e/13/60/a2/ea/bc/fe6adfdb-b732-4e5e-b6a7-ad889e8986c4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d7/3d/7e/e5/cc/64/4b/ed/8e/d7/6e/13/60/a2/ea/bc/fe6adfdb-b732-4e5e-b6a7-ad889e8986c4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1355.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Affteekening van de Eylanden Banda."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

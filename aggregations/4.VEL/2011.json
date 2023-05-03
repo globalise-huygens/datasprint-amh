@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2011.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/90a1fb9e-0a58-4200-9076-5baa87422b6f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2011.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plan om de monding van de Surinamerivier in tijd van oorlog af te sluiten",
+        "dc:description": "Titel Leupe:  Specieele kaart van de mond van Rio Suriname, met deselfs defensie werken, dieptens enz.\nDeze kaart toont de zogenoemde \u2018Linie van Verstopping\u2019, dus de afsluiting in tijd van oorlog, van de monding van de Suriname zoals tijdens en na de Vierde Engelse Oorlog uitgewerkt op basis van een eerste, ge\u00efmproviseerde opzet daartoe in 1781-1782.\nDeze kaart richt zich op de afstand die de blokkadeschepen en kanonneerboten moeten afleggen om in opstelling te komen.\nTwee groene lijnen geven aan hoe de schepen van de rede bij Paramaribo naar de ankerplaatsen bij de Linie van Verstopping horen te varen.\nBij de kust is ook het wachtpunt getekend waarvmee signalen aan de schepen worden gezonden.  Ook zijn de plantages nabij de monding aangeduid.\nSchaal van 1000 Roeden \u00e0 12 voeten = 200 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2011",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier",
+            "kompas / windroos",
+            "plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.61 - 0.74 El.",
+        "dcterms:date": "ca. 1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1998/plan-om-de-monding-van-de-surinamerivier-in-tijd-van-oorlog-af-te"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a8/ff/e2/d3/1d/2d/48/c6/85/85/3a/fe/90/ce/e2/c0/0566aa48-2d7e-479d-8728-7c01cbc286f0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a8/ff/e2/d3/1d/2d/48/c6/85/85/3a/fe/90/ce/e2/c0/0566aa48-2d7e-479d-8728-7c01cbc286f0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2011.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Specieele kaart van de mond van Rio Suriname, met deselfs defensie werken, dieptens enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

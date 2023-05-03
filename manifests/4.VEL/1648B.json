@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1648B.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Project plan en proffil op wat wyze de post by de gereformeerde Kerk in Rio Berbice kan of diende gesecureerd te worden in plaats van de provisioneele aangelegde aarde redout."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1648B"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1764"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/2c578d9a-9cfe-412f-863a-2bc6a144552e\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1648B.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1648B.json#canvas/p1",
+            "type": "Canvas",
+            "height": 2836,
+            "width": 4388,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1648B.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1648B.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/51/35/44/16/d8/fc/42/05/b4/08/c1/89/26/93/a0/e5/86743797-99e1-48bc-a645-0d9d35bfaeae.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 2836,
+                                "width": 4388,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/51/35/44/16/d8/fc/42/05/b4/08/c1/89/26/93/a0/e5/86743797-99e1-48bc-a645-0d9d35bfaeae.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1648B.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

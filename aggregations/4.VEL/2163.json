@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2163.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9592e5a4-70da-4af8-a8be-4ce829c7a68a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2163.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caarte van de Stadt van Fernambuc",
+        "dc:title": "Kaart van de stad Olinda",
+        "dc:description": "Kaart van de stad Olinda.\nTitel Catalogus Leupe (NA): Caarte van de Stadt van Fernambuc gemaackt door:.\nCaarte van de Stadt van Fernambuc.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2163",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "64 x 89 cm",
+        "dcterms:date": "1630",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7402/kaart-van-de-stad-olinda"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/eb/9a/8d/24/88/03/4e/77/be/f4/e4/43/fe/f5/a8/fc/7c425243-0040-418d-98e6-c06092a1c33c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/eb/9a/8d/24/88/03/4e/77/be/f4/e4/43/fe/f5/a8/fc/7c425243-0040-418d-98e6-c06092a1c33c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2163.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caarte van de Stadt van Fernambuc gemaackt door:"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

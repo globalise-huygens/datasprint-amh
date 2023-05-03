@@ -1,0 +1,56 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/748.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/71b5cf97-d790-4e81-84bd-3513a7e48fb3",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_748.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het Fortress St: Antonie tot Axim",
+        "dc:title": "Plattegrond van het fort St. Antonie te Axim",
+        "dc:description": "Plattegrond van het fort St. Antonie te Axim.\nTitel catalogus Leupe: Het Fortress St. Antonie tot Axim.\nHet Fortress St: Antonie tot Axim.\nNotities verso: no. 10 reg. 8 / 449 [met vette cijfers gestempeld op een etiketje].\nLegenda: Declaratie / 1. Trap van 't strand nae 't buyten Plein. / 2. ditto nae 't boven crom, of de Tuyn. / 3. Poort door 't kleyne buyten Werkje. / 4. Schilder Huys / 5. Poort door de buyten Wal / 6. ditto van de Wagt. / 7. Trap nae de Battery / 8. Soldaeten Keuken / 9. Schilder huys / 10 Vlagge Stok / 11. 's Gouverneurs Keuke, waeronder Een Pakhuys / 12. Trap nae 't Gouvernement / 13. Een Doorgang / 14. Spintje / 15. Kaamer / 16. Zaal van den Gouverneur / 17. Slaap kaamer van den Gouverneur / 18.  18.   zyn 2 Bortessies / 19. Een houten brug, welke van de zaal overlegt op / 20. Een Platt / 21. Nog Een Zoort van Bortessie / 22. & 23 twee Kaamers / 24. de Reegen-bak / 25 Trap nae 't oude Gouvernement / Nota. de Gebouwen van 13, 14, 15, 16, 17, 20,22 & 23 zyn alle van 3 Verdiepingen, waervan de onderste meest voor Pakhuysen gebruykt, de tweeden ten deele van Bedienten & Guarinisoen bewoont word.\nRechtsonder: No: 7.\nMiddenboven: 17 LVI.\nOp verschillende plekken op de kaart: 748 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0748",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "legenda",
+            "pakhuis",
+            "gebouw",
+            "vesting",
+            "tuin / siertuin",
+            "poort",
+            "tanck / waterplaats / put"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "66 x 49 cm",
+        "dcterms:date": "1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1064/plattegrond-van-het-fort-st.-antonie-te-axim"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2d/4a/92/bd/84/3c/49/a6/b9/c7/88/02/81/85/44/29/895dee99-b265-46d4-b725-361b615314b5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2d/4a/92/bd/84/3c/49/a6/b9/c7/88/02/81/85/44/29/895dee99-b265-46d4-b725-361b615314b5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/748.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Fortress St. Antonie tot Axim."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

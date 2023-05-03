@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1038.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9911c266-be0a-4641-b002-46c13d70ba66",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1038.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van het fort te Trinkonomale en omgeving",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van den mond der binnenbaay van Trinkomale, aantoonende de gelegenheid van 't fort Oostenburg en 't Eylandje Dwars in den Weg, betrekkelyk tot de deffencie daarvan enz..\nNotities verso: Plan d'Ostimbourg Relatif aux Refutations du Projet, de Mr: Delalustiere Par Mr: Reimer. / No. 17 /     569 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1038",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "105,5 x 104 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4802/plattegrond-van-het-fort-te-trinkonomale-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4c/6e/7e/93/93/62/49/95/b0/05/fd/57/9e/f7/d1/57/f6f23718-cc7c-47d9-b422-f23f30e9fede.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4c/6e/7e/93/93/62/49/95/b0/05/fd/57/9e/f7/d1/57/f6f23718-cc7c-47d9-b422-f23f30e9fede.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1038.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van den mond der binnenbaay van Trinkomale, aantoonende de gelegenheid van 't fort Oostenburg en 't Eylandje Dwars in den weg, betrekkelyk tot de deffencie daarvan enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

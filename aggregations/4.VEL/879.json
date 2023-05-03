@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/879.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c0bacbb7-0502-46b3-843e-e45bb424cc35",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0879.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Afbeelding van de loge te Amadabat",
+        "dc:description": "Titel catalogus Leupe: Afbeelding van de Logie enz. te Amedabath.\nNotities verso: P 1; (fol) nr. 261; nr. 11; nr. 499e of l.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0879",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "35 x 55 cm",
+        "dcterms:date": "ca. 1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2336/afbeelding-van-de-loge-te-amadabat"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fa/c5/9f/de/01/98/43/38/be/9e/98/50/8a/00/df/fd/def07b12-2e27-4b88-b0c6-9c8322891dd5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fa/c5/9f/de/01/98/43/38/be/9e/98/50/8a/00/df/fd/def07b12-2e27-4b88-b0c6-9c8322891dd5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/879.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van de Logie enz.te Amedabath."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

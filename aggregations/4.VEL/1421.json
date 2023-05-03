@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1421.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e05a6769-766d-4dd2-84f0-b5f7d7fda034",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1421.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [left] a key to the letters A to P : \nUitlegging der Aftekening van \u2019t Huis, en verdere Getimmerte en binnen plaats, toebehorende den Hoog Ed: Gestr. Heer M:r Willem Hendrik Rink, staande en gelegen in \u2019t Dorp Philipsburg op S:t Martin. \nA. de hoogte van de Gevel tot aan de Straat. \nB. \u2019t plan van de Eerste verdieping. \nC. D:o van de tweede verdieping. \nD.D. Twee Provisie Kamers. \nE. De keuken. \nF. Doorgang naar de Binnen Plaats. \nG. Paarde Stallen. \nH. Chaise Huis. \nI. Kamers voor de knegten en dienstboden.\n46 \nK. de groote doorgang naar de Binnen plaats. \nL. regenbak. \nM. de Binnenplaats. \nN. Schaal van 30 voeten, waarbij \u2019t geheel kan gemeten worden. \nO. de Straat. \nP. Dwarsstraat naar de Zee.",
+        "dc:title": "Plattegrond van het huis van de gouverneur van Sint Maarten en Saba",
+        "dc:description": "Titel Leupe: Afteekening en grondplan van het huis en verder getimmerte enz. Toebehoorende den Heer en Mr. Willem Hendrik Rink.\nDeze kaart met plattegrond en vooraanzicht geeft de woning en aanliggende opstallen van mr. Willem Hendrik Rink in Philipsburg weer in 1802, toen hij onder Bataafs bewind gouverneur van Sint Maarten en Saba was. De kamers van zijn vertrek zijn met referentienummers aangegeven (zie onder inscriptie).\nSchaalstok van 30 voeten = [ca. 1 : 120].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1421",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "53 x 34,5 cm.",
+        "dcterms:date": "1802",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7304/plattegrond-van-het-huis-van-de-gouverneur-van-sint-maarten-en-saba"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b7/86/52/65/64/e6/46/3f/b7/69/56/61/d2/64/1f/e5/0eb4ef46-3b3e-433b-99ac-88fa1223cdf7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b7/86/52/65/64/e6/46/3f/b7/69/56/61/d2/64/1f/e5/0eb4ef46-3b3e-433b-99ac-88fa1223cdf7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1421.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

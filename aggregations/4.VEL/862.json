@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/862.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7c0da3b6-0d85-44a7-9393-5f2f4ff4f1ce",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0862.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "The East Indies with the Roads",
+        "dc:title": "Kaart van India",
+        "dc:description": "Titel catalogus Leupe (NA): The East Indies, with the Roads.\nEen zeer gedetailleerde kaart van India en Ceylon.\nMeerdere schaalverdelingen worden rechtsonder weergegeven Schaalaanduiding: Schaal van 200 British Statute Miles 69\u00bd to a Degree = 123 strepen; omgerekende schaal [1 : 2.616.819]; Schaal van 80 Computed Travelling Leagues 30 to a Degree = 114 strepen; Schaal van 60 Marine Leagues 20 to a Degree = 129 strepen; omgerekende schaal [1 : 2.584.511]; Schaal van 100 Jeribi, the Great or Measured Cofs 33 to a Degree = 130 strepen; Schaal van 120 Rifmi, the Small or Computed Cofs 37 to a Degree = 140 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0862",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "110 x 141 cm",
+        "dcterms:date": "1768",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9284/kaart-van-india"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/50/9e/a4/10/20/55/4f/ca/b2/74/86/e0/b7/6d/25/3b/aac35311-3774-4a7c-a901-be87d35913f1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/50/9e/a4/10/20/55/4f/ca/b2/74/86/e0/b7/6d/25/3b/aac35311-3774-4a7c-a901-be87d35913f1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/862.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "The East Indies, with the Roads."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

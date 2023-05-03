@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/143.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a2e36e00-2303-4672-80c7-096d5c3ac68e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_143.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Een Gedeelten van Gabon En Loango Aan de kust van Gunea / Van Rio de Gabon tot C: de Negro door Capt: Pieter Hinkes na sijn Eijgens Opservatie en Ondervindinge",
+        "dc:title": "Kaart van de kusten van Gabon en Loango",
+        "dc:description": "Kaart van de kusten van Gabon en Loango.\nTitel catalogus Leupe (NA): Kaart van een gedeelte van Gabon en Loango aan de Kust van Guinea, van Rio de Gabon tot Cabo de Negro.\nEen Gedeelten van Gabon En Loango Aan de kust van Gunea / Van Rio de Gabon tot C: de Negro door Capt: Pieter Hinkes na sijn Eijgens Opservatie en Ondervindinge.\nOp de inzet de monding van de rivier Gabon.\nDe kaart is op blauw papier geplakt.\nNotities verso: No. 9 De kust van Angolo van Caap de Lopo Gonsalvo tot Caap de Negro.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0143",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "63 x 104,5 cm",
+        "dcterms:date": "1716",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8615/kaart-van-de-kusten-van-gabon-en-loango"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a9/0c/4a/70/56/85/49/5a/b4/68/a4/7b/21/4b/fb/0f/9c15db7b-240f-41b4-9c84-667a104e16e4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a9/0c/4a/70/56/85/49/5a/b4/68/a4/7b/21/4b/fb/0f/9c15db7b-240f-41b4-9c84-667a104e16e4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/143.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van Gabon en Loango aan de Kust van Guinea, van Rio de Gabon tot Cabo de Negro."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1053.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dfa17efd-dc1f-4d3c-8f1a-cb1bb425cb69",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1053.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Afteykeninge der Stadt Gale",
+        "dc:title": "Plattegrond in vogelvlucht van de stad Gale",
+        "dc:description": "Titel catalogus Leupe (NA): Afteykeninge der Stadt Gale.\nRanden gedeeltelijk gerestaureerd.\nAantekening catalogus Leupe: Met aanwijzing en nota van de H.H. Ryckloff van Goens en Adriaen van der Meyden.\nNotities verso: No 80 [getal 80 is doorgestreept] 39. Behoort by de papieren van Ceylon 1659. 3 stuks. Portefeuille 1659 II.\nLegenda: P-S",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1053",
+        "dc:subject": [
+            "gebouw",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "legenda",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "75 x 53 cm",
+        "dcterms:date": "mei 1659",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3105/plattegrond-in-vogelvlucht-van-de-stad-gale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5f/b7/94/6e/51/0b/40/ec/9a/9b/b3/b9/2f/94/b9/8f/cec0cfe6-d3ef-40cd-92c3-3d00d43dc060.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5f/b7/94/6e/51/0b/40/ec/9a/9b/b3/b9/2f/94/b9/8f/cec0cfe6-d3ef-40cd-92c3-3d00d43dc060.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1053.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteyckeninge der stadt Gale, met project ter versterking der stad."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

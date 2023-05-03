@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1629.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/15a2e38a-608d-4dd1-aef1-8b28b2bb2ac2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1629.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van onbekend fort",
+        "dc:description": "Titel Leupe: Plan van een fort.\nDeze kaart toont een plan voor een fort op een onbekende plek bij de monding van de rivier Berbice.\nHet plan stamt hoogstwaarschijnlijk uit de periode van de reconstructievoorstellen voor Fort Nassau en de redoute Brandwagt, of is daar zelfs onderdeel van. De kaart stamt dus vermoedelijk uit de tweede helft van de achttiende eeuw.\nNaast de vier bastions, zijn de secties en trappen van het fort ook weergegeven.\nOnderin is ook een profil getekend.\nSchaal van 40 ? = 120 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1629",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.48 - 0.41 El.",
+        "dcterms:date": "1740-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10285/kaart-van-onbekend-fort"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/09/5d/cd/c1/60/49/4f/19/8e/3d/47/c2/b2/86/86/71/ef1739e6-7e42-455a-90b7-c685c8f5440b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/09/5d/cd/c1/60/49/4f/19/8e/3d/47/c2/b2/86/86/71/ef1739e6-7e42-455a-90b7-c685c8f5440b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1629.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van een fort."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

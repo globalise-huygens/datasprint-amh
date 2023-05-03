@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1641.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e00910f7-52ed-42b1-aae3-aa0ea92bed50",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1641.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van gepland fort aan de rivier Berbice",
+        "dc:description": "Titel Leupe: Plan de la nouvelle fortification \u00e0 Rio de Berbice, lev\u00e9 par:Von Schmalen.\nMet de ontruiming van Fort Nassau en Nieuw-Amsterdam op 8 maart 1763 vanwege de opkomst van Cuffy\u2019s slavenleger, werd het fort door de Nederlanders in brand gestoken. Nadat de oorlog gewonnen was, was er een sterke behoefte aan nieuwe verdedigingswerken.\nDeze Franstalige kaart toont een ontwerp voor een fort met zeven bastions en een ongebruikelijke rechthoek.\nOnderdelen en functies zijn in de index rechts van de plattegrond te vinden en een profiel is onder in de kaart getekend.\nAan de hand van de adressering aan Gouverneur-Generaal W.S. de Hoogenheim kan afgeleid worden dat de kaart tussen 1763 en 1765 is gemaakt.\nHet noorden is boven.\nSchaal van 40 Rhijnlandse roeden = 40 strepen en voor het profiel: Schaal van 60 Rhijnlandse voeten = 60 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1641",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "redoute",
+            "kompas / windroos",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.375 - 0.425 El.",
+        "dcterms:date": "1763-1765",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1942/kaart-van-gepland-fort-aan-de-rivier-berbice"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/61/af/19/fb/58/38/46/e7/96/13/e5/77/af/76/d6/f3/92ed78cb-2bc0-4998-b365-99c050b14cf7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/61/af/19/fb/58/38/46/e7/96/13/e5/77/af/76/d6/f3/92ed78cb-2bc0-4998-b365-99c050b14cf7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1641.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan de la nouvelle fortification \u00e0 Rio de Berbice, lev\u00e9 par:Von Schmalen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

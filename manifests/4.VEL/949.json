@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/949.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Apart project op wat wyze de fortificatie met de minste moeyten en kosten zoude kunnen opgemaakt worden enz. Colombo, 19 October 1697."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "949"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1698"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/a802315e-9461-4245-991e-d07a598160f6\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/949.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/949.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5847,
+            "width": 4499,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/949.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/949.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/c6/c1/08/c5/8f/35/42/5f/93/1f/f4/9a/83/cc/ec/b2/2ea7381e-ed5d-4fbc-8dfc-c7e60d1d5c13.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5847,
+                                "width": 4499,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/c6/c1/08/c5/8f/35/42/5f/93/1f/f4/9a/83/cc/ec/b2/2ea7381e-ed5d-4fbc-8dfc-c7e60d1d5c13.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/949.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

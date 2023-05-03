@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1766.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0643c402-4643-4890-a588-0bb8a473d637",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1766.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een kanaalontwerp tussen de rivieren Suriname en Saramacca",
+        "dc:description": "Titel Leupe : Kaart van de geprojecteerde doorsnyding tusschen de rivieren Suriname en Saramaca (ter hoogte van de redout Purmerend).\nDeze kaart laat een projectplan zien voor het gebied gelegen tussen de rivieren Suriname en Saramacca ten Noordwesten van Paramaribo.\nDit plan omvat de aanleg van een kanaal lopende van de Suriname Rivier naar de Oranje Kreek, die in verbinding staat met de Saramacca Rivier.\nHet land aan weerszijden van het kanaal is verdeeld in lange kavels voorzien van de nummers 1 t/m 87.\nVan elk kavel zijn de breedtes aangegeven in Kettingen.\nIn de kavels staat de tekst : Landen de welke langs het Canaal Kunnen vergeeven worden.\nZie ook de kaarten 1767A, 1767B, 1768, 1772, 1773.\novergezonden bij missive Gouv gen van 27 sept 1786 ad I.\nSchaal van 1000 Kettingen a\u0300 66 Rijnlandse voeten = 218 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1766",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting",
+            "kantoorgebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.47 - 0.68 In el",
+        "dcterms:date": "1786",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2081/kaart-van-een-kanaalontwerp-tussen-de-rivieren-suriname-en-saramacca"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3f/19/62/c3/c3/c7/40/fe/88/40/ac/c8/3f/84/eb/6f/5570a264-894b-4e1e-97b8-3cdf6db45f06.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3f/19/62/c3/c3/c7/40/fe/88/40/ac/c8/3f/84/eb/6f/5570a264-894b-4e1e-97b8-3cdf6db45f06.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1766.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de geprojecteerde doorsnyding tusschen de rivieren Suriname en Saramaca (ter hoogte van de redout Purmerend)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

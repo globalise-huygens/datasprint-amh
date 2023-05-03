@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/362.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ed48ba01-ab56-4cea-848d-a5b2852938a1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0362.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een expeditie op de rivier van Siak, Sumatra",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van een gedeelte van Straat Camper en de Rivier van Siak, van de Mond tot aan Soengi Mapoera.\nAfgebeeld is de expeditie tegen Radja Mohammad in 1761 vanaf zee landinwaarts via de rivier van Siak (midden Sumatra, richting het huidige Pekanbaru), met vele aantekeningen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0362",
+        "dc:subject": [
+            "veldslag / oorlog (strijd) / inname",
+            "banderol / cartouche / versiering",
+            "expeditie",
+            "huis / woonhuis",
+            "gebouw",
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "205 x 98,5 cm",
+        "dcterms:date": "1761",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7929/kaart-van-een-expeditie-op-de-rivier-van-siak-sumatra"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0a/d9/0b/45/9c/eb/44/60/af/66/78/35/62/bc/76/54/9b6d2beb-d47c-4555-a499-1c9d9607f72e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0a/d9/0b/45/9c/eb/44/60/af/66/78/35/62/bc/76/54/9b6d2beb-d47c-4555-a499-1c9d9607f72e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/362.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van Straat Camper en de Rivier van Siak, van de Mond tot aan Soengi Mapoera."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

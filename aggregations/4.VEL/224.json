@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/224.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/856accd6-194c-4d67-b198-3c4d6f9ed22a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0224.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Decan, India",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Een Zeekaart van de Kust alwaar den Pinaad Cangi Angria zig onthoudt (van schreyershoek tot de Rivier Sangisser.\nNotities verso: Een zeekaart van de Cust alwaar den piraad Cangi Angria sig onthoud / overgekomen van Batavia 1709 N 5 / 199 [folionummer in de band?] / no. 22 [volgnummer van het stuk in de band ?].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0224",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53,5 x 137 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5738/kaart-van-decan-india"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/71/32/58/04/f6/4d/46/44/b1/4f/3e/c2/b5/f9/92/d9/21b44ee7-69d6-41ff-8d10-b7f988a17156.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/71/32/58/04/f6/4d/46/44/b1/4f/3e/c2/b5/f9/92/d9/21b44ee7-69d6-41ff-8d10-b7f988a17156.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/224.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

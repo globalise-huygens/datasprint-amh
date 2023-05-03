@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1048.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bf9323e3-e195-441a-b8dc-ca85bcd6eb5d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1048.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Geprojecteerd plan ter verbetering van Mature.",
+        "dc:title": "Plattegrond van het fort te Mature",
+        "dc:description": "Titel catalogus Leupe (NA): Geprojecteerd plan ter verbetering van Mature.\nLegenda: 1-8\nPlankaart van de aanleg van 4 bastions A-D ter verbetering van de vesting.\nNotities verso: [Blauw etiket ODG] nr: 45 Verbetering Mature.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1048",
+        "dc:subject": [
+            "doorsnede / profiel",
+            "plattegrond / kaart",
+            "vesting",
+            "legenda",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "49 x 69 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3844/plattegrond-van-het-fort-te-mature"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/85/1f/b1/77/9d/de/4f/ee/9a/f3/da/49/f6/8d/d5/2e/9bab3860-1378-492f-adfd-7b3fcff2e44e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/85/1f/b1/77/9d/de/4f/ee/9a/f3/da/49/f6/8d/d5/2e/9bab3860-1378-492f-adfd-7b3fcff2e44e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1048.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Geprojecteerd plan ter verbetering van Mature."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

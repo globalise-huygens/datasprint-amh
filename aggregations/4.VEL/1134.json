@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1134.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/efe1ae9f-0f98-4e13-811b-85aa75105ded",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1134.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Carte de L'Isle de Bourbon",
+        "dc:title": "Kaart van Bourbon, ofwel R\u00e9union",
+        "dc:description": "Titel catalogus Leupe (NA): Carte de L'Isle de Bourbon.\nNotities verso: No. 11 Het Eiland Bourbon. Register 7, Deel 1, Folio 30, Portefeuille .. [geschreven op een blauw etiket] / 499 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1134",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "67,5 x 100,5 cm",
+        "dcterms:date": "1763",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9192/kaart-van-bourbon-ofwel-r%C3%A9union"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ce/55/ae/82/fe/ae/41/21/96/1f/2e/78/4e/54/01/1a/2d8042db-742e-40f5-9bda-3508dc32f984.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ce/55/ae/82/fe/ae/41/21/96/1f/2e/78/4e/54/01/1a/2d8042db-742e-40f5-9bda-3508dc32f984.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1134.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte de L'Isle de Bourbon."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

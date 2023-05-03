@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/884.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Particuliere Kaart van een gedeelte der rivieren van Chettua tot Coylang., met aanwyzing der Zaaivelden enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "884"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f957f188-8ca9-4949-9d7f-4e145b918e2d\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/884.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/884.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5237,
+            "width": 27550,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/884.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/884.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/97/c0/ec/e4/09/d3/4b/46/93/bd/23/f8/ee/9f/d7/37/d0c63a12-663a-478f-a77c-dcfd13f42b3d.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5237,
+                                "width": 27550,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/97/c0/ec/e4/09/d3/4b/46/93/bd/23/f8/ee/9f/d7/37/d0c63a12-663a-478f-a77c-dcfd13f42b3d.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/884.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1682.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f6e20f22-9291-4dc8-ade1-6c125c6db8e0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1682.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Overzichtkaart van Suriname",
+        "dc:description": "Titel Leupe: Kaartje van de Colonie Suriname, tusschen Engelsch en Fransch Guyana of Cayenne.\nDeze overzichtkaart van de kust en rivierstelsels van Suriname is een heruitgave van Henemans kaart uit 1784  getiteld  Kaart van de Colonie Suriname en de onderhoorige rivieren en Districten, zoverre derzelver ontdekkingen nu zyn strekkende met de tot Culture gebragt zynde Landen en Plantagien (zie VEL 1677A-G). Heneman produceerde deze kaart voor de WIC leidinggevenden in Nederland. Zijn kaart toonde heel Suriname maar richtte zich voornamelijk op het plantagegebied rond de Commewijne\nen Surinamerivier. De gebieden daarbuiten waren slechts in algemene termen beschreven. In de zeventig jaar tussen de oorspronkelijke versie en de heruitgave was veel van deze periferie verkend. Desondanks probeert deze kaart juist zoveel mogelijk details te schrappen om de helderheid van dit overzicht van kreken, rivieren, nederzettingen, bossen en savannes te verhogen. Zo zijn plantages verwijderd en kleuren vermeden.\nSchaal van 1:1100000.\nZie ook VEL1681",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1682",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "litho",
+        "dcterms:extent": "0.265 - 0.44 El.",
+        "dcterms:date": "1849",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9819/overzichtkaart-van-suriname"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0c/ce/c6/eb/38/c3/46/91/a9/6b/c0/d9/75/69/b1/46/26a22f26-ea92-4b17-98b9-a1bf9e94fc3e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0c/ce/c6/eb/38/c3/46/91/a9/6b/c0/d9/75/69/b1/46/26a22f26-ea92-4b17-98b9-a1bf9e94fc3e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1682.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaartje van de Colonie Suriname, tusschen Engelsch en Fransch Guyana of Cayenne."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

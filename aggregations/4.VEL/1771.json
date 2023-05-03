@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1771.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/02a2d39d-69f2-47b1-a06f-7dfa34b9009e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1771.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "<Kaart van Siruatie van de Terrains tussen de Rivieren Suriname en Sarameca opgenomen Op de Distance van 4. Uuren gaans, in \u2019t Noorden van de Kleijne Oranieweeg af.>",
+        "dc:title": "Kaart van het terrein tussen de rivieren Suriname en Saramacca",
+        "dc:description": "Titel Leupe : Kaart van situatie van de terrains tusschen de Rivieren Suriname en Sarameca, opgenomen op de distance van 4 uuren gaans, in 't noorden van de Kleyne Oranieweeg af.\nDeze kaart laat een gebied zien van vier uur gaans (ca. 20 kilometer) tussen de rivieren Suriname en de Saramacca ten noorden van de \u2018Kleijne Oranienweeg.\u2019\nDit pad (aangegeven in rode inkt) ligt westwaards van de post Gelderland bij Joden Savanne.\nNaast bos, moeras, savanne en kreken zijn ook enkele militaire posten ingetekend, waaronder de post Engeland op de plantage Berlijn.\nSchaalstokken van 150 Kett. Rhynl. / 1 Uur ga\u00ebns = [ca. 1 : 35.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1771",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "Groot 0.40 - 1.23 El.",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9762/kaart-van-het-terrein-tussen-de-rivieren-suriname-en-saramacca"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/38/e6/6d/71/b7/c4/42/2a/9f/32/da/83/26/ed/bb/40/da4e36f8-8cd0-43f6-8126-99030510c5f8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/38/e6/6d/71/b7/c4/42/2a/9f/32/da/83/26/ed/bb/40/da4e36f8-8cd0-43f6-8126-99030510c5f8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1771.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van situatie van de terrains tusschen de Rivieren Suriname en Sarameca, opgenomen op de distance van 4 uuren gaans, in 't noorden van de Kleyne Oranieweeg af."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

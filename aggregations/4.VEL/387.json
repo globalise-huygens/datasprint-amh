@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/387.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/034aedfa-49a1-4fcd-82ad-f0102f0ceca4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0387.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'T Westelykste Gedeelte van Batavia, tusschen de Groote Rivier en de Posten Ank\u00e9, Keten en Ryswyk",
+        "dc:title": "Westelijke gedeelte van Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Het Westelykste gedeelte van Batavia, tusschen de Groote Rivier en de Posten Ank\u00e9, Keten en Ryswyk, in verband met de uit te voeren waterwerken.\nMaakt deel uit van serie VEL0383-0419; Deze kaarten hebben betrekking op de peilingen op de bank voor de rivier. Tussen 1708 en 1742 werden deze peilingen twee maal per jaar verricht.\nTopografische namen vermeld op deze kaart: Waater-Kastel, Dieren, 't Loo, de Fluyt, P: de Keten.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0387",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "540 x 760 mm",
+        "dcterms:date": "1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/651/westelijke-gedeelte-van-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/27/de/a5/44/95/5e/47/2b/8f/c9/ff/eb/a6/a2/2d/21/37d89f89-4282-4838-85a6-9c6ca97479d2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/27/de/a5/44/95/5e/47/2b/8f/c9/ff/eb/a6/a2/2d/21/37d89f89-4282-4838-85a6-9c6ca97479d2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/387.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Westelykste gedeelte van Batavia, tusschen de Groote Rivier en de Posten Ank\u00e9, Kenten en Ryswyk, in verband met de uit te voeren waterwerken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

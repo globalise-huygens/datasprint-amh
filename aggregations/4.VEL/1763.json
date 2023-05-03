@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1763.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1eafd9c9-9541-4a38-9caf-9b64701b8c2f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1763.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het gebied tussen de Rivieren Suriname en Saramacca ter hoogte van Paramaribo",
+        "dc:description": "Titel Leupe : Nieuwe Project Plaen van Communicatie van het rivier Serameca en Paramaribo, uitgevonden en ter nedergesteld ingevolge ygene anotatie en opneming in den jaren 1750, 51 en 56.\nDeze kaart laat een projectplan zien voor het gebied gelegen tussen de rivieren Suriname en Saramacca ter hoogte van Paramaribo.\nDit plan omvat o.a. de aanleg van nieuwe wegen en kostgrond met een focus op het achterland van Paramaribo, kreken en verbindingen met de rivier Saramacca.\nDe cijfers 1 t/m 11 met eigennamen in de legenda, corresponderen met de 11 kavels (grond en tuinen) aan de noordzijde van Paramaribo.\nDeze tekening is vrijwel gelijk aan kaart 1764.\nSchaal van 1000 Kettingen a\u0300 65 Rijnlandse voeten = 103 strepen [ca. 1 : 200.000].",
+        "dc:identifier": "VEL1763",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage",
+            "vesting",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "Groot 0.50 - 0.40 In el",
+        "dcterms:date": "1750 -1756",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1968/kaart-van-het-gebied-tussen-de-rivieren-suriname-en-saramacca-ter"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/62/15/c7/89/f9/78/49/b9/8c/33/ac/ca/3c/33/0b/28/730147c7-db1d-411a-b8ce-73082580b3f7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/62/15/c7/89/f9/78/49/b9/8c/33/ac/ca/3c/33/0b/28/730147c7-db1d-411a-b8ce-73082580b3f7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1763.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Nieuwe Project Plaen van Communicatie van het rivier Serameca en Paramaribo, uitgevonden en ter nedergesteld ingevolge ygene anotatie en opneming in den jaren 1750, 51 en 56, door: Nepveu"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

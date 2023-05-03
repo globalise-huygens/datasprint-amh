@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/319.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/92fcb498-4b6d-430d-9b4d-69ed8cb6994b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0319.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Madagascar, met een inzet van het eiland Bourbon",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van het Eiland Madagascar en omliggende Eilandjes.\nNotities verso: 6.B / 15 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0319",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "74 x 52,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6403/kaart-van-madagascar-met-een-inzet-van-het-eiland-bourbon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9f/b8/86/86/3b/6f/45/5a/bb/cc/92/37/a6/32/34/d7/39b419e5-7eca-4ba6-90ee-04c4c28f68d9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9f/b8/86/86/3b/6f/45/5a/bb/cc/92/37/a6/32/34/d7/39b419e5-7eca-4ba6-90ee-04c4c28f68d9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/319.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eiland Madagascar en omliggende Eilandjes."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

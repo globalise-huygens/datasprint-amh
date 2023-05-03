@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1293.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c8bb7590-231d-4d2f-bb11-79e2ca0f1ea7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1293.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Macasser",
+        "dc:title": "Kaart en aanzicht op Macassar",
+        "dc:description": "Titel catalogus Leupe (NA): Caarte ende teykeninge van Macassar, in den jare 1693 door my ondergesz. bereyst, opgesteld ende verdeeld enz., nemende haar begin van de hoek van Tanakeke ofte Ponagoe genaemt, ende koers nemende tot Padangkeke, insgelyks aan de Oostsyde van de hoek van Lassoy ofte Tengielles tot de Groote rivier van Tsindrana Bone strekkende enz..\nLinks en rechts van het midden is kasteel Rotterdam afgebeeld.\nDe achterkant ter versteviging helemaal beplakt.\nNotities verso: 650 [met vette cijfers gestempeld op een etiketje",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1293",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "overzicht / aanzicht",
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "114,5 x 176 cm",
+        "dcterms:date": "1693",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7059/kaart-en-aanzicht-op-macassar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cc/ca/64/e8/20/2e/49/d7/98/73/7c/aa/86/b6/02/cc/8e083445-c172-48cb-b5e8-8b196549c88b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cc/ca/64/e8/20/2e/49/d7/98/73/7c/aa/86/b6/02/cc/8e083445-c172-48cb-b5e8-8b196549c88b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1293.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caarte ende teykeninge van Macassar, in den jare 1693 door my ondergesz. bereyst, opgesteld ende verdeeld enz., nemende haar begin van de hoek van Tanakeke ofte Ponagoe genaemt, ende koers nemende om de Noord tot Padangkeke, insgelyks aan de Oostsyde van de hoek van Lassoy ofte Tengielles tot de Groote rivier van Tsindrana Bone strekkende enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

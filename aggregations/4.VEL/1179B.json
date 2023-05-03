@@ -1,0 +1,56 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1179B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/64b5a84a-0553-4678-b57a-ed0e9f2134fc",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1179b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Afbeelding van stadt Batavia, met het Leeger daerom leggende; gedaen ende uytgegeven door Jacob Cuyck gesworen landm:",
+        "dc:title": "Plattegrond van Batavia en omstreken",
+        "dc:description": "Titel catalogus Leupe (NA): Afbeelding van de stadt Batavia, met het Leeger daerom leggende; gedaen ende uytgegeven door:.\nIn potlood genummerd 1179.\nOp de kaart staat de aantekening dese Cleyne caerte is Corrext, waarschijnlijk een bijschrift van Hessel Gerritsz.\nIn de catalogus Leupe is een verwijzing naar een catalogus van een tentoonstelling Amsterdam 1919 bijgeschreven, alsmede Gravure als copie in F Valentyn en KA 1008 ?.\nNotities verso: Affteeckeninge vant belegh der stad Batavia a 1629 /a [of o] 823 [in potlood] / 50 R. R op 1 duim schaal = rond 1 : 7200 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1179B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "veldslag / oorlog (strijd) / inname",
+            "Persoon",
+            "rede / haven / pier",
+            "schip / vaartuig",
+            "flora",
+            "gebouw",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "32 x 43 cm",
+        "dcterms:date": "1629",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3415/plattegrond-van-batavia-en-omstreken"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/78/ed/83/b3/c7/e3/4a/23/bc/2c/06/c2/03/12/f8/1d/774d7fcc-1af9-4b77-be18-2964d5920f51.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/78/ed/83/b3/c7/e3/4a/23/bc/2c/06/c2/03/12/f8/1d/774d7fcc-1af9-4b77-be18-2964d5920f51.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1179B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

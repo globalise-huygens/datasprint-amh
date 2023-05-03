@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/936.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Salpittie Korls Kaneeltuynen, met dies Hoofdwegen, geleegen in de volgende dorpen en Pattoes enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "936"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/c9e44e90-07c8-4c4c-8f44-a3015effd69a\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/936.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/936.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7427,
+            "width": 18394,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/936.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/936.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ad/82/81/fd/1c/99/40/0c/b7/7f/2c/00/25/ab/56/8c/16406032-46d8-4db5-937a-c20e5c7744ad.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7427,
+                                "width": 18394,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ad/82/81/fd/1c/99/40/0c/b7/7f/2c/00/25/ab/56/8c/16406032-46d8-4db5-937a-c20e5c7744ad.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/936.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

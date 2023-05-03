@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1581.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/14c459ac-008f-4207-b877-02a3e7260d05",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1581.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caart van het beneeden Eynde van de Mond Canjer tot aan de P:L: Johanna Jacoba Gevraagd en door den Edele Hove vergund op den 7e Octobr. 1793 Ats. - J. van Schoonenbeek Geswooren Landmeeter",
+        "dc:title": "Kaart van plantages aan de monding van de rivier Canje",
+        "dc:description": "Titel Leupe: Caart van het beneden eynde van de mond Canje tot aan de plantagie Johanna Jacoba.\nDeze kaart toont negentien plantages aan de Canje kreek ten oosten (rechtsboven van op de kaart) van de Berbice rivier.\nVan twaalf plantages wordt de eigenaar vermeld van een aantal andere de naam van de plantage.\nDe meting is op 7 Oktober 1793 voltrokken.\nEen andere versie van deze kaart, VEL1581A, wordt bewaard in het Nationaal Archief maar is niet apart in deze database opgenomen..\nSchaal van 2000 Rijnlandse roeden = 156 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1581",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.36 - 0.36 El.",
+        "dcterms:date": "1793",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10248/kaart-van-plantages-aan-de-monding-van-de-rivier-canje"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/17/ac/23/00/74/e0/48/84/ad/af/34/46/1b/64/fa/31/4a92d835-0bda-4542-8f0e-cc2bb05b25b0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/17/ac/23/00/74/e0/48/84/ad/af/34/46/1b/64/fa/31/4a92d835-0bda-4542-8f0e-cc2bb05b25b0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1581.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1001A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b403c93b-3438-48b2-b6b6-8c136ec97191",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1001a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan du Fort de Jaffanapatnam",
+        "dc:title": "Plattegrond van het fort te Jaffnapatnam",
+        "dc:description": "Titel catalogus Leupe (NA): Plan du fort de Jaffanapatnam.\nNotities verso: Feuille 8 Plan du fort de Jaffanapatnam relatif aux projets de 1787.\nLegenda: A-N\nPlankaart van de vestingwerken van het fort Jaffanapatnam.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1001A",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "legenda",
+            "landerij / plantage",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "ca. 1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3172/plattegrond-van-het-fort-te-jaffnapatnam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/89/f3/78/33/77/59/44/fc/9f/13/f7/a9/dc/6d/42/1f/659fbc62-ad26-41bb-b3fa-f27d81e57a11.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/89/f3/78/33/77/59/44/fc/9f/13/f7/a9/dc/6d/42/1f/659fbc62-ad26-41bb-b3fa-f27d81e57a11.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1001A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

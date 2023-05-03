@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1468.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan eener Horisontale of laage Battery met een reduit of tooren in dezelve, ter versterking van de bayen als boven, zoo mede voor de Bullebay, Bay van Porto Mary en St. Cruz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1468"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1754"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/d9fc38c7-619f-4764-bb15-98220fd0655c\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1468.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1468.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8827,
+            "width": 12216,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1468.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1468.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f3/d2/7d/d6/a3/3d/43/f0/9f/4c/7f/23/61/3e/d9/d5/e09327d7-5a92-4c63-ba1d-b906ff0b7e07.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8827,
+                                "width": 12216,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f3/d2/7d/d6/a3/3d/43/f0/9f/4c/7f/23/61/3e/d9/d5/e09327d7-5a92-4c63-ba1d-b906ff0b7e07.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1468.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

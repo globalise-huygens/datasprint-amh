@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1253.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/43266895-6aac-4132-b1e4-b810ad7fcfa9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1253.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plaan van het Fort en omleggende Cituatie van Tagal",
+        "dc:title": "Plattegrond van Tegal",
+        "dc:description": "Titel catalogus Leupe (NA): Plaan van het Fort en omleggende Cituatie van Tagal.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nNotities verso: Plaan van het fort en omleggende cituatie van Tagal Ao 1719 [staat zowel aan de linker\nals aan de rechterkant] / No 84 [met vette cijfers op een etiketje] / No. 26 Plan en Situatie van Tagal Register 2 Deel 1 Folio 8 Porte-feul [geschreven op een blauw etiket]  / 626 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1253",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "vesting",
+            "kompas / windroos",
+            "landerij / plantage",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41,5 x 51,5 cm",
+        "dcterms:date": "ca. 1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4093/plattegrond-van-tegal"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/38/3d/2f/fa/69/ac/44/76/9a/f2/94/4e/cc/14/cb/ea/32d60ca6-d0be-487e-9294-84fb974a1bb3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/38/3d/2f/fa/69/ac/44/76/9a/f2/94/4e/cc/14/cb/ea/32d60ca6-d0be-487e-9294-84fb974a1bb3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1253.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van het Fort en omleggende cituatie van Tagal."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

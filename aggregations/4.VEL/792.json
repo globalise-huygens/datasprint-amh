@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/792.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1b260b84-599f-4ea8-8824-65610f59c2c7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_792.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van het fort Goede Hoop in Bercou",
+        "dc:description": "Plattegrond van het fort Goede Hoop in Bercou.\nTitel catalogus Leupe (NA): Plan van Fort Goede Hoop tot Bercoe.\ngront van t'huijs 60 voet lang en 12 vt: breet binnen werck.\nRechtsboven: 792 / Bercoe [in potlood].\nRechtsboven genummerd 74, dat moet het folionummer in de band zjin.\nDe beschrijving in de inventaris Leupe heeft betrekking op VEL 791.\nNotities verso: N 518a / 73 [in potlood, folionummer in de band ?].\nLinksonder: 74.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0792",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "32,5 x 41,5 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1343/plattegrond-van-het-fort-goede-hoop-in-bercou"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2a/19/d3/98/81/95/43/1f/b4/8e/e1/ef/13/21/6f/f4/452733dc-fa5b-4a02-bb04-35cd4346a902.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2a/19/d3/98/81/95/43/1f/b4/8e/e1/ef/13/21/6f/f4/452733dc-fa5b-4a02-bb04-35cd4346a902.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/792.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van 't Fort Berkoe."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

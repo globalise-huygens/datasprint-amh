@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/974.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Hoofdplan der verbeeteringen, welke volgens de bepaalingen gemaakt door de H.H. Vaillant, Verhuell en Greyvensteyn, Commissarissen-Militair enz., aan de vestingwerken des Casteels Colombo, dienden uitgevoerd te worden."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "974"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/d8f4f1b0-14aa-4b7d-a163-563af1908409\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/974.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/974.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8686,
+            "width": 12029,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/974.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/974.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/cd/30/11/4f/57/51/46/c8/af/a2/68/31/8a/29/9e/0b/cd00895f-3ae6-4f34-9ed0-cec23f9b6147.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8686,
+                                "width": 12029,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/cd/30/11/4f/57/51/46/c8/af/a2/68/31/8a/29/9e/0b/cd00895f-3ae6-4f34-9ed0-cec23f9b6147.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/974.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

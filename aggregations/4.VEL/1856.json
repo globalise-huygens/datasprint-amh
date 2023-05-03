@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1856.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/59e30cc6-dd17-4810-aeae-5a1d66638925",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1856.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kavels gelegen tussen Belgarde en het geplande kanaal bij de Leyde redoute",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien, van Belgarde tot aan het geprojecteert Canaal by de redout Leyden.\nDeze kaart toont verschillende kavels ten noorden (onder in de kaart) van de Commewijne Rivier en de Leyde redoute alsook het geprojecteerde kanaal dat ten westen (rechts op de kaart) moet worden aangelegd.\nDe eerste gronden in dit gebied werden kort voor het midden van de achttiende eeuw uitgegeven.\nAl voor ca. 1757 begon hier ook de ontginning van de laaggelegen delen verder van de rivier vandaan, het eerst langs de Warapa\nen de Matapicakreek, waarvoor het echter noodzakelijk was op uitgebreide schaal afwaterings\nen toevoerkanalen te graven.\nDeze kaart geeft een van de geplande kanalen weer.\nDe getoonde kavels zullen baat hebben bij dit kanaal en zijn allen met eigenaam genoemd.\nDe achterlanden van de kavels zijn met een stippellijn onderscheiden van de kavel zelf, bij drie achterlanden staat vermeld dat bij de Resolutie van Heeren Directeuren van 18de Aug. 1730 de consessie van deze achterlanden, maar gedeeltelijk goed gekeurd is.\nAllen stukken grond zijn gemeten en de meest westelijke (rechts op de kaart) bevatten hun omvang in Surinaamse akkers (0,43 hectare per akker).\nDe Leyde redoute is weergeven ter ori\u00ebntatie.\nSchaal van 200 Kettingen \u00e0 66 Rijnlandse voeten = 245 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1856",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.49 - 0.63 El.",
+        "dcterms:date": "ca. 1750-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2201/kaart-van-kavels-gelegen-tussen-belgarde-en-het-geplande-kanaal-bij"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5c/1b/7b/09/ae/a6/4d/b0/9c/81/4a/92/05/54/2e/1e/539ad570-782e-4c86-8f6d-a664a3cece4f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5c/1b/7b/09/ae/a6/4d/b0/9c/81/4a/92/05/54/2e/1e/539ad570-782e-4c86-8f6d-a664a3cece4f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1856.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien, van Belgarde tot aan het geprojecteert Canaal by de redout Leyden."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

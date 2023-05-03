@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1962A.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Schetskaarten van eenige stukken land, gelegen aan de bovenlyn van de Plantagie de Dankbaarheid, met uitgebreide omschrijving van de ligging."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1962A"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f547c5da-d4d3-4292-81bd-cd60641c5f98\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1962A.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1962A.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6176,
+            "width": 8074,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1962A.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1962A.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/72/b9/52/00/4b/27/46/53/8d/3b/58/7b/b0/ee/33/6e/00038b9c-a4f9-433f-856c-fc31a9f367ab.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6176,
+                                "width": 8074,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/72/b9/52/00/4b/27/46/53/8d/3b/58/7b/b0/ee/33/6e/00038b9c-a4f9-433f-856c-fc31a9f367ab.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1962A.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1647.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/733401ec-77ed-4c62-b6f7-c9a1e27469f0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1647.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "[lower left] a key to the letters A to M : \nExplicatie. \nA: De Redoutte.\nB: het Profil. \nC: Een Couvette: waerdoor het Waeter uyt de Kreeken D. en E: afgelaeten, om de Plaets verhoogen te konnen, dat men de Borstweering heft kunnen op setten. \nF: Reformeerte Kerk. \nG: Huijs van den K\u00f6ster. \nH: Comboijs van denselven. \nI: steenweeg: van stelling L: nae de Kerk, en het Huijs van den K\u00f6ster. \nM: Daer is het Huijs van den Dominee. \nK: Oranien Hoof.",
+        "dc:title": "Ontwerp voor een redoute tussen de rivier Berbice en de kreek Wironje",
+        "dc:description": "Titel Leupe: Plan van de redoute aan de Kreek Wironji in Rio de Berbice.\nAls laatste versterking stroomopwaarts vanaf Fort Nassau is op deze situatiekaart van de vaandrig Johan Frederik Kurtzius uit 1764 de ge\u00efmproviseerde kleine schans of redoute (A) aan de monding van de Wiruni afgebeeld, gelegen pal naast de oudere gereformeerde kerk (F) en het kosterhuis (G) ter plaatse.  Kurtzius heeft een simpele redoute ontworpen met een conventionele vorm.\nHet noorden is rechtsboven.\nSchaalstokken van 84 Voet of 7 Roeden Rhijnlands = [ca. 1 : 370] / [profiel] 24 voet Rhijnlands = [ca. 1 : 160].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1647",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "redoute",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "38,5 x 47 cm.",
+        "dcterms:date": "ca. 1764",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10287/ontwerp-voor-een-redoute-tussen-de-rivier-berbice-en-de-kreek-wironje"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cc/b9/58/e9/94/6d/4c/28/a7/9e/2a/5f/a0/8a/26/31/f7aacd30-ec4c-42ab-8811-c0e568b2bf90.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cc/b9/58/e9/94/6d/4c/28/a7/9e/2a/5f/a0/8a/26/31/f7aacd30-ec4c-42ab-8811-c0e568b2bf90.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1647.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de redoute aan de Kreek Wironji in Rio de Berbice."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

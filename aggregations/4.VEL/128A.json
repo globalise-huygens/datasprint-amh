@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/128A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c4cabb46-fd3a-4231-a5e5-57a30f78beb4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_128a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de rivier Gambia",
+        "dc:description": "Titel Leupe:  Pascaerte van Rio Gambia, van Cabo Verde tot Rio de Serreliones.\nDeze kaart toont een gedeelte van de zogenoemde Bovenkust, het noordelijke deel van de West-Afrikaanse kust waar al ruim voor de oprichting van de WIC Nederlandse kooplieden actief waren. Aangezien de uitgever en cartoograaf zich beroept op zijn patent in de banderol, kan deze kaart gedateerd worden in de jaren 1680-1695, met hoge waarschijnlijkheid als deel van zijn Zee-Fakkel-atlassen die tussen 1681 en 1684 gedrukt zijn. De Bovenkust omvatte ruwweg de tegenwoordige staten Mauritani\u00eb, Senegal, Gambia, Guinee-Bissau, Guinee, Sierra Leone en Liberia. Door de Portugezen was in 1448 op het eiland Arguim, nu meer algemeen Arguin genaamd, voor de kust van Mauritani\u00eb een versterking aangelegd, die in 1633 door de Nederlanders werd veroverd. In Joal-Fadiout en Portudal op het vasteland ten zuiden van Kaap Verde waren sinds ongeveer 1596 agenten van het Zeeuwse handelshuis van Balthasar de Moucheron gevestigd; anderen volgden in hun voetspoor. Desondanks veraad de kaart een gebrekkig inzicht op het gebied. De monding van de Gambiarivier, bijvoorbeeld, is veel te breed. Wel zijn de kuststeden uitgebreid weergegeven. Hoogstwaarschijnlijk stamt de kaart af van de anonieme schetsen gemaakt van het gebied tussen 1600 en 1635, die te vinden zijn in de Bbibliotheque Nationale de France onder nummer DCP GE SH 18 PF 111 DIV 2 P 5 RES. Gerard van Keulen maakte een aantal decennia later ook gebruik van deze schetsen.\nHet noorden is links.\nVerschillende mijlschalen. Duitse mijlen 15 in een graad.",
+        "dc:type": "drukwerk",
+        "dc:identifier": "VEL128A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.505 - 0.575 El.",
+        "dcterms:date": "1680-1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6168/kaart-van-de-rivier-gambia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1c/80/74/f6/e7/d8/47/a5/8f/5a/44/7e/f0/54/32/49/e960bf34-33ed-4eca-899e-42faa9d57f26.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1c/80/74/f6/e7/d8/47/a5/8f/5a/44/7e/f0/54/32/49/e960bf34-33ed-4eca-899e-42faa9d57f26.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/128A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

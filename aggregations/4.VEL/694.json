@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/694.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/15ebf051-6282-4c83-88f5-67277c06d275",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_694.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Braziliaanse kustlijn",
+        "dc:description": "Kaart van de Braziliaanse kustlijn.\nTitel in Catalogus Leupe (NA): Kaart als voren, tusschen Phernambuco en J. de st. Alexia.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0694",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "50 x 37,5 cm",
+        "dcterms:date": "17e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7389/kaart-van-de-braziliaanse-kustlijn"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/dd/da/e7/80/27/c0/4e/fd/ab/66/e6/26/13/d9/ff/59/d030a3f0-2e86-4c08-bf74-5fa5e7134ba9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/dd/da/e7/80/27/c0/4e/fd/ab/66/e6/26/13/d9/ff/59/d030a3f0-2e86-4c08-bf74-5fa5e7134ba9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/694.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Pas Kaart van de Zeekusten van Brazilia, tusschen Phernambuco en J. de St. Alexia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

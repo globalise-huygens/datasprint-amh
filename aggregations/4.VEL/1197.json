@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1197.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9f3147e4-a4e1-4256-b77e-05ec5ead65ea",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1197.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Copie Nr 2 L. B Eerst Project plan om Batavia te versterken",
+        "dc:title": "Plattegrond van Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Eerst project-plan van Batavia.\nDatering: 1762 [het origineel] en 1764 [deze kopie]\nBijzonderheden: het betreft hier een kopie.\nHet vignet is getekend door Johannes Rach in 1764.\nNotities verso: Copie Littera B. No. 2. [twee keer, boven en beneden].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1197",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "Persoon",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "102 x 52 cm",
+        "dcterms:date": "1761",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/532/plattegrond-van-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/69/d2/13/54/b1/ee/4c/28/84/cf/e1/7e/1b/2e/a1/68/30974005-55aa-41d4-918c-4d81d86d3cfb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/69/d2/13/54/b1/ee/4c/28/84/cf/e1/7e/1b/2e/a1/68/30974005-55aa-41d4-918c-4d81d86d3cfb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1197.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Eerst project-plan van Batavia, te versterken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

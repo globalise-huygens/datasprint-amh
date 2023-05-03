@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/161.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d9164548-9e01-436e-8afc-ddc3338e534d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_161.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Pascaert van de Costa de Caffres, Tusschen Cabo Negro en Cabo de bona Esperan\u00e7a",
+        "dc:title": "Kaart van de Afrikaanse kust tussen Cabo Negro en Kaap de Goede Hoop",
+        "dc:description": "Kaart van de Afrikaanse kust tussen Cabo Negro en Kaap de Goede Hoop.\nOp de inzet staat de Saldanhabaai.\nTitel catalogus Leupe: Pascaert van de Costa de Caffres, tusschen Cabo Negro en Cabo de Bona Esperan\u00e7e.\nPascaert van de Costa de Caffres, Tusschen Cabo Negro en Cabo de bona Esperan\u00e7a.\nUitgegeven door Johannes van Keulen.\nMet stempeltje Marine.\nDe kaart is op blauw papier geplakt.\nNotities verso: 17 / 12 [op een klein etiketje].\nOp diverse plekken op de kaart: 161 [in potlood].",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0161",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "Persoon",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "fauna"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "56 x 65,5 cm",
+        "dcterms:date": "1653/4 - 1715",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2791/kaart-van-de-afrikaanse-kust-tussen-cabo-negro-en-kaap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7b/fe/05/0d/25/98/46/71/ba/69/4a/b0/24/a3/7e/16/dc7bc95a-73aa-420d-bd01-b31fcd66c529.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7b/fe/05/0d/25/98/46/71/ba/69/4a/b0/24/a3/7e/16/dc7bc95a-73aa-420d-bd01-b31fcd66c529.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/161.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

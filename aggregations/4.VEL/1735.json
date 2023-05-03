@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1735.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/deb564f9-f5d1-4955-a6b0-98b0093b5eba",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1735.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Vollenhove aan de Parakreek",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie Vollenhove.\nDeze meting van de plantage Vollenhove aan de Para kreek is uitgevoerd in opdracht van de eigenaar ervan, de weduwe van Johan Adams. De meetpost die hier aangeduid is met de letter A (rechts op de kaart) was eerder door Roeland de Meester foutief geplaatst; zoals in de aantekening onder op de kaart is beschreven is de zuidgrens van de plantage (rechts op de kaart) aangepast. De omvang van alle percelen samen blijkt 1285 Surinaamse akkers, oftwel 552,55 hectare. Het terrein is bestaat uit bos, moeras, en een savanne en bevat twee gebouwen en paden. Ten noorden ligt de plantage Tapibo en ten oosten de plantage Vrijheijt. De kaart is ondertekend op 13 maart 1733.\nHet noorden is linksboven.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 150 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1735",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.28 El.",
+        "dcterms:date": "1733",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10416/kaart-van-de-plantage-vollenhove-aan-de-parakreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f3/23/1a/06/5d/1c/45/71/a8/20/6e/5d/33/51/55/12/6cb8f16c-c4ed-429f-8ee6-876660e7b01d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f3/23/1a/06/5d/1c/45/71/a8/20/6e/5d/33/51/55/12/6cb8f16c-c4ed-429f-8ee6-876660e7b01d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1735.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagie Vollenhove."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1441A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a086135f-a332-420e-b4a4-0ca4138d1a2e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1441a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [centre] an extensive description in continuation of the title, not transcribed.",
+        "dc:title": "Projectplan voor verdedigingswerken van Willemstad",
+        "dc:description": "Titel Leupe: Plan van de Willemstad en het fort Amsterdam op het Eyland Cura\u00e7ao, met de nieuwe geprojecteerde werken enz.\nNaar aanleiding van de rapportages door kapitein-ter-zee Cornelis Schrijver in 1737-1738 met betrekking tot de staat van defensie op Cura\u00e7ao, werden in de Republiek nog in 1738 plannen uitgewerkt in diverse varianten voor uitbreiding van de verdedigingswerken. Naast versterking van de oostzijde van de stad door de aanleg van een voorwal met grote nieuwe bastions (N) en vergroting van de bestaande \u2018forten\u2019 Schrikkenburg (C, L) en Bloedfort (B, K), stelde Hertell voor het bolwerk Halve Maan aan de zuidkant van Fort Amsterdam sterk te vergroten (F, O) en een op zichzelf staand voorfort op de punt (P) aan te leggen. Genoemd worden verder de bestaande bastions Oranje (A), De Kat (D), Vlaggestok (E) en Nieuwe Batterij (G), het Waterfort of Lage Batterij (H), en bastion De Klok (I, foutief aangeduid als Bloedfort).\nSchaalstokken van 700 Rynlantze Voeten = [ca. 1 : 1.350] / [profiel] 50 Rijnlantze Voeten = [ca. 1 : 75].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1441A",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "71 x 53,5 cm.",
+        "dcterms:date": "1738",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1595/projectplan-voor-verdedigingswerken-van-willemstad"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/89/a0/14/ad/00/09/49/6c/ae/3a/bf/9f/85/1f/5e/0a/0f2d1a23-c813-406b-ab19-4f312cbe5043.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/89/a0/14/ad/00/09/49/6c/ae/3a/bf/9f/85/1f/5e/0a/0f2d1a23-c813-406b-ab19-4f312cbe5043.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1441A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

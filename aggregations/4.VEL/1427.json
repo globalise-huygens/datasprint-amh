@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1427.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fe09ae8f-d93c-4e06-98dc-63b05e0fa2d7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1427.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [upper right] a key to the letters A to K : \nRenvoij. \nA. Huijs Van den Commandant. \nB. Het Raed Huijs. \nC. De Poort, alwaer op Weers Kanten Gevangen Huijsen zijn, en daerbooven de Woening van den Constabel. \nD. Cassernen. \nE. Reegen Bak. \nF. Het Kruijt Magazijn. \nG. De Flaage. \nH. De Berg waer het Fort, op, is. \nI. De Baij welke met Pak en woenhuijsen bebauwt is. \nK. De Rheede, waer de Scheepen ten Anker Leegen.",
+        "dc:title": "Plattegrond  van fort Oranje op Sint Eustatius",
+        "dc:description": "Titel Leupe:  Plan van het fort Oranien op het Eyland St. Eustatius.\nDeze kaart is een van de twee enige bewaard gebleven plattegronden uit de tijd van de Nieuwe WIC die het hoofdfort Oranje, in het tegenwoordige Oranjestad, in enig detail weergeven. Deze versterking werd in de oorspronkelijke vorm aangelegd in 1636, waarbij gebruik gemaakt kon worden van de fundamenten van een ouder Frans fort. Sint Eustatius was toen als patroonschap uitgegeven aan Pieter van Corselles, een Zeeuw van Vlaamse afkomst die enkele jaren eerder ook betrokken was geweest bij de Zeeuwse kolonisatie van Tobago. Onder zijn leiding kreeg Fort Oranje gestalte op een vierhoekig grondplan met vier puntbastions. De eeuw hierop verviel het fort echter, totdat vanaf 1737 nieuwe renovaties werden uitgevoerd. Deze schets is gemaakt na de renovaties die naar aanleiding van de Zevenjarige Oorlog onder commandeur Jan de Windt jr. in 1755-1757 plaatsvonden. Deze kaart geeft de situatie weer bij de afronding van de werkzaamheden in 1757, zoals blijkt uit de vermelding van de in dat jaar aangelegde konstabelswoning met de gevangenkamers.\nHet noorden is links boven.\nSchaalstok van 100 Passen = [ca. 1 : 600].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1427",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "berg"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "36 x 44 cm.",
+        "dcterms:date": "ca. 1757",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2151/plattegrond-van-fort-oranje-op-sint-eustatius"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6f/f5/ba/37/41/67/42/d5/83/1a/65/4f/19/0c/e0/3f/7f09b318-6465-4c8f-aaa4-776540e69386.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6f/f5/ba/37/41/67/42/d5/83/1a/65/4f/19/0c/e0/3f/7f09b318-6465-4c8f-aaa4-776540e69386.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1427.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort Oranien op het Eyland St. Eustatius."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

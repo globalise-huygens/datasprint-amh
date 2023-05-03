@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1822.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/743f13a9-d954-4b31-9aef-cb89b9d4390d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1822.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van (on-)bewerkte landen rond het fort Nieuw Amsterdam",
+        "dc:description": "Titel Leupe: Kaart van de onbewerkte landen van het fortres N. Amsterdam, besloten tusschen de Plantages Soelen, Voorburg enz.\nDeze kaart toont de ligging van bewerkte en onbewerkte stukken land rond het fort Nieuw Amsterdam.\nIn het stuk land ten Noordoosten van het fort staat geschreven:Schyven tot \u2019t Excerceeren met Canonnnen en Mortieren.\nTwee schijven zijn ingetekend en de plaats van de kanonnen in het fort is gemarkeerd.\nDe kaart is voorzien van aantekeningen.\nSchaal van 32 Kettingen = 103 strepen.\nZie ook kaart VEL 1821.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1822",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.57 - 0.50 El.",
+        "dcterms:date": "1789",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1974/kaart-van-on--bewerkte-landen-rond-het-fort-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/08/a1/67/3e/58/47/44/ad/a3/25/2d/d2/11/4a/8f/d0/bfbdd736-3244-4376-881b-3cc08019e1c9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/08/a1/67/3e/58/47/44/ad/a3/25/2d/d2/11/4a/8f/d0/bfbdd736-3244-4376-881b-3cc08019e1c9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1822.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de onbewerkte landen van het fortres N. Amsterdam, besloten tusschen de Plantages Soelen, Voorburg enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

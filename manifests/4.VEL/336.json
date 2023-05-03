@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/336.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Fac-Simile van de Eilanden St. Paulo en Nieuw Amsterdam uit het Journaal van den Directeur Generaal en Eerste Raad van Indie, Anthonio van Diemen, van zyne reis naar Indie."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "336"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1632/1633"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/fec43b2f-26b7-43ac-923a-6e00ea14ba37\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/336.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/336.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5763,
+            "width": 4169,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/336.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/336.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/68/be/57/c9/41/d4/40/25/96/70/3f/43/82/13/70/b1/0799694b-246d-4c63-af23-535b213f0958.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5763,
+                                "width": 4169,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/68/be/57/c9/41/d4/40/25/96/70/3f/43/82/13/70/b1/0799694b-246d-4c63-af23-535b213f0958.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/336.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

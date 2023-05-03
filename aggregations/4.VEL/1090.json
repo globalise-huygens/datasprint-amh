@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1090.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0ee0a2ce-3814-4ea5-9048-1972075786cf",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1090.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Platte grond van het fort Geldria tot Palliacatta",
+        "dc:title": "Plattegrond van het fort Geldria te Palliacatta",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van het fort Geldria tot Palliacatta.\nSchaale van de Profil 60 Rijnl. voeten; omgerekende schaal [1 : 198].\nOnderaan is een strook van 12 cm aan de rest van de kaart geplakt.\nLegenda: 1-42; A-S;\nNotities verso: 591a / 1400 [zou een folionummer kunnen zijn].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1090",
+        "dc:subject": [
+            "vesting",
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "62,5 x 81 cm",
+        "dcterms:date": "juni 1708",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/675/plattegrond-van-het-fort-geldria-te-palliacatta"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/de/9c/a0/af/c4/b8/41/e7/94/2c/8c/f3/fa/54/c3/fb/69b63e03-6079-46c3-bc6e-49eb80fe1570.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/de/9c/a0/af/c4/b8/41/e7/94/2c/8c/f3/fa/54/c3/fb/69b63e03-6079-46c3-bc6e-49eb80fe1570.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1090.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van het fort Geldria tot Palliacatta."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

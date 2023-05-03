@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1403C.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1fc48e4c-6bf2-47f1-9388-285e0e3f427b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1403c.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Virginia en Maryland, blad 4",
+        "dc:description": "Titel Leupe: A Map of the most inhabited part of Virginia, containing the whole Province of Maryland with part of Pensilvania, New-Jersey and North Caroline. Drawn by Joshua Try and Peter Jefferson in 1775.\nDit is een blad van de eerste kaart die de koloniale infrastructuur van Virginia toont en een gedetailleerd overzicht geeft van de Blue Ridge bergen. De schets voor deze kaart was al in 1751 gemaakt als onderdeel van een nieuwe beleid om landmeting toe te passen om Franse grensoverschrijding te betrappen. Sinds 1755 is de kaart acht keer gedrukt; dit exemplaar is van de zesde druk. De kaart geeft een overzicht van plantages, dorpen, rivieren en steden in dit gebied. Daarnaast geeft het ook een indruk van de toenemende industrie\u00ebn van deze provincies waaronder de tabak. Het tabaksmagazijn en de werf getekend in de cartouche geven aan hoe belangerijk deze industrie aan het worden was.\nDit is het kaartblad rechtsonder, en toont de mond van Chesapeake Bay met onder andere Jamestown.\nSchaal van 30 M. = 74 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1403C",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kolonie / dorp",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.395 - 0.615 El.",
+        "dcterms:date": "1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10328/kaart-van-virginia-en-maryland-blad-4"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3d/c3/f5/0e/cc/19/4a/df/91/06/94/2d/8f/8b/af/72/2290b70e-f92a-406b-9aaa-21376f9e210d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3d/c3/f5/0e/cc/19/4a/df/91/06/94/2d/8f/8b/af/72/2290b70e-f92a-406b-9aaa-21376f9e210d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1403C.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 4"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

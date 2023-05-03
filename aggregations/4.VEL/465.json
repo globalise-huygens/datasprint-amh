@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/465.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2a1f1870-b05a-443e-890d-1f6271566334",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0465.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Celebes oostcust",
+        "dc:title": "Kaart van de oostkust van Celebes",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart van de Oostkust van Celebes), van Straat Bouton tot Cabo Falla Boea (Talabo of Taljabo).\nRechtsboven genummerd: 17.b.\nNotities verso: D'Oostcust van Celebes vande Straat van Bouton af tot Rio Balanta / D'Oostcust van Celebes), beseylt met de Hoeker de Brandgans anno 1682.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0465",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5646/kaart-van-de-oostkust-van-celebes"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8f/da/ae/76/90/2f/4f/03/a2/4e/94/e2/6c/97/4d/45/78627308-64e7-4fa4-ad8f-c12efe3982e6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8f/da/ae/76/90/2f/4f/03/a2/4e/94/e2/6c/97/4d/45/78627308-64e7-4fa4-ad8f-c12efe3982e6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/465.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Oostkust van Celebes, van Straat Bouton tot Cabo Falla bo\u00eba (Talabo of Taljabo)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

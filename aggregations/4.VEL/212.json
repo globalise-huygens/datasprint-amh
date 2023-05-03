@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/212.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6cf5deeb-79e7-4dce-9305-9be12477853a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0212.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Mosanbique",
+        "dc:title": "Kaart van een deel van Mozambique",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van een gedeelte van de Kust bij Mozambique, ter hoogte van 18 graden Z.Br. met de rivier Quelimana, waar het schip Baarsande in het jaar 1711 is verzeilt.\nAantekening catalogus Leupe: De Schipper was Gysbert Steen.\nFormaten: 105 x 97,5 cm [exclusief de strook met de Tafelberg] / 171 x 97,5 cm [inclusief de strook met de Tafelberg].\nDe strook met de Tafelberg, die zich aan de bovenkant van de kaart bevindt, is 46 cm breed.\nNotities verso: overgekomen van Ceilon 1 nov 1713 N 946 [in potlood, voor overgekomen staat nog een onleesbaar woord].\nNo 63 [waarschijnlijk het volgnummer van het stuk in de band OBP].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0212",
+        "dc:subject": [
+            "kompas / windroos",
+            "schip / vaartuig",
+            "huis / woonhuis",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "105 x 97,5 cm",
+        "dcterms:date": "ca. 1713",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2583/kaart-van-een-deel-van-mozambique"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/02/a6/6a/eb/c1/fe/4a/d4/a4/4b/42/9d/11/1d/8a/81/60e70a4c-ee1a-4985-9449-cf59b071c9f6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/02/a6/6a/eb/c1/fe/4a/d4/a4/4b/42/9d/11/1d/8a/81/60e70a4c-ee1a-4985-9449-cf59b071c9f6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/212.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de Kust bij Mozambique ter hoogte van 18\u00ba Z. Br. Met de rivier Quelimana, waar het schip Baarsande in het jaar 1711 is verzeilt."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

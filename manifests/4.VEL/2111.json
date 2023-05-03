@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2111.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van 't Cordon van defensie en de situatie van 't terrein, getrocken om de Colonie van Surinaame, of een half uur gaans regts en links van de lyn tans in het werck synde enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2111"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1700/1800"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/4f186b3b-a574-4f79-acec-046666425625\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2111.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2111.json#canvas/p1",
+            "type": "Canvas",
+            "height": 23394,
+            "width": 18999,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2111.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2111.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/af/ac/d3/46/39/43/4d/cf/84/8d/b6/bc/36/b7/24/e3/6bbe9456-a379-4938-9a95-d7d94f1e183f.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 23394,
+                                "width": 18999,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/af/ac/d3/46/39/43/4d/cf/84/8d/b6/bc/36/b7/24/e3/6bbe9456-a379-4938-9a95-d7d94f1e183f.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2111.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

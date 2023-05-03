@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/172.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cc0118c3-58c9-432c-b890-46e1e00fc1e8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0172.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Saldanhabaai",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Saldanhabay met de daarin liggende Eilandjes enz..\nOp linnen geplakt, waarschijnlijk wegens de materi\u00eble staat met scheurtjes en gaten op de middenvouw.\nLegenda: E-Y\nNotities verso: Uit Brieven en papieren van de Kaap 1660 overgek boek no. 3 / Voor Amsterdam No. 26 / Leupe 172.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0172",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier / linnen",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "40 x 52 cm",
+        "dcterms:date": "ca. 1660",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5228/kaart-van-de-saldanhabaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cc/b8/14/8d/75/9f/45/c3/a9/96/c9/91/74/46/5b/b3/92743f19-9af4-40c9-ae29-d1a2b0358f13.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cc/b8/14/8d/75/9f/45/c3/a9/96/c9/91/74/46/5b/b3/92743f19-9af4-40c9-ae29-d1a2b0358f13.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/172.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Saldanhabay met de daarin liggende Eilandjes enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

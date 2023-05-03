@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1548.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c283dc67-20a9-4f12-80ec-97f2dad36151",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1548.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Fait par les Arpenteurs v.d. Burght & Chollet, d\u2019apr\u00e8s les orders de S.E: Monsieur le Gouverneur General; & Dress\u00e9e par le soussign\u00e9 Arpenteur Jur\u00e9; A Demerary le 27 Juin 1794 L.s Chollet :\n[kop 2]Essequibo, Demerara - overzichtskaarten / general maps",
+        "dc:title": "Kaart van de kreek Wakapau",
+        "dc:description": "Titel Leupe: Carte du relev\u00e9 de la crique de Wakapoe.\nDeze schetskaart van de Wakapaukreek (\u2018Wakapoe Creek\u2019) is gemaakt onder het gouverneurschap van Willem August Sirtema, baron van Grovestins (1791-1795).\nIets stroomopwaarts ten zuiden van de rivier Pomeroon wordt een nederzetting van de Warau, de oorspronkelijke bevolking van dit gebied, vermeld. Verder is tijdens het opvaren gelet op bebossing, velden en de breedte van de kreek.\nVoor deze kaart werkte Chollet samen met de landmeter J. van der Burght, van wie ook een overzichtskaart van Essequibo bestaat; zie NA 4.AANW1473.\nSchaalstok van 1000 Roeden = 102 strepen. [ca. 1 : 36.600].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1548",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.29 - 0.27 El. (39 x 31 cm.)",
+        "dcterms:date": "1794",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10245/kaart-van-de-kreek-wakapau"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3b/01/6b/48/69/48/49/c6/81/d3/2d/06/a3/51/ed/4a/64f7364e-d1e1-44ca-a6ad-2ed626434dec.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3b/01/6b/48/69/48/49/c6/81/d3/2d/06/a3/51/ed/4a/64f7364e-d1e1-44ca-a6ad-2ed626434dec.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1548.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte du relev\u00e9 de la crique de Wakapoe."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

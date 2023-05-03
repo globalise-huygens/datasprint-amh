@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1168.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1f63e1fe-a21e-434c-aee3-60cd9576805b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1168.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Edele hoog agtbare m: Willem van Outhoorn gouverneur generaal van nederlands India [...]",
+        "dc:title": "Kaart van een deel van de 'Bataviasche Groote Rivier' ofwel de Ciliwong",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van het land tusschen Koedongwiringin en Gounong Pangorango, tot het onderzoeken van den staat der Bataviasche Groote Rivier.\nNotities verso: No. 25. de bergen Pangerano en Salak, buijten Batavia / 623 [met vette cijfers gestempeld op een etiketje] / 56 [geschreven op een klein rond etiketje].\nWeergegeven is het gebied rondom Bogor (ofwel Buitenzorg, deze naam staat niet als zodanig op de kaart vermeld) waar de Ciliwong en de Tangerangse Rivier dicht bijeen komen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1168",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "62,5 x 82 cm",
+        "dcterms:date": "1701",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5186/kaart-van-een-deel-van-de-bataviasche-groote-rivier-ofwel-de-ciliwong"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2c/fa/98/62/26/0b/41/de/98/d2/dc/f6/64/ff/a7/49/25019e22-5eab-45f8-8587-abe9c98cf124.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2c/fa/98/62/26/0b/41/de/98/d2/dc/f6/64/ff/a7/49/25019e22-5eab-45f8-8587-abe9c98cf124.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1168.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het land tusschen Koedongwiringin en Gounong Pangorango, tot het onderzoeken van den staat der Bataviasche Groote Rivier."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

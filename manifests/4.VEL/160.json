@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Kust van Afrika, tusschen Sierras de St. Thom\u00e9 en Cabo de Bona Esperan\u00e7a."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "160"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1670"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/23f8fca9-8053-452f-aa6f-f1cb78614a2b\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/160.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json#canvas/p1",
+            "type": "Canvas",
+            "height": 11884,
+            "width": 8389,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/2c/ec/e5/af/d3/f7/4b/49/a3/bc/a6/2e/0e/2c/f0/35/a3610e57-4dc0-4f0b-9407-c9ab3e4db376.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 11884,
+                                "width": 8389,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/2c/ec/e5/af/d3/f7/4b/49/a3/bc/a6/2e/0e/2c/f0/35/a3610e57-4dc0-4f0b-9407-c9ab3e4db376.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

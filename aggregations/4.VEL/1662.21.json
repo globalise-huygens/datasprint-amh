@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.21.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ec3e87ee-1df3-4c7a-8020-4730e3749c8d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_21.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Tekeningen van de balkconstructies voor het nieuwe gouvernementscomplex",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nDeze schets behoort tot de ontwerpen die Abraham van der Hart in de jaren 1779-1781 voor de Soci\u00ebteit van Berbice maakte. Het hier getoonde ontwerp voor de balkenconstructie zal gebruikt worden voor het onderkomens van de officieren en soldaten dat met de nummers 2 en 3 staat aangeduid op van der Hart\u2019s grote overzichtsplan voor het nieuwe gouvernementscomplex op kaart VEL1662.42. De schets onder bevat ook twee profielen van het dak.\nWegens de Britse bezetting van Berbice in maart 1781, kon dit plan niet direct worden overgezonden. Nadat Berbice in 1784 aan de Soci\u00ebteit was teruggegeven, volgden al in het jaar daarop de eerste plannen voor een geheel nieuwe hoofdplaats aan de samenvloeiing van de Berbice en de Canje, waarmee Van der Harts project van 1779-1781 definitief van de baan was.\nSchaal: 70 Rijnlandse voet = 12 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.21",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7563/tekeningen-van-de-balkconstructies-voor-het-nieuwe"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d1/e6/b2/c9/65/75/45/78/bd/12/3e/f8/f2/d6/d7/04/39f1282c-4356-4c75-8b54-4c28febd8ed7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d1/e6/b2/c9/65/75/45/78/bd/12/3e/f8/f2/d6/d7/04/39f1282c-4356-4c75-8b54-4c28febd8ed7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.21.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 21"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

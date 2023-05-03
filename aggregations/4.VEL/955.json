@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/955.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3362df9a-d877-4e32-a1bf-80605bd89efc",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0955.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Profilen van de Wegen en Hoogtens op de Situatie Kaart rond T' Kasteel Kolombo en buyten de Oude Stadspoort staan",
+        "dc:title": "Profielen van de wegen van het kasteel van Colombo",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Profilen van de wegen en hoogtens, die op de situatie-kaart rond 't Kasteel Kolombo en buyten de oude Stadspoort staan.\nMet stempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nRechtsonder genummerd: No. 4.\nNotities verso: No. 8 Profilen van de Weegen en Hoogten om het Casteel van Colombo. Register 4, Deel 1, Folio 11, Portefeuille .. [geschreven op een blauw etiket].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0955",
+        "dc:subject": [
+            "vesting",
+            "doorsnede / profiel",
+            "overzicht / aanzicht",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "79,5 x 484 cm",
+        "dcterms:date": "1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/806/profielen-van-de-wegen-van-het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/98/e8/f7/4a/dc/ad/44/eb/a8/6b/ef/ca/a6/d5/60/8c/ed046331-f919-4746-b12a-5b7c0399ea54.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/98/e8/f7/4a/dc/ad/44/eb/a8/6b/ef/ca/a6/d5/60/8c/ed046331-f919-4746-b12a-5b7c0399ea54.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/955.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Profilen van de wegen en hoogtens, die op de situatie-kaart rond 't Kasteel Kolombo en buyten de oude Stadspoort staan."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

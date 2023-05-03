@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1394A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/33321cc9-111a-46b8-aa75-22e210b77a87",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1394a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Bovenste deel van een kaart van de omgeving van New York",
+        "dc:description": "Bovenste deel van een kaart van de omgeving van New York.\nTitel Catalogus Leupe (NA): A Map of the Provinces of New-York and New-Jersey, with a part of Penn-Sylvania and the Province of Quebec, from the Topographical observations of C.J. Sauthier.\nHet onderste gedeelte van deze kaart: Nationaal Archief, Den Haag, inv. nr. VEL1394B.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1394A",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde gravure",
+        "dcterms:extent": "71,9 x 58,1 cm",
+        "dcterms:date": "1777",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7173/bovenste-deel-van-een-kaart-van-de-omgeving-van-new-york"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bf/e6/bc/21/7e/80/46/ab/b6/07/87/0d/c6/3b/37/a5/58979f8e-8ea9-4d0d-beef-6f0db1e4fab0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bf/e6/bc/21/7e/80/46/ab/b6/07/87/0d/c6/3b/37/a5/58979f8e-8ea9-4d0d-beef-6f0db1e4fab0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1394A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

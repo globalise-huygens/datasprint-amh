@@ -1,0 +1,60 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/885.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f2868167-ffc6-4fc2-bab0-405571c10b4d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0885.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Logie op Wingurla / De stad Wingurla / Platte Grond van de Comp:s Logie tot Wingurla",
+        "dc:title": "Afbeelding van de loge te Wingurla",
+        "dc:description": "Titel catalogus Leupe (NA): Afbeelding van de Logie op Wingurla.\nDeze kaart betreft een weergave van de situatie in 1678 en is getekend door Isaac de Graaf na 1690, voor de Atlas Amsterdam.\nNotities verso: Nr. 499 h [verder onleesbaar door restauratie met linnen].\nLegenda: a-x; A-P\nInzetkaarten: 885 a en b afzonderlijk op dezelfde kaart: 885a Platte grond van de Comps. Logie tot Wingurla; 885b De Stad Wingurla.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0885",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "overzicht / aanzicht",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "kerk / pastorie",
+            "vesting",
+            "huis / woonhuis",
+            "begraafplaats / kerkhof",
+            "tuin / siertuin",
+            "pakhuis",
+            "pagode / tempel",
+            "bazaar / markt",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "48 x 69 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4667/afbeelding-van-de-loge-te-wingurla"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/81/44/a9/cf/35/de/41/e2/b0/fb/a7/14/41/e5/56/35/a38b48f1-0fd5-4745-b6a0-23ba893ec8e3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/81/44/a9/cf/35/de/41/e2/b0/fb/a7/14/41/e5/56/35/a38b48f1-0fd5-4745-b6a0-23ba893ec8e3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/885.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van de Logie op Wingurla."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

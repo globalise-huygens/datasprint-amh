@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1851.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Generaale kaart van de Noordzyde der Beneden rivier Commewyne, van Braamspunt af tot de laatste plantagie in de Warappe Creque enz, waarin met rood aangewezen zyn de gronden die tot Plantagien zouden kunnen worden uitgegeven, zoo men liet graven de Creeq a, b, c, d."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1851"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1772"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/455a539c-9626-4af4-876f-c2505baa85cc\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1851.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1851.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4033,
+            "width": 5855,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1851.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1851.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/c0/ea/b1/d1/ca/cb/48/ee/b2/e7/d1/4b/0a/9d/18/a1/e95a4dca-27e2-4982-bda9-52b34df3e23e.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4033,
+                                "width": 5855,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/c0/ea/b1/d1/ca/cb/48/ee/b2/e7/d1/4b/0a/9d/18/a1/e95a4dca-27e2-4982-bda9-52b34df3e23e.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1851.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

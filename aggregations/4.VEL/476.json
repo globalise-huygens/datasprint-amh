@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/476.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/df55a9fa-a20a-467b-a5fa-fb1b6af92726",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0476.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Boero, Ambon en een deel van Ceram",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Moluksche Eilanden, een gedeelte van Ceram, op de Noordkust tot Batauw, op de Zuidkust tot Amahay.\nAan de randen zijn stroken Japans papier geplakt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0476",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "70,5 x 99,5 cm",
+        "dcterms:date": "1739",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4142/kaart-van-boero-ambon-en-een-deel-van-ceram"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/47/9c/c3/8b/79/70/45/09/9c/2b/bb/a5/59/c8/a9/1c/4962b626-f577-45cd-abf0-5376b480ec5b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/47/9c/c3/8b/79/70/45/09/9c/2b/bb/a5/59/c8/a9/1c/4962b626-f577-45cd-abf0-5376b480ec5b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/476.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Moluksche Eilanden, een gedeelte van Ceram, op de Noordkust tot Batauw, op de Zuidkust tot Amahay."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

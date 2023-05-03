@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/927.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4d9fcf09-1b5a-44f5-92bd-3663ac959b96",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0927.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaart van het Eyland Ceylon, verbeetert zoo veel de bezittingen van de Edele Nederlandsche Komp. aangaat, en inzonderheid zoo veel aangaat, de aan de Edele by de vreede van 1766 afgestaande stranden ende daar aan grensende binnen landen, naar de nieuste meetings die daar van zyn gedaan, in differente teyden en door ondergescheydene perzoonen opgemaakt vanden WelEdele groot agb. Heer Willem Jakob van de Graaff, Raad ordinair van Nederlands Indien Gouverneur en direkteur van Ceylon, door Duperon 1789 / De limieten van Skonings Land, zyn met een roode streep aangewezen al wat daar buyten legt behoort de Edele Nederlandsche Komp.",
+        "dc:title": "Kaart van Ceylon",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van het Eyland Ceylon, verbeetert zoo veel de bezittingen van de Edele Nederlandsche Komp. aangaat, en inzonderheid zoo veel aangaat, de aan de Edele by de vreede van 1766 afgestaande stranden enz..\nZichtbaar zijn de kustgebieden die bij het verdrag van 1766 door de koning van Kandy aan de VOC zijn afgestaan.\nTopografische namen van de eilanden: Amsterdam of Kaaretiwoe, Woest Rotterdam of Anneleitiwoe, Katoen, Poelientiwoe, Haarlem of Nuynatiwoe, Middelburg of Manditiwoe, Delft of Nedoentiwoe, Caits Welene, Perie Kanatoe, Galienje of Kakerestwoe, Galue of Palletiwoe, Buffels, Twee Gebroeders of Irenetiwoe, Enkuisen, Manaar, Kariardiwoe.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0927",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "232 x 154 cm",
+        "dcterms:date": "1789",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2874/kaart-van-ceylon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0a/e9/ce/72/71/ae/49/4f/9a/e5/4d/f2/4b/b2/05/3e/7888de0c-169c-4245-b347-917923ad2044.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0a/e9/ce/72/71/ae/49/4f/9a/e5/4d/f2/4b/b2/05/3e/7888de0c-169c-4245-b347-917923ad2044.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/927.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar, in \u00e9\u00e9n blad"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

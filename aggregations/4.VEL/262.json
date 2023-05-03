@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/262.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3e1a8336-c942-4929-a8a8-abaaacff344a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0262.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de westkust van Myanmar (Birma) met de daarvoor liggende Andaman-eilanden",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Westkust van het Schiereiland Malakka met de daarvoor liggende Andaman-eilanden.\nHet gaat hier om het Maleisisch schiereiland (met name om Birma), niet om Maleisi\u00eb.\nGezien de notities verso is deze kaart afkomstig uit de index van waarschijnlijk een soldijboek of monsterrol.\nNotities verso: Reymert de Rycke ondercoopm: 112 / Reynier Reyniersz. Vos bossch: 112 / Rycke Boeyens bossch: 113 / Roelant Cornelisz. boots: 113 / Rochus Michielsz. boots: 114 / Robbert Bouly bossch: 114 / Robbert Jansz. bossch: 115 /     Reynier Jansz. adelborst 115 / Rekeninge van schenckage 134 / Rekeninge vanden armen 135.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0262",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "37,5 x 23,5 cm",
+        "dcterms:date": "1600-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7988/kaart-van-de-westkust-van-myanmar-birma-met-de-daarvoor-liggende"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cc/7e/11/36/95/b4/4a/ef/a6/17/ea/bc/0d/7c/8a/de/d223e056-cb3e-4969-8716-95ca92efca19.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cc/7e/11/36/95/b4/4a/ef/a6/17/ea/bc/0d/7c/8a/de/d223e056-cb3e-4969-8716-95ca92efca19.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/262.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Westkust van het Schiereiland Malakka, met de daarvoor liggende Andaman-eilanden\n                        "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1531.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3a6f7ed5-0b8b-4f51-8531-0e1b2b5b6a1a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1531.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Bottom right)\n<Ick ondergeschreevene bij den Edele agtbare hove geadmittert en den Eed afgelegt hebbende om in plaats van den geswore landmeeter deses Colonie J. F. de Saffon de begevene landen te meeten verklaare bij dese dat ick het vergunde land tuschen de monte van rio Essequibo aande West Wall en oune Kreek gemeeten hebbe, de hellen inhoud groot zijnde 4275 hebbende een pat gelaaten tuschen ider plantagie van 60 voeten, de fassade lopende norden zuyd en de diepte ten West hebbende ter behoorlijke plaatse en volgens aanschrijvinge van de Edele agtbare hove de limiet paalen daarvan geplant. Actum Rio Dimmerary de 2 Juli 1767. P.L. De Saffon. >",
+        "dc:title": "Kaart van plantages bij de rivier Essequibo",
+        "dc:description": "Titel Leupe: Kaart van het land tusschen den mond van Essequebo aan de Westwal en Ounekreek.\nDeze kaart toont de meting van acht plantages ten westen van de Essequibo.\nOorspronkelijk was deze meting verzocht aan J.F. de Saffon, maar uiteindelijk heeft zijn familielid P.L. de Saffon de taak overgenomen.\nDe landmeter heeft een afstand van 8 voeten tussen de plantages gelaten.\nDe kaart is op 2 Juli 1767 ondertekend.\nSchaal van 100 Kettinge = 83 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1531",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.33 - 0.48 El.",
+        "dcterms:date": "1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10226/kaart-van-plantages-bij-de-rivier-essequibo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6a/10/fb/f2/37/b0/49/14/8c/5a/fd/06/91/24/6e/ac/9a819971-bda6-48f6-912d-6870f7c3e48f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6a/10/fb/f2/37/b0/49/14/8c/5a/fd/06/91/24/6e/ac/9a819971-bda6-48f6-912d-6870f7c3e48f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1531.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het land tusschen den mond van Essequebo aan de Westwal en Ounekreek."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

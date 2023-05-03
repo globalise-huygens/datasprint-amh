@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1222.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3df254e3-719d-422d-a513-dc0a3df94926",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1222.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Veldschans Anke, geleegen omtr. 1 uur gaans bewesten Batavia",
+        "dc:title": "Plattegrond van de schans Anke",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de Veld-Schans Anke, geleegen omtrent 1 uur gaans bewesten Batavia.\nOp de kaart staat: 2e Copie.\nNotities verso: No. 11.b. [staat zowel aan de linkerkant als aan de rechterkant].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1222",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "37 x 52,5 cm",
+        "dcterms:date": "ca. 1764",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3421/plattegrond-van-de-schans-anke"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e7/10/bb/16/c6/a9/43/64/86/21/93/f9/e3/a8/b1/81/809c99c3-24fc-4cf3-80ac-f41fd97328a7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e7/10/bb/16/c6/a9/43/64/86/21/93/f9/e3/a8/b1/81/809c99c3-24fc-4cf3-80ac-f41fd97328a7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1222.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Veld-Schans Ank\u00e9."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

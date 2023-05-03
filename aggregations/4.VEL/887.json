@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/887.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c4f02211-496b-406a-8d37-756800c9dffa",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0887.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Gesight van 't Fort Mangalor",
+        "dc:title": "Gezicht op het fort Mangalor",
+        "dc:description": "Titel catalogus Leupe (NA): Gezicht van 't Fort Mangalor.\nRechts boven: 20.\nNotities verso: A. A. nr. 20 verso 499f..\nDeze kaart betreft een weergave van de situatie in 1678 en is getekend door Isaac de Graaf na 1690, voor de Atlas Amsterdam.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0887",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "vesting",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50 x 71 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6285/gezicht-op-het-fort-mangalor"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fa/82/22/9c/c4/36/40/30/a1/9d/c6/f3/b8/a6/0d/6c/97eae140-0d52-42b2-b189-8b96075f56de.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fa/82/22/9c/c4/36/40/30/a1/9d/c6/f3/b8/a6/0d/6c/97eae140-0d52-42b2-b189-8b96075f56de.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/887.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Gesight van 't Fort Mangalor."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

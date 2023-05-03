@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/917.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7dc7c21b-b1bf-494f-bf8c-2dacfd5f72eb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0917.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t fort van Maparany",
+        "dc:title": "Plattegrond van het fort van Maparany",
+        "dc:description": "Titel catalogus Leupe (NA]: Plan van het fort Maparany.\nLegenda: 1-3\nSchetsplattegrond van het fort Maparanij, waarop aangegeven het retranchement van de Naijros van den Samorijn.\nRechts boven: 237.\nNotities verso: 1718 nr. 3; 499 z.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0917",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "landerij / plantage",
+            "poort",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "27 x 38 cm",
+        "dcterms:date": "ca. 1718",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6293/plattegrond-van-het-fort-van-maparany"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/91/f9/3d/4e/ee/69/47/29/9e/f7/1b/5d/c8/f3/f2/6f/3ed8db39-267d-4aa1-b250-77966633babe.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/91/f9/3d/4e/ee/69/47/29/9e/f7/1b/5d/c8/f3/f2/6f/3ed8db39-267d-4aa1-b250-77966633babe.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/917.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort Maparany."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

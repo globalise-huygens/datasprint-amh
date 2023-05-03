@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1259.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/570e0fda-5ca1-4f99-aa12-d870344fb7b5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1259.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Paan van het Fort en omleggende cituatie van Samarangh",
+        "dc:title": "Kaart van Semarang en omgeving",
+        "dc:description": "Titel catalogus Leupe (NA): Plaan van het Fort en omleggende cituatie van Samarangh.\nNotities verso: Plaan van het fort en omleggende cituatie van Samarang anno 1719 [twee keer] / No. 13 Samarang en Environs. Register 2, Deel 1, Folio 6, Portefeuille .. [geschreven op een blauw etiket] / 628 [met vette cijfers gestempeld op een etiketje] / No. 83. [vrij groot, op een etiket] / No. 188.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1259",
+        "dc:subject": [
+            "landerij / plantage",
+            "vesting",
+            "banderol / cartouche / versiering",
+            "pagode / tempel",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "65,5 x 45,5 cm",
+        "dcterms:date": "ca. 1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4929/kaart-van-semarang-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5b/4f/e2/6d/09/fe/47/56/bf/44/79/f3/1b/a2/16/44/4e11b533-5b12-4b30-965f-f8e98090f1f2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5b/4f/e2/6d/09/fe/47/56/bf/44/79/f3/1b/a2/16/44/4e11b533-5b12-4b30-965f-f8e98090f1f2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1259.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van het Fort en omleggende cituatie van Samarangh."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

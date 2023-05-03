@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1276.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cf4b7dda-d46a-49d5-b275-a5f463f818d3",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1276.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caarte van Rambangh",
+        "dc:title": "Plattegrond van Rembang",
+        "dc:description": "Titel catalogus Leupe (NA): Caarte van Rembang.\nLegenda: 1-13; A-L\nFormaat: 66 x 49 cm [gemeten aan de bovenkant van de kaart] 66 x 51 cm [gemeten aan de onderkant van de kaart].\nDe kaart is slordig uit de band gesneden, zodat links onder nog een extra strookje papier zit.\nNotities verso: vier Caarten van de nieuw geprojecteerde paggers tot Damak, Japara en Rembang / 656 [moet het folionummer in de band OBP zijn].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1276",
+        "dc:subject": [
+            "legenda",
+            "kompas / windroos",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "66 x 49 cm",
+        "dcterms:date": "ca. 1709",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5582/plattegrond-van-rembang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/41/c1/62/b3/8f/ab/44/76/a7/f3/23/90/3e/9b/5b/ee/aff4b5c1-1592-49f1-8954-3272e3cb2b12.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/41/c1/62/b3/8f/ab/44/76/a7/f3/23/90/3e/9b/5b/ee/aff4b5c1-1592-49f1-8954-3272e3cb2b12.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1276.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

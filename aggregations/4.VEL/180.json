@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/180.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/76d04c9a-7924-4a51-b5c0-113d04acbc85",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0180.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaart van de Tafel Baay vertoonende de Reede van C. De Goede Hoop Te Amsterdam bij Joannes van Keulen",
+        "dc:title": "Kaart van de Tafelbaai",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Tafelbaay, vertoonende de Reede van Caap de Goede Hoop.\nLosse atlaskaart uit 'De Nieuwe Lichtende Zeefakkel', deel 6, uitgegeven door J. van Keulen 1753.\nLinksonder: 1.\nAangeduid op de kaart staat: Windmolen.\nTopografische naam vermeld op de kaart: Leeuwenberg.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0180",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rede / haven / pier",
+            "gerechtsgebouw / rechtsinstantie"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "gravure",
+        "dcterms:extent": "615 x 770 mm",
+        "dcterms:date": "ca. 1753",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/374/kaart-van-de-tafelbaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/60/11/b1/c6/fe/90/43/44/8b/49/fd/64/b4/6a/61/a7/eb38cfeb-6dc6-4e51-ba2e-d811bb0e2fec.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/60/11/b1/c6/fe/90/43/44/8b/49/fd/64/b4/6a/61/a7/eb38cfeb-6dc6-4e51-ba2e-d811bb0e2fec.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/180.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Tafelbaay, vertoonende de Reede van Caap de Goede Hoop."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1368.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a11bd24e-d2d5-4e42-a1f1-4d0f4b205947",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1368.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Wayer",
+        "dc:title": "Fort te Waijer",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van het fort als voren, bedoeld wordt de titel van VEL1367: Afteekening van het fort Waijer.\nBehoort bij het rapport van Arnold de Vlamingh van Outshoorn.\nRechts boven genummerd: 402.\nNotities verso: 402 [moet het folionummer in de band OBP zijn] / 664 k.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1368",
+        "dc:subject": [
+            "kompas / windroos",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "33 x 41,5 cm",
+        "dcterms:date": "ca. 1651",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5344/fort-te-waijer"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/06/da/99/6b/ed/7c/43/e1/98/89/95/a1/a2/37/90/56/b50346c7-5b62-420e-84ef-8ad68a9de760.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/06/da/99/6b/ed/7c/43/e1/98/89/95/a1/a2/37/90/56/b50346c7-5b62-420e-84ef-8ad68a9de760.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1368.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort Waijer."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

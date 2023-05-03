@@ -1,0 +1,56 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/837.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/417311fe-db92-439d-b031-4733b3db6abe",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0837.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Waare Platte Caart van Cabo de Goede Hoop, met alle fortificatien, Redouten en Batteryen geteekent door Uwer Wel Edelen Groot Agtbaaren seer nederig en gehoorsaamen dienaar Carl David Wentzel 1760.",
+        "dc:title": "Plattegrond van Kaap de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Waare Platte Caart van Cabo de Goede Hoop, met alle fortificatien, Redouten en Batteryen.\nNotities verso: Blauw etiket Depot-Generaal Nr. 5; Plan en plattegrond van Caap de Goede Hoop met alle de fortificatie\u2030n; register 10; deel 1; folio 39. Nr. 490 etiket; nr. pen 215.\nLegenda niet aanwezig, wel cijfers en letters aangegeven op de kaart.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0837",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "gebouw",
+            "landerij / plantage",
+            "schip / vaartuig",
+            "tuin / siertuin",
+            "rede / haven / pier",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "650 x 960 mm",
+        "dcterms:date": "1760",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/357/plattegrond-van-kaap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7c/d7/58/e0/65/59/46/20/98/a7/22/e7/c2/50/41/c0/72929881-9c60-40bb-8660-4ca0ec323617.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7c/d7/58/e0/65/59/46/20/98/a7/22/e7/c2/50/41/c0/72929881-9c60-40bb-8660-4ca0ec323617.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/837.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Waare Platte Caart van Cabo de Goede Hoop, met alle fortificatien, Redouten en Batteryen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

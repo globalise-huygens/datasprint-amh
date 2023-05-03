@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/469.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8c48eccb-7d3a-49dc-a33d-a3a0e5069bcf",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0469.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Talaudse eilanden",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart van de Eilanden Karkalang, Lierong, Kabruang, Kakarottang enz..",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0469",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51,5 x 73,5 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9155/kaart-van-de-talaudse-eilanden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/71/ed/f3/2d/ac/b6/4f/0a/9d/37/1d/d2/69/65/0f/8a/68a27fb0-e864-4ef2-a7e9-053fef8dc53d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/71/ed/f3/2d/ac/b6/4f/0a/9d/37/1d/d2/69/65/0f/8a/68a27fb0-e864-4ef2-a7e9-053fef8dc53d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/469.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Eilanden Karkalang, Lierong, Kabruang, Kakarottang enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

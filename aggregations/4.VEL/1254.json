@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1254.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/629894f4-2eb7-45e1-88d2-fac8581e3fe7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1254.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Schets in het graf te Girie",
+        "dc:title": "Schets van het graf van sultan Salmotto te Girie",
+        "dc:description": "Titel catalogus Leupe (NA): Schets van het graf te Girie.\nNotities verso: Deze teekening heeft waarschijnlijk betrekking op de diefstal van de kris in 1806, van het onderzoek ingesteld door den Regent Pangeran Ardjo Adi Negoro, zie hier over van Hoevell Reis over Java, Madura en Bali I deel bl. 161.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1254",
+        "dc:subject": [
+            "grafsteen / grafzerk",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "33 x 20 cm",
+        "dcterms:date": "ca. 1806",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6725/schets-van-het-graf-van-sultan-salmotto-te-girie"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f7/2c/06/91/2b/f6/48/0e/8f/58/1a/88/cd/15/ba/4f/a9722ac5-c882-4825-9fae-ac0b767673ee.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f7/2c/06/91/2b/f6/48/0e/8f/58/1a/88/cd/15/ba/4f/a9722ac5-c882-4825-9fae-ac0b767673ee.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1254.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schets van het graf te Girie."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

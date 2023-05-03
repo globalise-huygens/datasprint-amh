@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1773.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c2692b00-eb9f-4dc0-a0b0-8c753d042da2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1773.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "<Kaart van het Geprojecteerd Canaal van de Redout Purmerendt tot agter den Grond der Edelen Directie.>",
+        "dc:title": "Kaart van een kanaalontwerp ter hoogte van de redoute Purmerend",
+        "dc:description": "Titel Leupe : Kaart van de geprojecteerd Canal van de redout Purmerendt tot achter den grond der Ed. Directie\nDeze kaart, die ontworpen is door J.G.R. Bo\u0308hm, toont de exacte ligging en omvang van de plantages gelegen ten Westen van de redoute Purmerend en ten Noorden van Paramaribo.\nDe plantages zijn verdeeld in lange kavels.\nIn de kavels ten Noorden van Paramaribo zijn eigennamen geschreven.\nVan de 9 kavels ten Westen van Purmerend zijn de lengte en breedte in Kettingen aangegeven.\nIn elke kavel is de oppervlakte aangegeven.\nOp de kaart is een van Oost naar West lopend kanaal te zien waarbij geschreven staat :Geprojecteerd Canaal, lang 496 Kettingen.\nZie ook de kaart VEL1772\nSchaal van 70 Kettingen a\u0300 66 Rijnlandse voeten = 112 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1773",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "Groot 0.88 - 0.60 El.",
+        "dcterms:date": "1788",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2086/kaart-van-een-kanaalontwerp-ter-hoogte-van-de-redoute-purmerend"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/51/a3/d3/55/b4/7c/4c/53/8b/a9/59/1c/32/c3/4f/77/f9334f34-bd97-423b-9849-c27783d8550f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/51/a3/d3/55/b4/7c/4c/53/8b/a9/59/1c/32/c3/4f/77/f9334f34-bd97-423b-9849-c27783d8550f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1773.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de geprojecteerd Canal van de redout Purmerendt tot achter den grond der Ed. Directie."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

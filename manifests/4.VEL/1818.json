@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1818.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart der Meetingen en opservatien van de Concessien en landen, tusschen de Oerlyna Kreek ende fortres Nieuw Amsterdam, aan de Zuydwall der rivier Comowinie."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1818"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1787"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/0d0d44ae-94e9-4a24-b3e9-fc8e2e7209f1\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1818.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1818.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8077,
+            "width": 12288,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1818.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1818.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/a0/9d/36/a1/06/de/48/4f/a7/4c/29/57/db/31/b6/fb/c032eb9b-5094-4c16-8183-b0898e5cea00.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8077,
+                                "width": 12288,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/a0/9d/36/a1/06/de/48/4f/a7/4c/29/57/db/31/b6/fb/c032eb9b-5094-4c16-8183-b0898e5cea00.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1818.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1104.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5b1643c2-bda9-4687-8c80-95402f5eb625",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1104.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'T Plan van het Fort Gustavus",
+        "dc:title": "Plattegrond van het fort Gustavus te Chinsura",
+        "dc:description": "Titel catalogus Leupe (NA): 'T Plan van het Fort Gustavus.\nBijzonderheden: geplakt op de randen.\nDeze kaart zal, evenals VEL1103, afkomstig zijn uit de OBP Bengalen 1743.\nNotities verso: No. 11 [vermoedelijk het volgnummer van het stuk in de OBP] / 583 / 1743 N 2 / 593 d [staat rechtsboven in de hoek].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1104",
+        "dc:subject": [
+            "kompas / windroos",
+            "begraafplaats / kerkhof",
+            "plattegrond / kaart",
+            "vesting",
+            "legenda",
+            "landerij / plantage",
+            "tanck / waterplaats / put"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "1700-1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/865/plattegrond-van-het-fort-gustavus-te-chinsura"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/70/40/ba/41/cf/1f/46/a0/b8/4a/47/68/b7/b6/5e/c6/fed7ff1c-5367-41ac-a29b-e0a60781dca4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/70/40/ba/41/cf/1f/46/a0/b8/4a/47/68/b7/b6/5e/c6/fed7ff1c-5367-41ac-a29b-e0a60781dca4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1104.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort Gustavus."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

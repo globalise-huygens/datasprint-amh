@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1215.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/db099c01-da2b-485b-9093-abdb3ddb3157",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1215.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Post Ryswyk, geleegen omtr. 1/2 uur gaans bezuyden Batavia",
+        "dc:title": "Plattegrond van de post Ryswyk",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de post Ryswyk, geleegen omtrent een half uur gaans van Batavia.\nOp de kaart staat: 2e Copie.\nNotities verso: No. 4.b. [staat zowel aan de linkerkant als aan de rechterkant].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1215",
+        "dc:subject": [
+            "Persoon",
+            "legenda",
+            "vesting",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "36,5 x 52,5 cm",
+        "dcterms:date": "ca. 1764",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/653/plattegrond-van-de-post-ryswyk"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a5/65/b2/28/ff/b0/41/22/8e/72/2a/87/37/3b/9f/1b/c1732a5d-25d4-4621-b14a-d4e96d7cccc3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a5/65/b2/28/ff/b0/41/22/8e/72/2a/87/37/3b/9f/1b/c1732a5d-25d4-4621-b14a-d4e96d7cccc3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1215.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Post Ryswyk, geleegen omtrent een half uur gaans van Batavia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

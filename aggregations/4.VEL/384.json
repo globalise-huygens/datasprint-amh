@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/384.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7ad91ffd-7c43-47cb-8044-e95f87ba0c35",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0384.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Grote Batavias Revier",
+        "dc:title": "De rivier te Batavia met daar te bouwen molens",
+        "dc:description": "Titel catalogus Leupe (NA): De Bataviasche Rivier met daarop te stellen molens.\nNotities verso: nr. 30 De Bataviasche Rivier met de daarop te stellen molens.\nMaakt deel uit van serie VE0383-0419; Deze kaarten hebben betrekking op de peilingen op de bank voor de rivier. Tussen 1708 en 1742 werden deze peilingen twee maal per jaar verricht.\nTevens op deze kaart vermeld: Heren weg, Bingams gracht.\nLinks boven van het midden: No: 5.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0384",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rede / haven / pier",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "500 x 725 mm",
+        "dcterms:date": "ca. 1709",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3220/de-rivier-te-batavia-met-daar-te-bouwen-molens"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/69/b5/92/9b/2c/05/4e/92/8b/c7/bb/d6/09/62/94/72/8b9710db-0221-40f4-8475-286b167ee7f2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/69/b5/92/9b/2c/05/4e/92/8b/c7/bb/d6/09/62/94/72/8b9710db-0221-40f4-8475-286b167ee7f2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/384.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "De Bataviasche Rivier met de daarop te stellen molens, 1709.\n                            "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

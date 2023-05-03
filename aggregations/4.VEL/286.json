@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/286.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e1c5afea-8062-4368-8754-999da62884ea",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0286.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Japan",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van Nippon en omliggende Eilanden.\nRechtsboven genummerd: 40.b.\nDe randen zijn geplakt.\nNotities verso: Japan / No 38/8/ [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0286",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3924/kaart-van-japan"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b7/bb/27/9b/e8/99/41/3d/99/09/b9/c4/38/68/c1/73/6daa6313-cdc6-450c-8565-cccdb51c8380.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b7/bb/27/9b/e8/99/41/3d/99/09/b9/c4/38/68/c1/73/6daa6313-cdc6-450c-8565-cccdb51c8380.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/286.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Nippon en omliggende Eilanden."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

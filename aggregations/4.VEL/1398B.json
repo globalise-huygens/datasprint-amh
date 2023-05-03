@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1398B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d5427ca4-62de-4ff4-8e67-5ed7e480dfb0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1398b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Pennsylvania, blad 2",
+        "dc:description": "Titel Leupe: A Map of Pennsylvania, exhibiting not only the improved parts of the Province, but also its extensive frontiers etc.\nTweede blad van de kaart van Pennsylvania, grotendeels gebasseerd op de kaart die William Scull tijdens zijn landmeting in 1770 tekende. Scull kreeg het voor elkaar de gehele frontier van Pennsylvania op de kaart te zetten, inclusief wegen, forten en de grens zoals vastgesteld door Mason-Dixon in 1763 en 1767. De uitgevers Sayer en Bennett besloten een nieuwe versie van Sculls werk uit te brengen kort na de slagen van Lexington en Concord (april 1775). Zij verbeterden de weergave van relief en voegden indicaties toe van hoogte\nen breedtegraden. Naar zich laat aanzien zijn deze aanpassingen gedaan ter ondersteuning van de Britse troepen die zich in dit gebied bevonden.\nSchaal van 30 Eng.m. = 175 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1398B",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.68 - 0.45 El.",
+        "dcterms:date": "1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7241/kaart-van-pennsylvania-blad-2"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e1/db/a3/b4/fa/49/46/3f/8c/ed/7b/6c/83/b5/f6/9a/7aa353fa-0daf-4949-a546-eec67830c44c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e1/db/a3/b4/fa/49/46/3f/8c/ed/7b/6c/83/b5/f6/9a/7aa353fa-0daf-4949-a546-eec67830c44c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1398B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1128.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e67825e3-4f8c-41d0-84e3-a33feaa651cd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1128.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van het fort te Kelang",
+        "dc:description": "Titel catalogus Leupe (NA): Caartje van de Fortres op Quelang.\nDe randen zijn gerafeld en gescheurd.\nNotities verso: quelang Caertje van t' fortres op quelang No. 6 / 09 [dit moet het folionummer zijn, er heeft nog een cijfer voorgestaan maar door een gat in het papier is dat verloren gegaan] / Behoort by de papieren over China 1667 Portefeuille 1667 III / 598 f.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1128",
+        "dc:subject": [
+            "poort",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41 x 51,5 c",
+        "dcterms:date": "ca. 1667",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6273/plattegrond-van-het-fort-te-kelang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/16/49/9b/50/1b/a6/4d/54/8b/c9/76/24/60/7b/32/01/9419a014-2b6d-471f-be3e-3438ccef4182.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/16/49/9b/50/1b/a6/4d/54/8b/c9/76/24/60/7b/32/01/9419a014-2b6d-471f-be3e-3438ccef4182.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1128.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caartje van de Fortres op Quelang."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1705.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/775ca836-aea2-45f8-b60c-516b7252220e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1705.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van betwiste percelen aan de Surinamerivier",
+        "dc:description": "Titel Leupe: Kaart van de Landen van Stephanus Laurentius Neale en Pierre Thouron.\nDeze meting van twee plantages aan de Surinamerivier is aangevraagd door de eigenaren; de weduwe van dhr. Boxel en en dhr. Pierre Thouron. De twee betwistten de scheidslijn tussen hun plantages zoals eerder vastgesteld door de landmeters D. Becker, Gerrit Wesseling en R.D. Meester. Vandaar dat J. Hengevelt nieuwe meetpalen heeft gezet om de lijn met de letters Y, R, Z aan te duiden. Het land van Stephanus Leurentius is ook weergegeven ten oosten (links op de kaart) van de bovengenoemde plantages. De kaart is ondertekend op 23 Oktober 1725 en geverificeerd op 11 Januari 1726.\nHet noorden is onder.\nSchaal van 50 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 157 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1705",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.50 - 0.39 El.",
+        "dcterms:date": "1725",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9832/kaart-van-betwiste-percelen-aan-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5d/ff/7b/fd/22/5e/41/d4/90/96/66/45/4f/9b/1b/b9/e34a256d-1d89-49e7-8750-56e57c465fad.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5d/ff/7b/fd/22/5e/41/d4/90/96/66/45/4f/9b/1b/b9/e34a256d-1d89-49e7-8750-56e57c465fad.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1705.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Landen van Stephanus Laurentius Neale en Pierre Thouron."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

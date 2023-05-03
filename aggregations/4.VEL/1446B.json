@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1446B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1e4fa4a6-a111-43ad-9425-85311b2cac6d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1446b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [upper right] continuation of the title and a key to the letters A to W : \nMet een Nader Concept om dezelve uit te leggen, het welke in gevolge de ordres van den Heere Gouverneur I: Fa\u00ebsch is opgesteld. \nA. het Fort Amsterdam.\nB. de Willem Stad. \nC. lage Batterij of waterfort. \nD. Gouvernement. \nE. Poort van \u2019t Fort. \nF. de Kerk. \nG. de Katte. \nH. Kruit magazijntjes. \nI. Bastion vlaggestok. \nK. [Bastion] nieuwe Batterij. \nL. [Bastion] de klok. \nM. Bastion de katte. \nN. [Bastion] oragne. \nO. [Bastion] Bloefort. \nP. [Bastion] schrikkenburg. \nQ. Stads Poort bij de waag. \nR. Steene pads Poort. \nS. Kerk hoff of begraafplaats. \nT. Project volgens welke de gronden buiten steene pads poort worden binnen gelegt. \nV. Ingeslotene gronden tot betimmerininge van huizen. \nW. het Bastion bloedfort en schrikkenburg met de tusschen leggende Courtine te demolieeren. \n[below] a note : \nOvergezonden bij missive van den Direct:r Faesch van 5 Oct: 1748.",
+        "dc:title": "Projectplan voor uitbreiding van fort Amsterdam",
+        "dc:description": "Titel Leupe: Plan van het fort Amsterdam en de Willemstad op het Eiland Cura\u00e7ao, met een nader concept om dezelvde uit te leggen.\nIn 1745 werd door directeur Faesch en de lokale notabele Willem Meijer, majoor van de burgermilitie, een nieuw plan voor de versterking en uitbreiding van Willemstad opgesteld, waarbij de vestingwal veel verder naar het oosten zou worden verlegd. Die ruimere opzet was een idee van Meijer, die ook wel voor de uitvoering wilde tekenen, op voorwaarde dat hem de grond van de nieuwe uitbreiding in eigendom werd gegeven en hij deze als particulier zou mogen bebouwen en verkopen. De eerste algemene projectkaart daarvan werd in juni 1746 door \u2018de Ingenieurs\u2019 overgezonden naar de Republiek. Deze kaart behoort tot een reeks die twee jaar daarop volgende om verdere details te geven. Hier worden de secties binnen het fort behandeld zoals in de index valt te achterhalen. Deze kaart is getekend door Carel Gustaaf Schrijver in 1748 en naast zijn eigen signatuur ook voor akkoord voorzien van die van directeur Isaac Faesch en de majoor der militie Willem Meijer. Hij is vrijwel identiek aan de eerste versie van dit plan tot uitbreiding en versterking van Willemstad uit 1746 (VEL1445). De enige verschillen van betekenis zijn het ontbreken van de contouren van Hertells voorgaande plan uit 1742, en een wat zwaarder geprojecteerde uitvoering van de oostelijke vestingwal.\nHet noorden is boven.\nSchaalstok van 50 Rijnlandse Roeden = [ca. 1 : 980].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1446B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52.5 x 74.5 cm.",
+        "dcterms:date": "1748",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1604/projectplan-voor-uitbreiding-van-fort-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/97/a4/f8/07/79/28/49/28/a3/c9/4e/b9/9c/c0/0d/65/0d836200-4f1b-431a-ab31-870b1b9a3b89.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/97/a4/f8/07/79/28/49/28/a3/c9/4e/b9/9c/c0/0d/65/0d836200-4f1b-431a-ab31-870b1b9a3b89.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1446B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

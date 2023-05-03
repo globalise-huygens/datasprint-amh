@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1382.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d3cf608a-e59d-44a0-a8ed-47a3210aaee2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1382.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Carte des Possessions Angloises & Fran\u00e7oises du Continent de l'Amerique Septentrionale / Kaart van de Engelsche en Fransche Bezittingen in het Vaste Land van Noord America",
+        "dc:title": "Kaart van de oostkust van Noord Amerika",
+        "dc:description": "Kaart van de oostkust van Noord Amerika.\nTitel Catalogus Leupe (NA):Kaart van de Engelsche en Fransche Bezittingen in het vaste land van Noord America.\nCarte des Possessions Angloises & Fran\u00e7oises du Continent de l'Amerique Septentrionale / Kaart van de Engelsche en Fransche Bezittingen in het Vaste Land van Noord America.\nCf. Nationaal Archief, Den Haag, inv. nr. 1381.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1382",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "61,9 x 57,5 cm 61,9 x 57,5 cm",
+        "dcterms:date": "1755",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7172/kaart-van-de-oostkust-van-noord-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6e/b8/78/2b/85/5c/4f/5d/b6/d5/e6/12/11/d9/f8/f1/f9300a59-46f2-491c-be94-85bf3bcc3116.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6e/b8/78/2b/85/5c/4f/5d/b6/d5/e6/12/11/d9/f8/f1/f9300a59-46f2-491c-be94-85bf3bcc3116.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1382.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Engelsche en Fransche Bezittingen in het vaste land van Noord America."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

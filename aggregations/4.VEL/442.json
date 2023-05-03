@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/442.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3f7e2d9e-acd4-47b3-9c16-e81915ccc338",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0442.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de zuidkust van Java",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, van de Westhoeck van Java tot aan de Oosthoeck, hiermee wordt bedoeld de titel van VEL0436: Kaart van de zuidkust van Java....\nNotities verso: No. 2 de zuijdkust van Java.\nDe kustlijn loopt van De West Hoek van Java tot aan De Straat Baly, Baly.\nAchter de kustlijn liggen bergen De Berg Ceribon, De Berg Taggal, De Berg Mameroe, De Berg Cadijrij.\nVerder worden plaatsen en eilanden, gelegen aan en naast de kust, weergegeven Clappers Eijlandt, De Boght van Wijnkoop Bergen, De Hoek van Wijnkoop Bergen, Hier Langs heen Steijle Zee Strandt.\nBoven is de schaalverdeling vermeld Duijtsche Mijle XV voor een Graadt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0442",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51 x 196,5 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8335/kaart-van-de-zuidkust-van-java"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9f/93/89/7b/40/db/4b/8e/80/7b/df/05/b5/16/6f/6e/951b7d86-02c8-41f5-a4e3-6915c1d16765.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9f/93/89/7b/40/db/4b/8e/80/7b/df/05/b5/16/6f/6e/951b7d86-02c8-41f5-a4e3-6915c1d16765.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/442.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Zuidkust van Java, van de Westhoeck van Java tot aan de Oosthoeck."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

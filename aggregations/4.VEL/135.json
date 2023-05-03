@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/135.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f345a27b-826f-46ce-b6f4-e7e80833f354",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_135.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Nieuwe en / Naauwkeurige Paskaart van de / Guineese Goud, Tand / en Slave Kust / Strekkende van Sierra Lionis tot aan Caap Formosa [...]",
+        "dc:title": "Karat van West-Afrika, Van Sierra Leone tot Caap Formosa",
+        "dc:description": "Titel catalogus Leupe (NA): _Nieuwe en naauwkeurige Paskaart van de Guineesche Goud-, Tand\nen Slavekust, strekkende van Sierra Lionis tot aan Caap Formosa_.\nUitgegeven door Johannes van Keulen.\nDe kaart is op blauw papier geplakt.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0135",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "62,5 x 120 cm",
+        "dcterms:date": "1675-1715",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6027/karat-van-west-afrika-van-sierra-leone-tot-caap-formosa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/37/4e/c2/78/e6/d7/44/f0/8e/f6/42/5c/d1/05/f8/c0/be3d008b-499c-442a-a09b-b078e42d0182.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/37/4e/c2/78/e6/d7/44/f0/8e/f6/42/5c/d1/05/f8/c0/be3d008b-499c-442a-a09b-b078e42d0182.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/135.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

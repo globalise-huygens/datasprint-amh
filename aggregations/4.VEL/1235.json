@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1235.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2581e20c-34bb-4c0f-a665-d9085dc38f7b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1235.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Project van een nieuw te maaken Nederduytse kerk",
+        "dc:title": "Bouwtekening voor een te vervaardigen kerk in Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Project van een nieuw te maken Nederduytse kerk.\nGerestaureerd, de achterkant is beplakt met papier.\nIn de catalogus Leupe is bijgeschreven een verwijzing naar folio 5681 in de band OBP, alsmede dat de kerk in 1747 is gebouwd.\nNotities verso: Project van een Nieuw te Maakene Neederduijtsche kerk / Behoort by de overgekomen Brieven en papieren van Batavia 1733 10 deel.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1235",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "kerk / pastorie",
+            "plattegrond / kaart",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "147,5 x 74,5 cm",
+        "dcterms:date": "ca. 1733",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3427/bouwtekening-voor-een-te-vervaardigen-kerk-in-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/20/11/b2/c1/c1/b6/45/ad/bb/1c/22/ec/da/70/fd/0c/fde13ddc-e51f-4b88-8613-e4e3006ddf10.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/20/11/b2/c1/c1/b6/45/ad/bb/1c/22/ec/da/70/fd/0c/fde13ddc-e51f-4b88-8613-e4e3006ddf10.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1235.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Project van een nieuw te maken Nederduytsche kerk."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/242.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7b33e07f-fa2a-427a-a494-5a68e87cd155",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0242.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Trinconomale met alle deszelfs Baeijen en environs",
+        "dc:title": "Kaart van Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Trinconomale met alle desselfs baayen en environs.\nNotities verso: No. 28 Trinconomale met alle deszelfs Baijen en Environs. Register 4, Deel 1, Folio 15, Portefeuille .. [geschreven op een blauw etiket].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0242",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "92,5 x 96 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4799/kaart-van-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/95/37/8c/fd/32/69/4a/75/a1/90/5d/04/5a/60/8b/f3/facbd217-cf2b-4373-9031-06fc01769457.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/95/37/8c/fd/32/69/4a/75/a1/90/5d/04/5a/60/8b/f3/facbd217-cf2b-4373-9031-06fc01769457.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/242.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                            Trinconomale met alle desselfs baayen en environs."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

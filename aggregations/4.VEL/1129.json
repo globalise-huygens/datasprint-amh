@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1129.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2cd64fd8-a3f7-4504-853a-d2eb1e341b80",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1129.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Isle de Madagascar, autrement Isle de St. Laurent",
+        "dc:title": "Kaart van Madagascar",
+        "dc:description": "Titel catalogus Leupe (NA): Isle de Madagascar, autrement Isle de St. Laurent.\nNotities verso: No. 10 Madagascar. Register 7, Deel 1, Folio 30, Portefeuille .. [geschreven op een blauw etiket] / No. 27 / f 577 b [in potlood].\nNeem contact op met Nationaal ArchiefKoninklijke Bibliotheek voor hergebruik en auteursrechten.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1129",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "43 x 27 cm",
+        "dcterms:date": "1747",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6404/kaart-van-madagascar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/96/13/f1/b0/4a/c2/4c/f2/b9/67/c0/cc/96/08/86/00/12f7bab3-1f8e-46da-8df3-81df726be0ac.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/96/13/f1/b0/4a/c2/4c/f2/b9/67/c0/cc/96/08/86/00/12f7bab3-1f8e-46da-8df3-81df726be0ac.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1129.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Isle de Madagascar, autrement Isle de St. Laurent."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

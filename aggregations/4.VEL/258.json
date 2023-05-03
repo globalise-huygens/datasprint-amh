@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/258.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4e0a30a4-09f5-4a5f-88f2-3f7fcd5091d4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0258.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Rivier van Bengala",
+        "dc:title": "Kaart van de rivier van Bengalen, ofwel de Ganges",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Rivier van Bengale, van de Mond tot de Hollandsche Logie (Hougly).\nRechtsboven genummerd: 28 [eventuele letter onleesbaar].\nRanden geplakt.\nNotities verso: De rivier de Ganges vande zee tot Ouglij / 258 [in rood potlood] / Ryks-Archief 's Gravenhage [stempeltje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0258",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 73,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5422/kaart-van-de-rivier-van-bengalen-ofwel-de-ganges"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9a/2e/6a/9b/90/f6/46/09/9c/29/21/45/80/8c/c7/22/8c504743-2143-4e53-8f67-1f38ec4674f0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9a/2e/6a/9b/90/f6/46/09/9c/29/21/45/80/8c/c7/22/8c504743-2143-4e53-8f67-1f38ec4674f0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/258.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Rivier van Bengalen, van de Mond tot de Hollandsche Logie (Hougly)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

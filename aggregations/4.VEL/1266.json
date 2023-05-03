@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1266.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6bb2b6b8-a917-4ac0-81d9-4c31607245f4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1266.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaart relative het project van versterkking voor de Samarangsche riviere en stranden in welke het bestek van een nieuwe geprojecteerde doorgraaving voor de rivier van Samarang aangeweesen word teffens het aanleg van batterijen en linie tot deffensie van dezelve.",
+        "dc:title": "Kaart van Samarang",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart relative het project van versterkking voor de Samarangsche riviere en stranden enz..\nBijzonderheden: Plan no. 3\nNotities verso: Kaart no. 3 voor Samarang / Berigt de dato 20 7bre 1787 / No. 15 Kaart van de versterking der Samarangsche Rievier. Register 2, Deel 1, Folio 6, Portefeuille .. [geschreven op een blauw etiket] / 631 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1266",
+        "dc:subject": [
+            "tuin / siertuin",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "65 x 74 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4934/kaart-van-samarang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/06/28/bd/c8/0e/a0/42/bb/95/2e/78/75/e3/37/3d/ae/5e124def-ed5c-4af8-9ec4-c6b7eafd79d1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/06/28/bd/c8/0e/a0/42/bb/95/2e/78/75/e3/37/3d/ae/5e124def-ed5c-4af8-9ec4-c6b7eafd79d1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1266.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart relative het project van versterking voor de Samarangsche rivieren en stranden enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

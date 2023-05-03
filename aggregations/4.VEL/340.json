@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/340.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a7380f36-d7af-44c1-91d6-9c89b31f534e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0340.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een deel van de noordkust van Java en van een deel van de oostkust van Sumatra",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Noordkust van Java, van St. Nicolaes Bay tot Chiparaga, en van de Oostkust van Sumatra, van R. Sacampan tot de Rivier Palumbangh, benevens de eilanden Billiton en Banca.\nBijzonderheden: de kaart is op blauw papier geplakt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0340",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "102,5 x 72 cm",
+        "dcterms:date": "1740-1770",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2450/kaart-van-een-deel-van-de-noordkust-van-java-en-van-een-deel-van-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e5/da/e9/06/e9/cb/46/64/b0/c0/2e/a8/a4/58/b0/eb/73bf88a8-196f-43aa-8214-42a160ed2207.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e5/da/e9/06/e9/cb/46/64/b0/c0/2e/a8/a4/58/b0/eb/73bf88a8-196f-43aa-8214-42a160ed2207.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/340.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Noordkust van Java, van St. Nicolaes Bay tot Chiparaga, en van de Oostkust van Sumatra, van R. Sacampan tot de Rivier Palumbangh, benevens de Eilanden Billiton en Banca."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

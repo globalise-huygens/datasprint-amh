@@ -1,0 +1,55 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/157.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/99b4cce0-dae6-4e95-88cd-1cf939a4a045",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_157.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de baai van Luanda",
+        "dc:description": "Kaart van de baai van Luanda.\nTitel catalogus Leupe (NA): Teekening van de baai La Wanda St. Poulo (Loanda de St. Paulo) met het daarvoor liggende eiland.\ndees plaes is geleegen op de pool hoogten / van 9 graden bij suiden waer de / Spaensege veel handelen.\nLinksonder: 157 [in potlood].\nDe schepen in de baai voeren alle de Spaanse vlag.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0157",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "kompas / windroos",
+            "huis / woonhuis",
+            "vesting",
+            "gebouw",
+            "schip / vaartuig",
+            "rede / haven / pier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "25,5 x 42 cm",
+        "dcterms:date": "17de eeuw [1639?]",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1520/kaart-van-de-baai-van-luanda"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/23/f5/93/57/50/7e/4c/4e/9c/42/c0/47/27/9c/5a/5b/3e4474e6-8a0b-4f77-bd0f-16661a170f4f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/23/f5/93/57/50/7e/4c/4e/9c/42/c0/47/27/9c/5a/5b/3e4474e6-8a0b-4f77-bd0f-16661a170f4f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/157.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Teekening van de baai La Wanda St. Paulo (Loanda de St. Paulo) met het daarvoor liggende eiland."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

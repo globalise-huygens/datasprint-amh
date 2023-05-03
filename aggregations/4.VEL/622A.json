@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/622A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8236fafc-8e35-4337-b07c-a42c69145024",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_622a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsboven] een legenda bij de letters A t/m D : \nExplanations: [upper right] a key to the letters A to D : \nA. nieuwe Toorn te Bouwen. \nB. Weg na de Plantagie van Lesire. \nC. Baij v: porte Maria. \nD. Valentijns Baij, bij de Toorn, meede te beschieten gepeijlt 9 Julij 1737. \nC & D. Sand Baeije, allwaer men alleenig landen kan.",
+        "dc:title": "Kaart van de baai van Porto Marie",
+        "dc:description": "Titel Leupe: Plan van Porto Maria, gepeyld den 9 juli 1737.\nDit ontwerp van kapitein-ter-zee Cornelis Schrijver voor de baai van Porto Marie uit 1737 projecteert een \u2018Toorn\u2019 (A), dus een torenfortje, in het midden zodat beide belangrijke landingspunten gedekt zouden worden. De weg naar de plantage Lesire in de Valentijnsbaai is specifiek genoemd en werd dus van belang geacht voor de verdediging. In de baai zijn peilingen aangegeven.\nZie ook het andere exemplaar VEL622B.\nHet noorden is links.\nSchaalstok van 700 Treeden daar van ontrent de 40 Treeden, 90 Voeten uijt maaken = [ca. 1 : 4.580].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL622A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "26 x 36 cm.",
+        "dcterms:date": "1737",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1666/kaart-van-de-baai-van-porto-marie"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/eb/e3/04/6b/1a/6b/40/d3/8a/c4/e3/f5/71/14/3d/9d/e1e35aa0-1399-49d6-8ffc-d9984d5ff90d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/eb/e3/04/6b/1a/6b/40/d3/8a/c4/e3/f5/71/14/3d/9d/e1e35aa0-1399-49d6-8ffc-d9984d5ff90d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/622A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Porto Maria, gepeyld den 9 juli 1737."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

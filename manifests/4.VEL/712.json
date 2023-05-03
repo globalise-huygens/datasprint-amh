@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/712.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Grondt-tevekeningh van het Eyland Antoni Vaaz, het recif ende Vastelandt aan de haven van Parnambuco in Brasil, soodanigh als die tegenwoordigh voor de West Ind. Comp. Met schansen, redouten ende andere werken zyn voorsien enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "712"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1631"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/bd22006f-61e5-464b-af83-5437350a7f62\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/712.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/712.json#canvas/p1",
+            "type": "Canvas",
+            "height": 11252,
+            "width": 13911,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/712.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/712.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f4/59/89/67/cc/3a/40/ed/83/93/07/2c/53/76/86/54/bd0c2115-9df0-4dbb-ad37-11444cf6c50b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 11252,
+                                "width": 13911,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f4/59/89/67/cc/3a/40/ed/83/93/07/2c/53/76/86/54/bd0c2115-9df0-4dbb-ad37-11444cf6c50b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/712.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1885.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van een stuk land gelegen in de rivier Cottica, links in het afvaren, gelegen in de bogt van het 1e tabbetje."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1885"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1728"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/61c743c2-30d9-41d2-bcb8-50ca53fe3a89\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1885.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1885.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4668,
+            "width": 5999,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1885.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1885.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/d6/6b/66/6f/2d/c4/4e/8f/ac/3d/65/11/ae/c8/cd/d7/2991b513-723f-4ee0-9a7e-e8614fd84d54.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4668,
+                                "width": 5999,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/d6/6b/66/6f/2d/c4/4e/8f/ac/3d/65/11/ae/c8/cd/d7/2991b513-723f-4ee0-9a7e-e8614fd84d54.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1885.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

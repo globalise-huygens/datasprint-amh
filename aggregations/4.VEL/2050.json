@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2050.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/839e2424-d184-41b2-9613-e5f83c331d37",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2050.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [onder] een legenda bij de letters A t/m F : \nExplanations: [below] a key to the letters A to F : \nAB. Profiel of Door Snit van vooren, en agter door de Linie AB. \nC.D. Loosings Sluijsen off kookers. \nE. Wagt Huijs.",
+        "dc:title": "Plattegrond van de redoute Leiden",
+        "dc:description": "Titel Leupe: Nieuw Project der Verbeetering van de Redout Lyden.\nNet als bij de redoute Purmerend werd al snel duidelijk dat de redoute Leiden, uitgevoerd naar het oorspronkelijke ontwerp, veel te zwak was om serieuze tegenstand te kunnen bieden bij een aanval via de monding van de Surinamerivier. De voorlopige oplossing die Abraham Dircks in 1766 of begin 1767 voorstelde waren dezelfde als die bij Purmerend: dempen van de overbodige gracht, rechttrekken van een deel van de omwalling zodat er meer geschut geplaatst zou kunnen worden, en samenvoegen van de binnen\nen buitenwal tot \u00e9\u00e9n \u2018Capitaele Wall\u2019. Deze kaart geeft de bestaande situatie in 1766 en de geprojecteerde wijzigingen weer, die volgens de inscriptie op zijn overzichtskaart op VEL1999 in november en december 1767 werden uitgevoerd.\nHet noorden is onder.\nSchaalstokken van 10 Roeden = [ca. 1 : 400] / [profiel] 15 [voet] = [ca. 1 : 190].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2050",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "41,5 x 54 cm",
+        "dcterms:date": "1766-1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2207/plattegrond-van-de-redoute-leiden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d4/06/c5/61/ad/eb/49/1d/ae/f4/fe/3b/db/5f/79/d1/b02b2c3d-29ff-4d73-ae79-c1ede39d8814.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d4/06/c5/61/ad/eb/49/1d/ae/f4/fe/3b/db/5f/79/d1/b02b2c3d-29ff-4d73-ae79-c1ede39d8814.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2050.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

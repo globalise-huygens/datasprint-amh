@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1411A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/55b07009-dc13-4e8b-ac6e-4d6faf6e9196",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1411a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Mississippi, blad 1",
+        "dc:description": "Titel Leupe: Course of the River Mississipi from the Balise to fort Chartres, taken on an expedition to the Illinois in the latter end of the year 1765.\nDit kaartblad maakt deel uit van een kaart die de loop van de Mississipi toont van de Balise tot fort Chartres. De kaart werd getekend door luitenant John Ross tijdens een uitzending naar Illinois aan het eind van 1765. Na zijn terugkomst in Londen gaf hij zijn schetsen aan de drukker Robert Sayer die ze combineerde met Franse kaarten van het gebied tot deze kaart.\nSchaal van 50 Eng. M. = 85 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1411A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname",
+            "kompas / windroos",
+            "Verenigde Staten"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.555 - 0.345 El.",
+        "dcterms:date": "1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10340/kaart-van-de-mississippi-blad-1"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/31/e1/e4/a5/49/2c/4b/57/a7/e5/41/fa/75/31/16/b0/34ac1614-9723-4aba-a5b1-8b9deb23bf80.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/31/e1/e4/a5/49/2c/4b/57/a7/e5/41/fa/75/31/16/b0/34ac1614-9723-4aba-a5b1-8b9deb23bf80.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1411A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/271.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e73048f2-7815-4313-aa16-3aaff1e34270",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0271.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een deel van de Chinese Zee en kust en Formosa",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van een gedeelte der Chinesche Zee en Kust, van Lamtaon tot Avarellos, met het eiland Formosa.\nNotities verso: No. 20. De Cust van China en 't eijlant Formosa / 67 [op een klein rond etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0271",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "144,5 x 126 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6199/kaart-van-een-deel-van-de-chinese-zee-en-kust-en-formosa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d7/72/1e/47/f3/4a/4f/5d/89/67/4e/e9/c6/61/c9/4b/3d18b0bb-c7bf-44d7-8dec-166f0ecbf93f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d7/72/1e/47/f3/4a/4f/5d/89/67/4e/e9/c6/61/c9/4b/3d18b0bb-c7bf-44d7-8dec-166f0ecbf93f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/271.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte der Chinesche Zee en Kust, van Lamtaon tot Avarellos, met het Eiland Formosa enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

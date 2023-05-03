@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1321.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/95b59a11-6acb-4296-9c4e-404e3af2765f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1321.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Macquian",
+        "dc:title": "Gezicht op de forten Mauritius en Gnofficquia te Macquian",
+        "dc:description": "Titel catalogus Leupe (NA): Afbeelding van de forten Mauritius, Gnofficquia en de negory op Macquian.\nAantekening catalogus Leupe: Behoort bij het rapport van Arnold de Vlamingh van Outshoorn.\nRechtsboven genummerd; 103.\nDe randen zijn gerafeld.\nNotities verso: 103 [moet het folionummer in de band OBP zijn] / 668 g.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1321",
+        "dc:subject": [
+            "vesting",
+            "gebouw",
+            "kompas / windroos",
+            "overzicht / aanzicht",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "33 x 41,5 cm",
+        "dcterms:date": "ca. 1651",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6326/gezicht-op-de-forten-mauritius-en-gnofficquia-te-macquian"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9a/99/24/3e/10/54/4e/fc/9a/c6/79/fe/c0/3c/76/9b/6fab9833-1dbd-4fc7-87fd-05462ada3954.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9a/99/24/3e/10/54/4e/fc/9a/c6/79/fe/c0/3c/76/9b/6fab9833-1dbd-4fc7-87fd-05462ada3954.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1321.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van de forten Mauritius, Gnoffacquia en de negory op Macquian."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

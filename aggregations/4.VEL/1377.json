@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1377.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ac2e799a-d07f-4dc5-8754-eafb1011520c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1377.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Carte d'Amerique",
+        "dc:title": "Kaart van Noord en Zuid Amerika",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1377",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde gravure",
+        "dcterms:extent": "61,7 x 51,9 cm",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2296/kaart-van-noord-en-zuid-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/81/bc/1a/2e/62/a6/47/a1/8d/64/a1/3c/6a/d4/bd/39/518bd75b-cbb5-4448-9922-a9f13df0b534.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/81/bc/1a/2e/62/a6/47/a1/8d/64/a1/3c/6a/d4/bd/39/518bd75b-cbb5-4448-9922-a9f13df0b534.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1377.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte D'Amerique etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

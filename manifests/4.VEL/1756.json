@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1756.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Project kaart van de landen welke aan de doorgetrokkene weg van 't pad van Wanica na Pararacs Creeq nog onbegeven zyn openleggende enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1756"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1786"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/39d580bf-83f0-4d5d-b136-e72c6dc8ea96\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1756.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1756.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8320,
+            "width": 6261,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1756.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1756.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/e4/d6/d4/5f/12/0e/40/c5/90/d0/da/99/cc/2f/f1/42/3cd0f50b-e67e-4d2c-b59f-e7e53c077179.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8320,
+                                "width": 6261,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/e4/d6/d4/5f/12/0e/40/c5/90/d0/da/99/cc/2f/f1/42/3cd0f50b-e67e-4d2c-b59f-e7e53c077179.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1756.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

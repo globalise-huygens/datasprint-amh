@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1681D.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fbddfdb8-61ac-4409-99d5-649c57fc9dfc",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1681d.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Overzichtkaart van Suriname, blad 1",
+        "dc:description": "Titel Leupe: Kaart van de Colonie Suriname, een gedeelte van Guyana, Nederlandsche Bezitting op het vaste land van Zuid Amerika enz.\nDeze overzichtkaart van Suriname is een heruitgave van Henemans kaart uit 1784  getiteld  Kaart van de Colonie Suriname en de onderhoorige rivieren en Districten, zoverre derzelver ontdekkingen nu zyn strekkende met de tot Culture gebragt zynde Landen en Plantagien (zie VEL 1677A-G). Heneman produceerde deze kaart voor de WIC leidinggevenden in Nederland. Zijn kaart toonde heel Suriname maar richtte zich voornamelijk op het plantagegebied rond de Commewijne\nen Surinamerivier. De gebieden daarbuiten waren slechts in algemene termen beschreven. In de zeventig jaar tussen de oorspronkelijke versie en de heruitgave was veel van deze periferie verkend. Desondanks is de grootste verandering op de heruitgave de plattegrond van Paramaribo en niet zozeer het grotere aantal details in de achterlanden. Deze plattegrond zelf kwam overigens van Mosebergs kaart uit 1801 (zie VEL1679A-D). Dit blad toont het gebied ten oosten (rechts van op de kaart) van de Corantijnerivier.\nSchaal van 1:194000.\nDeel van VEL1681A-D. Voor de volledige kaart zie VEL1681.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1681D",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "litho",
+        "dcterms:extent": "0.74 - 0.49 El.",
+        "dcterms:date": "1849",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10488/overzichtkaart-van-suriname-blad-1"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c0/06/aa/6c/46/9d/4f/b4/b0/1c/1c/3f/72/b6/c0/ae/96a2ecee-1d5c-4475-a679-2c6d2bae88ac.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c0/06/aa/6c/46/9d/4f/b4/b0/1c/1c/3f/72/b6/c0/ae/96a2ecee-1d5c-4475-a679-2c6d2bae88ac.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1681D.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad I"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

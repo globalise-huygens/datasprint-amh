@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1576.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/041bb870-dad6-4e8b-a3ee-fee0cb0f4be1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1576.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Overzichtskaart van Berbice en het westen van Suriname",
+        "dc:description": "Titel Leupe: Kaart van de Colonie de Berbice alsmeede van de rivier Corantyn met deszelfs Oostzeekust en de rivier de Nickerie, gelegen in Bats. Guiana in America, gedeeltelyk gemeeten door de Landmeeters C. Ruerlach van Suriname en S.H. Wiedenman van Berbice enz.\nMet de geleidelijke verschuiving van het economische zwaartepunt naar de benedenloop en aangrenzende zeekusten van de Berbice rivier in de late achttiende eeuw, was het op termijn onontkoombaar dat ook de bestuurszetel zou worden verlegd naar het mondingsgebied, zoals in 1785 door de directie van de Soci\u00ebteit inderdaad werd besloten. De uitvoering volgde na 1790, zoals te zien op deze kaart.\nDie nieuwe hoofdplaats ligt bij de samenvloeiing van de Berbice en de Canje, die naar de vorige bij Fort Nassau weer de naam Nieuw-Amsterdam kreeg. In de tussenliggende jaren was het plantage-areaal benedenstrooms en aan de kusten vooral na 1796 onder Brits bestuur opnieuw spectaculair uitgebreid, waarvan de kaart eveneens een indruk geeft.\nNa de Britse bezetting van Suriname in 1799 werd de limietscheiding tussen de koloni\u00ebn Suriname en Berbice in januari 1800 definitief bepaald op de Corantijn, zoals hier ook is vermeld.\nAls westelijke grens van Berbice gold nadien als voorheen de zogenoemde Duivelskreek, tegenwoordig bekend als de rivier Abari.\nIn de index linksboven zijn de namen en eigenaren van de 200 plantages weergegeven.\nIn de aantekening rechtsonder valt te lezen dat de kleuren het soort gewassen aanduiden; gele gronden geven katoenteelt aan katoen, bruine gronden koffie, rode gronden suiker, blauwe gronden hout.\nNog niet gecultiveerde landen zijn met stippellijnen aangeduid, de drie geplande kanalen tonen dat er plannen te bestaan deze te ontginnen.\nIn het algemeen blijkt dat ondanks de getrokken grenzen, de kolonies aan elkaar verbonden bleven. De rijweg  naar Demerara bij de zeekust is daar een voorbeeld van.\nHet noorden is rechtsonder.\nSchaal van 4000 Rijnlandse roeden = 74 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1576",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.69 - 0.50 El.",
+        "dcterms:date": "1804",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1898/overzichtskaart-van-berbice-en-het-westen-van-suriname"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/07/ac/03/c1/b1/6e/48/ad/a7/30/52/0f/a2/b0/e3/11/0a622944-ca1e-4198-bdcb-79545ed1cdda.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/07/ac/03/c1/b1/6e/48/ad/a7/30/52/0f/a2/b0/e3/11/0a622944-ca1e-4198-bdcb-79545ed1cdda.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1576.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Colonie de Berbice alsmeede van de rivier Corantyn met deszelfs Oostzeekust en de rivier de Nickerie, gelegen in Bats. Guiana in America, gedeeltelyk gemeeten door de Landmeeters C. Ruerlach van Suriname en S.H. Wiedenman van Berbice enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

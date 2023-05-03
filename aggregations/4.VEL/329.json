@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/329.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2e6ad1b3-6c9b-400f-bd4b-950f4b5265e5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0329.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het eiland Ansuany",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van 't Eylant Ansuany.\nNotities verso: 126a [in potlood].\nOp de kaart is een huisje te zien waarbij de Nederlandse vlag. Op de kaart VEL0330 is bij deze zelfde locatie geschreven: Huijs de Brugh van Leijden. Ook is aangegeven de begraafplaats van de omgekomen bemanning van het schip 'De Brugh van Leijden'.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0329",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "huis / woonhuis",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "46 x 67 cm",
+        "dcterms:date": "1725-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5349/kaart-van-het-eiland-ansuany"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b9/83/18/9b/71/17/42/8c/b6/1a/05/bf/b8/27/9d/67/2c6620e9-2f19-421c-8e11-88145712dbcf.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b9/83/18/9b/71/17/42/8c/b6/1a/05/bf/b8/27/9d/67/2c6620e9-2f19-421c-8e11-88145712dbcf.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/329.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van 't Eylant Ansuany."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

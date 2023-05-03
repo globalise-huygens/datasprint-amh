@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1395E.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/219cfff8-a75d-4963-b640-c2997bbf99dc",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1395e.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Gedeelte van een kaart van de provincie New York",
+        "dc:description": "Gedeelte van een kaart van de provincie New York.\nTitel in Catalogus Leupe (NA): A Chorographical Map of the Province of New-York in North-America, divided into Counties, Manors, Patents and Townships etc.\nDe rest van deze kaart: Nationaal Archief, Den Haag, inv. nr. 1395A-D, F.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1395E",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde gravure",
+        "dcterms:extent": "99,2 x 65,0 cm",
+        "dcterms:date": "1 januari 1779",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7174/gedeelte-van-een-kaart-van-de-provincie-new-york"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/26/6a/d9/c2/e9/09/44/05/af/66/14/53/14/12/b2/fb/9f11bf6b-aade-44c6-8649-8258cea3e5b4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/26/6a/d9/c2/e9/09/44/05/af/66/14/53/14/12/b2/fb/9f11bf6b-aade-44c6-8649-8258cea3e5b4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1395E.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 5"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

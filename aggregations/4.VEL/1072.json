@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1072.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/055362a9-ddec-4cf6-a0d9-e0d7abd2b6cd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1072.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Calture",
+        "dc:title": "Plattegrond van het fort te Caliture",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van Calture.\nLegenda: a-i\nNotities verso: No. 46 Calture. Register 4, Deel 1, Folio 18, Portefeuille .. [geschreven op een blauw etiket] / 586 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1072",
+        "dc:subject": [
+            "vesting",
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "48 x 68,5 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4346/plattegrond-van-het-fort-te-caliture"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ae/6a/89/0e/63/6e/45/26/91/57/bc/e8/82/a8/77/cc/84593b60-0082-44df-ae5e-21ce5274ac54.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ae/6a/89/0e/63/6e/45/26/91/57/bc/e8/82/a8/77/cc/84593b60-0082-44df-ae5e-21ce5274ac54.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1072.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Calture / Caliture\n                          "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

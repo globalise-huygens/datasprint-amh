@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1178.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Affteyckening hoe de machtichsten Coninck van Java Mayor enz. onderleyt heeft de stadt Batavia te vermeesteren. 1628 en 1629"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1178"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1629"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/0098bc7e-6564-497c-b4ab-46fd99f3e2e1\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1178.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1178.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7650,
+            "width": 8830,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1178.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1178.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/38/8e/73/b3/33/59/47/d7/b6/29/44/c2/71/39/73/67/922d2f89-9054-4d77-b5b5-701933f1f3d7.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7650,
+                                "width": 8830,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/38/8e/73/b3/33/59/47/d7/b6/29/44/c2/71/39/73/67/922d2f89-9054-4d77-b5b5-701933f1f3d7.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1178.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

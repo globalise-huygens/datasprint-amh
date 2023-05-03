@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1591.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b2e684da-e4fb-4f5e-b9cf-4181d15a385c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1591.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(continuation of the title and a key to the separate blocks and creeks on the plantation indicated by the letters A to Z and a to y, not transcribed, upper left): Benevens de anstootende repect:e Vrij Plantagen in de Ge\u2019octroijeerde Colonie De Berbice.\n(Title):NAUWKEURIGE / PLAAN / VAN DE ED:L COMPAGNIE / PLAANTAGE / WEEST=SOEBURG Benevens de anstootende repect:e Vrij Plantagen in de Ge\u2019octroijeerde Colonie De Berbice, Zijende deese Plaan op speciale Ordre opgenoomen en alsso bevonden geweezen in de Maand Januari 1752.",
+        "dc:title": "Kaart van de plantage West-Souborg",
+        "dc:description": "Titel Leupe: Nauwkeurige Plaan van de Ede Comps. Plaantage West-Soeburgh, benevens de anstootende respect. Vryplantagen enz.\nDit is een kaart van de soci\u00ebteitsplantage West-Souburg, gelegen ter weerszijden van de hoofdrivier ongeveer halverwege Fort Nassau en de uitmonding van de Wiruni.\nOnderdeel van een serie kaarten, plattegronden en tekeningen van gebouwen en andere objecten uit 1752 en daaromtrent, die op basis van hun stijl zijn toe te schrijven aande landmeter en ingenieur Philippus Marcus Osterlin. \nDeze overzichtskaart uit die serie toont de plantage als geheel met aangrenzende landerijen. Zie tevens VEL1592 en VEL1593.\nIn de verklaringen en aanwijzingen zijn te vinden: het vervolg van de titel en een legenda bij de afzonderlijke percelen en kreken op de onderneming aangeduid met de letters A t/m Z en a t/m y.\nHet noorden is linksonder.\nSchaalstok van Elf honderd Roeden Rhijnlands = [ca. 1 : 12.530].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1591",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.615 - 0.93 El. (63,5 x 95,5 cm.)",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10254/kaart-van-de-plantage-west-souborg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2a/19/a0/40/67/8e/48/33/87/e0/d4/c4/87/d8/32/ed/25c219cc-1d17-44ac-9abb-9d794726da42.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2a/19/a0/40/67/8e/48/33/87/e0/d4/c4/87/d8/32/ed/25c219cc-1d17-44ac-9abb-9d794726da42.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1591.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Nauwkeurige Plaan van de Ede Comps. Plaantage West-Soeburgh, benevens de anstootende respect. Vryplantagen enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

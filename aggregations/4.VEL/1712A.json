@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1712A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3e857fe2-ba5c-4568-8ef5-64df036a57ff",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1712a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Duivels- en Domineekreek nabij de Surinamerivier",
+        "dc:description": "Titel Leupe: _Kaart van de Duyvels\nen Domino's-Creeken en daaraan gelegen Plantagien._\nDit betreft een weergave van de loop can Duivels\nen Dominokreek nabij de Surinamerivier. De eerstgenoemde loopt tot de letter G, waarna hij overgaat in de Sluis van Lostrens en uiteindelijk wat bevaarbare trensen. De Domineekreek wordt onbevaarbaar rond de letter F. Van nabijgelegen percelen zijn de namen van de eigenaren genoemd, mits ze al ontgonnen zijn.\nHet noorden is rechtsboven.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 115 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1712A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.28 El.",
+        "dcterms:date": "1711",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9839/kaart-van-duivels--en-domineekreek-nabij-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5a/49/b6/e9/72/0b/4d/ab/ac/3c/1d/9d/52/7d/06/2a/8d0d9136-ed08-471f-bddb-c3fa4f78a782.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5a/49/b6/e9/72/0b/4d/ab/ac/3c/1d/9d/52/7d/06/2a/8d0d9136-ed08-471f-bddb-c3fa4f78a782.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1712A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

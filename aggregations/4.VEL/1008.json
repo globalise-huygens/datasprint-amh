@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1008.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/105d4093-e66c-4d0d-a1fe-6a81b189d977",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1008.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Trinkonomale",
+        "dc:title": "Vogelvlucht van Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Carte de la Province de Trinkonomale.\nMet stempeltje Depot des Cart. Pl. et Journ. de la Marine.\nNotities verso: Carte de la province de Trinkonomale, 573 [met vette cijfers gestempeld op een etiketje], No. 30 Kaart van de Provintie Trinconomale Register 4, Deel 1, Folio 15, Portefeuille ... [geschreven op een blauw etiket].\nOp de afbeelding wordt een bosrijk gebied getoond met de aanduidingen: Roxaume de Cannie, Kandeley, Tambegam, Oostenburg.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1008",
+        "dc:subject": [
+            "flora",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "30 x 58 cm",
+        "dcterms:date": "1691",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/603/vogelvlucht-van-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/41/eb/4c/05/25/75/48/b9/ae/d3/07/02/21/e6/cc/ef/0fd02a55-8adb-4386-90d6-eb6f66d07352.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/41/eb/4c/05/25/75/48/b9/ae/d3/07/02/21/e6/cc/ef/0fd02a55-8adb-4386-90d6-eb6f66d07352.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1008.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte de la Province de Trinkonomale."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

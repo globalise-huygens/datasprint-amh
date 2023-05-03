@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.36.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cc4310dd-ded1-4530-9f6c-24f31c8d7834",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_36.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Overzichtsplan voor het nieuwe gouvernementscomplex in Nieuw-Amsterdam, benedenverdieping",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nDeze plattegrond behoort tot de ontwerpen die Abraham van der Hart in de jaren 1779-1781 voor de Soci\u00ebteit van Berbice maakte. Van der Hart\u2019s grote overzichtsplan voor het nieuwe gouvernementscomplex toont het gouverneurs gebouw (onder), het logement van de kapitein en majoor (centrum), het logement voor de soldaten en officieren (rechtsboven), het ziekenhuis (linksboven), het magazijn (links midden) en het logement voor de klerken (rechts midden). De plattegrond toont de begane grond. De grijs gekleurde kamers hebben blijkbaar nog geen fundering.\nWegens de Britse bezetting van Berbice in maart 1781, kon slechts een gedeelte van de anderen plannen in November 1780 worden overgezonden. Nadat Berbice in 1784 aan de Soci\u00ebteit was teruggegeven, volgden al in het jaar daarop de eerste plannen voor een geheel nieuwe hoofdplaats aan de samenvloeiing van de Berbice en de Canje, waarmee Van der Harts project van 1779-1781 definitief van de baan was.\nSchaal van 132 Rijnlandse voeten = 12 strepen",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.36",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7569/overzichtsplan-voor-het-nieuwe-gouvernementscomplex-in-nieuw"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f4/97/8a/2a/7c/cb/48/38/95/56/77/e7/95/89/3a/70/972c0b92-5c4c-4470-a273-e56935ae488c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f4/97/8a/2a/7c/cb/48/38/95/56/77/e7/95/89/3a/70/972c0b92-5c4c-4470-a273-e56935ae488c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.36.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 36"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

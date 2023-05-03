@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1702.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3c9d18b3-9b5a-49c9-abf5-ba5be02a647b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1702.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een perceel aan de Surinamerivier",
+        "dc:description": "Titel Leupe: Kaart van een oude Plantagie, gelegen tusschen de Plantagien Surimonbo en la Diligence.\nDeze meting van een perceel aan de Surinamerivier is aangevraagd door mevrouw Ribra, weduwe van dhr.  d\u2019Arilar, en door dhr. Joseph Levie. Dit perceel is naast de plantage Acaribo gelegen, en de grenzen zijn getrokken zoals eerder in 1732 overeengekomen is.  De omvang blijkt 300 Surinaamse akkers oftewel 129 hectare. De kaart is ondertekend op 27 Augustus 1732 en erkend op 20 December 1732.\nHet noorden is rechts.\nSchaal van 120 Kettingen \u00e0 66 Rijnlandse voeten = 112 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1702",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.32 - 0.40 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9829/kaart-van-een-perceel-aan-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f2/88/88/0b/01/87/4f/58/ad/b8/1e/ce/25/0b/42/bd/0c7fb2b5-4059-4785-8824-c6fbf6f2e7a4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f2/88/88/0b/01/87/4f/58/ad/b8/1e/ce/25/0b/42/bd/0c7fb2b5-4059-4785-8824-c6fbf6f2e7a4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1702.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk grond, gelegen aan de boven scheidlinie van de Plantagie Acaribo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

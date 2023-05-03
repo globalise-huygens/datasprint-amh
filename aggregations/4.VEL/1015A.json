@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1015A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0ffe1f27-41b2-4738-b29e-ef4debf28b93",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1015a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Nota",
+        "dc:title": "Profielen van de vestingwerken te Trincomalee, deel A",
+        "dc:description": "Titel catalogus Leupe (NA): Plan du Fort de Trinquemale, relatif au projet de 1787.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1015A",
+        "dc:subject": [
+            "vesting",
+            "doorsnede / profiel",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "37 x 308 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4796/profielen-van-de-vestingwerken-te-trincomalee-deel-a"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/76/28/cd/79/da/ab/44/9d/bd/c5/8d/60/16/da/ac/8c/a9164c2f-0a18-40f7-9556-ffae3cf7f0e2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/76/28/cd/79/da/ab/44/9d/bd/c5/8d/60/16/da/ac/8c/a9164c2f-0a18-40f7-9556-ffae3cf7f0e2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1015A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Profielen AB, CD, GH"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/225.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6ccde456-856c-425e-91d5-4d3b69eabaab",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0225.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plaats en rivier Souratte",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Rivier Souratte.\nMet bruine vochtplekken.\nNotities verso: N2 van Soeratte overgekomen 1699-1700 8e boek / 234 [folionummer in de band ?] / 225 [in rood potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0225",
+        "dc:subject": [
+            "gebouw",
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "ca. 1699",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4071/kaart-van-de-plaats-en-rivier-souratte"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c1/38/91/b9/df/3e/4c/5a/a3/48/df/b8/90/b0/97/0a/e3f11349-ea97-482f-9eec-0a6459d1e5f3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c1/38/91/b9/df/3e/4c/5a/a3/48/df/b8/90/b0/97/0a/e3f11349-ea97-482f-9eec-0a6459d1e5f3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/225.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de rivier Souratte."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

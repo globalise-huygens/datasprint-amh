@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1720.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d243aed8-f7ca-4499-a2bd-cc3448b63bad",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1720.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van societeitsgrond nabij Paramaribo",
+        "dc:description": "Titel Leupe: Plan du Societyt grond.\nDeze kaart toont de omgeving van een societeitsgrond nabij Paramaribo. De grond is omringd door drie savannes, met daaromheen vele bossen. Tussen de letters A-D en Q is de grote weg naar Paramaribo getekend. Tussen A en N ligt een niet langer gebruikt pad. Tussen de twee As en Ns liggen de grenzen met respectievelijk de plantages Wilhelmsburg en Ferdinandus. Tussen de Bs, Cs en Ds liggen meerdere putten. Verder is ook een net ontgonnen stuk grond van 10 Surinaamse akkers (4,3 hectare) tussen D en E weergegeven voor het planten van bananenbomen. Voor de ocieteitsgrond zelf zijn referentienummers gegeven die in de index rechtsboven worden uitgelegd.\nSchaal van 20 Kettingen \u00e0 66 Rijnlandse voeten = 90 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1720",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.68 - 0.85 El.",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7716/kaart-van-societeitsgrond-nabij-paramaribo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/91/12/58/11/fa/91/4b/e9/94/79/51/8a/45/e1/48/54/06d0567b-d262-4a1f-a1a5-6765e7e88e65.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/91/12/58/11/fa/91/4b/e9/94/79/51/8a/45/e1/48/54/06d0567b-d262-4a1f-a1a5-6765e7e88e65.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1720.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan du Societyt grond."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

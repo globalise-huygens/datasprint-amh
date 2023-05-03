@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1202.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ebe986cb-81d9-4524-80dc-dac2d18af388",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1202.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "N:o V, Plan en Profil van 't Kasteels Bolwerk, de Robyn, en den daaronderleggenden Kruytkelder, gem:t  benevens de hieromtrent staande Gebouwen, en verdere gelegentheid.",
+        "dc:title": "Plattegrond van een bolwerk de Robijn, een deel van het kasteel van Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Plan en Profil als voren, van de Robyn en den daaronderleggenden Kruytkelder enz., met 'als voren' wordt bedoeld de titel van VEL1201: Plan van 't Casteels bolwerk de Diamant....\nNotities verso: 8 B / 620 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1202",
+        "dc:subject": [
+            "vesting",
+            "kruithuis / kruitmolen",
+            "doorsnede / profiel",
+            "plattegrond / kaart",
+            "arsenaal"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "43,5 x 59 cm",
+        "dcterms:date": "ca. 1762",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/505/plattegrond-van-een-bolwerk-de-robijn-een-deel-van-het-kasteel-van"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/dc/e4/36/66/55/0a/46/e5/ae/29/f7/08/6a/12/1a/56/23c568b1-b01c-4410-b8b1-8415e2eee3f7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/dc/e4/36/66/55/0a/46/e5/ae/29/f7/08/6a/12/1a/56/23c568b1-b01c-4410-b8b1-8415e2eee3f7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1202.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van 't Casteels bolwerk de Diamant, van de Robyn en den daaronder leggenden Kruytkelder enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

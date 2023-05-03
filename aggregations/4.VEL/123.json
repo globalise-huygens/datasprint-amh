@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/123.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/15c77cb7-61f0-46fc-8a4a-7934f94e13d2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_123.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Den arguynsen moor sal deess naem / nogh weldaet nimmer meer vergeeten / En ook haer naergeslaght doen weeten / door duysent moonden van de faem",
+        "dc:title": "Kaart van Arguin en omgeving, westkust van Afrika",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van een gedeelte van de Kust van Afrika, van Kaap Siepriaen tot Abasyen.\nDe kompaslijnen zijn gedrukt.\nDe kaart is op blauw papier geplakt.\nNotities verso: Deese caerte is door Jan Reers, geweesen commandeur op Arguijn, aan de Compagnie toegesonden op den elffde november 1724.\nReers was van januari 1722 tot 20 februari 1724 commandeur van het eiland Arguin.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0123",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "Persoon",
+            "banderol / cartouche / versiering",
+            "fauna"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "63,5 x 103,5 cm",
+        "dcterms:date": "1724",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6771/kaart-van-arguin-en-omgeving-westkust-van-afrika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/20/c2/ab/92/e5/7d/4d/51/81/5b/07/aa/ff/1c/66/af/3967f8d6-4187-4bd4-a977-6dfd758087f7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/20/c2/ab/92/e5/7d/4d/51/81/5b/07/aa/ff/1c/66/af/3967f8d6-4187-4bd4-a977-6dfd758087f7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/123.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de Kust van Afrika, van Kaap Siepriaen tot Abasyen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

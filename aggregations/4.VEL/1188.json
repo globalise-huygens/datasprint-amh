@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1188.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a0fa28ef-a59b-4b63-8937-1d44f0cb6131",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1188.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de stad Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de stad Batavia, waarop voorkomt de nieuw geprojecteerde waterleiding, dammen en sluizen tot het opstoppen van het water binnen de stad.\nAcht bladen gezamenlijk.\nMet aanwijzingen.\nNotities verso: Kaart van de stad Batavia, Behoort by de overgekomen Brieven en papieren van Batavia 1731, 2 deel (2033), No. 4.\nLegenda is linksonder.\nBovenin de schaalverdeling Schaale Van 100: Roeden.\nDe afbeelding toont een plattegrond van de stad Batavia met de volgende aanduidingen: De Zand Banken, 't Casteel Batavia, Homp: houtkappertje, 'T Buffels Velt, De Stads Buiten Gragt, De Tygers Gragt, De Groote Rivier, De Heere Straat.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1188",
+        "dc:subject": [
+            "legenda",
+            "brug",
+            "vesting",
+            "kompas / windroos",
+            "landerij / plantage",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "116 x 195 cm",
+        "dcterms:date": "1730",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3734/kaart-van-de-stad-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/24/65/f3/5b/9b/0f/4e/08/ac/a6/6a/ee/f9/f9/be/5e/e81ebe84-939f-4fd8-b474-d831142b8c6b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/24/65/f3/5b/9b/0f/4e/08/ac/a6/6a/ee/f9/f9/be/5e/e81ebe84-939f-4fd8-b474-d831142b8c6b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1188.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de stad Batavia, waarop voorkomt de nieuw geprojecteerde waterleiding, dammen en sluizen tot het opstoppen van het water binnen de stad."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1240.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Figurative Caert van een stuck land, herkomstig van den rebel Jonker van Manipa, leggende beoosten Tanjong Priok aan de Zeestrand enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1240"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1732"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/220bb6a2-c21e-4955-9635-93f1834ee01b\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1240.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1240.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7061,
+            "width": 6488,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1240.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1240.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/10/94/38/5e/df/22/47/00/a3/b7/94/b0/8d/7c/62/1b/60b272c8-1e96-487f-aeae-9ac7e2f38ef6.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7061,
+                                "width": 6488,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/10/94/38/5e/df/22/47/00/a3/b7/94/b0/8d/7c/62/1b/60b272c8-1e96-487f-aeae-9ac7e2f38ef6.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1240.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1731.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5354f0b8-932c-48e9-a37d-7ac335974283",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1731.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een perceel aan de Parakreek",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen in de Para Creeq, links in het opvaren.\nDeze meting van een perceel rondom de Parakreek is uitgevoerd in opdracht van de buurman en eigenaar ervan: Jacob Davilar en de weduwe van Pieter Rodrigues, genaamd Elisabeth Roomers. De heer Davilar is sinds het overlijden van Rodrigues samen met Pieter de Puijs schriftelijk verantwoordelijk voor de zaken van Elisabeth Roomers en om die reden betrokken. De omvang van het stuk grond blijkt 500 Surinaamse akkers te zijn, oftwel 215 hectare. Ten oosten en zuiden ligt de grond van Jacob Davilar en ten noorden de Acaribo plantage. De kaart is ondertekend op 30 Februari 1728 en erkend op 26 Maart 1729.\nHet noorden is links.\nSchaal van 60 Kettingen \u00e0 66 Rijnlandse voeten = 105 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1731",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.27 - 0.21 El.",
+        "dcterms:date": "1729",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10413/kaart-van-een-perceel-aan-de-parakreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f3/66/98/30/67/2f/49/e1/81/b7/ef/0b/d5/17/ae/2f/6d990962-6bfa-4e87-a2ec-a7205a30b4f6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f3/66/98/30/67/2f/49/e1/81/b7/ef/0b/d5/17/ae/2f/6d990962-6bfa-4e87-a2ec-a7205a30b4f6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1731.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen in de Para Creeq, links in het opvaren."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

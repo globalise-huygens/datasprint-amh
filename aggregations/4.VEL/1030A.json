@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1030A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/25be6bf8-ec35-4ccc-8e92-e8a22fd1a50c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1030a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Profielen van fort Oostenburg te Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van Oostenburg en de benedenwerken, gedeeltelyk nog op te bouwen.\nProfielen fig. nr. 1-12.\nVrijwel identiek aan VEL1030C.\nNotities verso: [Blauw etiket ODG] nr: 21 B Profilplan bij Oostenburg.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1030A",
+        "dc:subject": [
+            "doorsnede / profiel",
+            "vesting",
+            "plattegrond / kaart",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50 x 73 cm",
+        "dcterms:date": "1773-1784",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/585/profielen-van-fort-oostenburg-te-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/dd/77/d6/b3/48/bf/4e/92/8e/0e/9e/bd/94/a4/29/fc/b1983ef9-a714-4ac8-9c45-d07033e2dd2e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/dd/77/d6/b3/48/bf/4e/92/8e/0e/9e/bd/94/a4/29/fc/b1983ef9-a714-4ac8-9c45-d07033e2dd2e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1397.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e2b5076d-ee64-4dbb-ab39-cd1ab53ee34b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1397.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Philadelphia",
+        "dc:description": "Titel Leupe: A Plan of the City and Environs of Philadelphia.\nDe eerste druk van deze plattegrond van Philadelphia uit 1752 werd gemaakt om William Penns nieuwe stad aan de Delaware te promoten. Met de storm van nieuws rond de Amerikaanse Revolutie in de daaropvolgende decennia, werden kaarten van Philadelphia, het centrum van de revolutie,  populair door heel Europa, inclusief de Nederlandse Republiek. Verschillende uitgevers besloten daarom de kaart uit 1752 opnieuw uit te brengen, waaronder Lotter. Hij wijzigde wat verouderde plaatsnamen en omliggende plekken en plaatste de facade van het stadhuis van boven naar beneden op de kaart. Het oorspronkelijke stedenplan en de verwijzingen naar country seats en de beperkte infrastructuur bleven ongewijzigd.\nSchaal van 2 m. = 76 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1397",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.49 - 0.46 El.",
+        "dcterms:date": "1777",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7239/kaart-van-philadelphia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/63/4a/b9/99/e4/1f/4f/15/b7/82/ee/68/8d/a6/2d/18/36539bde-6685-41b0-8aca-afa65073e8c8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/63/4a/b9/99/e4/1f/4f/15/b7/82/ee/68/8d/a6/2d/18/36539bde-6685-41b0-8aca-afa65073e8c8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1397.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A Plan of the City and Environs of Philadelphia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

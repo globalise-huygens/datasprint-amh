@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1285.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ddddfb86-4778-49ea-b11d-c95de09107e0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1285.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plaan van het Fort, Rentranchementen en omleggende cituatie van Passarouan",
+        "dc:title": "Plattegrond van het fort te Passarouan en omstreken",
+        "dc:description": "Titel catalogus Leupe (NA): Plaan van het Fort, Rentranchementen en omleggende cituatie van Passarouan.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nNotities verso: Plaan van het fort, Retranchementen, en omleggende cituatie van Passarouan Ao 1719 [staat zowel aan de boven\nals aan de onderkant] / No. 79 [vrij groot geschreven op een etiketje] / 648 [met vette cijfers gestempeld op een etiketje] / No. 22 Plan van het Fort, Retranchementen en Situatie van Passarouang Register 2 Deel 1 Folio 7 Portefeul [geschreven op een blauw etiket].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1285",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "banderol / cartouche / versiering",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "83 x 53 cm",
+        "dcterms:date": "ca. 1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4436/plattegrond-van-het-fort-te-passarouan-en-omstreken"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a8/ec/b5/71/40/93/47/58/b1/88/e6/bc/b0/27/c6/95/60e5dfd1-5d39-4b38-8345-58fb88092070.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a8/ec/b5/71/40/93/47/58/b1/88/e6/bc/b0/27/c6/95/60e5dfd1-5d39-4b38-8345-58fb88092070.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1285.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van het Fort, Retranchementen en omleggende cituatie van Passarouan."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

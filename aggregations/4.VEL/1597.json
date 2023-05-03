@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1597.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0482236c-2c01-4c67-9979-7ea8451bc42f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1597.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title): Kaarte van de Plantage Middelburgs Welvaaren Gelegen aan de westwal van de groote Maripam tussen de plantagjes de resolutie booven en Spaanderswoud beneden behoorende de heer Abraham Mortier, ter groote van twee honderd en 50 Akkers 1772.",
+        "dc:title": "Kaart van de plantage Middelburgs Welvaren",
+        "dc:description": "Titel Leupe: Kaarte van de Plantagie Middelburgs Welvaren, gelegen aan de Westwal van de Groote Maripaam enz.\nKaart van de plantage Middelburgs Welvaren, in bezit van de heer A. Mortier en gelegen ten westen van de rivier  Berbice gelegen.\nHet stuk grond blijkt 250 Surinaamse akkers te meten (oftewel 117,5 hectare).\nNabij de rivier Berbice liggen meerdere bossen met verschillende houtsoorten.\nTen zuiden ligt de plantage Resolutie  en ten noorden de plantage Spaanderswoud.\nDe kaart is ondertekend op 18 April 1772.\nSchaal van 300 Rijnlandse roeden = 166 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1597",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.27 - 0.62 El.",
+        "dcterms:date": "1772",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10264/kaart-van-de-plantage-middelburgs-welvaren"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7d/92/01/3f/52/19/46/1a/87/11/65/8a/d2/9d/de/9b/c160a257-d628-4c70-a320-4469a433f734.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7d/92/01/3f/52/19/46/1a/87/11/65/8a/d2/9d/de/9b/c160a257-d628-4c70-a320-4469a433f734.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1597.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaarte van de Plantagie Middelburgs Welvaren, gelegen aan de Westwal van de Groote Maripaam enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/923.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0b56ca3a-f015-46b0-b82c-78b8d1759f75",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0923.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaart van 't Eijland Ceylon. Benevens Een Gedeelte der [?] Malabar en Cormandel Geheel Madure en Inchiado",
+        "dc:title": "Kaart van Ceylon, de kusten van Malabar, Cormandel, Madure en Inchiado",
+        "dc:description": "Titel catalogus Leupe (NA): Kaarte van 't Eyland Ceylon, benevens een gedeelte der Kusten Malabar en Cormandel, geheel Madure en Inchiado enz..\nNotities verso: 512 c / Allerkeurigst bewerkte uitvoerige kaart, met aanteekeningen.\nBoven het opschrift Kaart van 't Eijland Ceylon. Benevens Een Gedeelte der [?] Malabar en Cormandel Geheel Madure en Inchiado.\nTopografische namen aangeduid Malabaar Pars,Tengapatnam.\nRechtsonder de schaalverdeling Duijtsche Mijlen 15 in een graadt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0923",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "perkament",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "70 x 65,5 cm",
+        "dcterms:date": "17de eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6401/kaart-van-ceylon-de-kusten-van-malabar-cormandel-madure-en-inchiado"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f8/fe/6d/22/b0/a9/4f/0c/ac/d0/1d/d9/88/3d/ad/c1/5e5c875a-5352-488d-a7d5-e039eab2ab06.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f8/fe/6d/22/b0/a9/4f/0c/ac/d0/1d/d9/88/3d/ad/c1/5e5c875a-5352-488d-a7d5-e039eab2ab06.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaarte van 't Eyland Ceylon, benevens een gedeelte der Kusten Malabar en Cormandel, geheel Madure en Inchiado enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

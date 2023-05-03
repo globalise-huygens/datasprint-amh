@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1143.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/39d90627-1614-4a6f-9500-b92da5b391f5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1143.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t Geberghte van Sillida / De gebouwen der E: Comp: op den Bergh Tambagh buyten en omtrent 's Comp:s myne",
+        "dc:title": "Het gebergte van Sillida en de mijnwerken van Tambagh",
+        "dc:description": "Titel catalogus Leupe (NA): Het Geberghte van Sillida / De gebouwen der Ed. Comp. op den Bergh Tambagh buyten en omtrent 's Comp:s myne.\nLegenda: 1-7; 1-13\nRechts boven genummerd: 36.c.\nDoormidden gesneden geweest, geplakt en op de vouw gerestaureerd.\nNotities verso: 599 d / 69 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1143",
+        "dc:subject": [
+            "flora",
+            "plattegrond / kaart",
+            "fabriek / werkplaats",
+            "overzicht / aanzicht",
+            "legenda",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5749/het-gebergte-van-sillida-en-de-mijnwerken-van-tambagh"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/15/29/1c/85/88/88/47/59/80/83/d3/52/96/3c/55/e5/6bfe4496-78ec-46d8-b00c-8ad7d192d9c3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/15/29/1c/85/88/88/47/59/80/83/d3/52/96/3c/55/e5/6bfe4496-78ec-46d8-b00c-8ad7d192d9c3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1143.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het gebergte van Sillida."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

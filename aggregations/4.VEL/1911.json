@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1911.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/33d3b201-026c-4960-8b48-9ae51c599d68",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1911.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Rietwijk",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie Rietwyk, gelegen tusschen de Crusou en Attowaribo of Bottel Kreken.\nDeze kaart toont de plantage Rietwijk (aangeduid met de letters A-F); gelegen aan de kreken Perica, Broulou en Bottel.\nDe meting is aangevraagd door de eigenaar: de heer Jacobus Beeloo, om zijn bezit van het grensgebied aan de oostkant van de plantafe (D-F, onderkant kaart) toe te eigenen.\nDe eerdere transacties van dit stuk grond staan vermeld in de uitleg rechts.\nDe totale omvang van de plantage is 990 Surinaamse akkers (425,7 hectare).\nTen zuiden (links op de kaart) ligt de plantage De Hoop, ten noorden (rechts op de kaart) de plantage Sorbo en ten oosten (onder op de kaart) de plantage Boubordia.\nDe kaart is door de landmeter ondertekend op 22 Januari 1734 en officieel erkend op 14 Augustus 1736 te Paramaribo.\nSchaal van 60 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 108 strepen.\nOorsprong: [OBP Suriname] 1736, [fols.] 1253-1254.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1911",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.275 - 0.22 El.",
+        "dcterms:date": "1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10158/kaart-van-de-plantage-rietwijk"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6d/a6/2f/bb/32/7d/42/f6/87/18/e2/60/6a/b8/09/c2/65c6e184-6f84-4350-80e3-00462cc6eb31.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6d/a6/2f/bb/32/7d/42/f6/87/18/e2/60/6a/b8/09/c2/65c6e184-6f84-4350-80e3-00462cc6eb31.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1911.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagie Rietwyk, gelegen tusschen de Crusou en Attowaribo of Bottel Kreken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

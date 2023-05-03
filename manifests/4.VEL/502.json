@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/502.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caert van 't Landt van d'Eendracht, uit Journalen ende affteyckeningen der stierluyden t' samengestelt."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "502"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1627"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/4b629f91-cd60-4c30-a05c-3bdb9e87305e\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/502.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/502.json#canvas/p1",
+            "type": "Canvas",
+            "height": 3631,
+            "width": 7549,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/502.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/502.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/6e/b0/9a/5f/f3/26/4f/6b/81/ea/14/5c/d1/2c/12/30/7647d972-eb10-46fc-b43b-cb2d2dc48d69.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3631,
+                                "width": 7549,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/6e/b0/9a/5f/f3/26/4f/6b/81/ea/14/5c/d1/2c/12/30/7647d972-eb10-46fc-b43b-cb2d2dc48d69.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/502.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

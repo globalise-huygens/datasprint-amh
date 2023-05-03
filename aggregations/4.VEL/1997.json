@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1997.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bcd0a3cf-81b9-45ce-a706-67fed23daa99",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1997.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(a key to the letters A to E, below):\nA:A:A: Nieuw Geprojecteerde Batterij Waar op in tijd van Nood twalf Stuken Canonen konnen geplaats werden. In de form als een halve maan terwijl bij hoog vloet meeder tegenstand kan bieden om de Branding te breken. \nB:B: Provil of door snit Door de linie A:B:. \nC:C: Een gedeelte van de mond der rivier Surijnamen. \nD:D: Duijvels Creek. \nE:E: Eerste hoek.",
+        "dc:title": "Plan voor een batterij bij de monding van de Surinamerivier",
+        "dc:description": "Titel Leupe: Plan of platte grond van Brandspunt, met derselver nieuw geprojecteerde Battery en Wagthuys.\nAls laatste versterking van de monding van de Surinamerivier voorafgaand aan de Britse bezetting van 1799 werd in 1796 op Braamspunt de kleine batterij Piet Hein aangelegd, bewapend met zes achttienponders.\nHet plan daartoe was al zo\u2019n dertig jaar ouder, zoals het projectplan van de cadet der artillerie Jacob Gerrit Dircks op deze kaart laat zien.\nDircks jr. maakte de kaart waarschijnlijk in opdracht van zijn vader Abraham Dircks, die tussen 1766 en 1772 directeur-generaal der fortificati\u00ebn en gebouwen in Suriname was; zie ook zijn plattegronden van de redoute Purmerend (VEL2044B en VEL2108).\nVoor een indruk van de voltooide batterij zie VEL1998.\nOverigens was op deze strategisch gelegen landpunt ook voordien altijd al een baken en een uitkijkpost, die als eerste de aankomende schepen kon waarnemen en daarvan bericht kon geven aan Nieuw Amsterdam en Paramaribo.\n -Profil door A.B.\nNet noorden is onder maar is niet aangegeven.\nSchaalstok van 150 Voeten Rhijnlands  [ = ca. 1 : 350].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1997",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.57 - 0.67 El. (67 x 76.5 cm.)",
+        "dcterms:date": "ca. 1769",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9778/plan-voor-een-batterij-bij-de-monding-van-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f1/52/ce/0d/0b/27/43/24/9c/a1/e5/d4/81/f7/3d/66/7100dbcd-830d-4e32-8518-052284f58dd8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f1/52/ce/0d/0b/27/43/24/9c/a1/e5/d4/81/f7/3d/66/7100dbcd-830d-4e32-8518-052284f58dd8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1997.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

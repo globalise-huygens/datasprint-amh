@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/867.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/58cc8d7d-a629-4c63-9729-9d73027aa59a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0867.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Diu",
+        "dc:title": "Plattegrond van Diu",
+        "dc:description": "Titel catalogus Leupe (NA): Gezigt op de Stad en omstreken van Diu.\nRechtsboven genummerd: 16.\nNotities verso: 499 c\nLegenda: A-Z; a",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0867",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "kerk / pastorie",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 72,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6706/plattegrond-van-diu"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/02/2f/51/45/be/9d/4f/c9/95/35/13/2a/ee/18/e7/82/03c5e6be-6aae-4a88-be25-3dba68a4472a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/02/2f/51/45/be/9d/4f/c9/95/35/13/2a/ee/18/e7/82/03c5e6be-6aae-4a88-be25-3dba68a4472a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/867.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Gezigt op de Stad en omstreken van Diu."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

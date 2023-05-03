@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1628.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/99873730-6733-4ea7-9177-b6ec4f607575",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1628.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "a key to the letters A to N and the numbers 1 to 12 (below centre):\nNaam-lyst der onderscheilige gedeelte van derzelver Plaate-Grond. \nFortifficatiewerken. \nA. Groote poorten van de Fortresse. \nB. [idem] \nC. Noordelyke stomp Fortifficatie Hoek, Thans Dienende voor de Constapels Kamer. \nD: Oostelyke, scherp Fortifficatie Hoek, thans Dienende voor de meesters Kamer. \nE: Zuydelyke Scherp Fortifficatie Hoek. \nF. westelyke Idem. \nG: Flanken Rondom de Fortresse zynde. \nH: Schiet gaten. \nI. Kogels Kamer. \nK: Kruyt Kamer. \nL: Soldaaten logementen. \nM: Trompeters gat. \nN: Soldaaten secreet.\nLogementen &:ca. \nN:o 1. de Revier. \n2. de steling. \n3. Boeteliers Kamer. \n4: Kamer waerin thans logeert Den Clercq D.E. Schneyder. \nPakhuysen. \n5. groote Pakhuys. \n6. Voorste Pakhuys. \n7. Myn heer de Gouverneur-Pakhuys. \n8: Duister Pakhuys. \n9 \u2019t zout Pakhuys. \n10: Kalk Pakhuys. \n11: Lieutenants Pakhuys. \n12. officiers secreet.",
+        "dc:title": "Kaart van Fort Nassau",
+        "dc:description": "Titel Leupe: Plan van het fort Nassouw, geleegen in Rio de Berbice.\nVan de voorloper van het fort Nassau, dat al aan het begin van de grote slavenopstand van 1763, op 8 maart van dat jaar, vanwege de onverdedigbare toestand waarin het verkeerde door het garnizoen werd ontruimd en in brand gestoken, is geen enkele authentieke handgetekende kaart of topografische afbeelding bewaard gebleven.\nDe vroegste nog bestaande plattegronden van Fort Nassau geven de situatie weer tijdens of kort na de genoemde verbouwing of vernieuwing, die moet zijn uitgevoerd tussen 1735 en 1740.\nDit anoniem projectplan werd in 1739 overgezonden naar de Republiek.\nAfgezien van de kompasroos en de ori\u00ebntatie is de kaart inhoudelijk vrijwel identiek is aan de even oude plattegrond van de benedenverdieping van het fort door Jan Daniel Knapp (zie VEL1661B).\nEen alternative versie is beschikbaar: VEL1628A.\nHet noorden is linksonder.\nSchaalstok van 50 Rhynlandsche Voeten = [ca. 1 : 115].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1628",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "67,5 x 54,5 cm.",
+        "dcterms:date": "1738-1739",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1929/kaart-van-fort-nassau"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ee/6b/d3/d7/55/10/4f/10/8e/81/8d/d1/01/fe/cf/c3/a2e5a81c-17c8-4932-8ea3-e889624dc89e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ee/6b/d3/d7/55/10/4f/10/8e/81/8d/d1/01/fe/cf/c3/a2e5a81c-17c8-4932-8ea3-e889624dc89e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1628.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

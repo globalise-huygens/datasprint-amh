@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1790.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6ba2792c-ba8c-498f-89e1-0947300ef0c7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1790.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van land gelegen tussen de Plantages Meersorg en Jagtlust",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen tusschen de Plantagien Meersorg en Jagtlust.\nDe kaart toont de exacte ligging van enkele kavels en plantages gelegen aan de rechteroever (stroomafwaarts gezien) van de Rivier Suriname.\nDe plantages zijn voorzien van eigennamen en de oppervlakten ervan zijn aangegeven in Surinaamse akkers (0,43 hectare per akker).\nRecht tegenover Plantage Meersorg, links op de oever van de Rivier Suriname in het afvaren, is Fort Zeelandia aangegeven met een rode stip.\nOorsprong: [OBP Suriname 1736  [fols.] 39-40 en een variant overgekomen in 1737 fols. 43-44.\nMet akte van meting, ondertekend op 17 december 1736.\nSchaal van 150 Kettingen a\u0300 5 1/2 Rijnlandse voeten = 90 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1790",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.48 - 0.38 El.",
+        "dcterms:date": "1736",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2088/kaart-van-land-gelegen-tussen-de-plantages-meersorg-en-jagtlust"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ae/e4/7a/76/ce/ee/47/2a/80/67/0a/de/23/0f/2d/99/a56510d4-cf0c-441c-b4a1-6bba06a85486.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ae/e4/7a/76/ce/ee/47/2a/80/67/0a/de/23/0f/2d/99/a56510d4-cf0c-441c-b4a1-6bba06a85486.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1790.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

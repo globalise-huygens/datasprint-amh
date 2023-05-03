@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1152.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Hoofdplan der forten op Riouw, en naast omtrent gelegene situatie, volgens gedane meeting: ter ordre als voren."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1152"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/8cb72a4c-13f2-4f9d-a60e-2c5dc3907603\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1152.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1152.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7797,
+            "width": 20190,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1152.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1152.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/fd/ad/d5/5f/c3/80/4e/b2/bd/93/8a/8c/d3/8f/90/50/7b64b2bd-af3c-4e86-8b45-c152c9cd0fec.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7797,
+                                "width": 20190,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/fd/ad/d5/5f/c3/80/4e/b2/bd/93/8a/8c/d3/8f/90/50/7b64b2bd-af3c-4e86-8b45-c152c9cd0fec.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1152.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

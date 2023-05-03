@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2155.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/55312ddf-32c4-4ffd-b16b-644e66ac6b15",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2155.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond in vogelvlucht van stad en fort Grand Para",
+        "dc:description": "Plattegrond in vogelvlucht van stad en fort Grand Para.\nTitel catalogus Leupe (NA): Teekening van de Stat en de fort van Grand Para.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2155",
+        "dc:subject": [
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "vesting",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "35 x 47 cm",
+        "dcterms:date": "ca. 1625",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9080/plattegrond-in-vogelvlucht-van-stad-en-fort-grand-para"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f5/f1/d6/69/ea/7d/4b/ea/a5/ee/1a/a0/9a/28/48/1e/b5978601-3140-4e5a-9e3a-7cdc99c9d1fc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f5/f1/d6/69/ea/7d/4b/ea/a5/ee/1a/a0/9a/28/48/1e/b5978601-3140-4e5a-9e3a-7cdc99c9d1fc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2155.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Teekening van de Stat en de fort van Grand Para."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

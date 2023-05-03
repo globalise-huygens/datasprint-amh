@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/842.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b0ff2fa5-29d5-4253-8be4-747c00b6d337",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0842.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van S. E. Compagnies Stal met 't daar agter liggend Plein",
+        "dc:title": "Plattegrond van de stallen in Kaap de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van S. Ed. Comps. stal met het daaragter liggend plein.\nNotities verso: Blauw etiket 'Nr. 1 Plan van de compagnies stal aan Kaap de Goede Hoop' register 11, deel 1, folio 42. Gehoord tot de bijlage nr. 30 La. C. Nr. 53.\nLegenda: 1-14\nAfmetingen totaal: H 666 x B 1025 mm",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0842",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "gebouw",
+            "menagerie / stal",
+            "banderol / cartouche / versiering",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "404 x 796 mm (kader)",
+        "dcterms:date": "1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2580/plattegrond-van-de-stallen-in-kaap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d8/45/b9/fd/d9/ae/47/f6/b0/ce/5a/18/fc/9c/5b/51/cdffb5e5-d05e-4ffd-b08e-3feec97cece4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d8/45/b9/fd/d9/ae/47/f6/b0/ce/5a/18/fc/9c/5b/51/cdffb5e5-d05e-4ffd-b08e-3feec97cece4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/842.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van S. Ed. Comp.stal met het daaragter liggend plein."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

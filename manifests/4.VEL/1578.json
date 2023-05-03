@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1578.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaarte van een gedeelte der Rivier de Berbice, Oostzyde van de Plantagie Christina's Lust tot aan de Kreek Macaierore met den loop der Mannakole gronden enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1578"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1775"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/cf752f99-c76f-4139-89c9-629ea299b693\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1578.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1578.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7867,
+            "width": 11761,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1578.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1578.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/45/fb/9e/29/04/7d/42/f2/9b/e9/d0/9f/2a/e4/f1/46/ca3dacaf-b953-4ff3-a83d-35be9460188e.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7867,
+                                "width": 11761,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/45/fb/9e/29/04/7d/42/f2/9b/e9/d0/9f/2a/e4/f1/46/ca3dacaf-b953-4ff3-a83d-35be9460188e.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1578.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

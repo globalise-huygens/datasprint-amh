@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1387.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/64efff90-35b0-4a7b-b885-0f03ba1030a4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1387.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van grenzen van New England",
+        "dc:description": "Titel Leupe: A Map of the inhabited part of Canada from the French surveys, with the frontiers of New York and New England, from the large survey by Claude Joseph Sauthier.\nDeze kaart volgt het traject van de Saint Lawrencerivier van de Isle aux Coudres (onder Qu\u00e9bec) tot het Ontariomeer. De loop van de St. Francisrivier naar de staat New York is volgens de cartograaf gebaseerd op het werk van 'Majoor Holland', hoogstwaarschijnlijk de landmeter Samuel Holland. Samuel Holland was in 1728 geboren in Deventer. Deze Nederlander speelde een belangrijke rol als de eerste offici\u00eble landmeter van het Britse Noord-Amerika. Ook andere delen van deze kaart dan de St. Francis rivier zijn gebaseerd op zijn landmetingen. In Maart 1764 ontving Holland de opdracht om het Britse bezit ten noorden van de Potomacrivier te meten wegens hun belang in de visserij. Deze gebieden betroffen onder andere het Isle Saint-Jean, de Magdaleneilanden en het Cape Breton eiland. Holland bereikte in Oktober 1764 het Isle Saint-Jean, bij Montreal, dat was overgedragen aan de Britten met het verdrag van Parijs in 1763. Zijn metingen in het gebied namen twee jaar in beslag. Holland verdeelde het gebied in dorpen onder de noemer kavels, parochies, gemeentes en \"royalties\" (graafschappen) en legde daarmee de basis for het feodaal aandoende landeigenaarschap dat op het eiland en in het verder gebied werd geintroduceerd in de daaropvolgende eeuw. De kadasterregistraties ontwikkeld door Holland waren van belang voor zijn opvolgers, en een vaak vergeten Nederlandse cartografische invloed bleef gelden in de kaarten van New England lang nadat Nieuw-Amsterdam aan de Britten was overgedragen. De titel is geschreven in een sierlijke vignette met wouden, heuvels, watervallen en een verbeelding van de zo belangrijke handel in beverhuiden.\nSchaal van 60 Eng. Statute m. = 122 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1387",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.56 - 0.85 El.",
+        "dcterms:date": "1777",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7200/kaart-van-grenzen-van-new-england"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/36/44/e7/cd/64/83/45/ea/b8/d4/95/51/96/5f/7e/6d/b14784be-0a4e-48c4-a64c-31cbe4dd9fab.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/36/44/e7/cd/64/83/45/ea/b8/d4/95/51/96/5f/7e/6d/b14784be-0a4e-48c4-a64c-31cbe4dd9fab.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1387.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A Map of the inhabited part of Canada from the French surveys, with the frontiers of New York and New England, from the large survey by Claude Joseph Sauthier."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

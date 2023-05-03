@@ -1,0 +1,46 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1593C.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0821e0d7-7440-4161-9dd0-651d88f20bb6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1593c.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Afbeelding van een verzamelgebouw voor suikerriet",
+        "dc:description": "Titel Leupe: _Teekeningen van de verschillende gebouwen op voornoemde plantagie, zoo als kook-, Keur\nen Molenhuis enz._\nOnderdeel van een serie kaarten, plattegronden en tekeningen van gebouwen en andere objecten uit 1752 en daaromtrent, die op basis van hun stijl zijn toe te schrijven aande landmeter en ingenieur Philippus Marcus Osterlin. \n Zie tevens VEL1591 en VEL1592.\nDe tekeningen onder VEL1593 betreffen het verzamelgebouw waar het geoogste suikerriet (het hoofdgewas van de onderneming) werd binnengebracht en gekeurd c.q. gesorteerd (in het keurhuis) en vervolgens geplet en geperst (in het molenhuis), waarna het vrijkomende rietsap door koken werd ingedikt tot de suiker uitkristalliseerde (in het kookhuis).\nDeze tekening toont de achterzijde van het keur\nen opslaghuis.\nDeze achterzijde zou recht aan Maacbocculij kreek komen te liggen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1593C",
+        "dc:subject": [
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10258/afbeelding-van-een-verzamelgebouw-voor-suikerriet"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cf/28/51/4d/96/a7/45/e2/88/2a/f0/e9/22/54/c0/69/a24d8a02-0a2f-4b69-a552-795f9e40bd0e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cf/28/51/4d/96/a7/45/e2/88/2a/f0/e9/22/54/c0/69/a24d8a02-0a2f-4b69-a552-795f9e40bd0e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1593C.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 3"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

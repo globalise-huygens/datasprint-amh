@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/735.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Paskaerte Beschreeven door Arent Roggeveen. Met octroy van de H.M. Staten Generael over zyn geoctroyeerde Zuyt-Zee."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "735"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1676"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/9b63fdab-0efe-4e69-bf20-a2bcf8295c40\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/735.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/735.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5443,
+            "width": 6218,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/735.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/735.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/0f/76/36/de/83/09/4d/65/ae/91/1f/cd/e9/cc/19/fb/a9f8de92-0300-4664-95b0-6f92adf3c546.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5443,
+                                "width": 6218,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/0f/76/36/de/83/09/4d/65/ae/91/1f/cd/e9/cc/19/fb/a9f8de92-0300-4664-95b0-6f92adf3c546.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/735.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

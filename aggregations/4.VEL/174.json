@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/174.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4cd6021f-bd96-4304-a898-6c20c83a3574",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0174.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Angoa de Saldanha off Saldanha Bay",
+        "dc:title": "Kaart van de Saldanhabaai",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart van de Saldanhabay met de Eilanden, klippen, banken, reven daarin gelegen, benevens aanwyzing der diepten, ankerplaatsen enz..\nPlankaart van de Saldanha-baai waarop de ankerplaatsen, klippen, eilanden en de geprojecteerde waterleiding uit binnenland naar de baai staan aangegeven voor de VOC-post.\nInzettekening van Afbeelding der Wartels, zodanig op de dieptens vn 12 tot 18 vm. maat dieper kan men swaarder cabels neemen en meer dobbers daaran doen.\nNotities verso: Behoort in brieven en papieren van de Kaap overgekomen: 4 deel 1783, bladz. 1566-1603  No.1594.\nTopografische namen op deze kaart: Marcus Eyland, Oedekens Baaij.\nLegenda: A-O; Anwijsing der letters.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0174",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "pakhuis",
+            "rede / haven / pier",
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "perkament",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "730 x 860 mm",
+        "dcterms:date": "ca. 1738",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5218/kaart-van-de-saldanhabaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/26/6b/47/ce/4e/ec/45/e9/ae/09/c7/bb/e9/71/9a/a1/e15cb7f1-bec4-4612-a4b1-df74ec5075bb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/26/6b/47/ce/4e/ec/45/e9/ae/09/c7/bb/e9/71/9a/a1/e15cb7f1-bec4-4612-a4b1-df74ec5075bb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/174.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Saldanhabay met de Eilanden, klippen, banken, reven daarin gelegen, benevens aanwyzing der diepten, ankerplaatsen enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

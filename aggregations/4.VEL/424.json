@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/424.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bb054a1d-d655-411b-95bc-a808a2be7307",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0424.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Java",
+        "dc:title": "Kaart van de noordkust van Java, van Batavia tot aan Kading Gaw\u00e9",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart van de Noordkust van Java, van Batavia met de daarvoor liggende Eilanden tot aan Kading Gaw\u00e9.\nOpmerking in catalogus Leupe: Met aanwijzing van het rif van Pamanoekan, waarop het schip 't Casteel van Woerden in 1748 is gebleven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0424",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "36 x 48 cm",
+        "dcterms:date": "1748-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3598/kaart-van-de-noordkust-van-java-van-batavia-tot-aan-kading-gaw%C3%A9"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/90/22/ba/6d/14/36/4a/1c/bd/26/79/56/3b/91/10/60/bc3441e3-e86d-47f8-8e9d-a73fac53af90.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/90/22/ba/6d/14/36/4a/1c/bd/26/79/56/3b/91/10/60/bc3441e3-e86d-47f8-8e9d-a73fac53af90.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/424.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Noordkust van Java, van Batavia met de met de daarvoor liggende Eilanden tot aan Kading Gaw\u00e9, 18de eeuw.\n                            "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

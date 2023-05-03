@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/998.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/457ad37c-fe4d-4d4d-959b-e2cf38225d6a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0998.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Jaffanapatnam",
+        "dc:title": "Plattegrond van het fort te Jaffanapatnam",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van het Kasteel te Jaffanapatnam.\nPlattegrond van de vesting te Jaffanapatnam, met bouw van een woning voor de timmerman; In zwart zijn de werken aangegeven die gebouwd zijn in 1693; in geel de geplande bouw van timmermanswoning.\nNotities verso: Kaart van het Casteel tot J [...] nr. 2. [Gedrukt etiket] nr. 545..",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0998",
+        "dc:subject": [
+            "fabriek / werkplaats",
+            "vesting",
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51 x 71 cm",
+        "dcterms:date": "3 februari 1693",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3170/plattegrond-van-het-fort-te-jaffanapatnam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/69/0f/55/d8/ae/a8/41/7b/bc/2b/d7/36/97/92/d5/38/8c705719-05a7-43c5-9c79-eae1e020a641.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/69/0f/55/d8/ae/a8/41/7b/bc/2b/d7/36/97/92/d5/38/8c705719-05a7-43c5-9c79-eae1e020a641.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/998.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van het Kasteel te Jaffanapatnam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

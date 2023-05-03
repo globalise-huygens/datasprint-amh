@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1666A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9aa01673-04b0-4cf8-8dcc-58931dcf0c3f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1666a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de rivieren Suriname en Commewijne, detail",
+        "dc:description": "Titel Leupe: \u201cCaerte ofte vertooninge van de Rivieren van Suriname en Commewyne met verscheyde creken uyt deselve spruytende, als Para, Surinoo en Cotteca ende ander meer, gelyck die nu tegenwoordich bewoont verden.\u201d\nDit betreft een onderdeel van een reproductie van een zeldzame kaart met de plantages rond the Suriname en Commewijne rivieren. Voor de reproductie in zijn geheel zie VEL1666E.\nDe naam van de drukker en uitgever is niet bekend. De originele koperdruk is in 1931 verbrand.\nHet noorden is onder.\nZie Nederlands Archievenblad, jrg. 38 (1930-1931).\nSchaal van 6 mijlen of 4 Uyren gaens = 140 strepen.",
+        "dc:type": "foto",
+        "dc:identifier": "VEL1666A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "tekening"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "foto",
+        "edmfp:technique": "zwart-wit foto",
+        "dcterms:extent": "0.515 - 0.40 El.",
+        "dcterms:date": "1671",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2090/kaart-van-de-rivieren-suriname-en-commewijne-detail"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0c/d3/25/6f/1b/07/42/9c/ba/b4/db/94/97/c4/5a/b9/c9361784-ea14-4b3d-88c6-1af3ea3af245.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0c/d3/25/6f/1b/07/42/9c/ba/b4/db/94/97/c4/5a/b9/c9361784-ea14-4b3d-88c6-1af3ea3af245.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1666A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

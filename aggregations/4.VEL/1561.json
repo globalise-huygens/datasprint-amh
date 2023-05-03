@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1561.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/31720ea1-ef2b-4af1-ae29-8fba4767976f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1561.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van geplande verdedigingswerken op het eiland Borselen",
+        "dc:description": "Titel Leupe: Kaart van het Eiland Borsselen in Rio Demerary, met de verdedigingswerken.\nDeze kaart toont de plannen van Heneman voor een herinrichting van het eiland Borselen, en is onderdeel van zijn grotere serie plannen om de kolonie Demarary volledig te herzien.\nBij Henemans kaart van Borselen gaat het waarschijnlijk ten dele om een situatieplan, ten dele om een ontwerpvariant waarbij het gouvernement niet naar een nieuwe locatie op de wal zou verhuizen.\nMet dunne potloodlijnen is een groots opgezette nieuwe bebouwing aangeduid, waarvan echter onder de bewaard gebleven kaarten en bouwtekeningen in het Nationaal Archief en elders nergens een nadere uitwerking is terug te vinden.\nHet geprojecteerde gebouw geheel rechts, op de zuidpunt van het eiland, is een kruitmagazijn, waarvan in iets afwijkende vorm wel een detailontwerp bestaat; dit is afgebeeld op VEL1564.22.\nHet noorden is linksonder.\nSchaalstok van 400 Voet Rhijnl. = [ca. 1 : 665].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1561",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.47 - 0.38 El. (47 x 113 cm.)",
+        "dcterms:date": "1774-1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7796/kaart-van-geplande-verdedigingswerken-op-het-eiland-borselen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bb/93/56/a5/81/e5/4e/0b/9c/22/d9/de/38/04/d2/79/80a0ea0d-04fc-4b05-86f2-50cefdd2dea5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bb/93/56/a5/81/e5/4e/0b/9c/22/d9/de/38/04/d2/79/80a0ea0d-04fc-4b05-86f2-50cefdd2dea5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1561.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eiland Borsselen in Rio Demerary, met de verdedigingswerken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

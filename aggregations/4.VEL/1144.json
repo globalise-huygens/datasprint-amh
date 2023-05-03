@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1144.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1161ec68-aac1-45bf-a84e-f5bdbfd040cf",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1144.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het Sillidase Bergwerk, soo als hetselve succesive is bearbeyt, van het jaar 1669 tot op den 27 september 1737 / Van Cloons Stolle / 't Sillidase gebergte van de Noordzyde",
+        "dc:title": "Gezichten op de mijnen van Sillida",
+        "dc:description": "Titel catalogus Leupe (NA): Het Sillidase Bergwerk, soo als hetselve succesive is bearbeyd, van het jaar 1669 tot op den 27 september 1737.\nLegenda: A-Z; a-q; 1-31\nNotities verso: No. 43 [nummer van het stuk in de band OBP] / Behoort by de overgekomen Brieven en papieren van Batavia 1739 3 deel [waarschijnlijk staat er 1739, maar misschien 1734] / 599 e / 1956_ [slecht leesbaar, misschien staat er 1456].\n48 Rijnl. vamen of 24 roeden en schaalstok van 10,5 cm; omgerekende schaal [1 : 860] / 24 Rijnl. vamen of 12 roeden en schaalstok van 10,5 cm; omgerekende schaal [1 : 430",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1144",
+        "dc:subject": [
+            "legenda",
+            "gebouw",
+            "fauna",
+            "kompas / windroos",
+            "fabriek / werkplaats",
+            "overzicht / aanzicht",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "54 x 75 cm",
+        "dcterms:date": "1737",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5748/gezichten-op-de-mijnen-van-sillida"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/92/b0/f0/ed/48/23/41/9a/9c/63/01/1e/ca/a3/a5/96/20dfeaac-b434-455a-bec3-4448f6c75a32.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/92/b0/f0/ed/48/23/41/9a/9c/63/01/1e/ca/a3/a5/96/20dfeaac-b434-455a-bec3-4448f6c75a32.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1144.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Sillidase Bergwerk, seo als hetselve successive is bearbeyd, van het jaar 1669 tot op den 27 September 1737."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

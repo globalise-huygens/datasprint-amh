@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1011B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a6055825-5ae2-4d13-876c-d8f12d782a0f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1011b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Profil van Trinkonomale",
+        "dc:title": "Profiel van Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van Trincoenemale.\nProfieltekening van de geplande vetsingwerken ter insluiting van het voorterrein tussen de vestingwal en Pagodeberg.\nNotities verso: Nr. 40 [Blauw etiket] nr. 29 b Profilen van Trinconomale.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1011B",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "doorsnede / profiel",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "34 x 100 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4779/profiel-van-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d8/28/af/62/36/1a/49/62/bf/42/ad/b0/01/58/a5/b8/c7c27066-d8f9-441f-8d2a-396dc2d70773.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d8/28/af/62/36/1a/49/62/bf/42/ad/b0/01/58/a5/b8/c7c27066-d8f9-441f-8d2a-396dc2d70773.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Profiel"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,58 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/945.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c7f852e5-c4ec-4b60-9a0c-2084bf190d08",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0945.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'T Casteel Colombo ende des selvs situatie, sodanig geweest int begin van 't Jaar 1692 Wanneer d: Ed:le Heer Laurens Pijl van Ceijlons gouvernement transport gedaan heeft.",
+        "dc:title": "Het kasteel van Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): 'T Casteel Colombo en desselvs situatie, soodanig geweest is in 't begin van 't Jaar 1692.\nLegenda: A-N; 1-17\nKaart van de stad Colombo met daarop aangegeven het grondgebruik, de vestingwerken en de ligging van de gebouwen van de VOC, onderverdeeld naar hun bestemming.\nNotities verso: Blauw etiket onleesbaar afgeplakt door restauratie. Nr. 15.\nTopografische namen vermeld op deze kaart: Colombo, Batenburg, den Briel, Enckhuysen, Middelburgh, Rotterdam, Hoorn, Amsterdam, Delvt, Leijden, Zeeburg, Klippenburgh.\nTermen vermeld op deze kaart: paardestal, zaagmolen, wapencamer, kruytmolen, slavenkwartier.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0945",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kerk / pastorie",
+            "vesting",
+            "gebouw",
+            "ziekenhuis / lazaret",
+            "tuin / siertuin",
+            "menagerie / stal",
+            "legenda",
+            "kompas / windroos",
+            "kruithuis / kruitmolen",
+            "arsenaal"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,2 x 107 cm",
+        "dcterms:date": "januari 1697",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/692/het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/40/54/6f/69/d9/c5/46/16/a9/60/e5/d6/02/62/43/97/8572759c-6d7b-42a0-9e1c-c00ab37d63af.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/40/54/6f/69/d9/c5/46/16/a9/60/e5/d6/02/62/43/97/8572759c-6d7b-42a0-9e1c-c00ab37d63af.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/945.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

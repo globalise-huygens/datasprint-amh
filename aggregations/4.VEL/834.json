@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/834.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c5ccca34-093c-4174-b603-96fda0d8709b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0834.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Tafel-Baaij",
+        "dc:title": "Plattegrond van fortificaties aan de Kaap de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van fortificatien aan de Kaap de Goede Hoop.\nNotities verso: Plan van de fortificatie uit brieven en papieren van de kaap overgekomen.\nLegenda: 1-7\nTermen vermeld op deze kaart : batterij, redout, couvre fa\u00e7e.\nTopografische namen vermeld op deze kaart: Couvre fa\u00e7e Van Imhoff, Redoute de Elizabeth, Redoute de Helena, Fort de Knocke, Chavonnes vulgo de Groote Batterije, Batterije de S Heeren Hendriks Kinderen, Tafel Baaij.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0834",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rede / haven / pier",
+            "legenda",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "740 x 1053 mm",
+        "dcterms:date": "ca. 1745",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/356/plattegrond-van-fortificaties-aan-de-kaap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/84/b5/a6/ef/cd/3b/44/7d/9e/9f/18/ac/36/a2/39/1c/3b57be82-e012-4c2d-82d6-1f5d1c401293.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/84/b5/a6/ef/cd/3b/44/7d/9e/9f/18/ac/36/a2/39/1c/3b57be82-e012-4c2d-82d6-1f5d1c401293.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/834.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van fortificatien aan de Kaap de Goede Hoop."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

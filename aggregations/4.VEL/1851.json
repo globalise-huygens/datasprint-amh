@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1851.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/455a539c-9626-4af4-876f-c2505baa85cc",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1851.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantages ten noorden van de Commewijne rivier",
+        "dc:description": "Titel Leupe: Generaale kaart van de Noordzyde der Beneden rivier Commewyne, van Braamspunt af tot de laatste plantagie in de Warappe Creque enz, waarin met rood aangewezen zyn de gronden die tot Plantagien zouden kunnen worden uitgegeven, zoo men liet graven de Creeq a, b, c, d..\nDeze kaart toont alle kavels en hun achterlanden ten noorden van de Commewijne rivier van de westelijke (links op de kaart) kust bij Bramspunt tot  de Livonia plantage ten noordoosten in de Warapa Kreek.\nIn sommige kavels staan eigenamen vernoemd de achterlanden die aan deze reeds bestaande kavels kunnen worden toegevoegd zijn met een stippellijn aangegeven en de rode begrensing toont kavels die geleegd kunnen worden voor verkoop.\nVerder plannen ter uitbreiding worden weergegeven op VEL 1849 en 1851 t/m 1854.\nHet fort Nieuw Amsterdam is ter referentie weergegeven.\nSchaal van 800 Kettingen \u00e0 66 Rijnlandse voeten = 180 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1851",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.57 - 0.31 El.",
+        "dcterms:date": "1772",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1980/kaart-van-de-plantages-ten-noorden-van-de-commewijne-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c0/ea/b1/d1/ca/cb/48/ee/b2/e7/d1/4b/0a/9d/18/a1/e95a4dca-27e2-4982-bda9-52b34df3e23e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c0/ea/b1/d1/ca/cb/48/ee/b2/e7/d1/4b/0a/9d/18/a1/e95a4dca-27e2-4982-bda9-52b34df3e23e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1851.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Generaale kaart van de Noordzyde der Beneden rivier Commewyne, van Braamspunt af tot de laatste plantagie in de Warappe Creque enz, waarin met rood aangewezen zyn de gronden die tot Plantagien zouden kunnen worden uitgegeven, zoo men liet graven de Creeq a, b, c, d."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

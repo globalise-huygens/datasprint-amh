@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.12.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f797cc66-32d2-47fc-86aa-f3f61b5b4a7b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_12.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Tekeningen van het geprojecteerde gouvernementsgebouw",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nDeze schets behoort tot de ontwerpen die Abraham van der Hart in de jaren 1779-1781 voor de Soci\u00ebteit van Berbice maakte. Het hier getoonde gouvernementsgebouw is aangeduid met nr. 1 op Van der Hart\u2019s grote overzichtsplan voor het nieuwe gouvernementscomplex op kaart VEL1662.42. De schets van de balkconstructies is naar zich laat aanzien een aanpassing van een ontwerp dat Jean-Guillaume d\u2019Arnaud in 1773 tekende. De belangrijkste wijziging ten opzichte van d\u2019Arnauds oorspronkelijke plan was de verhoging van de voorzijde van het gebouw tot twee verdiepingen, die het geheel een representatiever aanzien moest geven. De bouw van het nieuwe gouvernement is nooit veel verder gekomen dan de fundamenten van de hoofdvleugel aan de voorzijde. Toen Van der Hart in 1779 door de Soci\u00ebteit werd gevraagd als adviseur op te treden voor de verdere uitvoering en daartoe nieuwe plannen op te stellen diende hij deze laatste dan ook zodanig te ontwerpen dat op dit geringe bestaande muurwerk kon worden voortgebouwd. Deze tekening toont aan hoe hij dat van plan was en geeft eveneens een plattegrond weer.\nWegens de Britse bezetting van Berbice in maart 1781, kon slechts een gedeelte van de andere plannen in November 1780 worden overgezonden. Nadat Berbice in 1784 aan de Soci\u00ebteit was teruggegeven, volgden al in het jaar daarop de eerste plannen voor een geheel nieuwe hoofdplaats aan de samenvloeiing van de Berbice en de Canje, waarmee Van der Harts project van 1779-1781 definitief van de baan was.\nSchaal van 150 Rijnlandse voeten = 12 strepen",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.12",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7557/tekeningen-van-het-geprojecteerde-gouvernementsgebouw"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/76/00/31/28/fb/0f/48/b5/aa/08/aa/06/32/0b/f7/f8/2bba8abb-801a-46f4-935e-c4df36dc361a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/76/00/31/28/fb/0f/48/b5/aa/08/aa/06/32/0b/f7/f8/2bba8abb-801a-46f4-935e-c4df36dc361a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.12.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 12"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

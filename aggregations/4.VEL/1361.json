@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1361.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/130f2ab9-dc9c-4e47-8e2c-4d9b92964a64",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1361.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "N:o 2 / Plan van het Zuydelykste deel des Eylands Neira, vertoonende de situatie der forten Nassau en Belgica, met de stad en naastgeleegene bevestigde Posten, Batterien, Paggers enz. enz. enz. [...] ter ordre van de weledelgestrenge Heeren Vaillant, Verhuel en Graevestein Commissarissen militair enz. enz.",
+        "dc:title": "Plattegrond van het eiland Neira met de forten Nassouw en Belgica",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van het Zuydelykste deel des Eylands Neira, vertoonende de situatie der forten Nassau en Belgica, met de stad en naastgeleegene bevestigde Posten, Batterien, Paggers enz..\nGenummerd: No. 2.\nDe kaart heeft zowel op voor\nals achterzijde bruine vlekken.\nNotities verso: No. 2 / 663 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1361",
+        "dc:subject": [
+            "kerk / pastorie",
+            "vesting",
+            "gouvernementshuis / -gebouw",
+            "plattegrond / kaart",
+            "rede / haven / pier",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "127,5 x 147 cm",
+        "dcterms:date": "1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/632/plattegrond-van-het-eiland-neira-met-de-forten-nassouw-en-belgica"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fc/30/21/e1/a2/d4/4f/76/8b/3f/c9/f7/95/c8/ed/28/2ba1664d-e455-4e7d-af95-59bcfafc45f3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fc/30/21/e1/a2/d4/4f/76/8b/3f/c9/f7/95/c8/ed/28/2ba1664d-e455-4e7d-af95-59bcfafc45f3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1361.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het Zuydelykste deel des Eylands Neira, vertoonende de situatie der forten Nassau en Belgica, met de stad en naastgeleegene bevestigde Posten, Batterien, Paggers enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

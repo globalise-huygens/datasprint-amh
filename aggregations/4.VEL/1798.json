@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1798.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1840ebe9-c507-4c5f-ac88-31820662b738",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1798.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van landeigendom van Daniel en Isaac Pichot en andere plantage-eigenaars bij Pauluskreek",
+        "dc:description": "Kaart van landeigendom van Daniel en Isaac Pichot en andere plantage-eigenaars bij Pauluskreek\nDeze kaart toont de verdeling van het grondgebied ten noorden (boven op de kaart) van de Paulus Kreek.\nIn vergelijking met de tien jaar eerder afgelegde meting (VEL1797) valt op dat de familie Pichot veel grond in handen heeft gekregen en de Jood Rodrigo Gimene van het speelveld verdwenen is.\nEen zaak speelt tussen deze Pichots en de zwarte weduwe van eerder onvernoemde Isaac Pichot heeft deze landmeting van Daniel Pichot\u2019s eigendom verzocht en toegewezen gekregen.\nDaniel Pichot\u2019s eigen grond blijkt nog steeds duizend akkers (i.e. Surinaamse akkers van 0,43 hectare) in omvang, Isaac Pichot heeft eveneens duizend akkers in bezit.\nZes honderd vier en zestig daarbijgevoegde akkers ten oosten (rechts op de kaart) van Isaac Pichot\u2019s oorspronkelijke grondbezit zijn daarbij ook als apart stuk grond afgebeeld met de letter B.\nDit laatste stuk grond behoorde oorspronkelijk tot het eigendom van Adriaan van Buijl en N.N. Dufour.\nDe Landmeter Jan Marini van der Eijden heeft gebruikt gemaakt van de eerdere kaarten van Daniel Meusnier en Roeland de Meester om deze verdeling van grondgebied te trekken.\nOmliggend landeigenaarschap is ook genoemd en berekend: dat van N.N. Lambert ten westen van Isaac Pichot, dat van Du Four en Van Buijl ten oosten van het land van Isaac Pichot en dat van Isaac Labadie ten westen van de grond van Daniel Pichot.\nDe Paulus kreek is ten zuiden (onder aan de kaart) gedeeltelijk afgebeeld met aandacht voor de aanlegplaats en daarbij behorende gebouwen op het gebied van Isaac Pichot.\nVerder is een huis nabij de rivier op het land van N.N. Lambert afgebeeld.\nMet acte van meting en aantekeningen.\nSchaal van 80 Kettingen \u00e0 66 Rijnlandse voeten = 75 strepen.\nHerkomst [OBP Suriname] 1730 [fols.] 39-40",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1798",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "Groot 0.43 - 0.53 El.",
+        "dcterms:date": "1728",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9753/kaart-van-landeigendom-van-daniel-en-isaac-pichot-en-andere-plantage"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/66/0b/52/d5/86/a6/4f/15/88/f6/04/2f/43/ae/f3/e6/06b5dd32-2181-43a7-95f6-470b4cc68f38.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/66/0b/52/d5/86/a6/4f/15/88/f6/04/2f/43/ae/f3/e6/06b5dd32-2181-43a7-95f6-470b4cc68f38.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1798.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen behorende de H.H. Pichot en andere, gelegen in de Paulus Kreek, van Daniel Pichot."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

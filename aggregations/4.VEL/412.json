@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/412.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/35963c28-9539-4ed6-8a89-94811c536241",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0412.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart met peilingen in de rivier van Batavia",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart als voren, hiermee wordt bedoeld de kaart van VEL0388: Kaarten van gedane peilingen op de bank voor de Rivier.\nPeildatum: 1 oktober\nNotities verso: 1736 N8 / 268 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0412",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "73 x 52 cm",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3638/kaart-met-peilingen-in-de-rivier-van-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/eb/53/7f/74/15/f4/47/4b/b2/05/20/78/71/c2/6c/93/e12f65a4-39ff-46ff-938d-0d70d62cb95f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/eb/53/7f/74/15/f4/47/4b/b2/05/20/78/71/c2/6c/93/e12f65a4-39ff-46ff-938d-0d70d62cb95f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/412.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaarten van de gedane peilingen op de bank voor de Rivier, 1735 oktober 1.\n                            "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1507.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/23554b05-6392-430b-a519-ea4ff3133e2e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1507.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Gecopyeerd door C.C. Kanne, nr. 4.",
+        "dc:title": "Plankaart van de mondingen van de Demerary en de Essequibo met bestaande en nieuw aan te leggen plantages",
+        "dc:description": "Titel Leupe: Kaart van de Westwal der rivier Demerary en de daaraan gelegene plantages.\nKaart van de mondingen van de Demerary en de Essequibo, met daarop plantages en forten alsmede een grootschalig plan tot plantageaanleg tussen de twee rivieren. De namen van deel van de bestaande plantages staan in de percelen geschreven.\nOnderdeel van een serie plannen voor de verdere ontwikkeling van de kolonie in de jaren \u201970 en \u201980 van de 18de eeuw.\nRechtsboven \u2018Plan I\u2019. Rechtsonder \u2018gecopyeerd door C. C. Kanne, nr. 4\u2019.\nKopie van VEL1506.\nSchaalstok van 3000 Rijnlandse Roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1507",
+        "dc:subject": [
+            "landerij / plantage",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "ca. 1790-1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9387/plankaart-van-de-mondingen-van-de-demerary-en-de-essequibo-met"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3e/40/57/03/7d/2c/45/a7/a1/89/2a/8f/b6/3c/87/cf/40178f2b-7cae-4cf0-a727-0aa1f6074676.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3e/40/57/03/7d/2c/45/a7/a1/89/2a/8f/b6/3c/87/cf/40178f2b-7cae-4cf0-a727-0aa1f6074676.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1507.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

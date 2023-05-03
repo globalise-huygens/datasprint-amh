@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1596.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaarte van de Nieuwe Grond, genaamd Nieuwe Hoop, gelegen aan de Westwal van de Maripaam in Rio de Berbice enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1596"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1772"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/1fd64679-d6fb-4a9c-89f2-1871ac6cefea\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1596.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1596.json#canvas/p1",
+            "type": "Canvas",
+            "height": 3347,
+            "width": 7913,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1596.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1596.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/1c/3e/05/c5/7a/84/41/f9/b5/8a/fd/49/de/46/09/ea/4bf3f209-0cef-43bc-949c-644e4593365c.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3347,
+                                "width": 7913,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/1c/3e/05/c5/7a/84/41/f9/b5/8a/fd/49/de/46/09/ea/4bf3f209-0cef-43bc-949c-644e4593365c.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1596.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

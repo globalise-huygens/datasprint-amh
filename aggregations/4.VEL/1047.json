@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1047.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/227a20f0-04a9-41b1-b567-b8e783ee6653",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1047.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de rivier Mature",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, met eenige andere opmerkingen, hiermee wordt bedoeld de titel van VEL1046: Caart van de Groote Rivier van Mature, Nieuwalleganga genoemt, met eenige andere opmerkingen.\nMet potlood genummerd 721 b.\nNotities verso: overgekomen Ceylon (1) 1742 2 deel, N 2361 [in potlood], No. 75.\nDe tekening is hetzelfde als afbeelding VEL1046, echter enkele opmerkingen verschillen en deze kaart heeft meer details zoals huizen en vlaggen.\nDe afbeelding toont een landschap met rivier met aanduidingen zoals Ambelam, See Strand, Baaij, Gravet, Mature.\nLinksonder is een aantal verklaringen beschreven, namelijk van: A,B,C,D.\nLinksonder is de schaalverdeling Schaal van 300 R. Roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1047",
+        "dc:subject": [
+            "flora",
+            "brug",
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "gebouw",
+            "kompas / windroos",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "75 x 53,5 cm",
+        "dcterms:date": "ca. 1741",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3849/kaart-van-de-rivier-mature"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b3/5a/80/9a/33/c7/49/ab/81/e2/76/29/b5/c7/f1/12/7cfab6ce-9b83-4f5e-a6c1-ef3225b34397.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b3/5a/80/9a/33/c7/49/ab/81/e2/76/29/b5/c7/f1/12/7cfab6ce-9b83-4f5e-a6c1-ef3225b34397.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1047.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caart van de Groote Rivier van Mature, Nieuwallegange genoemt, met eenige andere opmerkingen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

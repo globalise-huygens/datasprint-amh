@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2134.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9de74741-f069-49ac-bc1a-3725c31deda0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2134.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Tekening van een vierentwintigponder",
+        "dc:description": "Titel Leupe: Teekening van een yzer Canon \u00e0 24 pond op zyn affuyt, op de Fortres Nieuw Amsterdam.\nDeze vierentwintigponder is bestemd voor het fort Nieuw-Amsterdam. De onderluitenant der artillerie J. Tilhenn heeft hem getekend, wat de tekeningen dateert op zijn werkzame periode tussen 1791 en 1795.. Het ontwerp van het kanon en zijn affuit voldoet aan de laat achttiende-eeuwse standaarden.\nSchaal van 6 Voeten Rhijnlands = 21 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2134",
+        "dc:subject": [
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.52 - 0.87 El.",
+        "dcterms:date": "ca. 1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2027/tekening-van-een-vierentwintigponder"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/94/0e/f2/4a/61/af/47/0b/87/4d/39/aa/37/13/05/8f/68dcb786-097d-4e5d-8ac3-d8ee16eeaaef.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/94/0e/f2/4a/61/af/47/0b/87/4d/39/aa/37/13/05/8f/68dcb786-097d-4e5d-8ac3-d8ee16eeaaef.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2134.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Teekening van een yzer Canon \u00e0 24 pond op zyn affuyt, op de Fortres Nieuw Amsterdam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

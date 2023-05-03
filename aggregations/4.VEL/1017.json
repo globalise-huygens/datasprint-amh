@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1017.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/00e32bbb-08d6-4f94-83e7-6984e9587e6a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1017.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van het fort te Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan de Trinquemale, relatif au projet Mr. Reimer.\nNotities verso: [Blauw etiket ODG]  nr.:13 Plan de Trinquemale relatif au projet de Mr. Reimer; potloodnr. 4; 64.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1017",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51 x 69 cm",
+        "dcterms:date": "ca. 1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4785/plattegrond-van-het-fort-te-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e5/e3/8b/0c/78/13/44/e0/89/07/fb/6f/f8/8c/2f/00/ce6c7521-8b09-4123-a8c2-85b9ebcacf03.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e5/e3/8b/0c/78/13/44/e0/89/07/fb/6f/f8/8c/2f/00/ce6c7521-8b09-4123-a8c2-85b9ebcacf03.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1017.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan de Trinquemale, relatif au projet Mr. Reimer."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

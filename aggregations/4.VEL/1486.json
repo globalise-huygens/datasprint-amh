@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1486.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/531ec28c-8927-4fb8-b92a-2be8bebd480a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1486.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van plantages op het eiland Cura\u00e7ao",
+        "dc:description": "Titel Leupe: Kaart van eenige Plantagien op het Eiland Cura\u00e7ao.\nDe kaart toont enkele plantages rond Westpunt, aan de noordkant van Cura\u00e7ao. \u2013 Legenda: 1-32. \u2013 De kaart is waarschijnlijk vervaardigd naar aanleiding van een dispuut over een stuk bosland, in de legenda weergegeven als 32. Het bosch in Questie.\nHet noorden is links.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1486",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "55,5 x 43 cm",
+        "dcterms:date": "ca. 1721",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7854/kaart-van-plantages-op-het-eiland-cura%C3%A7ao"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ee/6b/0a/90/e6/1b/44/49/bd/d3/88/06/fe/ce/9a/50/851d7c98-35c8-4f1a-97e9-89df69f4c8a9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ee/6b/0a/90/e6/1b/44/49/bd/d3/88/06/fe/ce/9a/50/851d7c98-35c8-4f1a-97e9-89df69f4c8a9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1486.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige Plantagien op het Eiland Cura\u00e7ao."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

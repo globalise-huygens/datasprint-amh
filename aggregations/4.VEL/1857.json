@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1857.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/205401c7-0993-46a5-8753-84f7b7db87dd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1857.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van  kavels die ontgonnen zullen worden naast het geplande kanaal bij de Leyde redoute",
+        "dc:description": "Titel Leupe: Schetskaart van een gedeelte der landen in de Colonie Suriname aan de Noordzyde der Rivier Beneden Comewyne by de redout Leyden geleegen.\nDeze kaart toont verschillende bestaande en nog niet ontgonnen kavels ten noorden (onder in de kaart) van de Commewijne Rivier en de Leyde redoute alsook het geprojecteerde kanaal dat ten westen (rechts op de kaart) moet worden aangelegd.\nDe eerste gronden in dit gebied werden kort voor het midden van de achttiende eeuw uitgegeven.\nAl voor ca. 1757 begon hier ook de ontginning van de laaggelegen delen verder van de rivier vandaan, het eerst langs de Warapa\nen de Matapicakreek, waarvoor het echter noodzakelijk was op uitgebreide schaal afwaterings\nen toevoerkanalen te graven.\nDeze kaart geeft een van de geplande kanalen weer alsook de grond die daar ten westen (rechts van de kaart) van ontgonnen kan worden.\nDeze nieuw lappen grond zullen worden overgenomen door de Ouderszorgh plantage gelegen aan de zuiderzijde van de Commewijne rivier (niet afgebeeld) en de eigenaris daarvan de weduwe A. Vereul en haar zoonen.\nDe Ouderszorgh plantage wilt deze nieuwe kavels gebruiken om hun slaven voldoende aan werk te zetten en van provisie en voedsel te voorzien.\nDe getoonde al bestaande kavels zullen baat hebben bij dit kanaal en zijn allen met eigenaam genoemd.\nDe achterlanden van de kavels zijn met een lijn onderscheiden van de kavel zelf en niet ingekleurd.\nOnder de nieuwe kavels bevatten de twee meest zuidelijk (boven in de kaart en beide rood gekleurd) gelegen hun verwachte omvang in Surinaamse akkers (0,43 hectare per akker).\nDe overige nieuw kavels (licht groen, geel en donkergroen gekleurd) zijn van gelijke omvang als de meest zuidelijke twee.\nDe Leyde redoute is weergeven ter ori\u00ebntatie.\nDe kaart is ondertekend door de landmeter zelf op 18 September 1798.\nTwee voorstudies zijn beschikbaar (VEL 1857A en 1857A1).\nOorsprong: [OBP Suriname] 1720 blz. 125-128.\nSchaal van 150 Kettingen \u00e0 66 Rijnlandse voeten = 185 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1857",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.45 - 0.60 El.",
+        "dcterms:date": "1798",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2202/kaart-van-kavels-die-ontgonnen-zullen-worden-naast-het-geplande"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f8/89/57/15/ee/d5/4e/b0/81/f1/06/bf/17/34/8c/0b/6f3c2e3e-4913-4f3b-a0b4-04c368dacd11.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f8/89/57/15/ee/d5/4e/b0/81/f1/06/bf/17/34/8c/0b/6f3c2e3e-4913-4f3b-a0b4-04c368dacd11.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1857.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

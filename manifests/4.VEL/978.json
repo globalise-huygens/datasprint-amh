@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/978.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Platte grondteekening der vestingwerken van Colombo, zoodanig als dezelve by gedane hermeting door den Majoor-Ingenieur Reimer, in de maand November de jaars 1789, bevonden zyn; vertoonende in het byzonder de plaats en hoedanigheid der toen kortelings voorgevallene dambreuken enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "978"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1790"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/4452171e-6576-4925-a237-4f0c25be0f1b\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/978.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/978.json#canvas/p1",
+            "type": "Canvas",
+            "height": 10304,
+            "width": 11362,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/978.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/978.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/65/e2/e6/72/7e/c9/48/5c/a8/a3/9a/d3/61/a6/da/39/51718ac3-5585-4147-aefd-56d3c5b06c61.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 10304,
+                                "width": 11362,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/65/e2/e6/72/7e/c9/48/5c/a8/a3/9a/d3/61/a6/da/39/51718ac3-5585-4147-aefd-56d3c5b06c61.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/978.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

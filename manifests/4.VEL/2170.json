@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2170.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "\n                            Tabula Magellanica qua sierrae de Fuego, cum Celeberrimis fretes a F. Magellano et J. Le Maire detectis etc."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2170"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/c391fe8d-7dc7-4a99-b483-6cb501e62d74\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2170.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2170.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5873,
+            "width": 7608,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2170.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2170.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/cc/79/26/4f/c2/89/4d/ff/ba/ff/36/d6/1f/c7/98/24/ceca8956-3fa7-488c-bf6f-e7b5bf530609.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5873,
+                                "width": 7608,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/cc/79/26/4f/c2/89/4d/ff/ba/ff/36/d6/1f/c7/98/24/ceca8956-3fa7-488c-bf6f-e7b5bf530609.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2170.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2057.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8c699272-c886-4646-aa2d-069a36d6e5ac",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2057.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [linksboven] een legenda bij de letters A t/m E : \nExplanations: [upper left] a key to the letters A to E : \nA. De Redout Lijden. \nB. Het Wagthuijs. \nC. Keuken. \nD. Reegen Bak. \nE. Secreet",
+        "dc:title": "Plattegrond van de redoute Leiden",
+        "dc:description": "Titel Leupe: Plan van de redout Lyden, zoo als deselve zig in staat van Defentie bevonden heeft, 24 Julij 1779.\nNet als bij de redoute Purmerend werd al snel duidelijk dat de redoute Leiden veel te zwak was om serieuze tegenstand te kunnen bieden bij een aanval via de monding van de Surinamerivier. Een noodplan opgesteld en uitgevoerd in 1766-1767 maakte het fortje na uitvoering later in 1767 wellicht iets weerbaarder (zie VEL1999), maar bracht geen verbetering in de onderliggende tekortkomingen van het fort. Bij de verwezenlijking van Dircks\u2019 noodplan voor de redoute Leiden eind 1767 is zijn voorstel waarschijnlijk niet precies gevolgd. Deze kaart door de kapitein-ingenieur en directeur-inspecteur der fortificati\u00ebn Johan Conrad Hurter toont de situatie van c. 11 jaar later, toen vanwege de toenemende dreiging van een oorlog met Groot-Brittanni\u00eb op korte termijn een nieuw plan voor de verbetering van het fortje moest worden gemaakt. Volgens dit situatieplan was de gracht inderdaad gedempt, maar had de wal aan de rivierzijde nog wel de kleine bastions behouden, zij het in iets andere vorm dan in de oorspronkelijke opzet.\nHet noorden is linksboven.\nSchaalstok van 12 Roeden Rhijnlands = [ca. 1 : 550].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2057",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "43 x 53 cm.",
+        "dcterms:date": "1779",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2214/plattegrond-van-de-redoute-leiden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/76/6e/d5/a6/10/c4/42/f5/b0/ba/96/f6/e4/4b/c4/02/40f1a457-a852-4a1e-ba85-415ecc3ac421.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/76/6e/d5/a6/10/c4/42/f5/b0/ba/96/f6/e4/4b/c4/02/40f1a457-a852-4a1e-ba85-415ecc3ac421.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2057.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de redout Lyden, zoo als deselve zig in staat van Defentie bevonden heeft, 24 Julij 1779."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

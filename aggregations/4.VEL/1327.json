@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1327.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/db13262b-d8fe-4c50-ac4b-5d51e8aca73f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1327.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het kasteel Victoria in Amboina met het geberchte van Leytimor daer achter gelegen",
+        "dc:title": "Plattegrond in vogelvlucht van Amboina",
+        "dc:description": "Titel catalogus Leupe (NA): Het kasteel Victoria in Amboina met het geberchte van Leytimor daer achter gelegen.\nBehoort bij het rapport van Arnold de Vlamingh van Outshoorn.\nDe randen zijn gerafeld.\nNotities verso: 214 [moet het folionummer in de band OBP zijn] / 652 m.\nCf. Bodel Nijenhuis, inv. nr. COLLBN 002-09-010.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1327",
+        "dc:subject": [
+            "flora",
+            "overzicht / aanzicht",
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "33 x 41 cm",
+        "dcterms:date": "ca. 1651",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6971/plattegrond-in-vogelvlucht-van-amboina"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0b/c5/bc/45/26/fb/42/59/a5/25/99/f0/8c/49/95/98/4e564a96-7a08-4ee1-a5c1-5150273d68b7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0b/c5/bc/45/26/fb/42/59/a5/25/99/f0/8c/49/95/98/4e564a96-7a08-4ee1-a5c1-5150273d68b7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1327.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het kasteel Victoria in Amboina met het geberchte van Leytimor daer achter geleegen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

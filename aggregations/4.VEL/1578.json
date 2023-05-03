@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1578.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cf752f99-c76f-4139-89c9-629ea299b693",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1578.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantages Groote en Kleine Dankbaarheid aan de rivier Berbice",
+        "dc:description": "Titel Leupe: Kaarte van een gedeelte der Rivier de Berbice, Oostzyde van de Plantagie Christina's Lust tot aan de Kreek Macaierore met den loop der Mannakole gronden enz.\nDeze kaart toont de plantages Groote en Kleine Dankbaarheid aan de rivier Berbice.\nDe meting is aangevraagd door de eigenaren, de gouverneur J. Kaecks en de heer H. Volkmar uit Amsterdam, om de afstand tussen hun plantages te meten alsook de omvang in Surinaamse akkers (1 akker = 0.43 hectare).\nDe meetpalen die de landmeter D.W.C. Hattinga in 1757 voor dit gebied gebruikt heeft zijn met rode gestipelde lijnen aangegeven.\nOok de omliggende bossen en gronden zijn met letters en soms kleuren aangeduid, zie de index linksonder op de kaart.\nDe plantages Christina\u2019s Lust, Juliannenborg en Het Plegt Ancker liggen ten zuiden van de plantages Groote en Kleine Dankbaarheid.\nDe kaart is rijk versierd, met o.a. een prachtige cartouche en een afbeelding van een klassiek interieur.\nDe kaart is op 17 Oktober 1775 ondertekend.\nSchaal van 500 Rijnlandse roeden = 195 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1578",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.625 - 0.945 El.",
+        "dcterms:date": "1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10247/kaart-van-de-plantages-groote-en-kleine-dankbaarheid-aan-de-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/45/fb/9e/29/04/7d/42/f2/9b/e9/d0/9f/2a/e4/f1/46/ca3dacaf-b953-4ff3-a83d-35be9460188e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/45/fb/9e/29/04/7d/42/f2/9b/e9/d0/9f/2a/e4/f1/46/ca3dacaf-b953-4ff3-a83d-35be9460188e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1578.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaarte van een gedeelte der Rivier de Berbice, Oostzyde van de Plantagie Christina's Lust tot aan de Kreek Macaierore met den loop der Mannakole gronden enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

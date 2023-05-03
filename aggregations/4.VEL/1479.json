@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1479.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/88ba734f-c30c-42a3-b4be-8e5f03df4c93",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1479.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een stadspoort van Willemstad",
+        "dc:description": "Titel Leupe: Platte grond van de Stadspoort enz.\nDit ontwerp uit 1754 voor een nieuwe stadspoort aan de oostkant van het vergrote Willemstad \nkroont de eerdere plannen uit 1746 van Willem Meijer om de vestingwal van de stad veel verder ten oosten van Fort Amsterdam te bouwen dan oospronkelijk het idee was. De afstand van het fort maakte het noodzakelijk een sterke stadsmuur te bouwen en de stadspoort goed verdedigbaar te maken. Deze plattegronden tonen hoe dit met logementen, courtines en trappen bereikt kan worden. Een eerdere versie van deze poort verscheen op de kaart van de generaal der infanterie Van Burmania (zie VEL1452) waarop hij staat aangegeven met de letter (W) achter het ravelijn of voorwerk.\nZie ook VEL1480, die de bijbehorende aanzichten toont.\nSchaal van 5 roeden = 60 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1479",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1754",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7250/ontwerp-voor-een-stadspoort-van-willemstad"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c0/13/30/42/2a/c5/4f/30/be/5a/aa/e4/ae/4a/6e/d3/ca66b38d-dc8d-4397-963a-213e5c435b8f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c0/13/30/42/2a/c5/4f/30/be/5a/aa/e4/ae/4a/6e/d3/ca66b38d-dc8d-4397-963a-213e5c435b8f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1479.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van de Stadspoort enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

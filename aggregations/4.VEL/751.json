@@ -1,0 +1,56 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/751.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/55bb4e47-7536-427b-8e66-1ed92e5ceba0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_751.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het Fortress Hollandia tot Bokeshoe",
+        "dc:title": "Plattegrond van het fort Hollandia te Pocquessoe",
+        "dc:description": "Plattegrond van het fort Hollandia te Pocquessoe.\nTitel catalogus Leupe (NA): Het Fortress Hollandia tot Bokeshoe.\nHet Fortress Hollandia tot Bokeshoe.\nNotities verso: No. 12 Fortres Hollandia. Register 8, Deel 1, Folio 32, Portefeuille .. [geschreven op een blauw etiket] / 450 [met vette cijfers gestempeld op een etiketje].\nLegenda: Declaratie / 1. Poort van de Wagt / 2. Een oud vervallen Gebouw / 3. Een ditto; bijde zonder Plat / 4. Reegen bak / 5. 's Commandanten Wooning, waeronder Een Pakhuuys / 6. Slaapkaamer, waeronder's adsistenten Wooning / 7. een Bortessie / 8. Stompe Tooren, waerin Een Wooning / 9. 10  twee Schilder huysen. / Na: de 1ste, 2de en 3de Bastion zyn verwoest, waervan de 1ste tot Een slaeve gat gebruykt word. / 'T oude Gouvernement is ten Eenemael vervallen, staende alleening nog de Muuren daervan.\nRechtsonder: No: 2.\nOp verschillende plekken op de kaart: 751 [in potlood].\nMiddenboven: 17e LXIII.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0751",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "legenda",
+            "vesting",
+            "gebouw",
+            "toren",
+            "pakhuis",
+            "tanck / waterplaats / put",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "66 x 48,5 cm",
+        "dcterms:date": "1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6178/plattegrond-van-het-fort-hollandia-te-pocquessoe"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/73/0c/1b/23/d3/ff/42/ce/b3/b9/5c/c0/74/c9/f6/d8/b66430ea-5bbe-4de8-a908-3046d002297e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/73/0c/1b/23/d3/ff/42/ce/b3/b9/5c/c0/74/c9/f6/d8/b66430ea-5bbe-4de8-a908-3046d002297e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/751.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Fortress Hollandia tot Bokeshoe."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

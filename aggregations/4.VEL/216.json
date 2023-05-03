@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/216.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ece099c9-af5f-4a40-ac70-9f61ada499ae",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0216.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Arabiae Felicis Pars",
+        "dc:title": "Kaart van een deel van de Rode Zee",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van een gedeelte der Roode Zee; aan de Afrikaanse Kust tusschen Caap Guardafuy en I. de Camelo; aan de Arabische Kust tusschen Enceada das Baixos en Omara.\nRechtsboven genummerd: 12.a.\nNotities verso: 17 [in potlood in rechterbovenhoek] / 216 [in rood potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0216",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2306/kaart-van-een-deel-van-de-rode-zee"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8c/34/03/99/61/c3/42/db/b5/15/c3/38/a5/6d/a7/89/05b1f6ac-87e5-493d-80ae-3564de95c77d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8c/34/03/99/61/c3/42/db/b5/15/c3/38/a5/6d/a7/89/05b1f6ac-87e5-493d-80ae-3564de95c77d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/216.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte der Roode Zee; aan de Afrikaansche Kust tusschen Caap Guardafuy en I. De Camelo; aan de Arabische Kust tusschen Enceada das Baios en Omara."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

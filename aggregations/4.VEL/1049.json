@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1049.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/96f52c72-b89a-4da1-b094-364e1de9635a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1049.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan et Profils de la redoute van Eck, aux ille de Ceilon, 200 Toises de Mature",
+        "dc:title": "Plattegrond en profiel van Redoute van Eck te Mature",
+        "dc:description": "Titel catalogus Leupe (NA): Plan et Profils de la redoute van Eck, aux ille de Ceilon, 200 Toises de Mature.\nLegenda: A-N\nNotities verso: [Blauw etiket ODG] nr: 47 Redout van Eck; [Gedrukt etiket] nr: 575 La. C 6.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1049",
+        "dc:subject": [
+            "poort",
+            "overzicht / aanzicht",
+            "vesting",
+            "plattegrond / kaart",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "49 x 68 cm",
+        "dcterms:date": "1766",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/919/plattegrond-en-profiel-van-redoute-van-eck-te-mature"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/04/42/8d/0d/f0/29/4c/cc/a2/2c/17/a8/dc/62/4e/b4/c1e8677e-d63a-409e-a741-2372a2a38461.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/04/42/8d/0d/f0/29/4c/cc/a2/2c/17/a8/dc/62/4e/b4/c1e8677e-d63a-409e-a741-2372a2a38461.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1049.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan et Profils de la redoute van Eck, aux ille de Ceilon, 200 Toises de Mature."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

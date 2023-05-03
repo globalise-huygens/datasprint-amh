@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1250.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e50b4b2f-931a-4243-8f35-7735200e4832",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1250.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aftekeningh van de Stadt en 's Comp:s Fortres tot Cheribon",
+        "dc:title": "Plattegrond van de stad en het fort van Cheribon",
+        "dc:description": "Titel catalogus Leupe (NA): Afteekeningh van de stadt en 's Comp:s Fortres tot Cheribon.\nRechts boven genummerd: 4.c.\nNotities verso: N 2 : 11  59 [in potlood, 59 is doorgestreept] / 625 a.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1250",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4267/plattegrond-van-de-stad-en-het-fort-van-cheribon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7c/20/75/cb/c8/a3/4b/d4/b9/aa/60/c5/ab/ac/2c/9a/bc2c8f59-5af3-4725-b7f6-3d2d6dce441c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7c/20/75/cb/c8/a3/4b/d4/b9/aa/60/c5/ab/ac/2c/9a/bc2c8f59-5af3-4725-b7f6-3d2d6dce441c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1250.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteekeningh van de stadt en 's Comp.s Fortress tot Cheribon."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

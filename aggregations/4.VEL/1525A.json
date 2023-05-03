@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1525A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a3e2fcf7-bd2e-42ee-89ff-e9730c86a8f3",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1525a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "VEL1525A: <Plan III, Prospect van het Canaal,>\nVEL1525B: <Prospect van het Canaal Plan II>",
+        "dc:title": "Plan voor een kanaal op het eiland Borselen",
+        "dc:description": "Titel Leupe: Prospect van een Canaal op Borselen.\nOntwerp van een kanaal op het eiland Borselen in de rivier Demerara, met een dwarsprofiel onder in de kaart.\nOp dit eiland lag voorheen de compagniesnederzetting. Toen deze verplaatst werd naar de oostoever van Demerara, kwam het eiland onder toezicht van de heer Van Schuylenburgh. Onder zijn bewind werden opeenvolgende projectvoorstellen gemaakt voor een effici\u00ebntere inrichting en verdediging van het eiland, waarvan deze kaart er een is.\nJohan Christoph Heneman maakte tijdens zijn detachering in Demerara en Essequibo in 1774-1775 een ontwerp voor de herinrichting van de compagniesnederzetting op het eiland, in samenhang met zijn plan voor een nieuwe stad op de  tegenoverliggende oostelijke rivieroever (zie VEL1524). Zijn meest ingrijpende suggestie was het uitgraven van het kanaal dat hier wordt voorgesteld.\nIn het Nationaal Archief bevinden zich verscheidene varianten die hier niet apart zijn opgenomen: VEL1525B, 1525B1-3 en 1525A1-3.\nSchaal van 100 Rijnlandse Voeten = 173 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1525A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vogelvlucht / opstand"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.49 - 0.365 El.",
+        "dcterms:date": "1774-1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7795/plan-voor-een-kanaal-op-het-eiland-borselen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/40/1e/26/45/24/53/4f/1d/8f/f7/5b/6f/f7/9c/df/5b/275376cd-40dd-4b82-a605-d2268aa50904.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/40/1e/26/45/24/53/4f/1d/8f/f7/5b/6f/f7/9c/df/5b/275376cd-40dd-4b82-a605-d2268aa50904.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1525A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

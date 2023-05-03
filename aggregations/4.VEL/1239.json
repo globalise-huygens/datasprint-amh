@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1239.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6d72d8cc-80f2-40a4-b1ef-ea95c4437d7d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1239.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Profiel van het Moolenwerk tot de Syde haspelerij te Batavia",
+        "dc:title": "Bouwtekening voor de zyde haspelarij te Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Profiel van het Moolenwerk tot de Syde haspelerij te Batavia.\nNotities verso: Profil van het Moole werk tot de sijde haspelerij te Batavia [laatste twee woorden in een ander handschrift bijgeschreven] / No. 4 / Behoort by de overgekomen Brieven en papieren van Batavia 1731 4 deel 2 stukken / 503 [moet het folionummer in de band OBP zijn] / 1729 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1239",
+        "dc:subject": [
+            "doorsnede / profiel",
+            "fabriek / werkplaats"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51,5 x 108,5 cm",
+        "dcterms:date": "ca. 1729",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3432/bouwtekening-voor-de-zyde-haspelarij-te-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c5/6b/b6/0e/65/50/4f/33/9b/7f/63/5c/47/66/11/e7/f4106825-a12c-45ad-be80-5c022eaae72a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c5/6b/b6/0e/65/50/4f/33/9b/7f/63/5c/47/66/11/e7/f4106825-a12c-45ad-be80-5c022eaae72a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1239.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Profil van het Moolenwerk tot de Syde haspelery."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

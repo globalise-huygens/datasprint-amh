@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1741.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cc469bd4-07ba-4cfd-b33e-73964dad7744",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1741.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Vreede en Clifton plantage aan de kreek Para",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen in boven Para Creeq, links in het opvaren, behorende tot de Plantagien de Vreede en Clifton. Derde gedeelte.\nDit is een meting van een gedeelte van de plantage Vreede en Clifton plantage aan de kreek Para. De omvang van het perceel blijkt 500 Surinaamse akkers, oftwel 215 hectare. De kaart is ondertekend op 11 januari 1735 en erkend op 20 juli 1736.\nHet noorden is linksboven.\nMaakt deel uit van een serie metingen van de verschillende percelen van deze plantage: VEL1739 t/m VEL1743.\nSchaal van Kettingen \u00e0 66 Rijnlandse voeten = 132 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1741",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.40 - 0.32 El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10422/kaart-van-de-plantage-vreede-en-clifton-plantage-aan-de-kreek-para"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0d/ec/7e/11/11/29/47/b1/bc/33/ff/8f/3c/55/c2/87/ee596693-c52a-475f-aef7-02560d3f3cc6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0d/ec/7e/11/11/29/47/b1/bc/33/ff/8f/3c/55/c2/87/ee596693-c52a-475f-aef7-02560d3f3cc6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1741.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen in boven Para Creeq, links in het opvaren, behorende tot de Plantagien de Vreede en Clifton. Derde gedeelte."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

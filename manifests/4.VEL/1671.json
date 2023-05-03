@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1671.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Generaal Plan der begeven en gecultiveerden landen aan de Oostkant der Colonie van Surinaame enz., alsmede der nog onbegeeven landen tussen de Surinaeme, Comowyne, Pirica, Cottica enz. Verschillende mijlschalen."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1671"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/62546139-a499-44db-8b2a-e779369935fe\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1671.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1671.json#canvas/p1",
+            "type": "Canvas",
+            "height": 18013,
+            "width": 11774,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1671.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1671.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/26/ad/c3/a9/8e/f8/45/d4/81/af/85/5c/b2/d8/60/32/bf600902-e33e-4cc6-98ad-d5b6f6377d79.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 18013,
+                                "width": 11774,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/26/ad/c3/a9/8e/f8/45/d4/81/af/85/5c/b2/d8/60/32/bf600902-e33e-4cc6-98ad-d5b6f6377d79.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1671.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

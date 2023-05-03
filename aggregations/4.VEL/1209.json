@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1209.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dcf8ce69-6014-4334-841a-bac70b0450fa",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1209.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De rievier Tangerangh",
+        "dc:title": "Plattegrond van de vesting van Tangerang",
+        "dc:description": "Titel catalogus Leupe (NA): Als voren, van de vesting tot Tangerangh, hier wordt bedoeld de titel van VEL1208: Platte grond van het fortje de Zevenhoek enz..\nNotities verso: 1709 N 4 [overgekomen in 1709] / 660 [vermoedelijk het folionummer in de band OBP] / Caart vande vesting tot Tangrang / 602 y / 1700 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1209",
+        "dc:subject": [
+            "kompas / windroos",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "77 x 50,5 cm",
+        "dcterms:date": "ca. 1709",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7144/plattegrond-van-de-vesting-van-tangerang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bb/ca/99/39/73/6d/4f/13/a0/18/a9/24/69/79/bd/1c/f16e65a5-f82f-469d-bc6f-fba053c2d3ae.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bb/ca/99/39/73/6d/4f/13/a0/18/a9/24/69/79/bd/1c/f16e65a5-f82f-469d-bc6f-fba053c2d3ae.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1209.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

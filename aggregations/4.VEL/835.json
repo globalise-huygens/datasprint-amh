@@ -1,0 +1,55 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/835.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b147b6f5-a684-4db8-bf47-cc2b5a413e0d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0835.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van Caap de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Plan der situatie van de Caap de Goede Hoop.\nNotities verso: Blauw etiket Depot-Generaal 'Nr. 3 Plan van de Tafelbay met de fortificati\u00ebn; Register 10 deel 1; Folio 39..\nTopografische namen vermeld op deze kaart: Batterij Chavonnes, Batterij S Heeren Hendriks Kinderen, fort de Knokke, de nieuwe batterij.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0835",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "gebouw",
+            "landerij / plantage",
+            "tuin / siertuin",
+            "rede / haven / pier",
+            "tanck / waterplaats / put",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "495 x 863 mm",
+        "dcterms:date": "1750-1770",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/423/plattegrond-van-caap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/72/de/ae/2e/df/38/41/4a/a1/bf/cc/c5/df/93/3c/a9/46256303-bad2-48ce-810f-10e53bce4813.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/72/de/ae/2e/df/38/41/4a/a1/bf/cc/c5/df/93/3c/a9/46256303-bad2-48ce-810f-10e53bce4813.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/835.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan der situatie van de Caap de Goede Hoop."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

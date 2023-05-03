@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.51.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/057eb5e1-a222-4257-bb33-78b2a7ec7f65",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_51.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een waaghuis",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nDe militair ingenieur Jan Carel Willem Herlin die begin 1780 aankwam in Berbice als opvolger van d\u2019Arnaud, tekende meteen in dat jaar een ontwerp voor een nieuwe hoofdwacht in Fort Nassau (dus nog altijd de provisorische versterking van 1764). Ook dit plan voor een waaggebouwtje op is mogelijk nog in 1780 gemaakt, toch bereikte het pas in 1785 de Republiek. Het toont een plattegrond en twee gevels maar geeft geen indicatie van de locatie. In antwoord op zijn voorstel voor de hoofdwacht en het waaghuis lieten de directeuren hem weten dat dit project en eventuele volgende voor Nieuw-Amsterdam overbodig waren geworden, omdat zij intussen Abraham van der Hart hadden gevraagd geheel nieuwe plannen voor de hoofdplaats op te stellen.\nSchaalstok van 24 Voeten Rhij:s = [ca. 1 : 65].\nOorsprong: missive van Herlin aan de Directeur van 15 September 1785.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.51",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41 x 52,5 cm.",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10299/ontwerp-voor-een-waaghuis"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1d/36/e3/01/de/78/48/cf/8c/3b/a7/dd/49/11/85/94/de046f6c-14ea-455c-92fc-bf39e57d42ea.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1d/36/e3/01/de/78/48/cf/8c/3b/a7/dd/49/11/85/94/de046f6c-14ea-455c-92fc-bf39e57d42ea.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.51.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 51"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1457.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a3fcb2c4-94bb-4b21-97ba-e7f462095e52",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1457.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Projectplan voor het Bloedfort",
+        "dc:description": "Titel Leupe: Plan van het te vergrote bastion Bloedfort, mitsgaders van de nieuwe te makene\nlage battery langs den zeekant in groot bestek.\nDeze kaart is onderdeel van een serie gedetailleerde situatie\nen projectkaarten uit 1754 van de voornaamste bestaande verdedigingswerken op Cura\u00e7ao. Deze kaarten dienden toen als bijlagen bij de voortgangsrapportage van de directeur aan de bewindhebbers met betrekking tot de uitvoering van Van Burmania\u2019s plan, dat ook de versterkingen in de buitenbaaien omvatte. Hier is het ontwerp voor het Bloedfort ten noorden van Willemstad zichtbaar. De muren van dit geprojecteerde fort zijn in detail weergegeven met referentienummers en een index die de functies uitleggen.\nHet noorden is links.\nSchaal van 10 Rijnlandse Roeden = 155 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1457",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.50 - 0.715 El.",
+        "dcterms:date": "1754",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10383/projectplan-voor-het-bloedfort"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9d/35/fd/d8/99/f8/41/65/9d/1c/9a/53/bf/8a/20/2f/dd353904-b223-4f1b-ac30-eb21923c5496.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9d/35/fd/d8/99/f8/41/65/9d/1c/9a/53/bf/8a/20/2f/dd353904-b223-4f1b-ac30-eb21923c5496.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1457.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het te vergrote bastion Bloedfort, mitsgaders van de nieuwe te makene lage battery langs den zeekant in groot bestek."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

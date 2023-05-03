@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1268.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0b9a9dea-1998-4973-afb2-cef80c3c5ac0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1268.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de stad en omleggende landeryen van Samarang",
+        "dc:title": "Kaart van Samarang",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de stad en omleggende landeryen van Samarang, sig strekkende 1200 Roeden Bezuyden, 1085 R. Beoosten, 1570 R. Bewesten, Benoorden tot aan Zee.\nBijzonderheden: het formaat is exclusief een strook Japans papier van 3-4 cm aan alle vier de kanten.\nNotities verso: Plan No. 1 voor Samarang. [twee keer] / 20 septembre 1787 / No. 17 Stad en omliggende Situatie van Samarang. Register 2, Deel 1, Folio 7, Portefeuille.. [geschreven op een blauw etiket] / 630 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1268",
+        "dc:subject": [
+            "landerij / plantage",
+            "vesting",
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "86 x 127,5 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4935/kaart-van-samarang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ef/bf/ee/bc/0d/9c/45/bd/92/2d/e1/6d/c4/f8/3e/3a/6771d65e-e833-4d3f-96bd-614310e03563.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ef/bf/ee/bc/0d/9c/45/bd/92/2d/e1/6d/c4/f8/3e/3a/6771d65e-e833-4d3f-96bd-614310e03563.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1268.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de stad en omleggende landeryen van Samarang, sig strekkende 1200 Roeden Bezuyden, 1085 R Beoosten, 1570 T bewesten, benoorden tot aan zee."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

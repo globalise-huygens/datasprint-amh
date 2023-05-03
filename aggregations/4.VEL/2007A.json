@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2007A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9bf689d6-774d-41e1-8174-c875e4ad245a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2007a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(An encrypted key with added transcription to the letters A to F, centre):\nNota.\nA. de twee geprojecteerde Lijnen van verstopping.\nB. Geprojecteerde swaare flotbatterijen.\nC. Canonnieres.\nD. eerste dispositie van de, tot dekking van de passage in't rivier gerangeerde 2 fregatten, 7 koopvaarders 2 brigantijnen & 1 uytlegger.\nE. twee ter dispositie van een Koopvaardij Schip minder egter 2 vlotbatterijen op Ligte ponten waar van de Canon van elk Caliber sijn.\nF. Dispositie soo als de Scheepen thans leggen, behalven eene brigantijn en een vlotbatterij, die afgekeurt sijn.\n\n[linksonder] een aantekening betreffende de lodingen, niet getranscribeerd.",
+        "dc:title": "Plan om de monding van de Surinamerivier in tijd van oorlog af te sluiten",
+        "dc:description": "Titel Leupe: Generaal plan van defensie van den mond van de rivier Suriname en deszelfs environneerende situatien, banken en diepten van 't water.\nDeze kaart toont de zogenoemde \u2018Linie van Verstopping\u2019, dus de afsluiting in tijd van oorlog, van de monding van de Surinamerivier, zoals tijdens en na de Vierde Engelse Oorlog nader uitgewerkt op basis van de eerste, ge\u00efmproviseerde opzet daartoe in 1781-1782.\nDit overzicht van het gehele mondingsgebied door Johann Friedrich Ferdinand Wollant is de hoofdkaart behorend bij zijn eerder genoemd algemeen defensieplan en de serie militaire projectkaarten in geheimschrift uit 1781 (VEL2077, en VEL2078), en laat ongeveer dezelfde opstelling van de blokkadeschepen en kanonneerboten zien.\nDe inscripties waren oorspronkelijk in geheimschrift; op deze kaart is de ontcijferde tekst erbij geschreven.\nZie tevens VEL2007B, een kopie waarop slechts de ontcijferde tekst is opgenomen.\nSchaalstokken van 200 Kettingen \u00e0 66 voet rhijnl / 1000 roeden \u00e0 12 voet rhijnl = [ca. 1 : 26.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2007A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.50 - 0.66 El. (56,5 x 75 cm.)",
+        "dcterms:date": "1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1994/plan-om-de-monding-van-de-surinamerivier-in-tijd-van-oorlog-af-te"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/db/13/f7/6f/8b/2b/42/2a/a2/80/f2/6f/e4/e4/10/91/daf5a571-6419-4086-9ae3-711a588a7efc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/db/13/f7/6f/8b/2b/42/2a/a2/80/f2/6f/e4/e4/10/91/daf5a571-6419-4086-9ae3-711a588a7efc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2007A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1, cijferschrift"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

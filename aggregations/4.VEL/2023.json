@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2023.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/836efc33-200c-4f22-a06f-80c9188cbe66",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2023.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [inscripties bij de dekplans] diverse technische beschrijvingen, niet getranscribeerd. \nExplanations: [inscriptions with the deck plans] various technical descriptions, not transcribed.",
+        "dc:title": "Plattegrond van een kanonneerboot",
+        "dc:description": "Titel Leupe: Plan van de Canoneerboot met zyn riemen enz.\nDeze schets maakt een onderdeel uit van de serie \u2018plannen van verstopping\u2019 die na 1780 is gevormd (zie VEL2020-2027). Een belangrijk aspect van deze plannen waren de kanonneerboten of 'canoniere' die met zeilen of roeiers vijandige schepen moesten weerhouden. De geringe diepgang van deze boten was voordelig tijdens eb, maar de balans tussen wendbaarheid en de platte bodem was lastig te vinden. De bewapening lijkt veel te zwaar, ook in gewicht, voor de lichte, onstabiele pontonvaartuigen met hun geringe vrijboord en diepgang, zelfs indien die van een flinke hoeveelheid ballast zouden worden voorzien. Van een behoorlijke bescherming voor de kanonniers was gezien de geringe dikte van de scheepswand geen sprake, terwijl de pontons kennelijk ook niet op eigen kracht konden varen. Dit plan werd in 1793 gepresenteerd maar is nooit gerealiseerd.\nDeze tekening kan vanwege het gebruik van het geheimschrift uit diens defensieplan van 1781 met zekerheid aan Johann Friedrich Ferdinand Wollant worden toegeschreven. Het ontwerp voor een geroeide kanonneerboot met de dekplans, lijkt bedoeld als een verkleinde en vereenvoudigde uitvoering van de variant met zeilen op VEL2024 en 2025. In dit geval was er maar \u00e9\u00e9n kanon van middelzwaar kaliber, waarschijnlijk een 12\nof 18-ponder, dat recht boven de kiel op de boeg was gemonteerd.\nSchaalstok van 20 voet Amsterdams = [ca. 1 : 33].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2023",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "42 x 33 cm.",
+        "dcterms:date": "1780-1783",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2010/plattegrond-van-een-kanonneerboot"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1c/37/e4/96/36/cf/41/fc/91/d5/bf/ef/a2/63/f2/70/84942753-d897-4d84-b715-fcc96869423a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1c/37/e4/96/36/cf/41/fc/91/d5/bf/ef/a2/63/f2/70/84942753-d897-4d84-b715-fcc96869423a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2023.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Canoneerboot met zyn riemen enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

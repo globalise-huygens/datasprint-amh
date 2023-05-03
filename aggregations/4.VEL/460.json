@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/460.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9c71012b-d8d0-4025-8e33-c3d8e93bdb89",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0460.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "No. 1 Situatieplan van 't fort Rotterdam op Macassar; met de daarvoorleggende Rheede. / 't Eerste volgens gedaane Meeting van den ondergeteekenden. d' andere naar d' Opnaame van den Weled. Gestr. Heer A.A. Buyskes, Lieutenant ter Zee. Ter Order van den Weledel Gestrenge Heeren Vaillant, Verhuell en Gravestein, Commissarrissen militair, enz. enz, enz.",
+        "dc:title": "Fort Rotterdam op Macassar",
+        "dc:description": "Titel in catalogus Leupe (NA): Situatie-plan van het Fort Rotterdam op Macassar, met de daarvoor leggende Rheede enz..\nDatering a.d.h.v. datering 1790 NA VEL240.\nKaart van de rede van Makassar tussen de Hoek van Pannehoekan en kamp Boegis, met het fort Rotterdam en de omliggende vleck Vlaardingen, kampong Baroe en compagnies tuinen.\nNotities verso: nr. 1 inkt..\nTopografische namen vermeld op deze kaart: Kampong Baroe, Vleck Vlaardingen, Kampong Malayo, Kampong Boegis, Pannehoekan, Maruso, Benteng Madura [bij Maruso, daar ook tuyn van den Heer Gouverneur], redoute Vrydenburg.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0460",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "begraafplaats / kerkhof",
+            "tuin / siertuin",
+            "rede / haven / pier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "745 x 172 mm",
+        "dcterms:date": "1775-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/626/fort-rotterdam-op-macassar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8a/5d/da/98/eb/85/4a/22/ab/c2/3a/3d/59/66/54/c9/0bd891ee-cafb-4627-a565-01214e43b8a7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8a/5d/da/98/eb/85/4a/22/ab/c2/3a/3d/59/66/54/c9/0bd891ee-cafb-4627-a565-01214e43b8a7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/460.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Situatie-plan van het Fort Rotterdam op Macassar, met de daarvoor leggende Rheede enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

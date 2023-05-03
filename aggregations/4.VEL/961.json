@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/961.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/92c03da2-f4e9-4cd7-ab25-5fafc830d2d0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0961.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan en Project tot versterking van het Casteel Colombo",
+        "dc:title": "Plattegrond ter versterking van het kasteel van Colombo",
+        "dc:description": "Titel in catalogus Leupe (NA): Plan en Project tot versterking van het Casteel Colombo.\nPlankaart van vestingwerken ontworpen door PNAvincini di Capelli, bestaande uit een gedeelte van de oost-westzijde en het slaveneiland, en de afsluiting van het zeestrand door een nieuwe linie.\nDi Capelli werd benoemd tot kapitein-ingenieur op Ceilon sinds 1762, zie NA VOC 222.\nNotities verso: [Gedrukt etiket] nr. 531; nr. 1 Nader plan project voor Colombo 1787, door Paravicini.\nLegenda: A-X",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0961",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "106 x 133 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/701/plattegrond-ter-versterking-van-het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4e/26/2c/26/35/d0/4f/88/a1/32/aa/3e/62/1c/97/74/39a45759-3e18-469b-a79c-aec57734deb0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4e/26/2c/26/35/d0/4f/88/a1/32/aa/3e/62/1c/97/74/39a45759-3e18-469b-a79c-aec57734deb0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/961.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan en Project tot versterking van het Casteel Colombo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

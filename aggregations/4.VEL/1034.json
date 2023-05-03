@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1034.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/111ee53e-f94c-4a1f-b92c-f6e3c19bd206",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1034.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van 't regenbak en de casemat N voor 120 koppen / Plan en profils van de batteryen [enz]",
+        "dc:title": "Plattegrond en profielen van batterijen van fort Oostenburg te Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan en profils van eenige batteryen en derzelver souterreins.\nNotities verso: [Blauw etiket [ODG] nr: 23D Plan profils behorende tot Oostenburg.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1034",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "doorsnede / profiel",
+            "tanck / waterplaats / put"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "36 x 53 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/590/plattegrond-en-profielen-van-batterijen-van-fort-oostenburg-te"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8d/32/ba/1d/f4/8b/47/4f/b5/51/7f/71/fd/dc/5e/e6/816e983e-37ca-41e5-9092-57a831ab1ffa.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8d/32/ba/1d/f4/8b/47/4f/b5/51/7f/71/fd/dc/5e/e6/816e983e-37ca-41e5-9092-57a831ab1ffa.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1034.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan en profils van eenige batteryen en derzelver souterreins van het fort Oostenburg."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

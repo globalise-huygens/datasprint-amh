@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1510.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaarte van de Plantagien geleegen aan de Westwal van de Rivier Demerary van den mond der rivier af tot aan de Kreek Hobabo."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1510"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1776"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/72f5eb3f-c11d-48ff-8b4d-5dc9cee58218\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1510.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1510.json#canvas/p1",
+            "type": "Canvas",
+            "height": 12599,
+            "width": 28640,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1510.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1510.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f7/3b/fb/e3/5e/4d/40/86/aa/2e/c9/1d/a0/a1/45/83/85b46bdc-ebbb-40d3-941a-5f94191eec3c.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 12599,
+                                "width": 28640,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f7/3b/fb/e3/5e/4d/40/86/aa/2e/c9/1d/a0/a1/45/83/85b46bdc-ebbb-40d3-941a-5f94191eec3c.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1510.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

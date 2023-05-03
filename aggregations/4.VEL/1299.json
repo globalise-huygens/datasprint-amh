@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1299.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dc37298b-0796-46eb-b4a1-9491abd35718",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1299.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het zuidelijk deel van Celebes",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van een gedeelte van de West en Zuid-kust van Celebes; bevattende de rykjes Glissong, Sanderbony, Polombangking, Turatea en Boeloecomba; benevens de eilanden Tanakeke en de Boezeroens enz..\nHet cartouche linksonder is niet ingevuld.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1299",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "53 x 88,5 cm",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5640/kaart-van-het-zuidelijk-deel-van-celebes"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/de/fb/9f/f9/45/dc/4e/d7/b7/b7/11/bf/74/ee/16/d9/6239ce9d-7c91-40eb-94f5-102d6cdb508c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/de/fb/9f/f9/45/dc/4e/d7/b7/b7/11/bf/74/ee/16/d9/6239ce9d-7c91-40eb-94f5-102d6cdb508c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1299.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de West- en Zuid-Kust van Celebes; bevattende de rykjes Glissong, Sanderbony, Polombangking, Turatea en Boekoecomba; benevens de eilanden Tanakeke en de Boezeroens enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

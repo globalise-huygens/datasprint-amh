@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2089.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2b54dc7b-4259-4331-9908-6ba1be1ecad5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2089.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plan voor het Oranje wegennet",
+        "dc:description": "Titel Leupe: Plan Ideal du chemin d'Orange, dans la province de Nassau et principaut\u00e9 de Surinama au royaume de Guyana, et des poste des rivi\u00e8res de Para, Courpine et Tarvaricourou.\nDit is een project plan voor een wegennet tussen plantages en dorpen gelegen in het gebied aan de Saramacca, Suriname, Para, Courpine en Tarvaricourou rivieren in Nederlands Guyana en Suriname. Het wegennet zou het mogelijk maken binnen tien uur de bossen en savannes tussen de Suriname en Saramacca rivier te trotseren. Gezien het vernomen aantal marrons en deserteurs dat zich in deze regio zou ophouden was het doorgronden van dit gebied belangrijk om de veiligheid van de op de kaart genoemde plantages en dorpen te garanderen. Het is echter onbekend of dit wegennet ook daadwerkelijk aangelegd is.\nHet noorden is onder.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2089",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.38 - 0.25 El.",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9851/plan-voor-het-oranje-wegennet"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f3/89/b8/7c/35/16/4d/81/b9/82/2f/87/08/b5/2d/63/eb3455fa-6aec-4279-9e4c-7fd201559bc2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f3/89/b8/7c/35/16/4d/81/b9/82/2f/87/08/b5/2d/63/eb3455fa-6aec-4279-9e4c-7fd201559bc2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2089.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

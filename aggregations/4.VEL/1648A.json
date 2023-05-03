@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1648A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/123b0a91-e41d-4b96-ace9-404f8969ad5c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1648a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een redoute tussen de rivier Berbice en de kreek Wironje",
+        "dc:description": "Titel Leupe: Plan van de redout bij de gereformeerde Kerk in Rio Berbice, in 1764 provisioneel\naangelegt.\nAls laatste versterking stroomopwaarts vanaf Fort Nassau is op deze situatiekaart de ge\u00efmproviseerde kleine schans of redoute (C) aan de monding van de Wiruni afgebeeld, gelegen pal naast de oudere gereformeerde kerk (A) en het kosterhuis (B) ter plaatse.  Gegeven de overeenkomsten met VEL1647 lijkt deze schets gemaakt door Kurtzius.\nHet noorden is boven.\nOorsprong: Memorie Societeit van Berbice, 1.05.05 inv.nr. 229.\nSchaal van 24 Rijnlandse roeden = 92 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1648A",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "redoute",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.22 - 0.35 El.",
+        "dcterms:date": "ca. 1764",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10288/ontwerp-voor-een-redoute-tussen-de-rivier-berbice-en-de-kreek-wironje"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/69/5d/30/66/af/49/43/65/b6/2f/c8/55/1a/f3/3a/0d/783b065c-19aa-4c39-8358-93086bad84a4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/69/5d/30/66/af/49/43/65/b6/2f/c8/55/1a/f3/3a/0d/783b065c-19aa-4c39-8358-93086bad84a4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1648A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de redout bij de gereformeerde Kerk in Rio Berbice, in 1764 provisioneel aangelegt."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

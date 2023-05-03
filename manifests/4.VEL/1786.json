@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1786.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van eenige stukken land, afgestoken van de Plantagie Aconoribo, gelegen tusschen de Suriname rivier en de Paulus Creeq."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1786"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1735"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/2378d717-487e-4581-b422-49369b90bf79\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1786.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1786.json#canvas/p1",
+            "type": "Canvas",
+            "height": 3872,
+            "width": 4880,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1786.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1786.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/76/13/5e/3f/9b/8d/49/4f/a0/60/e6/c3/37/e4/c9/b8/142ffd05-370c-4289-bfb7-19e4ee58f521.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3872,
+                                "width": 4880,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/76/13/5e/3f/9b/8d/49/4f/a0/60/e6/c3/37/e4/c9/b8/142ffd05-370c-4289-bfb7-19e4ee58f521.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1786.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

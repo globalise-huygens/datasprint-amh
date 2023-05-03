@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/316.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/487cebd8-64c7-429e-8fb1-d66c24110935",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0316.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Oost-Afrika en Azi\u00eb",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Indische Zee, van I. de Curia Muria (Arabia Felix) tot het Eiland Java enz..",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0316",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "perkament",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "86,5 x 108,5 cm",
+        "dcterms:date": "1709",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9181/kaart-van-oost-afrika-en-azi%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b9/e7/82/4b/88/46/48/df/9b/07/ff/a9/6c/ac/7d/cc/4bbc2a64-c79c-45ce-925c-ae9a829a15b1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b9/e7/82/4b/88/46/48/df/9b/07/ff/a9/6c/ac/7d/cc/4bbc2a64-c79c-45ce-925c-ae9a829a15b1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/316.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Indische Zee, van I. de Curia Muria (Arabia Felix) tot het Eiland Java enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

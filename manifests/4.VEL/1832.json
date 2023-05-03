@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1832.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart vertoonende eenige aen de Commetuane Kreek en aan 't Canaal van de Hoer Helena Kreek en deszelvs verlenging leggende Plantagien enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1832"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1781"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ab61bdfb-009a-4029-b0a9-000e52f53a66\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1832.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1832.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6431,
+            "width": 9049,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1832.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1832.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/0a/53/aa/f2/11/65/4a/a0/9c/d9/1f/41/16/8b/a8/26/f56070a2-b6cb-4544-aff1-6fff4db48aac.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6431,
+                                "width": 9049,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/0a/53/aa/f2/11/65/4a/a0/9c/d9/1f/41/16/8b/a8/26/f56070a2-b6cb-4544-aff1-6fff4db48aac.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1832.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

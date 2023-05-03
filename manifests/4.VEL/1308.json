@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1308.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan eener geprojecteerde voorgragt ter Westzyde van 't Kasteel Rotterdam, alsmede eener verandering omtrent deszelfs Zeehoofd enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1308"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ddbd72bc-ace5-48b0-844b-05e7cdd130f7\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1308.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1308.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8265,
+            "width": 7715,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1308.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1308.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/26/85/52/c6/d1/14/4f/54/88/53/97/48/63/70/2a/39/ada0a5bb-219e-4135-b0b0-082a3f810264.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8265,
+                                "width": 7715,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/26/85/52/c6/d1/14/4f/54/88/53/97/48/63/70/2a/39/ada0a5bb-219e-4135-b0b0-082a3f810264.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1308.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

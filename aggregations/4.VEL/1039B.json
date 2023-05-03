@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1039B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/72558b1f-f3fb-49fe-8bc2-52f1f5a6b02f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1039b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Profielen van fort Oostenburg",
+        "dc:description": "Titel catalogus Leupe (NA): Plan d'Ostenbourg, relatif au project de mr. Reimer.\nNotities verso: Ostimbourg, Profils Relatifs aux Projets de 1787., Feuille 16e.\nDrie doorsnedes van La Ligne Prfil sur la ligne CD., Profil sur la ligne G.H., Profil sur la ligne E.F..\nLinksonder is de schaalverdeling Echelle de 100: mToises ou de 30 Reudes Rijnlandes.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1039B",
+        "dc:subject": [
+            "gebouw",
+            "doorsnede / profiel",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "35,5 x 100 cm",
+        "dcterms:date": "ca. 1788",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/604/profielen-van-fort-oostenburg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0a/6e/1b/5b/8d/2f/45/64/8a/e0/90/8d/6f/6d/62/41/ec2facbe-2f84-4ba0-98dc-bff3caaa9002.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0a/6e/1b/5b/8d/2f/45/64/8a/e0/90/8d/6f/6d/62/41/ec2facbe-2f84-4ba0-98dc-bff3caaa9002.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

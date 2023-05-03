@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/439.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/01774b71-9aa4-4abb-9e4b-61e92f8efb9a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0439.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de zuidkust van Java",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, van een laag afloopende hoeck tot de rivier den Donau.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0439",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "74 x 124,5 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8317/kaart-van-de-zuidkust-van-java"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c6/47/ab/93/26/93/4c/2c/a9/32/32/b2/d2/2f/b8/bf/7d028b7e-82d6-403f-b77c-5cbce7e50e89.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c6/47/ab/93/26/93/4c/2c/a9/32/32/b2/d2/2f/b8/bf/7d028b7e-82d6-403f-b77c-5cbce7e50e89.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/439.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Zuidkust van Java, van een laag afloopende hoeck tot de rivier den Donau."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

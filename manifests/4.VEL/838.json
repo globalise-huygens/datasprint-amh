@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/838.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan en Caart van het fort en Vlek aan Cabo de Goede Hoop, so als het in het jaar 1767 (is) gefortificeert en betimmert geweest."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "838"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/34dab855-f87c-44a1-bfc8-4f7d974557f9\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/838.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/838.json#canvas/p1",
+            "type": "Canvas",
+            "height": 11317,
+            "width": 11955,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/838.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/838.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/00/cc/78/e7/a4/34/4b/ad/81/ea/f0/63/df/27/c3/e0/4de28ee8-01df-4d17-b6cf-a082f9cf67be.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 11317,
+                                "width": 11955,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/00/cc/78/e7/a4/34/4b/ad/81/ea/f0/63/df/27/c3/e0/4de28ee8-01df-4d17-b6cf-a082f9cf67be.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/838.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

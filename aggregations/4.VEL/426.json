@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/426.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c4d3432d-0e5e-417b-9fb7-3c248da73eba",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0426.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de noordkust van Java, van Batang tot Japara",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart als voren, van Batang tot Japara, benevens de eilanden Karimon Java.\nOpmerking in catalogus Leupe: Met aanteekening: dat Capt. Willem 't Hoen in 1748 het schip Kleverskerk op laatstgenoemde eilanden heeft verloren.\nNotities verso: Noord Kust van Java.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0426",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "35 x 57 cm",
+        "dcterms:date": "1748-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3019/kaart-van-de-noordkust-van-java-van-batang-tot-japara"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/00/3d/1e/a4/6c/a6/41/3c/ae/a7/28/8d/d5/3e/9b/26/280c7ed0-5b42-4700-adc8-a51983ebe5e0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/00/3d/1e/a4/6c/a6/41/3c/ae/a7/28/8d/d5/3e/9b/26/280c7ed0-5b42-4700-adc8-a51983ebe5e0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Noordkust van Java, van Batang tot Japara, benevens de Eilanden Karimon Java, 18de eeuw.\n                            "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

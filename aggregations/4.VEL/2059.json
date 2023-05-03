@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2059.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f8f5d57b-91a3-42a2-ac28-9450f558d2e7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2059.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsboven] vervolg van de titel : \nExplanations: [upper right] continuation of the title : \nOntworpen Ingevolge de Memorie Sub Litt: B. en naa de locaale Inspectie en Bevindinge geconcerteert door J.H. Hottinger L. Ingenieur, A. Kikkert Cap. ter Zee, Wichers, Friderici, J.G.R. B\u00f6hm.",
+        "dc:title": "Projectplan van batterijen bij de redoute Leiden ter verdediging van de 'Linie van Verstopping'",
+        "dc:description": "Titel Leupe: Plan en profil der geprojecteerde Batteryen om en by de redout Leyden, dienende tot defensie der Linie van Verstopping.\nVerbonden met het in 1786 opgestelde plan voor de \u2018Linie van Verstopping\u2019, dat een vijandelijke vloot moest beletten de Surinamerivier op te varen (zie VEL2013), was dit aanvullend ontwerp voor twee buitenbatterijen bij de redoute Leiden ter extra bescherming van de voorgestelde vaste barri\u00e8re over de Surinamerivier. Dit projectplan met profiel toont behalve de nieuwe batterijen zelf ook het \u2018Communicatie Pad\u2019, de met een haag van limoenbomen te camoufleren verbindingsweg tussen Leiden en de buitenwerken. De uitvoering van dit project na 1790 volgde in hoofdzaak het oorspronkelijke ontwerp, zoals te zien is op VEL2065, maar met een wat soberder opzet. Zo werd alleen de batterij op enige afstand aan de kust aangelegd en kwam de tweede pal naast Leiden te vervallen, evenals het voorwerkje aan de landzijde van de redoute.\nHet noorden is onder.\nSchaalstok van 90 Roeden = 154 \u201cstrepen\u201d.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2059",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.35 - 0.60 El.",
+        "dcterms:date": "1786",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2215/projectplan-van-batterijen-bij-de-redoute-leiden-ter-verdediging-van"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/13/46/c5/52/ac/8b/49/71/be/0e/89/57/79/70/02/a7/57f09def-be39-44cd-969e-318f7a37fcd8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/13/46/c5/52/ac/8b/49/71/be/0e/89/57/79/70/02/a7/57f09def-be39-44cd-969e-318f7a37fcd8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2059.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan en profil der geprojecteerde Batteryen om en by de redout Leyden, dienende tot defensie der Linie van Verstopping."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

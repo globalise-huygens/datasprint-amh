@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1433.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5e213459-a795-4edb-90f7-dd10eabe4928",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1433.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor uitbreiding van het Franse fort op Guadeloupe",
+        "dc:description": "Titel Leupe: Plan du fort Francois op Guadeloupe.\nDeze plattegrond is waarschijnlijk getekend na de Britse bezetting van het eiland (1759-1763) om de Franse verdediging te versterken. Het ontwerp toont onder andere de locatie voor een nieuwe kerk, logementen, een kazerne, een gevangenis, en depots.\nSchaal van 40 Toises = 117 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1433",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.37 - 0.44 El.",
+        "dcterms:date": "ca. 1770",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10374/ontwerp-voor-uitbreiding-van-het-franse-fort-op-guadeloupe"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8b/f9/54/0d/7f/81/41/37/86/ad/5c/99/23/51/9e/10/a637434b-0c77-4546-961a-63bd8c632621.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8b/f9/54/0d/7f/81/41/37/86/ad/5c/99/23/51/9e/10/a637434b-0c77-4546-961a-63bd8c632621.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1433.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan du fort Francois op Guadeloupe."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

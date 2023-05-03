@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/304.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5b0507f6-1a28-400f-a676-bdc58cb4e1dc",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0304.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Packan alsoo 'tselve beseijlt is door Jacob Noordeloos",
+        "dc:title": "Kaart van Formosa",
+        "dc:description": "Titel catalogus Leupe (NA): Packan alsoo 'tselve beseijlt is door Jacob Noordeloos.\nNotities verso: Caerte vant Eijlant Packan / No. 15.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0304",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "36 x 56 cm",
+        "dcterms:date": "1624-1625",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6720/kaart-van-formosa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1f/46/36/86/b6/c0/4b/ee/a1/34/da/f2/00/6a/d1/a6/49c5061c-87a1-4a96-9c4d-33a63fd559e5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1f/46/36/86/b6/c0/4b/ee/a1/34/da/f2/00/6a/d1/a6/49c5061c-87a1-4a96-9c4d-33a63fd559e5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/304.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                          Packan (Formosa), alsoo 'tselve beseylt door Jacob Noordeloos."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

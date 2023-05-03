@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1030C.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/67e2b861-7f2e-498a-8db4-2c7f1045512a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1030c.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Nivillements, genoomen boven Oostenburg, langst een gedeelte der Berge, rechts en links",
+        "dc:title": "Plattegrond en profielen van fort Oostenburg",
+        "dc:description": "Titel in catalogus Leupe (NA): Plan van Oostenburg en de benedenwerken, gedeeltelyk nog op te bouwen.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nDe kaart heeft vele roze vlekken, veroorzaakt door vocht.\nVolgens een aantekening in Leupe is de kaart overgekomen van Ceylon in 1780.\nNotities verso: No. 21 B Profilen bij Oostenburg Register 4 Deel 1 Folio 14 Porte-feul [geschreven op een blauw etiket] / No. 34 [geschreven op een wit etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1030C",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "vesting",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "49,5 x 74 cm",
+        "dcterms:date": "november 1779",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/596/plattegrond-en-profielen-van-fort-oostenburg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b6/a5/f4/89/a8/55/4d/66/b4/60/a9/9d/9a/a0/9b/10/5cb9ace4-1c6f-461d-a26c-dc89142eb85e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b6/a5/f4/89/a8/55/4d/66/b4/60/a9/9d/9a/a0/9b/10/5cb9ace4-1c6f-461d-a26c-dc89142eb85e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030C.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 3"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

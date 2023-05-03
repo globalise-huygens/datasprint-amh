@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/379.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e616a867-8c7d-40da-97e9-eb6a0193f995",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0379.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een gedeelte van de noordkust van Java",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Kust van Java van de Hoek van de Drie Heuvels tot aan ..... ?).\nUit VOC 456.\nBehoort tot de tweede reis van Van Neck, 1598-1600.\nNotities verso: NK Java, Madoera.\nTopografische namen in het Maleis vermeld en rechts in het midden de aanduiding: den hoek van drie [?].\nLinksonder bevindt zich de maatverhouding in mylen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0379",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "32,5 x 42 cm",
+        "dcterms:date": "1598 - 1600",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9274/kaart-van-een-gedeelte-van-de-noordkust-van-java"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0a/ef/3a/a6/b0/53/41/dd/82/40/76/87/46/a4/9c/5d/2b98d99f-3bee-441e-bf00-38ebeccc0e0b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0a/ef/3a/a6/b0/53/41/dd/82/40/76/87/46/a4/9c/5d/2b98d99f-3bee-441e-bf00-38ebeccc0e0b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/379.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Kust van Java van de Hoek van de Drie Heuvels tot aan ... ?"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

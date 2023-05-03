@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1075.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7c7cbbb1-ebe9-420f-bddd-7a0c0383ec80",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1075.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Hakman / Chinnecallette Delle / Katoene / Erkelenchene",
+        "dc:title": "Plattegronden van de schansen van Katoene, Hakman, Chinnecallette Delle en Erkelenchene",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van Hakman, gelegen 4 a 5 myl N. ten O. van Mature; Schaal van 40 Roeden = 70 strep.; omgerekende schaal [1 : 2152]; Legenda: N-S\nVEL1075a: Plan als voren, van Katoene, gelegen omtrent 8 myl N. ten O. van Mature; Schaal van 40 Roeden = 65 strep.; omgerekende schaal [1 : 2317];  Legenda: a-g; A-E;\nVEL1075b: Plan van de Schans Chinnecallette Delle, omtrent 4 a 5 myl bezuyden de rivier van Batacalo gelegen; Schaal van 40 Roeden = 77 strep.; omgerekende schaal [1 : 1956];  Legenda: A-P;\nVEL1075c: Plan als voren, van Erkelenchene, op omtrent 1 myl van de zuydzyde van de bay van Trinquenemale; Schaal van 10 Roeden = 80 strep.; omgerekende schaal [1 : 470]; Legenda: a-m; 1-11.\nGerestaureerd.\nRechtsboven genummerd: 23 o.\nNotities verso: N 4 : 44 [in potlood] / 586 g.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1075",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4822/plattegronden-van-de-schansen-van-katoene-hakman-chinnecallette-delle"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/17/4f/3a/3b/00/40/4f/18/88/c9/69/45/25/20/f9/cf/c44e6870-e0bf-4ac4-9819-080edae7a329.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/17/4f/3a/3b/00/40/4f/18/88/c9/69/45/25/20/f9/cf/c44e6870-e0bf-4ac4-9819-080edae7a329.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1075.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Hakman,"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

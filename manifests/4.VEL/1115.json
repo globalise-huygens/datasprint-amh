@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1115.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan, aantoonende het fort van Tranquera, aantoonende de projecteerde versterking aan het front van Tranquera tot Malacca."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1115"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1785"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/7caaa35b-3254-4a39-bcc4-c65f8032fe51\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1115.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1115.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4768,
+            "width": 6360,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1115.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1115.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/33/be/26/f8/ad/fc/4d/5a/88/fc/b2/0f/27/ca/6a/ca/2fe7ac05-93bf-4d92-9290-0ef16dc6ca13.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4768,
+                                "width": 6360,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/33/be/26/f8/ad/fc/4d/5a/88/fc/b2/0f/27/ca/6a/ca/2fe7ac05-93bf-4d92-9290-0ef16dc6ca13.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1115.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

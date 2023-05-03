@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1393.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c5d73b81-a81c-4ab1-8ba0-f464c69ba7a7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1393.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "A Map of the Province of New-York",
+        "dc:title": "Kaart van de omgeving van New York",
+        "dc:description": "Kaart van de omgeving van New York.\nTitel Catalogus Leupe (NA): A Map of the Province of New-York etc. to which is added New-Jersey etc.\nA Map of the Province of New-York, / Reduc'd from the large Drawing of that Province, Compiled from Actual Surveys by Order of / His Excellency / William Tryon Es:r / Captain General & Governor of the same, By Claude Joseph Sauthier; to which is added New-Jersey.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1393",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde gravure",
+        "dcterms:extent": "66,5 x 99,1 cm",
+        "dcterms:date": "1 augustus 1776",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7192/kaart-van-de-omgeving-van-new-york"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8d/ac/a1/82/2d/24/45/d9/9f/8a/d9/fb/1b/9f/45/88/15291844-e602-4ce4-9967-1494e29c0011.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8d/ac/a1/82/2d/24/45/d9/9f/8a/d9/fb/1b/9f/45/88/15291844-e602-4ce4-9967-1494e29c0011.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1393.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A Map of the Province of New-York etc. to which is added New-Jersey etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

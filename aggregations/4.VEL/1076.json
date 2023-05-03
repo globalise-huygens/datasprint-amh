@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1076.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8fba4760-366b-4156-b624-ae9b351dcc22",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1076.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Pittuancarre / Mapulegam / Pittigelle / Accuras",
+        "dc:title": "Plattegronden van de schansen van Pittuancarre, Mapulegam, Pittigelle en Accuras",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van Pittuancarre, 1 a 1,5 in het noordoosten van Caliture gelegen; 12 Roeden = 109 strep.; omgerekende schaal [1 : 414];\nVEL1076a: Plan van de Pagger Mapulegam, gelegen omtrent 6 a 7 myl N.N.O. van Gale; 20 Roeden = 81 strep.; omgerekende schaal [1 : 929]; Legenda: L-S;\nVEL1076b: Plan als voren, van Pittugelle, gelegen naar gissing 6 myl O. van Gale; 30 Roeden = 82 strep.; omgerekende schaal [1 : 1377]; Legenda: A-B;\nVEL1076c: Plan als voren, van Accuras, gelegen omtrent 5 myl N.N.W. van Mature; 20 Roeden = 75 strep.; omgerekende schaal [1 : 1004]; Legenda: a-h.\nGerestaureerd.\nRechtsboven genummerd: 23 n.\nNotities verso: N 3.44 [in potlood] / 586 h.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1076",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5455/plattegronden-van-de-schansen-van-pittuancarre-mapulegam-pittigelle"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/95/99/c1/9b/9f/5a/46/5c/a3/74/26/0f/f3/f5/48/fd/fa57b037-9d38-4970-b4e7-0407db5f0eda.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/95/99/c1/9b/9f/5a/46/5c/a3/74/26/0f/f3/f5/48/fd/fa57b037-9d38-4970-b4e7-0407db5f0eda.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1076.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Pittuancarre,"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

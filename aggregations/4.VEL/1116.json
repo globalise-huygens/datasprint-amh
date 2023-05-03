@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1116.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f7ea7160-adca-4da3-a740-27ac5916ca21",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1116.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Geprojecteerde wagt by de poort Tranquera tot Malacca 1785",
+        "dc:title": "Aanzicht en plattegrond van de poort Tranquera te Malakka",
+        "dc:description": "Titel catalogus Leupe (NA): Geprojecteerde wagt by de poort Tranquera tot Malacca.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nAan de bovenrand zijn twee stroken rijstpapier geplakt.\nNotities verso: Reg 6 No 6 Pag 26 B / 1785.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1116",
+        "dc:subject": [
+            "poort",
+            "plattegrond / kaart",
+            "overzicht / aanzicht",
+            "vesting",
+            "tolhuis / wachthuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50 x 40 cm",
+        "dcterms:date": "1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3866/aanzicht-en-plattegrond-van-de-poort-tranquera-te-malakka"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/87/04/43/6d/79/de/46/33/8c/0e/ec/c1/0b/2f/ca/17/3e449b93-cb88-4c84-9ae9-2b78feb64299.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/87/04/43/6d/79/de/46/33/8c/0e/ec/c1/0b/2f/ca/17/3e449b93-cb88-4c84-9ae9-2b78feb64299.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1116.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Geprojecteerde wagt by de poort Tranquera tot Malacca."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

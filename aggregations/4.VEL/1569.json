@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1569.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d80a1534-d1bb-4ccd-bbad-f6dff69b76e2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1569.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de rivieren Berbice en Canje",
+        "dc:description": "Titel Leupe: Naauwkeurige platte grond van den staat en den loop van Rio de Berbice, met derzelver plantagien in de geoctroyeerde Colonie de Berbice gelegen enz.\nDeze overzichtskaart geeft de situatie aan de rivieren Berbice en Canje weer, ruim vijf jaar na die van Osterlin (VEL1565).\nDe ontginning voor de aanleg van nieuwe plantages was in de tussentijd snel gevorderd, in het bijzonder aan de bovenlopen van de rivieren.\nDit is een gedrukte versie van de kaarten van Knapp (VEL1566 en VEL1567), met toevoeging van een uitgebreide indeks van plantages links onder in de kaart.\nHet nationaal archief beschikt over 4 varianten van deze kaart, VEL1569A-D, die hier echter niet apart zijn opgenomen.\nHet noorden is rechtsboven.\nSchaal van 2000 Rijnlandse Roeden = 65 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1569",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.57 - 0.43 El.",
+        "dcterms:date": "17de eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1893/kaart-van-de-rivieren-berbice-en-canje"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/67/ee/96/a7/8f/06/4e/40/8d/2b/38/43/ca/32/62/d6/b3f21bdd-7fb4-4251-8238-e8de8bdc6aa0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/67/ee/96/a7/8f/06/4e/40/8d/2b/38/43/ca/32/62/d6/b3f21bdd-7fb4-4251-8238-e8de8bdc6aa0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1569.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

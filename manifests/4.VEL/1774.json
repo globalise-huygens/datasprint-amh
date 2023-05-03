@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1774.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van een stuk land behoorende aan Abraham Memmens tusschen de Sara en Wayamoe Kreken."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1774"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1733"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/2c01b74b-962c-4f5c-b36a-a9eb932694ab\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1774.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1774.json#canvas/p1",
+            "type": "Canvas",
+            "height": 3940,
+            "width": 4990,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1774.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1774.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/2b/b4/52/6a/a8/e5/40/13/9e/bf/bb/cd/60/f0/e7/7a/d2c128ff-d63e-459a-ae1b-f95bf35a4a3f.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3940,
+                                "width": 4990,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/2b/b4/52/6a/a8/e5/40/13/9e/bf/bb/cd/60/f0/e7/7a/d2c128ff-d63e-459a-ae1b-f95bf35a4a3f.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1774.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

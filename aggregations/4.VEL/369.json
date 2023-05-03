@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/369.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/123b87a8-c356-48e2-a436-5e095f3c4952",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0369.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de westkust van Sumatra",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Westkust van Sumatra, van Boehajam tot Ayer Adi, Poeloe Nias en verdere eilandjes onder de Kust.\nDe randen zijn versterkt met een uitstekende strook, het formaat van de eigenlijke kaart is 52,5 x 74,5 cm.\nRechtsboven genummerd: 34.\nNotities verso: De Westkust van Sumatra van Boebiaham tot Pongassang, het eijland Nias ende de eijlandtjes ende gronden daar voorleggend / carteert voor Hr Padbrugge ? [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0369",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "58,5 x 80,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5741/kaart-van-de-westkust-van-sumatra"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d2/ba/e5/2a/57/cf/4d/74/b3/b7/16/48/7b/1e/2b/7a/39e8fb88-10db-4ca6-9579-66e4eb378d2f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d2/ba/e5/2a/57/cf/4d/74/b3/b7/16/48/7b/1e/2b/7a/39e8fb88-10db-4ca6-9579-66e4eb378d2f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/369.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Westkust van Sumatra, van Boehajam tot Ayer Adi, Poeloe Nias en verdere Eilandjes onder de Kust."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

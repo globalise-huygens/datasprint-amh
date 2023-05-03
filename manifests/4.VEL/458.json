@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/458.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van een gedeelte van de Westkust van Celebes, van Oedjo Pande offte Casteel Rotterdam, tot de Hoek Tanakecka, benevens de eilandjes en klippen Medemblik, Middelburg, Hoorn, Amsterdam en die verder tusschen dezen en de Kust van Celebes liggen."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "458"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1700/1800"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/9470b569-2101-4dff-8c46-e016c12b60ff\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/458.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/458.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6125,
+            "width": 8864,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/458.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/458.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/2a/5d/6d/d3/5e/86/46/0a/bd/cf/8f/cc/c8/87/2a/40/1ab77936-9c22-4e05-8882-a45ad2118e43.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6125,
+                                "width": 8864,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/2a/5d/6d/d3/5e/86/46/0a/bd/cf/8f/cc/c8/87/2a/40/1ab77936-9c22-4e05-8882-a45ad2118e43.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/458.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

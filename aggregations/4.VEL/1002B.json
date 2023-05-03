@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1002B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b7edbf4e-64c1-48f6-b10e-6ca2664a43bd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1002b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Profiel van de fortificaties te Jaffna, deel B",
+        "dc:description": "Titel catalogus Leupe (NA): Jaffanapatnam, profils relatifs aux projets de 1787.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1002B",
+        "dc:subject": [
+            "vesting",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "35,5 x 49,5 cm",
+        "dcterms:date": "ca. 1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3177/profiel-van-de-fortificaties-te-jaffna-deel-b"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fe/8c/c8/f3/20/cb/4b/03/bc/83/31/ab/b5/55/f3/bf/7f4b168b-2d30-4ff8-b0f8-6c116091787d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fe/8c/c8/f3/20/cb/4b/03/bc/83/31/ab/b5/55/f3/bf/7f4b168b-2d30-4ff8-b0f8-6c116091787d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1002B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

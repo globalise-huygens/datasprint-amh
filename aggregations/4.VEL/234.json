@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/234.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/27284337-5324-4daf-8125-2f97cfdd0be9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0234.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Ceilon, de Maladiven en de kusten van Malabar en Madure",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Maldivische Eylanden, de Kust van Malabaar, Madure en Ceilon.\nBijzonderheden: de kaart is op blauw papier geplakt.\nNotities verso: XXX.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0234",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "82,5 x 106 cm",
+        "dcterms:date": "1756-1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4288/kaart-van-ceilon-de-maladiven-en-de-kusten-van-malabar-en-madure"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c3/85/e2/e0/58/0c/4c/9c/a2/06/a4/3d/e8/d2/bf/32/ab408e71-392d-48b0-9396-fda0cffb63e4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c3/85/e2/e0/58/0c/4c/9c/a2/06/a4/3d/e8/d2/bf/32/ab408e71-392d-48b0-9396-fda0cffb63e4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/234.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

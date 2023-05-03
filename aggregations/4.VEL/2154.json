@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2154.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9c4d32b4-d7c3-4013-8b8e-f9042a9364d9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2154.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Nova et accurata Brasilae totius Tabula.",
+        "dc:title": "Kaart van Brazili\u00eb",
+        "dc:description": "Kaart van Brazili\u00eb.\nTitel Catalogus Leupe (NA):  Nova et accurata Brasilae totius Tabula.\nNova et accurata Brasilae totius Tabula.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2154",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "Persoon",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "50 x 60 cm",
+        "dcterms:date": "ca. 1650",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1769/kaart-van-brazili%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a7/3a/8d/42/f1/98/42/b2/bf/97/83/21/cb/4a/73/f7/4d468275-9821-4988-931a-845142a9c197.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a7/3a/8d/42/f1/98/42/b2/bf/97/83/21/cb/4a/73/f7/4d468275-9821-4988-931a-845142a9c197.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2154.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Nova et accurata Brasilae totius Tabula."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1606.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9dd4958b-b041-4766-9845-b076a224cc7f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1606.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(title): Caarte figurative van de beplanting als meede gebouwen der plantagie, St. Jan gelegen in Rio Canje in de Colonie Berbice behoorende de W.E.Ge. Heer. G.S. von Raben en de Heer H. Volkmar tot Amsterdam 1775.",
+        "dc:title": "Kaart van de plantage Sint Jan",
+        "dc:description": "Titel Leupe: Caerte figurative van de beplanting alsmede gebouwen der plantagie St. Jan, gelegen in Rio Canje enz.\nKaart van de plantage Sint Jan, in eigendom van de heer Volkmaar te Amsterdam en gelegen ten oosten van de rivier Canje.\nDit betreft een sierlijk uitgevoerde versie van de kaart onder nummer VEL1604 en is een karakteristiek voorbeeld van de stijl van Christiaan Cederkreutz.  Deze kleinere kaart geeft de gewassen weer en de functies van de gebouwen.\nDe oorspronkelijke kaart is ondertekend op 28 januari 1769.\nHet noorden is links.\nZie ook VEL1604 en 1605.\nSchaalstok van 90 Rijnlandse Roeden = 233 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1606",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.74 - 0.59 El.",
+        "dcterms:date": "1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10272/kaart-van-de-plantage-sint-jan"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/db/8b/73/61/11/9a/4a/fa/98/45/3d/77/8a/c6/b3/f8/2f1e634a-ce8a-4859-8cf3-1d83e1b2ae13.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/db/8b/73/61/11/9a/4a/fa/98/45/3d/77/8a/c6/b3/f8/2f1e634a-ce8a-4859-8cf3-1d83e1b2ae13.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1606.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caerte figurative van de beplanting alsmede gebouwen der plantagie St. Jan, gelegen in Rio Canje enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

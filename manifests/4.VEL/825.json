@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/825.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan van het fort de Goede Hoop, met het begonnen nieuwe project voor Vyfhoek, aanleg van de Stad enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "825"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1665"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/10ca6b2c-623c-4a7a-917a-cee9b7e330ee\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/825.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/825.json#canvas/p1",
+            "type": "Canvas",
+            "height": 12200,
+            "width": 9261,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/825.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/825.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/94/42/f1/f7/5e/70/46/d3/92/c8/71/89/37/53/1a/d9/a758f7ab-ea5c-4dcd-a3c5-c71bbd042c97.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 12200,
+                                "width": 9261,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/94/42/f1/f7/5e/70/46/d3/92/c8/71/89/37/53/1a/d9/a758f7ab-ea5c-4dcd-a3c5-c71bbd042c97.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/825.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

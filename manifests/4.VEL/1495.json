@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1495.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Paskaart van Demerary en Essequebo met zyn voornaamste plantagien, opgegeven van Pieter Stechman en in 't licht gebragt door:"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1495"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ce7df256-3168-4596-ab50-4e9b51802601\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1495.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1495.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4178,
+            "width": 5130,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1495.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1495.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/d1/c9/d7/af/86/2d/44/c1/bd/9b/c9/65/96/d8/50/39/1ddb3ebc-0c33-479c-8acb-f9ecdee47187.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4178,
+                                "width": 5130,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/d1/c9/d7/af/86/2d/44/c1/bd/9b/c9/65/96/d8/50/39/1ddb3ebc-0c33-479c-8acb-f9ecdee47187.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1495.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

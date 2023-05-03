@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1475.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/241c2f81-105d-41bd-a60a-ea87dedb8f12",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1475.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [above] a key to the letters A to P : \nA, het Fort Bekenburg. \nB, de Halve Maan. \nC, Oude te ligte Batterij, te Demolieeren. \nD, Oude Muur, waar mede de Toren of Fort wert afgesloten, te Demolieeren. \nE, Muur met schietgaten te demolieeren. \nF, Commandeurs woning. \nG, Corps de guarde. \nH, huizingen en Combuizen, af te breken. \nI, weg om op het Terrain te komen. \nK, het Terrain \u2019t welk met hoge Rotzen rontom is Omvangen. \nL, nieuwe Batterij. \nM, nieuwe Muur, met schietgaten voor Hantgeweer. \nN, nieuw te maken kruitkamer. \nO, nieuw te maken Regen bak. \nP, Magazijntjes tot berging van vivres, &.c, dewelke in tijt van vrede zouden konnen dienen tot woningen voor Busschieters &c. \n\n[below] a note : \nBehoort tot de missive van de Ingenieurs van 4 Julij 1744.",
+        "dc:title": "Kaart van fort Beekenburg",
+        "dc:description": "Titel Leupe: Project om de Caraquesbay en het fort Bekenburg te versterken. \n-Het projectplan voor de verbetering van Fort Beekenburg dat de ingenieurs Esdr\u00e9 en Schrijver in juli 1744 naar de Republiek stuurden, samen met ontwerpen voor nieuwe batterijen aan de Piscaderabaai en de Sint Michielbaai, had in de eerste plaats tot doel het fort aan de landzijde te versterken met een dubbele, op twee niveaus gelegen muur (M) op een stervormig grondplan voor de verdediging met \u2018Hantgeweer\u2019 (musketten en andere mobiele vuurwapens). In de toen bestaande toestand had Beekenburg hier alleen een halfronde muur om de opgang naar de toren af te schermen (D) en een losse muur verder naar de noordoostkant (E), terwijl aan het begin van de toegang tot het fortterrein (I) nog een lage kustbatterij lag. Deze laatste was volgens het plan \u2018te ligt\u2019 en diende na \u2018demolieeren\u2019 vervangen te worden door een veel grotere en zwaardere batterij (L).\nEen probleem bleef echter de nabijheid van de 78 meter hoge Kabrietenberg op het schiereiland ten zuidoosten van het fort. Eenmaal in het bezit van deze hoogte, op zo\u2019n 700 tot 800 meter van Beekenburg en in de kaart aangeduid als \u2018Hoog gebergde\u2019, kon een vijand probleemloos artillerievuur in het fort geven. De berg was niet versterkt, maar aan de kust waar op de kaart \u2018Loefhoek\u2019 staat, bevond zich de kleine batterij en wachtpost De Uitkijk of Ruiters Uitkijk. Bij de Britse acties tegen Beekenburg in 1805 maakten de Britten inderdaad gebruik van deze zwakke plek in de verdediging, hoewel ze toen het fort uiteindelijk niet wisten te veroveren en weer van de berg werden verdreven.\nHet noorden is linksboven.\nSchaalstokken van 15 Roeden Rijnlantsch = [ca. 1 : 505] / [profielen] 15 voeten Rijnlantsch = [ca. 1 : 40].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1475",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "55.5 x 46.5 cm.",
+        "dcterms:date": "1744",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1692/kaart-van-fort-beekenburg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/92/7e/b7/10/81/dc/4c/ec/b0/a0/10/25/54/21/80/85/248ae8d9-1a38-4207-8e66-05fe61020bfb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/92/7e/b7/10/81/dc/4c/ec/b0/a0/10/25/54/21/80/85/248ae8d9-1a38-4207-8e66-05fe61020bfb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1475.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Project om de Caraquesbay en het fort Bekenburg te versterken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2113.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/acba8cf2-886c-40e4-9526-c90ad7a54f61",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2113.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het tweede Cordon van Defensie",
+        "dc:description": "Titel Leupe: Kaart van situatie van de Colonie Suriname, in zoo verre deselve tans gecultiveert, en aan derselver Oostseyte door 't Cordon van defensie jegens d' aanvallen van de binnenlandsen vyand gedekt is enz.\nIn 1780 verrichtte Johann Friedrich Ferdinand Wollant met een aantal assistenten drie maanden lang een uitgebreide opneming van het westelijke grensgebied van de toenmalige kolonie, als voorbereiding voor de opstelling van een alomvattend plan voor een tweede cordon van defensie ter bescherming van de bestaande en toekomstige plantages aan de Para\nen Saramaccarivier. Wollants uiteindelijke projectkaart, die waarschijnlijk pas in 1783 werd voltooid, beslaat behalve de bedoelde westelijke regio ook de overige gebieden in Suriname die toen in cultuur waren gebracht. Voor dit overzicht heeft Wollant ongetwijfeld tevens gebruik gemaakt van de gegevens voor de grote kaart die Johan Christoph Heneman toen net in manuscript had afgerond, maar alle delen ten westen van het plantagegebied langs de Parakreek zijn geheel aan hemzelf toe te schrijven. Het geprojecteerde cordon is hier weergegeven in de vorm van drie afzonderlijke patrouillewegen met dezelfde typen posten als langs de oostelijke linie: \u00e9\u00e9n vanuit Paramaribo zuidwaarts tussen de Para en de Saramacca, als vervolg op het Pad van Wanica, een tweede westelijk van de Saramacca, en de derde van de Saramacca terug naar de Surinamerivier bij Paramaribo. Het plan is nooit uitgevoerd.\nHet noorden is onder.\nSchaalstokken van 800 Ketting \u00e0 66 Voet Rhijnl.  = 184 \"strepen\".",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2113",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "103 x 194 cm",
+        "dcterms:date": "1780-1783",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10142/kaart-van-het-tweede-cordon-van-defensie"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/76/31/a8/3a/43/db/4f/18/b0/fc/00/31/6b/a9/bb/c3/cec44ac3-cb9b-4237-bd4e-ea6727884331.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/76/31/a8/3a/43/db/4f/18/b0/fc/00/31/6b/a9/bb/c3/cec44ac3-cb9b-4237-bd4e-ea6727884331.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2113.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Generaale kaart van de Colonie Suriname (met het Cordon en plan voor het Westelyk frontier)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

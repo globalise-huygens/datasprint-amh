@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1554B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e98c4263-a0da-4c2c-b832-15e00dec68e5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1554b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor fort op de oostelijke oever van de monding van de rivier Demerara",
+        "dc:description": "Titel Leupe: Fort aan den mond der rivier Demerary op 's Comps. Pad Oostwal.\nDeze plattegrond vormt onderdeel van Johan Christoph Henemans projectplannen voor de defensie van Demerara uit 1774-1775.\nDe kaarten onder de nummers VEL1554-7 tonen zijn ontwerp voor twee forten aan de monding van de rivier.\nAlhoewel beide forten zijn aangegeven op zijn overzichtskaart op VEL660 komt deze batterij of redoute er niet op voor.\nDit is plan VIII voor een batterij op de oostwal van de Demerara.\nEen profil van het fort is onder in de kaart getekend.\nDe plantage Saint Leary ligt ten noorden van het geplande fort en de plantage La Bourgaele ten zuiden.\nNagenoeg op dezelfde locatie richtten de Britten in 1781 hun provisorische Fort Saint George op, een aarden, met palissaden versterkt verdedigingswerkje bewapend met dertien twaalfponders.\nTwee alternatieve versies zijn beschikbaar in het Nationaal Archief: VEL 1554B1 en B2.\nSchaalstokken van 20 Roede Rhynl: = [ca. 1 : 775] / [profiel] 60 Voet [of] 5 Roede Rhijnl. = [ca. 1 : 175].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1554B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "55 x 42,5 cm.",
+        "dcterms:date": "1774-1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7540/ontwerp-voor-fort-op-de-oostelijke-oever-van-de-monding-van-de-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ba/36/c4/42/a9/5f/4f/c1/b8/f8/01/b8/11/5b/08/bb/0fc7beff-20ff-427a-9b06-cec91ba13da4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ba/36/c4/42/a9/5f/4f/c1/b8/f8/01/b8/11/5b/08/bb/0fc7beff-20ff-427a-9b06-cec91ba13da4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1554B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

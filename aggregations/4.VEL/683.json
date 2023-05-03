@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/683.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dd9be8db-92cd-4aa5-bf3f-617f6eb631d8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_683.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Schetskaart van de kust van Brazili\u00eb",
+        "dc:description": "Schetskaart van de kust van Brazili\u00eb.\nTitel in de Catalogus Leupe (NA): Schetskaart van de Kust van Brazilie, tusschen R. Amamzones en Cidade de Salvador.\nRechtsonder: No. 3.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0683",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "20 x 30 cm",
+        "dcterms:date": "17e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7388/schetskaart-van-de-kust-van-brazili%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4d/09/c2/a8/cb/f2/48/3d/87/d5/25/37/bd/d2/4c/17/637d37ea-58de-4d5e-8b5b-aeeaa5bbff3c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4d/09/c2/a8/cb/f2/48/3d/87/d5/25/37/bd/d2/4c/17/637d37ea-58de-4d5e-8b5b-aeeaa5bbff3c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/683.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schetskaart van de Kust van Brazilie, tusschen Cidade de Salvador."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

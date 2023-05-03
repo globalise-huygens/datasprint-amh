@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1088.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "A Plan of the city and the country about Trichinapoly, with the encampments of the English and French Army; that of the English commanded by Colonel Stringer Lawrence, in the years 1753 and 1754."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1088"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1757"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/bc885740-d5ea-4627-9848-af7b7dde7f0d\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1088.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1088.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7322,
+            "width": 9049,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1088.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1088.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/8b/2a/2b/2d/0b/8b/42/b2/8f/58/84/b3/0b/0d/59/1a/9e3271df-469b-4ded-8d24-7eaa0f273f57.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7322,
+                                "width": 9049,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/8b/2a/2b/2d/0b/8b/42/b2/8f/58/84/b3/0b/0d/59/1a/9e3271df-469b-4ded-8d24-7eaa0f273f57.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1088.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

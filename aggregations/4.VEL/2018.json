@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2018.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cbccb435-f9eb-468f-979e-d2ffd47915ea",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2018.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Meting van de waterdiepten tussen de verdedigingswerken aan de monding van de Surinamerivier",
+        "dc:description": "Titel Leupe: Plan van de peyling der rivier Suriname, tusschen de redout Purmerend en Leyden, tusschen Leyden en het fort Nieuw Amsterdam van de Commewyne, en van Nieuw Amsterdam tot de redout Purmerend van de rivier Suriname.\nDeze kaart toont de gemeten waterdiepten bij eb in de monding van de Commewijne en Surinamerivier. Deze meting trekt drie lijnen tussen het Fort Nieuw Amsterdam, de redoute Purmerend aan de westoever van de Suriname, en de redoute Leyden aan de oostzijde ervan. Deze gegevens waren onder andere van belang voor de verdediging van de kolonie. De serie schetsen over de \u2018plannen van verstopping\u2019 die na 1780 zijn getekend (zie VEL2020 t/m 2027), leggen bijvoorbeeld de nadruk op kannonenboten of 'canoniere' die met zeilen of roeiers vijandige schepen moesten weerhouden. Het platte dek van deze boten was voordelig tijdens eb. Daarnaast was ook een plan van versperring in ontwikkeling waarbij drijvende stammen met staken in de rivier geplaatst zouden worden via ankers. Ook voor dit plan waren dieptemetingen noodzakelijk.\nHet noorden is linksonder.\nSchaalstok van 100 Kettingen \u00e0 66 V.t Rhynl: = [ca. 1 : 8.600].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2018",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "42 x 56 cm",
+        "dcterms:date": "ca. 1778",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2004/meting-van-de-waterdiepten-tussen-de-verdedigingswerken-aan-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/53/ae/21/c4/c2/5e/45/8e/86/99/06/b3/83/fa/a3/52/cbb93dc2-7411-488c-a6e1-f988237fb681.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/53/ae/21/c4/c2/5e/45/8e/86/99/06/b3/83/fa/a3/52/cbb93dc2-7411-488c-a6e1-f988237fb681.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2018.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

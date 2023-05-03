@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1621.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6e8580b8-810d-4816-bc9c-e74dcd79e13a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1621.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "a key to the letters A to N (upper left):\nRenvoy.\nA. Het Fort.\nB. Oude Wal.\nC. De Gragt.\nD. De Brug.\nE. Logement voor den Onder Officier.\nF. Pakhuis en Magasijn.\nG. Logement voor de Gemeenen.\nH. Batterij van 2 Stukken sonder Beschutting.\nI. Logement en Combuis.\nK. De Tuijn.\nL. Neger en Boks Huisen.\nM. Oude Stelling.\nN. Hoenderkot.\n\na key to the letters A to E (lower right):\nRenvoy.\nA Oude Redout.\nB. Soo als tegenswoordig \u2019t Canon Staat sonder beschutting.\nC. Nieuw Geprojecteerde Batterij met een Logement voor den Officier en Gemeenen.\nD. Oude Logies die weg moete.\nE. Nieuw Kruid Magasijn.",
+        "dc:title": "Kaart van het fort Sint Andries",
+        "dc:description": "Titel Leupe: Plan van het fort St. Andries, soo als gelegen is in den jare 1756 in Rio Barbice.\nDeze verzamelkaart van de militair ingenieur David Willem Carel Hattinga toont links de feitelijke situatie van Fort Sint Andries in 1756, waarbij direct is te zien dat geen van Osterlins plannen tot verdere versterking van de batterij in de tussenliggende jaren was uitgevoerd.\nVan de oorspronkelijke tien kanonnen (Hartsinck vermeldt er zelfs twaalf) waarmee Sint Andries in 1746 was uitgerust, waren er tien jaar later nog maar twee opgesteld, en dan nog \u2018sonder Beschutting\u2019, terwijl van de wallen nauwelijks meer iets over was.\nDe rechter helft van de kaart bevat twee plattegronden van het oude hoofdgebouw van de redoute Brandwacht, overeenkomstig het plan van Osterlin van zo\u2019n twintig jaar eerder (VEL1623 and 1660B-C), en een voorstel van Hattinga voor de aanleg van een nieuwe batterij, kennelijk als voorloper voor zijn meer uitgebreide ontwerp op kaart VEL1624.\nHet noorden is links.\nSchaalstokken van [kaart links] 200 Voeten Rhijnlants = [ca. 1 : 470] / [plattegronden rechtsboven] 30 Voeten = [ca. 1 : 145] / [projectplan rechtsonder] 100 Voeten = [ca. 1 : 470].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1621",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.425 - 0.27 El. (46 x 57,5 cm.)",
+        "dcterms:date": "1756",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1916/kaart-van-het-fort-sint-andries"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/61/64/5c/a1/25/67/49/34/8d/f1/a2/d8/53/fe/ef/fb/3f75ef37-17ef-4055-a0f5-ac1b49161ba6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/61/64/5c/a1/25/67/49/34/8d/f1/a2/d8/53/fe/ef/fb/3f75ef37-17ef-4055-a0f5-ac1b49161ba6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1621.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort St. Andries, soo als gelegen is in den jare 1756 in Rio Barbice."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

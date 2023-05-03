@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/861.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a8db571b-bd0b-48a5-b54d-3eeb4d717488",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0861.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Indiae Orientalis nec non Insularum adiacentium. Nova discriptio.",
+        "dc:title": "Kaart van Azi\u00eb",
+        "dc:description": "Titel catalogus Leupe (NA): Indiae Orientalis nec non Insularum adiacentium. Nova discriptio..\nNotities verso: No. 6 Oost-Indien, Register 1, Deel 1, Folio ..., Portefeuille 1 [geschreven op een blauw etiket] / 582 b [in potlood].",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0861",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "62,5 x 77 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9169/kaart-van-azi%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/66/48/74/b4/cc/2c/4c/e8/a8/0c/fa/9f/01/9b/5f/58/5c104d1b-167b-423b-a88f-2986d7025b89.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/66/48/74/b4/cc/2c/4c/e8/a8/0c/fa/9f/01/9b/5f/58/5c104d1b-167b-423b-a88f-2986d7025b89.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/861.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                          Indiae Orientalis nec non Insularum adiacentium. Nova discriptio."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1061.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/79abbd3d-cdb8-4889-aa9e-582ec6f0c637",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1061.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan du Fort de Gale et de ses Defences, relatives aux projets de 1787",
+        "dc:title": "Plattegrond van het fort te Gale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan du Fort de Gale et de ses Defences, relatives aux projets de 1787.\nLegenda: A-M\nNotities verso: Feuille 4e Plan du Port de Gale Et de ses d\u00e9fenses. Relatives aux Projets de 1787 / 580 [met vette cijfers gestempeld op een etiketje] / N.4, 72 [in potlood] / No. 143-147.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1061",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "legenda",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51,5 x 74 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3099/plattegrond-van-het-fort-te-gale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/87/e7/36/15/44/bf/4c/ad/b5/25/b8/5b/88/26/30/70/621aec50-9be3-4737-a6bb-06f9eeecb117.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/87/e7/36/15/44/bf/4c/ad/b5/25/b8/5b/88/26/30/70/621aec50-9be3-4737-a6bb-06f9eeecb117.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1061.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan du Port de Gale, et de ses defences, relatives aux projets de 1787."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1538.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b822f6f9-fc58-49e4-8e1d-7373ba05d09d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1538.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "<Acte van Meetinge Ik Ondergeschreevene  bij den Edele agtbare hove geadmitteert en den Eed afgelegt hebbende om in plaats van den geswore landmeester deser Colonie J. F. De Saffon de landen te meeten verklaare Bij deese dat ik het land van de Heeren Kacks, Ramsi, Tirens, Botter, en van de luithers gemente gemetten hebbe Bestande in twe duisent vijf hondert en tien akkers 11/12 gelegen in leguana Eijland hebbende het land van de Heer van Dorn ten noordoost, de streek daar van genoomen volgens de oude mettinge van de voorige landmeeter de Heer L. van Bercheijck actum Rio Demerary Dag 1 juli 1767. p. k. de Saffon>\n\n<No. 1 Kacks 546 2/3 \n2. Ramsi 467 \u00bd\n3 Thierma 407 \u00bc \n4 Botter 404 \u00be\n5 luithers gemeente 684 \u00be \n6 de raper 600 \nakkers >\n\n<Schaal van hondert kettingen a 60 voeten Rhijn Lands>\n\n<nor dost - zuijd oost - zuid- West>",
+        "dc:title": "Kaart van plantages op Leguane Eiland",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie van den Heer van Doorn op Leguane Eiland enz.\nDeze kaart toont de resultaten van de metingen van zes plantages op het Leguane Eiland.\nDe Saffon heeft zelf de plantages van de heren Kacks, Ramsi, Tirens, Botter,en de Luther gemeente gemeten (kavel 1 t/m 5). Daarnaast is een eerdere meting van de grond van de heer van Doorn (kavel 6) gebruikt.\nOorspronkelijk zou J.F. de Saffon deze meting verrichten maar zijn familielid P.L. de Saffon heeft de taak overgenomen.\nDe kaart is ondertekend op 1 Juli 1767.\nOnderdeel van een kleine verzameling kadastrale kaarten (zie VEL1537 t/m VEL1542).\nSchaal van 100 kettingen = 62 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1538",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landmeter / kaartenmaker"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.33 - 0.48 El.",
+        "dcterms:date": "1768",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10232/kaart-van-plantages-op-leguane-eiland"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e5/2d/3e/e4/27/5d/44/20/89/62/4b/85/b6/98/f6/45/c4940eb3-460f-457a-8739-a10324d63d1a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e5/2d/3e/e4/27/5d/44/20/89/62/4b/85/b6/98/f6/45/c4940eb3-460f-457a-8739-a10324d63d1a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1538.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagie van den Heer van Doorn op Leguane Eiland enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

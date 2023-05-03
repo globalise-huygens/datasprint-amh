@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/505.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ec2c7a1b-94c8-492f-9536-7ef6715c16f1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0505.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t Land van de Eendracht of Zuyd=landt ontdekt met Emeloorts door den schipper Aucke Pietersz Jonk in de maanden February en Maart Ao 1658",
+        "dc:title": "Kaart met een kustdeel van Australi\u00eb",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart als voren, bedoeld wordt hier de titel van VEL0503: Kaart van 't Lant van Eendracht, off afbeeldinge van 't Zuytlandt, ontdect door den schipper Aucke Pietersz. Jonck, in de maendt February en Maert, Ao 1658, met Emeloort.\nRechtsboven genummerd: 42:b.\nDe kaart is op linnen/katoen geplakt.\nDe kaart is naar een origineel uit 1658 vervaardigd.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0505",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier / linnen",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 37 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9161/kaart-met-een-kustdeel-van-australi%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fc/9b/f4/3b/c5/64/45/07/87/6e/49/41/9d/31/37/a3/a3751da9-da01-4a0f-a269-bf4402f367bb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fc/9b/f4/3b/c5/64/45/07/87/6e/49/41/9d/31/37/a3/a3751da9-da01-4a0f-a269-bf4402f367bb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/505.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van 't Lant van Eendracht, off afbeeldinge van 't Zuyt-landt, ontdeckt door den schipper Aucke Pietersz. Jonck in de maendt February en Maert, A. 1658, met emeloort."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

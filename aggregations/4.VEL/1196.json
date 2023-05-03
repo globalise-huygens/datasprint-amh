@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1196.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/354e024d-6598-43cd-9117-7321bd5faa58",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1196.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Stadt en het Casteel van Batavia",
+        "dc:title": "Plattegrond van de stad en het kasteel Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de stadt en het Casteel van Batavia, met een gedeelte van desselfs Voorsteeden en meerdere Buytenplaatsen.\nKopie uit 1764 naar de situatie van 1762.\nBij de bovenrand staat geschreven Copie No. 2 La A. Plan van Batavia zoo als t' selve Ao 1762 is bevonden.\nNotities verso: Copie La A No 2 [staat zowel aan de bovenkant als aan de onderkant] / 1762 [in potlood] / Schaal van 24 R op den duim op 1/3456 [in potlood, getallen staan in een breuk].\nDiverse legenda's.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1196",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "vesting",
+            "plattegrond / kaart",
+            "legenda",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "103,5 x 60,5 cm",
+        "dcterms:date": "1764",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/462/plattegrond-van-de-stad-en-het-kasteel-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/97/2c/9e/14/5b/b3/44/c5/ae/af/15/4a/f2/0d/1e/75/1fbcf763-8c64-4e0f-b6f8-43524a928bb7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/97/2c/9e/14/5b/b3/44/c5/ae/af/15/4a/f2/0d/1e/75/1fbcf763-8c64-4e0f-b6f8-43524a928bb7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1196.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de stadt en het Casteel van Batavia, met een gedeelte van desselfs Voorsteeden en meerdere Buytenplaatsen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

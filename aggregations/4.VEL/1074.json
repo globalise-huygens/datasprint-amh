@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1074.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a9aed89a-dbc4-4fb6-b11b-e87090e223b5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1074.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Arandere / Tontotte / Ruanelle / Sitavaque",
+        "dc:title": "Plattegronden van de schansen van Arandere, Tontotte, Ruanelle en Sitavaque",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van Arandere, gelegen ruim 10 myl oostwaarts van Negombo; shcaal 20 Roeden = 60 strep.; omgerekende schaal [1 : 1255].\nVEL1074a: Verheven teekening van Tontotte, 9 a 10 myl oost, een weinig noordelyk van Negombo gelegen enz.; Schaal van 12 Roeden = 89 strep.; omgerekende schaal [1 : 507].\nVEL1074b: Plan van Ruanelle, gelegen omtrent 9 myl oost, een weinig zuydelyk van Negombo; Schaal van 30 Roeden = 93 strep.; omgerekende schaal [1 : 1214].\nVEL1074c: Plan als voren, van Sitavaque, gelegen op 8 myl oost, een weinig noordelyk van Colombo; schaal 20 Roeden = 60 strep.; omgerekende schaal [1 : 1255].\nGerestaureerd.\nRechts boven genummerd: 23 p.\nNotities verso: N 5 : 44 [in potlood] / 586 f.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1074",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6305/plattegronden-van-de-schansen-van-arandere-tontotte-ruanelle-en"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4f/1a/e9/18/34/0c/4f/c5/b9/66/2b/01/fd/68/05/fe/b1b02328-1a8a-47f5-9002-931886a349bb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4f/1a/e9/18/34/0c/4f/c5/b9/66/2b/01/fd/68/05/fe/b1b02328-1a8a-47f5-9002-931886a349bb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1074.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Arandere,"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

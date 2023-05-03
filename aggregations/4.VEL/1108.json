@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1108.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3fbe2606-6165-4162-bd1e-2b87aeba6fa9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1108.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aenwijsingh van alle de Bolwerken oft Punten, met haere stucken, oock alle andere principale Plaetsen en Packhuysen binnen de Stadt en Fortresse Malacca mitsgaders enige [...]",
+        "dc:title": "Plattegrond van het fort te Malakka",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van alle de bolwerken ofte punten, oock alle andere principale platesen en Packhuysen binnen de stadt en fortresse Malacca enz..\nLegenda: A-W\nGedeeltelijk gerestaureerd, maar de randen zijn gerafeld en gescheurd. Ook vochtvlekken op de kaart aanwezig. Leupe schrijft dat de kaart is overgekomen van Batavia.\nNotities verso: No. 28 / genomen uit de brieven en papieren van Malakka 1656 portefeuille 1656 no. IV / 598 a.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1108",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 73 cm",
+        "dcterms:date": "ca. 1656",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3862/plattegrond-van-het-fort-te-malakka"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/13/4e/f1/32/45/fe/48/e1/84/05/22/9d/26/45/2e/f5/606060f0-b035-4faa-9112-bce08c0c85c1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/13/4e/f1/32/45/fe/48/e1/84/05/22/9d/26/45/2e/f5/606060f0-b035-4faa-9112-bce08c0c85c1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1108.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van alle de bolwerken ofte punten, oock alle andere principale plaetsen en Packhuysen binnen de stadt en fortresse Malacca enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

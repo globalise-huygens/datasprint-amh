@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/223.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/610f1f21-ccfd-4ac9-8c30-a7c2c52c68ea",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0223.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Mogol",
+        "dc:title": "Kaart van de kust van Dekan en Canare",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Kust van Dekan en Canare, van de Kom van Sualy (Soeratte) tot de Rivier Pen.\nOp de kaart is bij de plaats Zapoer de locatie van de schipbreuk van de schepen Wyk op Zee en de Soldaat aangegeven: Alhier is weijck op zee en de soldaat verongelukt.\nTopografische namen vermeld op deze kaart: Mogol, Swalij Strant, Sourata, Mossarij, Barijboesin, St. Joan, Daman, Pieck d Piskadoris, Basijn, Tafelbergh, Kerckbergh.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0223",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "gebouw",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "530 x 775 mm",
+        "dcterms:date": "1600-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4061/kaart-van-de-kust-van-dekan-en-canare"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cd/01/40/73/2d/fc/43/05/98/18/a3/a2/c0/91/62/1f/f929e7ee-a922-48d6-b457-fde4162fb738.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cd/01/40/73/2d/fc/43/05/98/18/a3/a2/c0/91/62/1f/f929e7ee-a922-48d6-b457-fde4162fb738.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/223.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de kust van Dekan en Canare, van de Kom van Sualy (Soeratte) tot de Rivier Pen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

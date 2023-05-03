@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2001.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caart van de Mond enz., gedeeltelijke Cours van de rivier Suriname enz., Commewyne, als meede de situatie van 't fortresse Nieuw-Amsterdam. Redoute Purmerende en de geprojecteerde Battery D., 't fort Zeelandia enz., Paramaribo."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2001"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1755"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/52529647-6dd2-43a0-9c71-d5601b3d9dd1\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2001.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2001.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6642,
+            "width": 5160,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2001.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2001.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/cf/de/31/65/a2/be/49/96/b9/ca/49/e0/98/0f/0d/d9/75aeef99-0848-4fd6-ae05-db45f67095b7.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6642,
+                                "width": 5160,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/cf/de/31/65/a2/be/49/96/b9/ca/49/e0/98/0f/0d/d9/75aeef99-0848-4fd6-ae05-db45f67095b7.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2001.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

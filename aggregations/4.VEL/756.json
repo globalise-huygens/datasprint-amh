@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/756.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/11d6d14e-dd17-4cbc-8645-9b5c3e3dabe8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_756.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van het Fort Batenstein te Boutry",
+        "dc:title": "Plattegrond van het fort Batenstein te Butri",
+        "dc:description": "Plattegrond van het fort Batenstein te Butri.\nTitel catalogus Leupe (NA): Plan van het Fort Batenstein te Boutry.\nPlan van het Fort Batenstein te Boutry.\nLegenda: Renvoij / A. Ingang van de Poort en Soldaten wagt / B. commandants Woningen waar onder de Sergeanten en Soldaten Woningen / C. Assistente en Doctors Woning, waar onder de Pakhuijsen / D. Combuijs / E. Katteplaats / F. Een Revier van Soet Water / G. Negercrom.\nRechtsonder: Plan.V.\nOp verschillende plekken op de kaart: 756 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0756",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "vesting",
+            "gebouw",
+            "pakhuis",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50 x 66,5 cm",
+        "dcterms:date": "1786",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1399/plattegrond-van-het-fort-batenstein-te-butri"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/10/4e/5e/d6/9d/2c/46/61/9a/74/3b/47/74/40/fb/ed/dd9e1959-0314-4c20-a02a-525735bbe03a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/10/4e/5e/d6/9d/2c/46/61/9a/74/3b/47/74/40/fb/ed/dd9e1959-0314-4c20-a02a-525735bbe03a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/756.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort Batenstein tot Boutry."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

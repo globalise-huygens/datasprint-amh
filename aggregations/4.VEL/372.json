@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/372.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3467449e-7830-4c3b-99cb-6cefc4a3cbef",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0372.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de noordkust van Java",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Noordkust van Java, van Ondjong Java tot en met de Straat van Madure.\nRechtsboven genummerd: 2.i.\nNotities verso: De kust van Java van Batavia tot de Straat van Madura / gepeijlt ende bevaren door ? [in potlood] / 51 [in potlood, doorgestreept] / 4 17 45 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0372",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 74,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3147/kaart-van-de-noordkust-van-java"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d4/c0/48/d2/55/3f/4f/6d/83/bc/ff/ab/ce/dc/d9/30/d6f7b3ba-26e2-48f0-be55-b93a565ce370.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d4/c0/48/d2/55/3f/4f/6d/83/bc/ff/ab/ce/dc/d9/30/d6f7b3ba-26e2-48f0-be55-b93a565ce370.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/372.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Noordkust van Java, van Ondjong Java tot en met de Straat van Madure."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

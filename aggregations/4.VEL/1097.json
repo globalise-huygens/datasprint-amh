@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1097.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d54711a1-ae34-4325-8d30-f2fe300292e2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1097.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van 't fortres en Stad Poedecherij, met sijn omliggende dorpen en revieren",
+        "dc:title": "Plan van Poedechery",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van 't fortres en stad Poedechery, met zyn omleggende dorpen en rivieren.\nDrie bladen.\nKaart met aanwijzingen.\nNotities verso: No. 3., 592 f.\nLinks is legenda, 1-18, Aanwijsinge des Plans Liggende om de stad Poedecherij gelijk de Zelve d' ed. comp. toebehoort. Ende belent Met den Vorst Ramradija.\nRechts is legenda, 1-39, Aanwijsinge van den Plan van het fortres en Stad Poedecherij, gelijk de Zelve. Nu is en Tegenwoordig wort Betimmert.\nDe afbeelding toont een plattegrond met de volgende termen Den Vorst Ramradija, Coerevier, Wieras Patnan, De Zee strant.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1097",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "gebouw",
+            "huis / woonhuis",
+            "vesting",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "73,5 x 153,5 cm",
+        "dcterms:date": "1694",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5576/plan-van-poedechery"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cd/cb/aa/91/40/27/49/6e/b8/4e/ed/c5/0f/54/f1/22/ce97b127-6ef2-4a60-b184-4d8d88dab1ac.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cd/cb/aa/91/40/27/49/6e/b8/4e/ed/c5/0f/54/f1/22/ce97b127-6ef2-4a60-b184-4d8d88dab1ac.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1097.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van 't fortres en stad Poedechery, met syn omleggende dorpen en rivieren."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

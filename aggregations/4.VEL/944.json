@@ -1,0 +1,62 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/944.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6f3d87bd-0cab-4d02-9093-995edc3e5b18",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0944.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Afbeelding van 't Casteel en stad Colombo / Met de omleggende situatien daar omtrent, sodanig de selve, beginnende met Feb. 1681 ten overstaan van de gecommitteerde Coopl: Egmont van Sterreveld, Wouter van der Beeq; de Capt: Jan del Court en Jacob Wetsenburg, Luit: Hendrik Coning, Jan Martenz Helling opsiender van 's Comp:s Fortificatie werken: mitsgaders den geswooren Roi en Landmeeter Stevenz sijn gemeeten en bevonden, volgens de beschrijving daar af gemaakt, en bij derselve bevinding op 25 Juny met haar handteekeningh.",
+        "dc:title": "Het kasteel en de stad Colombo met omstreken",
+        "dc:description": "Titel catalogus Leupe (NA): Situatie van 't Casteel, de Stadt Columbo en omstreken.\nLegenda: 1-111\nNotities verso: A. A. 23f. Verso nr. 542d; met potlood: 38; 22 doorgehaald.\nRechtsboven: 23 f.\nTopografische namen vermeld op deze kaart: punt den Briel, punt Enckhuysen, punt Middelburgh, punt Rotterdam, punt Hoorn, punt Amsterdam, punt Delft, punt Leiden, Schiedam, Dorth, punt Haarlem, punt Concordia, punt constantia, punt Victoria.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0944",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kerk / pastorie",
+            "vesting",
+            "huis / woonhuis",
+            "ziekenhuis / lazaret",
+            "begraafplaats / kerkhof",
+            "school",
+            "tuin / siertuin",
+            "pakhuis",
+            "scheeps- / timmerwerf",
+            "weeshuis",
+            "gevangenis",
+            "menagerie / stal",
+            "legenda",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51 x 106,1 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/691/het-kasteel-en-de-stad-colombo-met-omstreken"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/83/6e/0d/bb/e0/4f/46/8d/9f/f0/a8/f2/9f/c0/f3/5a/ae02f9a4-10f1-41d5-aa7d-cae55a0988f4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/83/6e/0d/bb/e0/4f/46/8d/9f/f0/a8/f2/9f/c0/f3/5a/ae02f9a4-10f1-41d5-aa7d-cae55a0988f4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/944.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Situatie van 't Casteel, de Stadt Columbo en omstreken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

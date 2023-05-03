@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2132.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/67186d2c-71b4-4c78-9c9f-75ab6745d4f5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2132.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Tekening van de ideale troepenopstelling in bossen",
+        "dc:description": "Titel Leupe: Afbeelding van de wijze waarop een commando of detachement gewoonlijk in de bossen manouvreert.\nDeze schematische kaart werd in of kort voor 1778 in Suriname getekend door de kapitein der infanterie Ary Westmaas en in hetzelfde jaar overgezonden naar de Republiek. Westmaas werd in 1778 aangesteld als inspecteur op het Militair Cordon, dus het Cordon van Defensie. De kaart geeft Westmaas\u2019 opvatting weer over de meest effectieve marsorde bij expedities in het bos tegen de Marrons, met links de symbolen voor de rangen van kolonel (tevens commandant), majoor, kapitein, subaltern officier, sergeant, korporaal en soldaat, en voor de \u2018commando Neegers\u2019, de slaafgemaakten die als lastdragers meegingen. De betekenis van de legenda rechts in verkorte weergave is: A. vier slaven die de weg vrij kappen; B. een sergeant met het kompas, plus drie soldaten; C-D. de voorhoede; E-F. het Korps; G-H. de lastdragers en hun bewakers; I-K. de achterhoede; l.l.l. drie slaven die ieder een kruitkist dragen.\nAfkomstig uit 1.05.03 inv.nr. 364 (daarin: fols. 304-314 [bijlage no. 1794]; zie daar voor het\nbijbehorende rapport). Een 2e exemplaar bevindt zich in 1.05.06 inv.nr. 691 (daarin: kaart 1).",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2132",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "13 x 241,5 cm",
+        "dcterms:date": "ca. 1778",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7740/tekening-van-de-ideale-troepenopstelling-in-bossen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2a/27/0d/86/ec/68/4d/70/a9/b5/bd/c9/2e/b9/d1/66/14af7dc9-a011-482f-8181-a2e023cb0cf1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2a/27/0d/86/ec/68/4d/70/a9/b5/bd/c9/2e/b9/d1/66/14af7dc9-a011-482f-8181-a2e023cb0cf1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2132.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van de wijze waarop een commando of detachement gewoonlijk in de bossen manouvreert."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

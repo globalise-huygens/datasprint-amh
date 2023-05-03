@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1278.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/19228e23-8afa-41b3-a858-9997b4afd2b5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1278.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "N:o 11 / Grissee",
+        "dc:title": "Kaart van het oude fort van Grisse en enkele profielen",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van het oude fort zoo als hetzelve zich thans bevind.\nVEL1278a: Project van een nieuwe fort.\nLegenda: A-V\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nNotities verso: 20ste 7ber 1787 [er staat ook nog tekst voor de datum 20ste maar daar is het blauwe etiket overheen geplakt] / No. 20 Grisse Register 2 Deel 1 Folio 7 Portefeul [geschreven op een blauw etiket] / No. 11 / 642 [met vette cijfers gestempeld op een etiketje] / grise [in potlood] / no. 19.\n30 Rijnlandse roeden = 104 strepen; omgerekende schaal [1 : 1086",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1278",
+        "dc:subject": [
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "doorsnede / profiel",
+            "kompas / windroos",
+            "legenda",
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50,5 x 66 cm",
+        "dcterms:date": "ca. 1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3144/kaart-van-het-oude-fort-van-grisse-en-enkele-profielen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/27/d5/dc/a9/0f/9d/4c/0a/a3/ea/d3/ea/37/60/2a/7f/4c045080-8b3c-4a06-bed8-b5b9d91f330d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/27/d5/dc/a9/0f/9d/4c/0a/a3/ea/d3/ea/37/60/2a/7f/4c045080-8b3c-4a06-bed8-b5b9d91f330d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1278.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het oude fort zoo als hetzelve zich thans bevind."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

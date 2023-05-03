@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1185.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fd92f796-ccee-4439-88af-37699eb3b266",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1185.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart met landverdeling rondom Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, tusschen de Groote Zuyderweg en langs de Mokervaart, hiermee wordt bedoeld de titel van VEL1184 Kaart van Batavia, met de daaromheen leggende bebouwde landen, benevens de namen der bewoners of eigenaars.\nHet papier van de kaart is op jute gelijmd.\nNotities verso: 4 Caarten van Batavia met de daar om herleggende landerijen / 608 [met vette cijfers gestempeld op een etiketje] / 112 [op een klein rond etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1185",
+        "dc:subject": [
+            "landerij / plantage",
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "vesting",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "132 x 222,5 cm",
+        "dcterms:date": "1700-1725",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/546/kaart-met-landverdeling-rondom-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0f/67/95/b6/46/6c/4e/00/9c/13/8b/1f/97/f0/9d/ec/dcf2fb42-1268-410e-b597-01f18287e100.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0f/67/95/b6/46/6c/4e/00/9c/13/8b/1f/97/f0/9d/ec/dcf2fb42-1268-410e-b597-01f18287e100.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1185.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Batavia, tusschen de Groote Zuyderweg en langs de Mokervaart."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

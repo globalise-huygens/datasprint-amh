@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1998.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a358dae5-c061-4235-8fbc-21b39c6beb0f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1998.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(a note, upper left): NB. Deeze Battery is van agteren, zoo verre als geene Stukken staan, met 12 Stuks Donderbussen, staande op hunne Posten, voorzien.",
+        "dc:title": "Kaart van een batterij bij de monding van de Surinamerivier",
+        "dc:description": "Titel Leupe: Kaart van Bramspunt, met de daarop nieuw aangelegde battery van zes stuks yzere canonnen \u00e0 18 pond Caliber.\nAls laatste versterking van de monding van de Surinamerivier voorafgaand aan de Britse bezetting van 1799 werd in 1796 op Braamspunt de kleine batterij Piet Hein aangelegd, bewapend met zes achttienponders.\nDeze kaart geeft de situatie ter plaatse weer na voltooiing van de batterij, die volgens de aantekening door B\u00f6hm zelf was aangelegd.\nOverigens was op deze strategisch gelegen landpunt ook voordien altijd al een baken en een uitkijkpost, die als eerste de aankomende schepen kon waarnemen en daarvan bericht kon geven aan Nieuw Amsterdam en Paramaribo.\nAandacht is geschonken aan de grondlagen rondom de vesting.\nVoor een vroeg projectplan zie VEL1997.\n -Profil door A.B and C.D..\nSchaalstokken van 90 Roeden Rhijnlandsch = [ca. 1 : 2.020] / [profielen] 90 voeten Rhijnlandsch = [ca. 1 : 170].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1998",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.46 - 0.51 El. (54 x 74.5 cm)",
+        "dcterms:date": "ca. 1997",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9779/kaart-van-een-batterij-bij-de-monding-van-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d1/cb/0d/19/e9/9f/42/c8/8a/5a/b2/e1/e9/3b/3c/de/db550bb9-bc6b-4422-8bf0-f68c0be0f3e4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d1/cb/0d/19/e9/9f/42/c8/8a/5a/b2/e1/e9/3b/3c/de/db550bb9-bc6b-4422-8bf0-f68c0be0f3e4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1998.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Bramspunt, met de daarop nieuw aangelegde battery van zes stuks yzere canonnen \u00e0 18 pond Caliber."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

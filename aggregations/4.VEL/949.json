@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/949.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a802315e-9461-4245-991e-d07a598160f6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0949.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aparte project",
+        "dc:title": "Plan voor veranderingen aan het kasteel van Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Apart project op wat wyze de fortificatie met de minste moeyten en kosten zoude kunnen opgemaakt worden enz..\nNotities verso: 1698 Ceylon [in potlood] / 520 [folionummer in de band ?] / 5428 [in potlood, maar erg onduidelijk].\nLegenda: 1-5; a-p",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0949",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "doorsnede / profiel",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "48,5 x 37 cm",
+        "dcterms:date": "1697",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/766/plan-voor-veranderingen-aan-het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c6/c1/08/c5/8f/35/42/5f/93/1f/f4/9a/83/cc/ec/b2/2ea7381e-ed5d-4fbc-8dfc-c7e60d1d5c13.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c6/c1/08/c5/8f/35/42/5f/93/1f/f4/9a/83/cc/ec/b2/2ea7381e-ed5d-4fbc-8dfc-c7e60d1d5c13.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/949.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Apart project op wat wyze de fortificatie met de minste moeyten en kosten zoude kunnen opgemaakt worden enz. Colombo, 19 October 1697."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

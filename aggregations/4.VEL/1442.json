@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1442.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cc910681-cc51-4bdb-9df4-22cb0b420c6c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1442.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [upper left, centre, below] a very extensive technical description of the projected fortifications and the mole, not transcribed.",
+        "dc:title": "Projectplan voor uitbreiding van Willemstad",
+        "dc:description": "Titel Leupe: Plan van de Willemstad en het fort Amsterdam op het Eyland Cura\u00e7ao, met de nieuwe geprojecteerde werken enz., met voorgestelde veranderinge.\nNaar aanleiding van de rapportages door kapitein-ter-zee Cornelis Schrijver in 1737-1738 met betrekking tot de staat van defensie op Cura\u00e7ao, werden in de Republiek nog in 1738 diverse plannen uitgewerkt voor uitbreiding van de verdedigingswerken. Deze kaart is gebaseerd op de plattegrond door Hertell uit 1739 (VEL1441A-B), waarbij de nieuwe stadsmuur op een aangehecht kaartdeel aan de oostzijde geheel is doorgetrokken naar de zeekant. Van belang zijn hier vooral de toevoegingen door Schrijver, die op dezelfde wijze een deelontwerp presenteert voor een alternatief voor Hertells voorfort op de punt. In plaats daarvan is een verspringende, doorlopende vestingwal geprojecteerd, die uitloopt in een lang havenhoofd. Dit laatste is in een aparte opgeplakte bijlage uitgewerkt met drie ontwerptekeningen in profiel, met als interessant detail de vuurbakens die Schrijver noodzakelijk vond.\nSchaalstok van Curacaoze voet maat van 600 voeten. waar van een voet Correct elf Rijnlandsze Duijmen groot is = [ca. 1 : 1.350].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1442",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "69,5 x 52 cm.",
+        "dcterms:date": "1740",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1597/projectplan-voor-uitbreiding-van-willemstad"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/71/a7/95/be/73/92/4b/39/b5/5b/4e/ba/41/88/a3/a6/22ca086a-551b-4a37-a347-b468bb9018f9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/71/a7/95/be/73/92/4b/39/b5/5b/4e/ba/41/88/a3/a6/22ca086a-551b-4a37-a347-b468bb9018f9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1442.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Willemstad en het fort Amsterdam op het Eyland Cura\u00e7ao, met de nieuwe geprojecteerde werken enz., met voorgestelde veranderinge."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

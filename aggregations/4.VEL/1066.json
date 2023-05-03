@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1066.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/eb0fd46a-f5c8-4295-9291-1a4207492100",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1066.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Hoofdplan van een project tot verbetering der vestingwerken van de Landfront te Gale, gelyk hetzelve beraamt is door de H.H. Vaillant, Ver-Huell en Graevesteyn, Commissarissen-Militair enz.",
+        "dc:title": "Plattegrond van het fort te Galle en omgeving",
+        "dc:description": "Titel catalogus Leupe (NA): Hoofdplan als voren, hiermee wordt bedoeld de titel van VEL1065: Hoofdplan van een project tot verbetering der vestingwerken van de Landfront te Gale, gelyk hetzelve beraamt is door de H.H. Vaillant, Ver-Huell en Graevesteyn, Commissarissen-Militair enz..\nNotities verso: No. 43A Land Front van Gale. Register 4, Deel 1, Folio 17, Portefeuille .. [geschreven op een blauw etiket] / No: 2: / 583 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1066",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "102,5 x 65,5 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3109/plattegrond-van-het-fort-te-galle-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7f/6c/1d/a2/fa/d0/49/15/b7/63/3b/32/be/4e/77/f9/e1110e1d-982e-48dc-a632-cf69f580cc6f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7f/6c/1d/a2/fa/d0/49/15/b7/63/3b/32/be/4e/77/f9/e1110e1d-982e-48dc-a632-cf69f580cc6f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1066.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Hoofdplan van een project tot verbetering der vestingwerken van de Landfront te Gale, gelyk hetzelve beraamt is door de H.H. Vaillant, Ver-Huell en Graevesteyn, Commissarissen-Militair enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

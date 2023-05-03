@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/157.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Teekening van de baai La Wanda St. Paulo (Loanda de St. Paulo) met het daarvoor liggende eiland."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "157"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1639-05"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/99b4cce0-dae6-4e95-88cd-1cf939a4a045\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/157.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/157.json#canvas/p1",
+            "type": "Canvas",
+            "height": 3109,
+            "width": 5064,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/157.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/157.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/23/f5/93/57/50/7e/4c/4e/9c/42/c0/47/27/9c/5a/5b/3e4474e6-8a0b-4f77-bd0f-16661a170f4f.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3109,
+                                "width": 5064,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/23/f5/93/57/50/7e/4c/4e/9c/42/c0/47/27/9c/5a/5b/3e4474e6-8a0b-4f77-bd0f-16661a170f4f.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/157.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

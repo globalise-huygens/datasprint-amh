@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2138.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9327f150-672f-447d-8426-0616732e71f6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2138.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Tekening van een vierentwintigponder",
+        "dc:description": "Titel Leupe: Verhevene tekening van het affuyt van een Metaele 24 Ponder, alsmede van de voorwaegen, syn ass en deszelfs grondteekening.\nDeze aanzichten op een vierentwintigponder en zijn affuit zijn getekend door de Duitse bombardier Kuhlmann. Het aantal details in de tekening doet vermoeden dat Kuhlmann getraind is als technisch tekenaar. Het is onbekend voor welk fort dit kanon bedoeld was.\nSchaal van  Rijnlandse voeten = 35 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2138",
+        "dc:subject": [
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.33 - 0.49 El.",
+        "dcterms:date": "1778",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7742/tekening-van-een-vierentwintigponder"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a9/ad/5b/92/ec/b0/40/7e/b4/26/b2/85/a9/c7/61/98/7ed43ada-107c-444a-bc89-51e64042dbda.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a9/ad/5b/92/ec/b0/40/7e/b4/26/b2/85/a9/c7/61/98/7ed43ada-107c-444a-bc89-51e64042dbda.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2138.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Verhevene tekening van het affuyt van een Metaele 24 Ponder, alsmede van de voorwaegen, syn ass en deszelfs grondteekening."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

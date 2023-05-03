@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1039C.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fe5ecea8-9bdb-495b-b474-86dee399b5ec",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1039c.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van fort Oostenburg",
+        "dc:description": "Titel catalogus Leupe (NA): Plan d'Oostenburg, relatif au projet de mr. Reimer.\nNotities verso: Plan d'Ostinbourg Relatif au Projet de Mr: Reimer. / No. 16 / ..4 67 [in potlood, 67 onder het andere getal geschreven] / 158-163.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1039C",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "aquarel/waterverf",
+        "dcterms:extent": "35,5 x 52,5 cm",
+        "dcterms:date": "1788?",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/599/plattegrond-van-fort-oostenburg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e7/6f/91/8e/6f/f5/49/12/8a/d6/cf/47/1b/dc/36/f9/c77de2a4-2f9c-4318-b500-3dd57e16ceeb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e7/6f/91/8e/6f/f5/49/12/8a/d6/cf/47/1b/dc/36/f9/c77de2a4-2f9c-4318-b500-3dd57e16ceeb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039C.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 3"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

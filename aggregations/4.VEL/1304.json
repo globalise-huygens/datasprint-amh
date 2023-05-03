@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1304.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f8ccb5c9-eb4e-4e27-8b51-81231370cc01",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1304.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Ter ordre van den E.E. Agtb: Heere, D'Heere Johan Sautijn, Gouverneur en Directeur van 't Eyland Celebes etc., is deese Caarte van de Bantimoerongse Gebergten en Mijnwerken afgetijkend, soodanig als selve by itzige tijd, door DE NATHANAEL STEINMETZ Berglopman, aangelegt en bewerket werden als te sien.",
+        "dc:title": "Kaart van de Bantimoerangse gebergten en mijnwerken op Celebes, iets ten oosten van Macassar",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Bantimoerangse gebergten en mynwerken op Celebes.\nNotities verso: Kaart van de Bantimoerangse gebergten en mynwerken op Makasser. Behoort by de overgekomen Brieven en papieren van Batavia 1736, 3 deel / 1369 [folionummer in de band ?] / No. 5 [volgnummer van het stuk in de band ?] / 652 e.\nLegenda: A-E\nHet Bantimoerongse gebergte is een kalksteengebergte.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1304",
+        "dc:subject": [
+            "flora",
+            "legenda",
+            "fabriek / werkplaats",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "60,5 x 47 cm",
+        "dcterms:date": "April 1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4125/kaart-van-de-bantimoerangse-gebergten-en-mijnwerken-op-celebes-iets"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/16/a2/70/c3/16/86/40/74/a5/ba/10/e8/74/13/96/07/f3ed916b-7d41-447c-ac6e-f737958c0dee.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/16/a2/70/c3/16/86/40/74/a5/ba/10/e8/74/13/96/07/f3ed916b-7d41-447c-ac6e-f737958c0dee.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1304.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Bantimoerangse gebergten en mynwerken op Celebes."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

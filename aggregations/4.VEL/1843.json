@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1843.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/76989162-cd41-4fc4-baab-a82eb3a2f30e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1843.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Rosenburg plantage",
+        "dc:description": "Titel Leupe: Kaart van de scheidlinien van de Plantagie Rosenburg.\nDeze kaart toont de omvang van de Rosenburg plantage gelegen ten oosten(rechts op de kaart) van de Commewijne rivier.\nDe Gouverneur-Generaal Carel Emilius Henry de Cheusses heeft de landmeter de Lavaux aangesteld voor de meting op verzoek van de heer Jan van Sandick, Raadslid en eigenaar van de plantage.\nDe grenzen van de plantage zijn allen gemeten en met letters (ABCDE) aangegeven, de omvang blijkt 736 Surinaamse akkers (316.48 hectare).\nDaarnaast is ook een recent gekocht stuk grond gemeten ten oosten van de plantage.\nDit nieuwe stuk grond (BFGC) blijkt 346 Surinaamse akkers (148.78 hectare) te omvatten\nAangrenzende plantages zijn: Penoribo, de Goudmyn, en Levinus Berlin.\nGebouwen en de loop van de Commewijne rivier en een zijtak daarvan zijn weergegeven.\nDe meting is officieel erkend op 8 November 1732.\nOorsprong: [OBP Suriname] 1732 [fols.] 1068-1069.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 162 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1843",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.38 - 0.295 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9918/kaart-van-de-rosenburg-plantage"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/17/ed/ef/a4/03/04/4e/23/8b/19/1a/a1/40/e7/4b/b7/c9020c06-0e18-494a-9f1c-b9141f35782f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/17/ed/ef/a4/03/04/4e/23/8b/19/1a/a1/40/e7/4b/b7/c9020c06-0e18-494a-9f1c-b9141f35782f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1843.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de scheidlinien van de Plantagie Rosenburg."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

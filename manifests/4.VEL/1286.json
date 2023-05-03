@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1286.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Affbeelding ofte aanwysing der optoght en marsch, gedaan van Sourabaya naar Passourawang, onder 't hooger gezagh van den Ed. M. Heer Govert Cnoll, Commandeur en chef enz. September 1706."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1286"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1706"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/70639a80-5917-4a63-ba5b-d488a3ca0fe1\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1286.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1286.json#canvas/p1",
+            "type": "Canvas",
+            "height": 12403,
+            "width": 8875,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1286.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1286.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ef/74/8b/d0/13/58/4e/ef/b4/c0/a3/88/ab/09/2d/22/6d2f106e-e988-4d79-afa0-ab6b287ce7e9.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 12403,
+                                "width": 8875,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ef/74/8b/d0/13/58/4e/ef/b4/c0/a3/88/ab/09/2d/22/6d2f106e-e988-4d79-afa0-ab6b287ce7e9.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1286.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

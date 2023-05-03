@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/308.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b8d63b88-3521-47f3-a6b3-94ae863e3840",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0308.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aldus vertoont hier het Eijlant, o Ilha de Prata, met sijn Omlegende Riff Gelegen op de Noorder Breete, van 20 graet, 42 Minut, ende Alsoo Gecardeert door den Opperstierman Fen Tijsen van Hoorn, Anno 1654,",
+        "dc:title": "Kaart van het eiland Ilha de Prata",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van O'Ilha de Prata met syn omliggende riff, gelegen op de Noorderbreete van 20 garden 42 minuten.\nMet aantekeningen, zoals de plaats waar het jacht Uytrecht verongelukte.\nLegenda: A-D; 1-3",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0308",
+        "dc:subject": [
+            "legenda",
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "42,5 x 54 cm",
+        "dcterms:date": "1654",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9149/kaart-van-het-eiland-ilha-de-prata"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/34/5f/9e/ab/95/f5/47/fd/9d/a5/94/85/32/57/d2/11/52098b37-1873-49d4-8a19-238b7bf6b788.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/34/5f/9e/ab/95/f5/47/fd/9d/a5/94/85/32/57/d2/11/52098b37-1873-49d4-8a19-238b7bf6b788.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/308.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van O'Ilha de Prata met syn omliggende riff, gelegen op de Noorderbreete van 20 graden 42 minuten."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

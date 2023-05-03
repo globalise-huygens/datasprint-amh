@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2142.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6999579c-038d-4b6b-a998-80861eafc089",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2142.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Tekening van verschillende onderdelen van een kanon",
+        "dc:description": "Titel Leupe: Details d'un affut de C\u00f4te.\nDeze anonieme tekening geeft goed weer uit welke onderdelen een kanon en zijn onderstel bestond. Zo zijn naast het geschut zelf ook de afmetingen gegeven van de kar, de wielen, en de aparte mechanismen. De ontwerper en het jaartal zijn onbekend.\nSchaal van 9 stappen = 78 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2142",
+        "dc:subject": [
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.59 - 0.50 El.",
+        "dcterms:date": "1700-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10495/tekening-van-verschillende-onderdelen-van-een-kanon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fe/6d/8e/40/af/6b/40/34/9e/aa/84/46/81/a9/57/2b/428bcff2-971d-4bd5-81aa-505292bc506d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fe/6d/8e/40/af/6b/40/34/9e/aa/84/46/81/a9/57/2b/428bcff2-971d-4bd5-81aa-505292bc506d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2142.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Details d'un affut de C\u00f4te."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

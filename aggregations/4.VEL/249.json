@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/249.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/aeeaab18-4bec-44c3-a29c-25085c5f5f9b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0249.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Baay van Gale",
+        "dc:title": "Plattegrond van de baai van Gale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan als voren, hier wordt de titel bedoeld van VEL0248.\nNotities verso: Nr. 7 Gale.\nVergelijk met NA VEL0248, inzet links onder met verschillende teksten.\nTopografische namen vermeld op deze kaart: Berg van Oenewatte, Clossenburg, Hercules.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0249",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rede / haven / pier",
+            "tanck / waterplaats / put",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "840 x 975 mm / kader 796 x 940 mm",
+        "dcterms:date": "1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3030/plattegrond-van-de-baai-van-gale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a8/bd/61/93/1c/c3/40/61/b3/d9/d1/02/d5/15/8d/33/d3719382-f00c-4cd6-9348-bf29253aa190.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a8/bd/61/93/1c/c3/40/61/b3/d9/d1/02/d5/15/8d/33/d3719382-f00c-4cd6-9348-bf29253aa190.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/249.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de baay van Gale."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

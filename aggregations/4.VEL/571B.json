@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/571B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ee72778b-9c2c-4dd4-bb65-dabd11936485",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_571b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de invasie van Martinique in 1762, blad 2",
+        "dc:description": "Titel Leupe: Plan of the Harbour, Fort, Town and environs of Fort Royal in Martinique.\nDeze kaart toont de locaties en formaties van het Britse leger en de \u201cBarbadoes Volunteers\u201d tijdens de Britse aanval op het eiland in januari 1762. Deze troepenmacht belegerde Fort Royal en nam de macht over in de kolonie. Met het verdrag van Parijs uit 1763 werd het eiland teruggegeven aan de Franse koning. Interessant genoeg lukte het de Britten weer om Martinique in beslag te nemen in 1694, een jaar nadat deze kaart gepubliceerd werd. Gezien het feit dat Booth Lieutenant was voor de \u201cRoyal Engineers\u201d, was hij waarschijnlijk op de hoogte van deze aankomende campagne, en wellicht is de kaart ook gemaakt in samenhang met de voorbereidingen ervan.\nSchaal van 1760 yards of 1 Eng. mijl = 18 strepen.\nHet noorden is boven",
+        "dc:type": "prent",
+        "dc:identifier": "VEL571B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.44 - 0.69 EI.",
+        "dcterms:date": "1793",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10346/kaart-van-de-invasie-van-martinique-in-1762-blad-2"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9b/a0/d0/29/3e/2b/4d/72/b1/e3/dd/93/58/96/ec/8b/38dc2b68-7d00-4fb0-8395-921b0a997052.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9b/a0/d0/29/3e/2b/4d/72/b1/e3/dd/93/58/96/ec/8b/38dc2b68-7d00-4fb0-8395-921b0a997052.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/571B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2 (onderste helft)"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

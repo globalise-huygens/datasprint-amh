@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1912.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/81fdf3f0-56e1-4105-9f16-c384209c2259",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1912.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een stuk land van Jacobus Beeloo",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen in Perica, by Oost Sapatoni Creecq.\nDeze kaart toont een stuk land (aangeduid met de letters A-H); gelegen aan de Perica, en de oost Sappatori kreken.\nDe meting is aangevraagd door de eigenaar, Jacobus Beeloo, om de omvang van een nieuw verkregen stuk land te bepalen.\nDe eerdere transacties van dit stuk grond staan vermeld in de uitleg links van de kaart.\nDe totale omvang van het kavel is 1500 Surinaamse akkers (645 hectare).\nTen zuiden (rechts op de kaart) ligt een deel van de Cappoerika plantage, ten noorden (links op de kaart) de Belair en een ander deel van de Cappoerika plantage.\nDe kaart is door de landmeter ondertekend op 25 Januari 1734 en officieel erkend op 14 Augustus 1736 te Paramaribo.\nSchaal van 60 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 160 strepen.\nOorsprong: [OBP Suriname] 1736, [fols.] 1345-1346.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1912",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.42 - 0.28 El.",
+        "dcterms:date": "1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10159/kaart-van-een-stuk-land-van-jacobus-beeloo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f5/90/79/6c/48/e8/4d/71/90/e0/87/b1/28/c7/57/cf/6bf2c0d5-91d7-475d-b6b8-27a7365ed873.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f5/90/79/6c/48/e8/4d/71/90/e0/87/b1/28/c7/57/cf/6bf2c0d5-91d7-475d-b6b8-27a7365ed873.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1912.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen in Perica, by Oost Sapatoni Creecq."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

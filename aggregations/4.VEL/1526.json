@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1526.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4cbdba80-0a71-4484-8ff7-7477aaaabb32",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1526.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Schetskaart van de kolonie Essequibo met de ligging van de plantages",
+        "dc:description": "Titel Leupe: Kaart van de kolonie Essequebo.\nDeze enorme schetskaart van Essequibo met de plantages in de kolonie is niet gesigneerd, maar kan op grond van het handschrift, het kleurgebruik en de stijl van de kaarttekening aan Johan Christoph Heneman worden toegeschreven.\nDe gegevens voor dit werk verzamelde Heneman vermoedelijk zowel in april 1772, toen hij op zijn eerste thuisreis uit Suriname enkele weken in Demerara en Essequibo verbleef om opnemingen te verrichten (zie VEL1536 en Bibliotheek Universiteit van Amsterdam, Bijzondere Collecties 101.12.13), als tijdens zijn tweede verblijf aldaar in 1774-1775 (zie VEL1529 en Bibliotheek Universiteit van Amsterdam, Bijzondere Collecties  100.22.03A & 100.22.03B).\nWaarschijnlijk heeft de kaart meer dan twintig jaar later nog gediend als voorbeeld voor een deel van Friedrich von Bouchenroeders overzichtskaart van Demerara en Essequibo uit 1796 zie (zie VEL1489).\nHoewel de opschriften meerdere leesrichtingen hebben, kan op grond van de plaatsing van de schaalbalk de ori\u00ebntatie van de kaart vastgesteld worden als gericht op het zuiden, dus met het noorden onder.\nSchaalstok van 2000 Roede Rhijnl: \u00e0 12 Voet = [ca. 1 : 140.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1526",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "286 x 139,5 cm.",
+        "dcterms:date": "1772-1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7518/schetskaart-van-de-kolonie-essequibo-met-de-ligging-van-de-plantages"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7b/5d/70/63/2e/4e/4e/f4/a6/8a/f1/52/04/93/4c/8d/648fd7e5-96ab-46bc-8a8e-f34ca0c542ce.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7b/5d/70/63/2e/4e/4e/f4/a6/8a/f1/52/04/93/4c/8d/648fd7e5-96ab-46bc-8a8e-f34ca0c542ce.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1526.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de kolonie Essequebo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

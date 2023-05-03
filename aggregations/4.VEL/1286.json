@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1286.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/70639a80-5917-4a63-ba5b-d488a3ca0fe1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1286.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Affbeelding ofte aanwysing der optoght en marsch, gedaan van Sourabaya naar Passourawang, onder 't hooger gezagh van den Ed. M. Heer Govert Cnoll",
+        "dc:title": "Kaart van Cnoll's expeditie van Surabaja tot Passoeroean in 1706",
+        "dc:description": "Titel catalogus Leupe (NA): Affbeelding ofte aanwysing der optoght en marsch, gedaan van Sourabaya naar Passourawang, onder 't hooger gezagh van den Ed. M. Heer Govert Cnoll, Commandeur en chef enz. September 1706.\nNotities verso: No. 15. Optogt van Sourabaja na Passarouan. / 116 [op klein rond etiketje] / 646 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1286",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "expeditie"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "104 x 74 cm",
+        "dcterms:date": "1706",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4053/kaart-van-cnoll-s-expeditie-van-surabaja-tot-passoeroean-in-1706"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ef/74/8b/d0/13/58/4e/ef/b4/c0/a3/88/ab/09/2d/22/6d2f106e-e988-4d79-afa0-ab6b287ce7e9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ef/74/8b/d0/13/58/4e/ef/b4/c0/a3/88/ab/09/2d/22/6d2f106e-e988-4d79-afa0-ab6b287ce7e9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1286.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Affbeelding ofte aanwysing der optoght en marsch, gedaan van Sourabaya naar Passourawang, onder 't hooger gezagh van den Ed. M. Heer Govert Cnoll, Commandeur en chef enz. September 1706."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

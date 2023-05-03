@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/133.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Pascaerte van de Custen van Loango, Angoy, alsmede een gedeelte van Angola van C. De Lopo Gon\u00e7alves tot aan R. de Zaire."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "133"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/31e3a709-ee64-4874-b5d5-c1728cf88d08\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/133.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/133.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6311,
+            "width": 7608,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/133.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/133.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/93/ea/d1/85/e1/e5/4a/50/a2/92/58/0c/31/1f/e0/18/6c2d98a3-326e-40a0-9573-0c832c19aa89.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6311,
+                                "width": 7608,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/93/ea/d1/85/e1/e5/4a/50/a2/92/58/0c/31/1f/e0/18/6c2d98a3-326e-40a0-9573-0c832c19aa89.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/133.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

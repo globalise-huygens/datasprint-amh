@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1145.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4ab9ff7c-2a34-4fc7-a066-74a4eae66c8b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1145.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Poeloe Chinco / Baros",
+        "dc:title": "Plattegronden van Poeloe Chinco en Baros",
+        "dc:description": "Titel catalogus Leupe (NA): Grondplan van Poeloe Chinco, en daarop staande gebouwen.\nVEL1145a: Aftekening van het nieuwe fortres Baros, met syn ommelanden en rivieren.\nRechts boven genummerd: 36.b.\nHet zijn twee losse bladen geweest die in het midden zijn vastgeplakt en op de middenvouw gerestaureerd zijn.\nNotities verso: 599 f / 68 [in potlood] / N 38 [in potlood, slecht leesbaar].\n20 [Rijnlandse] Roeden = 69 strepen; omgerekende schaal [1 : 1091",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1145",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos",
+            "gebouw",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5743/plattegronden-van-poeloe-chinco-en-baros"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e8/fb/97/78/db/cf/4a/38/80/60/09/69/02/19/80/b2/26f062fc-1ec2-4389-a0a3-721fdb97f66c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e8/fb/97/78/db/cf/4a/38/80/60/09/69/02/19/80/b2/26f062fc-1ec2-4389-a0a3-721fdb97f66c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1145.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Grondplan van Poeloe Chinco, en de daarop staande gebouwen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

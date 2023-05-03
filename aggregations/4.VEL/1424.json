@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1424.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a1d921f5-d324-4d64-b6cc-2a73bf3cc5c8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1424.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Saint Barthelemy",
+        "dc:description": "Titel Leupe: Charta ofver on St. Barthelemy.\nDit is een Zweedse kaart van nederzettingen op het eiland Saint Barthelemy. De kaart geeft een indruk van de plantages en een index linksonder toont bevolkinsaantallen in de verschillende gebieden van het eiland. Kerken en andere gebouwen zijn aangeduid.\nEen tweede exemplaar aanwezig in Nationaal Archief, 4.JBF inv.nr. 3.\nSchaal van 1000 Fr. Voeten = 15 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1424",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.51 - 0.71 El.",
+        "dcterms:date": "1801",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10369/kaart-van-saint-barthelemy"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/88/f5/e6/4f/3a/87/43/df/aa/75/0a/bd/36/39/0e/cd/bb88be1f-8eaa-4d76-b896-429be11692f3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/88/f5/e6/4f/3a/87/43/df/aa/75/0a/bd/36/39/0e/cd/bb88be1f-8eaa-4d76-b896-429be11692f3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1424.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Charta ofver on St. Barthelemy."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1601.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9f0abbf4-313e-4053-89c2-6273e6029689",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1601.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title): Caarte van twee nieuwe gronden beide genaamt Dankbarheid, gelegen in Rio de Berbice aan de Oost Wal in de Groote Inaripaam, Oover de Plantagies De Resolutie Middelburgs Welvaaren en Spaanders Woud den eenen groot 500 akkers den anderen groot 1000 akkers. Behoorende de H.H. Volkmaar tot Amsterdam, gemeete en getekent door J.H. Hagen. Gezw. Landm. Actum Rio de Berbice en 17ten October 1775.",
+        "dc:title": "Kaart van de plantage Dankbaarheyd",
+        "dc:description": "Titel Leupe: Kaarte van de Plantagie de Dankbaarheyd aan Rio de Berbice enz. Van twee nieuwe gronden.\nKaart van de nieuw ontgonnen plantage Dankbaarheyd in bezit van de heer H. Volkmaar te Amsterdam en gelegen ten westen van de Berbice rivier.\nAfgaande op de eerdere kaarten van dit gebied (VEL1599), lijkt het kompas op de kaart een verkeerde richting aan te geven.\nDeze kaart toont de omvang nadat nieuwe grond aan de plantage Dankbaarheyd plantage is toegevoegd.\nDit betreft een kopie van kaart VEL1600, met toevoeging van een overzichtkaartje waarop nabijgelegen plantages zijn afgebeeld.\nNabij de rivier liggen bossen met verschillende soorten hout.\nDe plantage blijkt 500 Surinaamse akkers te meten (oftewel 215 hectare) en het toegevoegde stuk grond blijkt 1000 Surinaamse akkers (oftwel 430 hectare) te meten.\nDe oorspronkelijke kaart is op 17 October 1775 ondertekend.\nSchaal van 150 Rijnlandse roeden = 120 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1601",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.62 - 0.99 El.",
+        "dcterms:date": "1773-1784",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10268/kaart-van-de-plantage-dankbaarheyd"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c3/8d/9f/8d/7e/ee/4e/1d/89/13/a5/d2/10/d5/f6/f4/0995cc9d-c272-4101-b529-9beb36169c32.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c3/8d/9f/8d/7e/ee/4e/1d/89/13/a5/d2/10/d5/f6/f4/0995cc9d-c272-4101-b529-9beb36169c32.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1601.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caarte van twee nieuwe gronden, genaamt De Dankbarheid, gelegen in Rio de Berbice aan de Oostzyde van de groote Maripaam enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

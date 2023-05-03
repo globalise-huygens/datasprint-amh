@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1169.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f1ddacfd-7722-46bb-ba43-1efa085f1ea1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1169.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De geheele caert van 's Generaal Duyvens Werk tot het raad Westpalms Werk [...]",
+        "dc:title": "Kaart van de weg tussen de mijnwerken van Tsie Candang en Passier Anging",
+        "dc:description": "Titel catalogus Leupe (NA): Caarte, aanwysende den wegh en distantie tusschen de Mynwercken van Tsie Candang en Passier Anging, geleegen in de Crawangse bovelanden aan en omtrent den Berg Parrang.\nNotities verso: Caarte, aanwijsende den Wegh en distantatie, tusschen de Mijnwercken van Tsie Candang en Passier Anging, geleegen Inde Crawangse bovelanden, aan en ontrent den berg Parrang / 1731 N.. [het getal achter N is onleesbaar] / 396 [folionummer in de band ?] / No. 6 [volgnummer van het stuk in de band ?] / 602 m.\nDe mijnwerken liggen in de omgeving van de tegenwoordige steden Purwakarta-Bandung.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1169",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "53,5 x 77 cm",
+        "dcterms:date": "16 augustus 1730",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4539/kaart-van-de-weg-tussen-de-mijnwerken-van-tsie-candang-en-passier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5a/48/4e/15/f6/87/48/46/81/fd/68/80/c8/5f/a3/16/f42f7a8f-d201-42bc-9116-3c2d5c626a66.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5a/48/4e/15/f6/87/48/46/81/fd/68/80/c8/5f/a3/16/f42f7a8f-d201-42bc-9116-3c2d5c626a66.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1169.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caarte, aanwysende den wegh en distantie tusschen de Mynwercken van Tsie Candang en Passier Anging, geleegen in de Crawangse bovenlanden, aan en omtrent den berg Parrang."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

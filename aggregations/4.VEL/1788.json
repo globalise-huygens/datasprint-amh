@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1788.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dcffdb20-42aa-471e-9106-d3c3afa258b9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1788.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Plantage Meersorg",
+        "dc:description": "Titel Leupe : Kaart van alle de landen behoorende aan de Plantagie Meersorg.\nDe kaart toont de exacte ligging van een plantages Meersorg.\nDe plantage is gelegen aan de rechteroever van de Suriname rivier (in 't afvaren).\nOorsprong: OBP Suriname 1736 fols.] 1327-1328\nSchaal van 100 Kettingen a\u0300 5 1/2 Rijnlandse roeden = 115 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1788",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.44 - 0.55 El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2087/kaart-van-de-plantage-meersorg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/52/35/fa/a0/97/22/4b/d0/89/bf/a6/65/06/bd/0c/87/36a2ee13-0a2f-4611-829b-db2317735d52.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/52/35/fa/a0/97/22/4b/d0/89/bf/a6/65/06/bd/0c/87/36a2ee13-0a2f-4611-829b-db2317735d52.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1788.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van alle de landen behoorende aan de Plantagie Meersorg."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

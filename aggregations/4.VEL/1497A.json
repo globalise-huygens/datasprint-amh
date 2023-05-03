@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1497A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7ccd66a8-98a2-4379-ad65-cf963372900a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1497a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan Topographique de la Colonie de Demerari dans la Guyanne Hollandoise Lev\u00e9 par le S. Pechon Ing. G\u00e9ographe des Colonies en 1783",
+        "dc:title": "Kaart van Nederlandse plantages langs de Demerara-rivier",
+        "dc:description": "Titel Leupe: Plan topographique de la Colonie de Demerari dans la Guyane Hollandaise etc.\nDe kaart toont de plantages langs de rivier de Demerara en vermeldt de eigenaren rond 1783. De kaart is van Franse makelij en werd gemaakt na de verovering van het gebied door de Fransen in 1782.\nLegenda:  Sucre. Caf\u00e9. Coton. A Batterie du jeune Dauphin ou il y a un Magasin \u00e0 Poudre, \u00e0 l\u2019\u00e9preuve de la Bombe, un Corps de Garde d\u2019 Officiers, et un hangard pour loger les troupes et les provisions, et une citerne. B Batterie de l\u2019avant-garde avec embrasures, pour 4 pi\u00e8ces de 4 en fonte. C Batterie de la Reine, \u00e0 la pointe Albinus, ou l\u2019on peur m\u00e8tre 6 pi\u00e8ces de 24 et 6 de douze.\nSchaalstok: 1600 Toises \u00e0 6, lignes pour 100 Toises (een \u2018Toise \u00e0 6\u2019 is ca 1,95 meter)\nHet tweede deel van deze kaart is VEL1497B",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1497A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "1783",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7793/kaart-van-nederlandse-plantages-langs-de-demerara-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c8/ec/4a/60/ef/47/4d/6c/91/a3/d0/bb/a6/16/a0/29/48d64aef-8228-4c33-acd7-e9233a7ea342.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c8/ec/4a/60/ef/47/4d/6c/91/a3/d0/bb/a6/16/a0/29/48d64aef-8228-4c33-acd7-e9233a7ea342.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

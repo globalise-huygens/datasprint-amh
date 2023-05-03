@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1530A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b0d00564-7159-45f0-b8b7-afcb5bbb4d89",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1530a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de monding van de rivier Essequibo met bestaande plantages en nog uit te geven gronden (Plan XIII)",
+        "dc:description": "Titel Leupe: Kaart van een gedeelte der Colonie Essequebo.\nDeze kaart is een kopie van het werk van Heneman uit 1774-5, zie VEL1529.\nTijdens zijn tweede verblijf in Suriname vanaf eind 1772 tot 1778 werd Johan Christoph Heneman in 1774 en 1775 gedurende bijna anderhalf jaar gedetacheerd in Demerara en Essequibo, waar hij in opdracht van de WIC de mogelijkheden voor een betere verdediging van deze koloni\u00ebn onderzocht en een projectplan opstelde voor een kanaalverbinding tussen beide rivieren.\nDe kaart geeft de locatie van de eilanden in de monding van de Essequibo weer. Op andere kaarten van Heneman uit deze tijd worden projectplannen voor deze eilanden getoond.\nEen nagenoeg identieke kopie van deze kaart, VEL1530B, is niet apart in deze database opgenomen.\nSchaal van 4000 Rijnlandse Roeden = 152 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1530A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.75 - 0.41 El.",
+        "dcterms:date": "1774-1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1873/kaart-van-de-monding-van-de-rivier-essequibo-met-bestaande-plantages"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b8/33/98/5f/ea/2d/4e/e3/89/4e/b4/10/a9/20/a6/b0/d47471d0-57fe-49fc-a762-07bd6e631693.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b8/33/98/5f/ea/2d/4e/e3/89/4e/b4/10/a9/20/a6/b0/d47471d0-57fe-49fc-a762-07bd6e631693.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1530A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

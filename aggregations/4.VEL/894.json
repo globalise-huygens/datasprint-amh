@@ -1,0 +1,57 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/894.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/219834a6-0192-46e7-80f5-6f0e421f78c9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0894.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Affbeelding van 't Belegeren en Veroveren der Stadt Couchyn. A\u00f8. 1663",
+        "dc:title": "Afbeelding van de belegering van Cochin in 1663",
+        "dc:description": "Titel catalogus Leupe (NA): Affbeelding van 't Belegeren en Veroveren der Stadt Couchyn. A\u00f8. 1663, onder het bevel van Ryckloff van Goens.\nLegenda: 1-36; A-S; A-U\nBelegering en verovering van Cochin 1663, onder het bevel van Ryckloff van Goens.\nTopografische namen vermeld op deze kaart: Orange, Beipyn, Papen Eijlant.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0894",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "veldslag / oorlog (strijd) / inname",
+            "pakhuis",
+            "scheeps- / timmerwerf",
+            "klooster / seminarie",
+            "kruithuis / kruitmolen",
+            "legenda",
+            "banderol / cartouche / versiering",
+            "tanck / waterplaats / put"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "71 x 149 cm",
+        "dcterms:date": "1663",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/947/afbeelding-van-de-belegering-van-cochin-in-1663"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d3/9d/38/67/eb/52/4e/4e/bb/2f/b7/46/1f/c2/87/0b/6ff0fff1-4525-4b96-9e0a-5d170ab32fa6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d3/9d/38/67/eb/52/4e/4e/bb/2f/b7/46/1f/c2/87/0b/6ff0fff1-4525-4b96-9e0a-5d170ab32fa6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/894.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Affbeelding van 't Belegeren en Veroveren der Stadt Couchyn. A:o 1663, onder het bevel van Ryckloff van Goens."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

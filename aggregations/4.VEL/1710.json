@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1710.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c0820c7b-6d15-4d1a-8e01-aad421646deb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1710.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Tout lui Faut",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie Tout lui Faut.\nDeze meting van de plantage Tout lui Faut aan de Surinamerivier is aangevraagd door de eigeneaar ervan, Francois des Loges. De omvang blijkt 2000 Surinaamse akkers, oftewel 860 hectare. Een kanaal is zichtbaar ten zuidoosten (links op de kaart) van het perceel, en vlak daarnaast zijn gebouwen en een woning zichtbaar. De kaart is ondertekend op 22 September 1710 en erkend op 20 Januari 1734 en 31 Januari 1736.\nHet noorden is rechtsonder.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 117 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1710",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.28 El.",
+        "dcterms:date": "1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9837/kaart-van-de-plantage-tout-lui-faut"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c7/37/ca/27/87/5a/4b/c0/aa/c7/28/00/8e/8d/93/1a/69a6226b-6863-4457-82e4-9c6e24212eba.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c7/37/ca/27/87/5a/4b/c0/aa/c7/28/00/8e/8d/93/1a/69a6226b-6863-4457-82e4-9c6e24212eba.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1710.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagie Tout lui Faut."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

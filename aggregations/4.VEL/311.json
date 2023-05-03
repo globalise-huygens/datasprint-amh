@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/311.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3c9ebec3-2d35-4373-ac22-f6f6e2ef4c87",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0311.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aan zijne Allerdoorlugtiste Hoogheid Den Heere Willem Karel Hendrik Friso, Prince van Oranje en Nassau, Erf-stadhouder, Capitein, en Admiraal Generaal der Unie, en Opperbewindhebber van de Oost en Westindische Compagnien enz. enz. enz. enz. enz. enz. werd deze Caart van D'Indische Zee van Cabo de Goede Hoop tot Canton eerbiedig opgedragen door zijne Allerdoorlugtigste Hoogheids onderdanige Dienaar Joannes van Keulen.",
+        "dc:title": "Kaart van Oost-Afrika en Azi\u00eb",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Indische Zee, van de Kaap de Goede Hoop tot Canton om de Noord, en het Land van de Eendragt om de Oost.\nBijzonderheden: de kaart is op blauw papier geplakt.\nNotities verso: XXVI..",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0311",
+        "dc:subject": [
+            "Persoon",
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "89 x 100 cm",
+        "dcterms:date": "1762-1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9178/kaart-van-oost-afrika-en-azi%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/37/d1/56/17/be/42/44/c3/95/55/57/1b/3b/7e/71/bc/6616c09d-78c2-4cd8-b8c0-18959cdb7979.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/37/d1/56/17/be/42/44/c3/95/55/57/1b/3b/7e/71/bc/6616c09d-78c2-4cd8-b8c0-18959cdb7979.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/311.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

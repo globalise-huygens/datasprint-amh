@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1989.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3f821b3d-f9e0-4d71-b6cd-8af4835a0a23",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1989.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de rivier Marowijne",
+        "dc:description": "Titel Leupe: Carte d' une partie du Maroni, nomm\u00e9 par les Hollandois de Surinam La Marweine etc.\nDeze Franse kaart toont de loop van de rivier Marowijne van de zee tot de kreek Araova, oftewel Lawa.\nDe Marowijne functioneert als grens tussen de Nederlandse en Franse kolonie en wordt daarom precies gemeten.\nDe kaart is met het kompas in de hand varend over de rivier getekend, indicaties van hoogte\nen breedtegraden zijn gegeven.\nRechte lijnen geven toegankelijke oevers aan; korte streepjes ontoegankelijke oevers.\nKruisen staan voor obstakels.\nKreken en dorpen zijn genoemd en verschillende bergruggen zijn  als meetpunt gebruikt.\nDe oorspronkelijke kaart is getekend en gemeten door Simon Mentelle in September 1777 in de naam van de Franse koning.\nDe Nederlandse landmeter Johan Christoph von Heneman heeft onderin de kaart aangegeven toestemming te hebben gekregen hem te kopi\u00ebren, zie VEL1990.\nSchaal van 8 Surin. M. = 190 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1989",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.46 - 0.57 El.",
+        "dcterms:date": "1751",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10189/kaart-van-de-rivier-marowijne"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/94/fc/56/1a/fe/26/43/31/b6/b9/2c/3e/a6/87/d6/d0/4eae00ae-7be8-4192-875c-e6e83d9de204.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/94/fc/56/1a/fe/26/43/31/b6/b9/2c/3e/a6/87/d6/d0/4eae00ae-7be8-4192-875c-e6e83d9de204.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1989.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte d' une partie du Maroni, nomm\u00e9 par les Hollandois de Surinam\n                              La Marweine etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

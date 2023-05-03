@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1799.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a86e1b1d-11d2-47d1-a182-04b69538f833",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1799.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plantages aan beide oevers van de rivier Commewijne",
+        "dc:description": "Titel Leupe : Kaart van eenige plantagien gelegen aan beide oevers van de rivier Commewyne.\nDeze kaart toont de erfenis van de overleden heer Willem Pedij de Oude; in sijn Edele leven raad in den Edele hove  van politie [en] crimineele justitie deser provintie.\nOp verzoek van zijn weduwe Catharina Marcus is zijn eigendom rondom de rivier Commewyne opnieuw gemeten.\nDe landmeter Jacob Hengevelt gebruikt kaarten van Cornelis Boogaert uit 11 Maart 1682, 28 April 1686 en 24 Augustus 1691 voor dit doeleinde.\nHij legt in woord uit hoe de eerdere transacties van Willem Pedij de Oude verlopen zijn.\nJacob Hengevelt heeft op 8 April 1722 al het nieuwe stuk grond uitgemeten dat Willem Pedij tien jaar eerder van Jacob Heerensen had ontvangen, wiens verdere landgrond ten oosten (linksboven op de kaart) van dat van Willem Pedij ligt.\nDit nieuwe stuk land (aangegeven in het gebied tussen de letters EFGHIKL), behoorde oorspronkelijk tot de plantage De Nieuwe Hoop leggende aan de noordzeijde van de rivier Commewyne aan de schijdlinie van de plantagie Siparipabo en De Nieuwe Hoop.\nTen oosten (linksboven op de kaart) heeft Willem Pedij op 14 februari 1698 een stuk land aangeschaft naast het Biribierie moeras en het stuk grond van Jeronimus Cliffoord.\nUiteindelijk is ten westen (rechtonder van de kaart) een gebied met de  letters CEFG aangeduid dat sinds 31 December 1715 aan de erfgenamen van Willem Pedij toevalt.\nGetekend 1 Mei 1726, erkend 17 Februari 1730.\nMet acte van meting en aantekeningen.\nSchaal van 150 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 88 strepen.\nHerkomst [OBP Suriname] 1730 [fols.] 47-48",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1799",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "kerk / pastorie"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "Groot 0.56 - 0.43 El.",
+        "dcterms:date": "1726",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9754/plantages-aan-beide-oevers-van-de-rivier-commewijne"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d6/51/9b/04/3b/f6/46/f0/a0/56/cb/80/69/29/52/49/8d8c0b0f-5e6e-4504-ad10-23a2135af6b2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d6/51/9b/04/3b/f6/46/f0/a0/56/cb/80/69/29/52/49/8d8c0b0f-5e6e-4504-ad10-23a2135af6b2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1799.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige plantagien gelegen aan beide oevers van de rivier Commewyne."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1746.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b042718d-2f23-4819-8b86-0153f3f7f837",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1746.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van percelen aan de Para-kreek",
+        "dc:description": "Titel Leupe: Kaart van de Plantagen gelegen in Para Creeq tot aan het Oranje pad.\nDeze kaart toont verschillende percelen aan de Para-kreek, strekkend tot het Oranjepad. De namen van de eigenaren zijn genoemd alsmede de de oppervlakte in Surinaamse akkers (1 akker = 0,43 hectare). Ook is een voetpad met wat huisjes getekend.\nHet noorden is onder.\nSchaal van 300 Kettingen = 161 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1746",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.365 - 0.32 El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10427/kaart-van-percelen-aan-de-para-kreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/85/3c/e0/33/c3/27/49/bf/b5/36/61/b1/5c/b2/61/b7/6b92bbb9-8feb-4ff0-a186-1a1c0f8f942f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/85/3c/e0/33/c3/27/49/bf/b5/36/61/b1/5c/b2/61/b7/6b92bbb9-8feb-4ff0-a186-1a1c0f8f942f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1746.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagen gelegen in Para Creeq tot aan het Oranje pad."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

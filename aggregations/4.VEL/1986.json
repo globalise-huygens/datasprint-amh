@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1986.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0a1cb222-af91-4165-a09b-d5f814d7f4e1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1986.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de kavels nabij het Fort Sommelsdijk",
+        "dc:description": "Titel Leupe: Kaart van eenige Plantagien, gelegen tusschen Cottica en Commewyne, van een stuk land tegen over Vossenburg in Commewyne.\nDeze kaart toont de gronden van de heer de Cheusses (rood gekleurd) en Pater (beige gekleurd) alsook het gebied rond het fort Sommelsdijk (geel gekleurd).\nDe kavels worden gemeten in Surinaamse akkers (1 akker = 0.43 hectare).\nTen oosten van dit gebied zien we de de kreek Cras Kreek, ten westen het kanaal tussen de rivieren Commewijne en Cottica.\nZie ook VEL1985.\nSchaal van 200 Kettingen \u00e0 66 Rijnlandse voeten = 213 strepen.\nOorsprong: [OBP Suriname] 1731, [fol.] 236.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1986",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.37 - 0.47 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2136/kaart-van-de-kavels-nabij-het-fort-sommelsdijk"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/38/13/e2/78/0e/13/41/c4/a1/70/2f/d0/af/7a/65/49/78881f16-2b91-487a-93ad-9493a2c63e9a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/38/13/e2/78/0e/13/41/c4/a1/70/2f/d0/af/7a/65/49/78881f16-2b91-487a-93ad-9493a2c63e9a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1986.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige Plantagien, gelegen tusschen Cottica en Commewyne, van een stuk land tegen over Vossenburg in Commewyne."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1392.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5556e385-777d-4a78-abd7-58c2537b19d2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1392.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "The Provinces of New York, New Jersey; with part of Pennsilvania and the Province of Quebec",
+        "dc:title": "Kaart van New York en omgeving",
+        "dc:description": "Kaart van New York en omgeving.\nTitel Catalogus Leupe (NA): The Provinces of New-York and New-Yersey, with part of Pensilvania and the province of Quebec etc..\nThe Provinces of New York, New Jersey; with part of Pennsilvania and the Province of Quebec.\nOp de kaart drie inzetten.\nLinksonder een gezicht op een anonieme baai.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1392",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "flora",
+            "schip / vaartuig",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "68 x 52 cm",
+        "dcterms:date": "1776",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7194/kaart-van-new-york-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/27/34/e7/e3/f7/47/43/7c/8e/17/b0/7b/a6/78/a2/c5/0ad3a88a-ed6b-485d-a2ec-6a8d95eba995.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/27/34/e7/e3/f7/47/43/7c/8e/17/b0/7b/a6/78/a2/c5/0ad3a88a-ed6b-485d-a2ec-6a8d95eba995.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1392.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "The Provinces of New-York and New-Yersey, with part of Pensilvania and the province of Quebec etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/695.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "\n                              Brasiliae, Geographoca et Hydrographoca, Tabula Nova, continens Praefecturas de cirisi cum Itapuma, de Paranambuca, Itamaraca, Paraiba et Potisi vel Rio Grande etc."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "695"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1643"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f19196e0-58e1-4e33-b720-eaea4a71f647\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/695.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/695.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5755,
+            "width": 8299,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/695.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/695.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/1e/68/91/24/87/5f/46/9f/94/a4/c1/13/4a/26/69/f6/a238a590-6c48-4632-b0fe-9610cfd429d9.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5755,
+                                "width": 8299,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/1e/68/91/24/87/5f/46/9f/94/a4/c1/13/4a/26/69/f6/a238a590-6c48-4632-b0fe-9610cfd429d9.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/695.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

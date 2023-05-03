@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1482.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a08277c5-b74a-4e50-ae4a-3daa7a8f9b66",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1482.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Profielen voor de uitbreiding van Willemstad",
+        "dc:description": "Titel Leupe: Profilen behoorende tot stadspoort.\nDeze profielen maken onderdeel uit van een plan tot uitbreiding van Willemstad. De nadruk ligt op de afstand tussen de fortificaties en de ligging ten opzichte van de kust. Het profiel linksboven toont de uitbreiding van het bastion Bloedfort, rechts daarvan is een deel van een nieuwe vleugel ten noorden van de stad te zien, en weer daarnaast is een meting van de nieuwe stadspoort getekend. Daaronder zijn indrukken gegeven van de nieuwe bastions, courtines en batterijen. Deze ontwerpen kronen de eerdere plannen uit 1746 van Willem Meijer om de vestingwal van de stad veel verder ten oosten van fort Amsterdam te bouwen dan oospronkelijk het idee was. De afstand van het fort maakte het noodzakelijk de stad goed verdedigbaar te maken.\nSchaalstok van 50 voeten Rijnlandsch = 150 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1482",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1754",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7252/profielen-voor-de-uitbreiding-van-willemstad"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8a/48/37/6c/8c/48/46/c1/ba/db/85/06/39/b3/2e/a4/f4a3dd02-b0d9-4e2a-afac-4540830ad98d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8a/48/37/6c/8c/48/46/c1/ba/db/85/06/39/b3/2e/a4/f4a3dd02-b0d9-4e2a-afac-4540830ad98d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1482.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Profilen behoorende tot stadspoort."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

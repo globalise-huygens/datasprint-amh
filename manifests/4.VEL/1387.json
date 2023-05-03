@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1387.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "A Map of the inhabited part of Canada from the French surveys, with the frontiers of New York and New England, from the large survey by Claude Joseph Sauthier."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1387"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1777"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/64efff90-35b0-4a7b-b885-0f03ba1030a4\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1387.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1387.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7642,
+            "width": 11663,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1387.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1387.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/36/44/e7/cd/64/83/45/ea/b8/d4/95/51/96/5f/7e/6d/b14784be-0a4e-48c4-a64c-31cbe4dd9fab.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7642,
+                                "width": 11663,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/36/44/e7/cd/64/83/45/ea/b8/d4/95/51/96/5f/7e/6d/b14784be-0a4e-48c4-a64c-31cbe4dd9fab.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1387.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

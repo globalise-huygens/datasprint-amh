@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1294.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f5594dad-aa99-4eb7-940b-6dcbcda9ab86",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1294.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de zuidwest punt van Celebes",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, zonder de afbeelding van het fort Rotterdam, met 'kaart als voren' wordt bedoeld de titel van VEL1293: Caarte ende teykeninge van Macassar, in den jare 1693 door my ondergesz. bereyst, opgesteld ende verdeeld enz., nemende haar begin van de hoek van Tanakeke ofte Ponagoe genaemt, ende koers nemende tot Padangkeke, insgelyks aan de Oostsyde van de hoek van Lassoy ofte Tengielles tot de Groote rivier van Tsindrana Bone strekkende enz..\nRechtsonder genummerd: 11.a.\nAtlas Amsterdam.\nNotities verso: 652 b / N2:18 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1294",
+        "dc:subject": [
+            "vesting",
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "73,5 x 51,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3811/kaart-van-de-zuidwest-punt-van-celebes"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3d/9b/9c/2b/d9/7b/4d/6e/ae/08/a3/8b/be/72/86/d4/8da9c1f1-80fc-457d-9ff6-d4a741e35ba6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3d/9b/9c/2b/d9/7b/4d/6e/ae/08/a3/8b/be/72/86/d4/8da9c1f1-80fc-457d-9ff6-d4a741e35ba6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1294.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caarte ende teykeninge van Macassar, in den jare 1693 door my ondergesz. bereyst, opgesteld ende verdeeld enz., nemende haar begin van de hoek van Tanakeke ofte Ponagoe genaemt, ende koers nemende tot Padangkeke, insgelyks aan de Oostsyde van de hoek van Lassoy ofte Tengielles tot de Groote rivier van Tsindrana Bone strekkende enz, zonder de afbeelding van het fort Rotterdam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

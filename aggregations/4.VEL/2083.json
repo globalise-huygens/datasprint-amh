@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2083.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a4101289-4e1d-42ac-912c-35eb2b51832d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2083.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsboven] vervolg van de titel : \nExplanations: [upper right] continuation of the title : \nOp order van zyne Hog Eedelen Gestrengen den Heere Gouverneur Generaal J.F. Friderici ontworpen en afgestooken door den ondergeteekenden Major der Artillerie.",
+        "dc:title": "Verdedigingsplan voor de Motkreek",
+        "dc:description": "Titel Leupe: Plaan van defensie voor de Mottkreek.\nDeze kaart toont de zogenoemde Brandwacht aan de Motkreek, die in 1685 ingericht als uitkijkpost op de zeeroute langs de oostkust naar de monding van de Surinamerivier. In de latere achttiende eeuw bestond de Brandwacht uit een redoute aan de oostoever van de kreek op zo\u2019n driekwart kilometer van de monding, met een aparte piketpost aan het zeestrand. Deze projectkaart bestrijkt alleen het meest noordelijke deel van de kreek boven de nieuwe plantages en toont het ontwerp voor een nieuwe piketpost met defensielinie bij de monding. Het is niet bekend of het plan ook in deze vorm is uitgevoerd.\nHet noorden is rechtsonder.\nSchaalstok van 15 Kettingen a 66 Voeten Rhijnlands = [ca. 1 : 1.600].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2083",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "67,5 x 103 cm.",
+        "dcterms:date": "1793",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7767/verdedigingsplan-voor-de-motkreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d5/9b/54/b0/e4/4a/43/18/9e/86/64/82/9c/d2/df/35/59b51f9c-6363-4e94-9cb6-0bb9ed5a49a9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d5/9b/54/b0/e4/4a/43/18/9e/86/64/82/9c/d2/df/35/59b51f9c-6363-4e94-9cb6-0bb9ed5a49a9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2083.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van defensie voor de Mottkreek."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

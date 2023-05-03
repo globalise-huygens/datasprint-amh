@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1842.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8960a3e4-833d-4c99-9533-8fc2f54c35af",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1842.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Goudmyn plantage",
+        "dc:description": "Titel Leupe: Kaart van de scheidlinien van de Plantagie de Goudmyn.\nDeze kaart toont de omvang van de Goudmyn plantage gelegen tussen de Commewijne (te zuiden, onder in de kaart) en Cossica rivier (ten noorden, boven in de kaart) alsook de Cras Kreek (ten westen, links op de kaart).\nDe Gouverneur-Generaal Carel Emilius Henry de Cheusses heeft de landmeter J. Reynet aangesteld voor de meting op verzoek van de heer Frans Schas, de eigenaar van de plantage.\nFrans Schas verzoekt de meting wegens een recent voltooide landoverdracht.\nDe grenzen van de plantage zijn allen gemeten en met letters (NABCDELMN) aangegeven, de omvang blijkt 1540 Surinaamse akkers (662.2 hectare).\nDaarnaast is ook een recent gekocht stuk grond gemeten aan de zuiderzijde van de Commewijne rivier aangrenzend aan de Ostage plantage.\nVerder aangrenzende plantages zijn: Nieuw Clarenbeeck, de Handage Sardam en de Roosenburg.\nDe meting is officieel erkend op 22 April 1733.\nOorsprong: [OBP Suriname] 1736 [fols.] 1196-1197.\nSchaal van 110 Kettingen \u00e0 66 Rijnlandse voeten = 95 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1842",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.315 - 0.215 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9917/kaart-van-de-goudmyn-plantage"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/24/39/ef/1a/d9/85/47/8b/be/da/d1/cc/4c/05/22/64/ded3ce20-4cc9-447d-940a-413429c44f53.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/24/39/ef/1a/d9/85/47/8b/be/da/d1/cc/4c/05/22/64/ded3ce20-4cc9-447d-940a-413429c44f53.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1842.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de scheidlinien van de Plantagie de Goudmyn."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

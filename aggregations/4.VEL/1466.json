@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1466.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/09455e4a-544a-4811-85fd-d4f464add8eb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1466.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een bastion aan de Bullenbaai",
+        "dc:description": "Titel Leupe: Project om de Piscadersbay te versterken, voor de Bullebay.\nDeze schets is onderdeel van een serie plannen (VEL1462-VEL1472) tot versterking van de baaien Piscaderis, Sint Michiel, Porto Marie, Bullen en Sint Kruis met een lage batterij en een fort. Het hier afgebeelde ontwerp voor een bastion is op een aantal vlakken aangepast aan het landschap van de Bullenbaai. Zo zijn alleen aan de landzijde bastions getekend en is een lange muur ontworpen voor de afweer op de hoek van de kust. Naast de plattegrond, geeft een profiel aan hoe dik de muren gebouwd horen te worden. Het fort is inderdaad gebouwd in de daaropvolgende jaren.\nSchaal van 40 Rijnlandse Roeden = 155 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1466",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.23 - 0.17 El.",
+        "dcterms:date": "1742-1744",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1705/ontwerp-voor-een-bastion-aan-de-bullenbaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/49/6c/40/56/cc/41/49/c6/bc/d7/cd/51/91/87/9e/22/24364f67-998d-433a-9ef9-204e77639137.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/49/6c/40/56/cc/41/49/c6/bc/d7/cd/51/91/87/9e/22/24364f67-998d-433a-9ef9-204e77639137.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1466.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

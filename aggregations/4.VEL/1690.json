@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1690.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/008f81b2-1ca3-432e-8314-794289f9102a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1690.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van percelen aan de Saramaccarivier",
+        "dc:description": "Titel Leupe: Kaart van twee stukken land, geleegen aan de rivier Saramacca aan de Linker hand in het opvaren. No. 224 en 226.\nDeze kaart toon de percelen van J.D. Groen aan de Saramaccarivier. Zoals uit de aantekeningen blijkt, heeft J. A. van Lobreekt de meting aangevraagd. De omvang van deze percelen is in Surinaamse akkers gegeven (1 akker = 0,43 hectare).  De kaart is ondertekend op 31 October 1799 en erkend op 15 April 1800.\nDe aanleg van plantages aan de Saramacca begon al in 1790, op initiatief van de pas aangetreden gouverneur Juriaan Fran\u00e7ois de Friderici, en had binnen tien jaar al grote vormen aangenomen.\nSchaal van 200 Kettingen \u00e0 66 Rijnlandse voeten = 245 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1690",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.38 - 0.31 El.",
+        "dcterms:date": "1799",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10137/kaart-van-percelen-aan-de-saramaccarivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d5/c8/9b/5a/19/e4/46/d0/84/98/22/cb/fb/e9/70/e5/bc17ba4e-4738-49f5-9ef1-5812348e71c9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d5/c8/9b/5a/19/e4/46/d0/84/98/22/cb/fb/e9/70/e5/bc17ba4e-4738-49f5-9ef1-5812348e71c9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1690.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van twee stukken land, geleegen aan de rivier Saramacca aan de Linker hand in het opvaren. No. 224 en 226."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

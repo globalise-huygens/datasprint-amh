@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/929.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/468bab0f-264d-4e10-879a-037219b18d29",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0929.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Beer van de Westsijde / Profielen van de breete en diepte der negonne deurgravingh uijtloosende spruijten katoekarreesen dijk zijnde de roodgehaalde streep Linea horizontalis",
+        "dc:title": "Kaart van Cattoecare of 'de Reuzentank' bij Manaar",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van Cattoecare of de Reuzentank en omleggende landen, profil enz..\n40 Rijnlandse roeden = 335 strepen; omgerekende schaal [1 : 449",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0929",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "tanck / waterplaats / put",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "155 x 146 cm",
+        "dcterms:date": "ca. 1742",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4970/kaart-van-cattoecare-of-de-reuzentank-bij-manaar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/48/be/66/bc/3c/42/40/53/81/bd/21/c3/0a/4f/98/fa/9fbc3683-7a0d-4acc-a578-67587fcb4c30.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/48/be/66/bc/3c/42/40/53/81/bd/21/c3/0a/4f/98/fa/9fbc3683-7a0d-4acc-a578-67587fcb4c30.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/929.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

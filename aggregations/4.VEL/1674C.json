@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1674C.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0e85aab8-af74-474b-90e8-2cf567165d6d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1674c.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de kolonie Suriname, blad 3",
+        "dc:description": "Titel Leupe: Kaart van de Colonie van Suriname, leggende in de Landschap Cajana op de vaste kust van Suyd Amerika; strekkende van de rivier Sinamary tot aan de rivier Canje, zynde deese twee rivieren de regtmatige Limiten tusschen de Besitting der Franschen en de Neerlandsche Colonie van Berbice enz. Verschillende mijlschalen.\nHeneman kwam begin 1770 in de rang van vaandrig in dienst van de Soci\u00ebteit van Suriname en arriveerde in november in Paramaribo, waar hij met gebruikmaking van bestaand materiaal en aanvullende nieuwe gegevens van onder anderen militairen en Hernhutters binnen ruim een jaar een voorlopige algemene kaart van Suriname in vier bladen tekende, waarvan hier het tweede blad van links wordt getoond. De kaart toont de kolonie nog zonder veel detaillering; zo zijn bijvoorbeeld niet de afzonderlijke plantages weergegeven, maar wel de omtrekken van de plantagegebieden als geheel. Zijn aantekening over de onrechtmatigheid van de Franse militaire post op de oostoever van de Marowijne verwijst naar de annexatie tijdens de Zevenjarige Oorlog (1756-1763) van het gebied tussen deze rivier en de Sinnamary, die voordien als oostgrens van Suriname gold en hier door Heneman ook als zodanig is aangegeven. De nieuwe situatie werd door de Republiek stilzwijgend geaccepteerd en is naderhand geformaliseerd.\nIn maart 1772 zond gouverneur Jan Nepveu (1768-1779) Heneman naar de Republiek om de ontwerpkaart ter goedkeuring voor te leggen aan de directeuren. Tevreden met het resultaat, gaven deze hem vervolgens de opdracht het getoonde materiaal zo snel mogelijk verder uit te werken tot een volledige en gedetailleerde overzichtskaart van Suriname. Aldus keerde hij, intussen bevorderd tot kapitein-luitenant, later in 1772 terug naar de kolonie, waar hij in de zes volgende jaren de noodzakelijke opnemingen verrichtte en uitwerkte. Het resultaat hiervan was de grote en invloedrijke overzichtskaart die in 1784 in druk verscheen bij Gerard Hulst van Keulen.\nHet noorden is onder.\nSchaalstokken van 3 Duitsche Mijlen 15 in een Graad / 3 Duytsche Mylen of 6 Uuren / 5 Hollandse Mijlen van 20 in een Graad = [ca. 1 : 155.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1674C",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "121 x 102 cm.",
+        "dcterms:date": "1771",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9930/kaart-van-de-kolonie-suriname-blad-3"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/55/82/0c/ec/d6/99/42/a4/ac/71/5e/c2/08/e0/94/4d/a7c95692-4586-4600-9951-6692ae189660.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/55/82/0c/ec/d6/99/42/a4/ac/71/5e/c2/08/e0/94/4d/a7c95692-4586-4600-9951-6692ae189660.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1674C.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

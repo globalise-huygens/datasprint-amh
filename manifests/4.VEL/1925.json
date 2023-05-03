@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1925.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de rivier Cottica, van de Koopmans Kreek tot La Paix Kreek, met opgave van het terrein tusschen Post Vredenburg en la Paix."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1925"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/de8dbf61-e990-4e1d-91e6-33ca8ed23288\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1925.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1925.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5160,
+            "width": 6609,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1925.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1925.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f6/bc/19/4f/f1/22/4d/a8/a3/80/9e/95/b8/27/e9/df/2160bf2d-6e32-4c8b-8e75-c96b8574631c.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5160,
+                                "width": 6609,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f6/bc/19/4f/f1/22/4d/a8/a3/80/9e/95/b8/27/e9/df/2160bf2d-6e32-4c8b-8e75-c96b8574631c.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1925.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

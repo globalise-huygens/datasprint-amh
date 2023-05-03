@@ -1,0 +1,55 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/915.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/21f2897e-7ec5-4d3a-86c7-6a244b531392",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0915.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Pagger op Padricotta Parri",
+        "dc:title": "Plattegrond van de pagger van Padricotta Parri",
+        "dc:description": "Titel catalogus Leupe (NA]: Plan van de Pagger op Padricotta Parri.\nRechts boven: 235\nBijschrift Catalogus Leupe: Overgekomen van Malabar, 1718. Behoorende bij het rapport van de expeditie van den sergeant-Majoor Hans Frederik Bergman.\nNotities verso: Behoort bij de brieven en papieren overgekomen van Bengalen van Malabar 1718, nr. 1 Nr. 499 x; nr. 70 gerenvoyeerd; nr. 8.\nLegenda: A-B\nPlattegrond van de omtrek van de pagger met aangegeven waar zich de schietgaten bevinden.\nLinks onder het woord: attacq.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0915",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "veldslag / oorlog (strijd) / inname",
+            "landerij / plantage",
+            "expeditie",
+            "tanck / waterplaats / put",
+            "poort",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "35 x 52 cm",
+        "dcterms:date": "ca. 1718",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6289/plattegrond-van-de-pagger-van-padricotta-parri"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/73/b4/b7/52/ab/84/44/d5/a9/50/97/f9/1b/8b/1b/3d/e684f456-8ba3-430f-af7d-c7713c6175f2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/73/b4/b7/52/ab/84/44/d5/a9/50/97/f9/1b/8b/1b/3d/e684f456-8ba3-430f-af7d-c7713c6175f2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/915.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Pagger op Padricotta Parri."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

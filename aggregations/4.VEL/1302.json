@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1302.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/302432b6-06a2-4074-bdc9-54b7026c843b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1302.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caarte van 't Landschap Bonthyn beginnende van d'rivier Tino oostwaarts tot aen d'rivier Callamssan en vervolgens landwaars tot op den top van de groote bergh Bawocrain, anders bergh van Bonthyn genaamt.",
+        "dc:title": "Kaart van het zuidelijk deel van Celebes",
+        "dc:description": "Titel catalogus Leupe (NA): Caarte van 't Landschap Bonthyn beginnende van d'rivier Teno oostwaarts tot aen d'rivier Callamssan en vervolgens landwaars tot op den top van de groote bergh Bawocrain, anders berg van Bonthyn genaamt..\nNotities verso: Caarte van het Landschap Bonthain onder het Gouvernement van Macassar / ontfangen tot Batavia den 16 november anno 1715 / Behoort by de overgekomen Brieven en papieren van Batavia 1717 derde deel / 1059 [folionummer in de band ?] / No. 33 [volgnummer van het stuk in de band ?] / 652 d / \u00b11715 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1302",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 101,5 cm",
+        "dcterms:date": "ca. 1715",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5643/kaart-van-het-zuidelijk-deel-van-celebes"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/95/9c/fd/bf/20/dc/49/b8/8c/c1/08/10/22/1a/60/20/9370265b-0a1b-4a56-9fa2-a9b77bf3b1f0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/95/9c/fd/bf/20/dc/49/b8/8c/c1/08/10/22/1a/60/20/9370265b-0a1b-4a56-9fa2-a9b77bf3b1f0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1302.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caarte van het Landschap Bonthyn, beginnende van de Rivier Teno Oostwaarts tot aen de rivier Callamssan, en vervolgens landwaarts tot op den top van den grooten bergh Bawocrain, anders berg van Bonthyn genaamt."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

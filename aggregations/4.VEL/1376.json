@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1376.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e2037aec-90bb-4e54-a049-c6aaeddb3660",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1376.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Recenti\u00dfima Novi Orbis Sive Americae Septentrionalis et Meridionalis Tabula",
+        "dc:title": "Kaart van Noord en Zuid Amerika",
+        "dc:description": "Kaart van Noord en Zuid Amerika.\nTitel Catalogus Leupe (NA): Recentissima Novi Orbis Sive Americae Septentrionalis et Meridionalis etc.\nRecenti\u00dfima Novi Orbis Sive Americae Septentrionalis et Meridionalis Tabula.\nCf. Koninklijke Bibliotheek, Den Haag, inv. nr. 1049B13_072 , Idem, inv. nr. 185 B 14 deel I, voor p. 1 en Rijksmuseum, Amsterdam, inv. nr. NG-501-89.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1376",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "Persoon",
+            "kompas / windroos",
+            "Noord- en Zuid-Amerikanen",
+            "fauna",
+            "Europeanen"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "gravure",
+        "dcterms:extent": "66,3 x 55,9 cm",
+        "dcterms:date": "1680",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6779/kaart-van-noord-en-zuid-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/aa/b9/c6/bf/72/af/43/47/83/35/6c/41/e2/c1/29/e7/c84136b0-e58f-4ec5-8014-7ba727ad1113.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/aa/b9/c6/bf/72/af/43/47/83/35/6c/41/e2/c1/29/e7/c84136b0-e58f-4ec5-8014-7ba727ad1113.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1376.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Recentissima Novi Orbis Sive Americae Septentrionalis et Meridionalis etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

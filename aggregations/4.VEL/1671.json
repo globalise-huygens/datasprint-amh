@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1671.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/62546139-a499-44db-8b2a-e779369935fe",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1671.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [upper left] continuation of the title and a description : \nGeprojecteerd hoe men bestvoegelijkst deese Oonbegeeven Landen kon begeeven, en ter Cultuure, approprieeren; met een bijgevoegd Berigt &:a. Verders is aengetoond in hoever het getrocken Cordon van Defensie deese nog onbegeeven Landen dekkende - en de begeeven Landen soo in t generaal, als ook besonders daer de Lijn van\u2019t Cordon door soodaenige loopt, sneijdende is, &:a. alles ten dien eijnde exact opgenoomen door Last der Hoogen Proprietaires der Voorz:r Colonie &:a. &:a. &:a. \n[centre right] a note : \nNota: alle het groen gekleurde in ommestaende kaart is onbegeeven Land van de Directie, en sta\u00ebnde hooge bosch. \n[centre right, lower right, lower left, above centre] : various descriptions of lands and areas, not transcribed.",
+        "dc:title": "Kaart van het gebied ten oosten van de Surinamerivier",
+        "dc:description": "Titel Leupe: Generaal Plan der begeven en gecultiveerden landen aan de Oostkant der Colonie van Surinaame enz., alsmede der nog onbegeeven landen tussen de Surinaeme, Comowyne, Pirica, Cottica enz. Verschillende mijlschalen.\nWollants weergave van Suriname toont bijna het gehele in 1781 bekende deel van Suriname ten oosten van de Surinamerivier. De kaart toont reeds alle kenmerken van de professionele militair-topografische kaarten zoals die elders veelal pas halverwege de negentiende eeuw in gebruik kwamen, onder meer in de aanduiding van het reli\u00ebf, de natuurlijke begroeiing en de overige gesteldheid van het terrein, het grondgebruik en de waterhuishouding. Aangegeven is ook het volledige trac\u00e9 van het Cordon van Defensie tussen de post Gelderland aan de Surinamerivier en de Uitkijk aan de oostkust, in de aanleg waarvan Wollant een belangrijk aandeel had.\nHet noorden is onder.\nSchaalstokken van 800 Kettingen \u00e0 66 V.t Rhijnl. / 5 Hollandse Mijlen a 20 in een graad / 4 Uuren ga\u00ebns = [ca. 1 : 90.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1671",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "151.5 x 99 cm.",
+        "dcterms:date": "1782-1784",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9784/kaart-van-het-gebied-ten-oosten-van-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/26/ad/c3/a9/8e/f8/45/d4/81/af/85/5c/b2/d8/60/32/bf600902-e33e-4cc6-98ad-d5b6f6377d79.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/26/ad/c3/a9/8e/f8/45/d4/81/af/85/5c/b2/d8/60/32/bf600902-e33e-4cc6-98ad-d5b6f6377d79.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1671.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Generaal Plan der begeven en gecultiveerden landen aan de Oostkant der Colonie van Surinaame enz., alsmede der nog onbegeeven landen tussen de Surinaeme, Comowyne, Pirica, Cottica enz. Verschillende mijlschalen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

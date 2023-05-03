@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/902.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Gedeelte van den uytersten hoek van Baypin enz, dezelfde gelegenheid van tuynen, wildernis of ledig land en 't Zeestrand, gewyzigd 2 april 1767."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "902"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1767"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/7eae3daa-347d-4f29-acd7-566a979c6727\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/902.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/902.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7149,
+            "width": 11620,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/902.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/902.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/54/de/b6/95/75/7d/49/19/84/da/43/fc/79/08/d9/53/7cb87017-11eb-437d-87a6-1b3287f274f1.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7149,
+                                "width": 11620,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/54/de/b6/95/75/7d/49/19/84/da/43/fc/79/08/d9/53/7cb87017-11eb-437d-87a6-1b3287f274f1.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/902.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

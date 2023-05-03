@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1672.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e7046852-a849-4cb9-bb86-e63b98bf5e69",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1672.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantages aan de Commewijnerivier en Cotticakreek",
+        "dc:description": "Titel Leupe: \u201cKaart van het Oostelyk gedeelte van Suriname, tusschen Commewyne en Marawyne.\u201d\nDeze kaart toont de ongeveer honderd plantages aan de Commewijnerivier en de Cotticakreek. De kavels bevatten eigennamen, referentienummers en cijfers maar de index daarvan ontbreekt. Dit betreft waarschijnlijk een kopie van de kaarten onder nummer VEL1670. Gelet op de plantages rond de bron van de Commewijnerivier, is de kaart waarschijnlijk na 1730 getekend. Rond die tijd werden deze stukken land grotendeels ontgonnen.\nHet noorden is onder.",
+        "dc:type": "drukwerk",
+        "dc:identifier": "VEL1672",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.49 - 0.54 El.",
+        "dcterms:date": "1730-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9929/kaart-van-de-plantages-aan-de-commewijnerivier-en-cotticakreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d0/c0/20/58/72/4c/4b/d8/9f/d7/1c/58/8d/67/49/95/bc741451-13b8-49b0-aec7-2bbd6dc24068.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d0/c0/20/58/72/4c/4b/d8/9f/d7/1c/58/8d/67/49/95/bc741451-13b8-49b0-aec7-2bbd6dc24068.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1672.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Oostelyk gedeelte van Suriname, tusschen Commewyne en Marawyne."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

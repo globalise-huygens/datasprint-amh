@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2112.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Generaal Kaarte der strekking van de Linie van defensie in de colonie Suriname. Met de gedetacheerde posten, zo als dezelve op den tegenwoordigen voet zijn bezet."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2112"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1788"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/9a4ee0ff-d65a-4af9-950c-4804dd7f3a52\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2112.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2112.json#canvas/p1",
+            "type": "Canvas",
+            "height": 15874,
+            "width": 14824,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2112.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2112.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/87/3a/a6/82/f0/8a/4e/cf/b7/d6/e2/3a/3e/02/92/d5/8843fbaa-0396-4fbc-a310-a20b8bb9958f.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 15874,
+                                "width": 14824,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/87/3a/a6/82/f0/8a/4e/cf/b7/d6/e2/3a/3e/02/92/d5/8843fbaa-0396-4fbc-a310-a20b8bb9958f.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2112.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

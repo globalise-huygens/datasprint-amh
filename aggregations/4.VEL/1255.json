@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1255.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e79e6565-bb0a-4c4a-8fce-c08f272c616f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1255.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Vesting Missier en desselfs Buyten-wercken, by den Ed. Comp. verovert onder het beleyd van den Comm:o Couper, op 16 december 1681",
+        "dc:title": "Plattegrond in vogelvlucht van de vesting Missier",
+        "dc:description": "Titel catalogus Leupe (NA): De Vesting Missier en desselfs Buyten-wercken, by den Ed. Comp. verovert onder het beleyd van den Comm:o Couper, op 16 december 1681.\nRechts boven genummerd: 5.d.\nNotities verso: N 4 : 12 [in potlood] / 626 a.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1255",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "legenda",
+            "veldslag / oorlog (strijd) / inname"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6319/plattegrond-in-vogelvlucht-van-de-vesting-missier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/09/dc/12/d9/e5/a7/4f/61/b8/c2/74/75/7c/d7/d7/35/f4d8b8b8-460a-405a-92c9-9c5348d4827d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/09/dc/12/d9/e5/a7/4f/61/b8/c2/74/75/7c/d7/d7/35/f4d8b8b8-460a-405a-92c9-9c5348d4827d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1255.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Die Vesting Missier en desselfs Buyten-Wercken, by die Ed. Comp. verovert onder het beleyd van den Comm.r Couper, op 16 December 1681."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2056.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/56332ee6-1251-4e81-9539-91880e52c586",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2056.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechts] een uitvoerige technische beschrijving, niet getranscribeerd. \nExplanations: [right] an extensive technical description, not transcribed.",
+        "dc:title": "Plattegrond en profielen van de redoute Leiden",
+        "dc:description": "Titel Leupe: Project ter verbetering van de Post Leyden met platte grond van de redout of Hoofdwal enz.\nNet als bij de redoute Purmerend werd al snel duidelijk dat de redoute Leiden veel te zwak was om serieuze tegenstand te kunnen bieden bij een aanval via de monding van de Surinamerivier. Een noodplan opgesteld en uitgevoerd in 1766-1767 maakte het fortje na uitvoering later in 1767 wellicht iets weerbaarder (zie VEL1999), maar bracht geen verbetering in de onderliggende tekortkomingen van het fort. In maart 1768 verleenden de directeuren van de Soci\u00ebteit van Suriname daarom opdracht aan militair ingenieur Hendrik Lotsy om een geheel nieuw ontwerp te maken. De belangrijkste voorwaarde waaraan de herbouwde redoute zou moeten voldoen was 'dat het aan vyandelyke scheepen onmogelyk zal zijn, de Rivieren de Surinamen of Commewijne op te vaaren, sonder sig eerst meester van deese post gemaakt te hebben, waar van een vijand niet dan door een formeel beleg sig meester zal konnen maaken; werdende tot desselfs defensie niet meer dan 30 stukken Canon twaalfponders, 6 Houwitsers, en een besetting van 250 man Infanterie en 50 Artilleristen met al het nodige vereijst.'\nLotsy ontwierp de redoute met drie aarden voorwerken, een stenen centraal verdedigingswerk en grachten rondom. Het centraal verdedigingswerk is hier weergegeven met verschillende profielen en een plattegrond. De totale kosten beraamde hij op basis van de prijzen in de Republiek op 80.000 gulden, afgezien van het eventueel nog noodzakelijke heiwerk voor het gemetselde binnenfort. Dit was de Soci\u00ebteit van Suriname te duur en het plan is dan ook nooit uitgevoerd. Voor de beoordeling van het project door de directeuren zijn in 1769 nog twee houten schaalmodellen van het ontwerp gemaakt, die zich nu beide bevinden in de collectie van het Rijksmuseum Amsterdam.\nSchaalstokken van 30 halve Roeden voor de Platte grond = [ca. 1 : 380] / [profielen] 50 voeten voor de Profilen = [ca. 1 : 120].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2056",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "49 x 65,5 cm.",
+        "dcterms:date": "1768",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2213/plattegrond-en-profielen-van-de-redoute-leiden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c6/2e/26/dc/a0/ff/44/ee/ae/4e/44/5a/8b/02/82/30/eaf9d822-b2e3-4dae-b0d6-c15681ff0c6b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c6/2e/26/dc/a0/ff/44/ee/ae/4e/44/5a/8b/02/82/30/eaf9d822-b2e3-4dae-b0d6-c15681ff0c6b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2056.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/569B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3ed0c10e-ac62-4833-961d-67dab9acc037",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_569b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Antiqua, blad 2",
+        "dc:description": "Titel Leupe:  Antigua in the West-Indies, America. Laid down by actual survey, and engraved by John Luffman, in the years 1787 and 1788.\nDeze kaart van Antigua bestaat uit vier bladen met een inzetkaart van de stad St. John bovenin. Hij behoort tot Luffman's A Brief Account of the Island of Antigua (1788). In de index rechts en links en op de kaart zelf zijn de namen te vinden van alle vastgoedeigenaren en investeerders alsook een uitleg van referenties naar windmolens, kerken en dergelijke. De omvang van de provincies zijn in het midden van de kaart genoemd. Dieptemetingen en obstakels voor het scheepsverkeer zijn aan de kust aangegeven.\nSchaal van 4 British Statute Miles = 148 strepen.\nHet noorden is boven",
+        "dc:type": "prent",
+        "dc:identifier": "VEL569B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.47 - 0.49 EI.",
+        "dcterms:date": "1793",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10512/kaart-van-antiqua-blad-2"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8b/91/b5/7c/ab/a9/44/f7/86/ea/b6/4a/d0/bb/b6/11/045f8e96-1bd1-4268-b110-372aab65539b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8b/91/b5/7c/ab/a9/44/f7/86/ea/b6/4a/d0/bb/b6/11/045f8e96-1bd1-4268-b110-372aab65539b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/569B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2 (rechtsboven)"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1574.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/08d8512e-c924-464a-b5ef-91959bd616b7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1574.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(A key to the plantations on the River Berbice numbered 21 to 167, with the names of the owners, not transcribed, lower left)\n(A key to the properties indicated by the letters a to u, allocated by the British and French governments during 1781-1784, with the names of the owners, not transcribed, below centre). \n(A key to the plantations on the River Canje numbered 1 to 79, with the names of the owners, not transcribed, lower right).",
+        "dc:title": "Kaart van de kolonie Berbice",
+        "dc:description": "Titel Leupe: Kaart van Rio Berbice en Rio Canje, met de namen der plantagen en derzelver eigenaars enz.\nZoals in de andere koloni\u00ebn op de Wilde Kust, werden ook in Berbice in de late achttiende eeuw de gebieden langs de benedenloop en de aangrenzende zeekusten van steeds grotere betekenis voor het plantagebedrijf.\nDeze anonieme overzichtskaart uit een van de eerste jaren na de Britse bezetting van 1781 en het aansluitende Franse interim-bestuur tot 1784 laat zien dat juist daar in die korte periode onder buitenlands gezag meer dan twintig nieuwe landerijen waren uitgegeven.\nMet die geleidelijke verschuiving van het economische zwaartepunt was het op termijn onontkoombaar dat ook de bestuurszetel zou worden verlegd naar het mondingsgebied, zoals in 1785 door de directie van de Soci\u00ebteit inderdaad werd besloten.\nDe uitvoering volgde evenwel pas na 1790 en op deze kaart is daarvan derhalve nog niets te zien.\nHet noorden is linksonder.\n-Schaalstokken van 2000 Roeden Rynl. / 2 Duijtse Mijlen van 15 in een Graad = [ca. 1 : 106.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1574",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.78 - 0.61 El. (83 x 124,5 cm)",
+        "dcterms:date": "ca. 1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1920/kaart-van-de-kolonie-berbice"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5e/f0/c8/00/26/8c/46/bc/8f/ca/30/66/12/66/02/18/3583f488-2f1c-4645-99e4-c34de91e0d23.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5e/f0/c8/00/26/8c/46/bc/8f/ca/30/66/12/66/02/18/3583f488-2f1c-4645-99e4-c34de91e0d23.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1574.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Rio Berbice en Rio Canje, met de namen der plantagen en derzelver eigenaars enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

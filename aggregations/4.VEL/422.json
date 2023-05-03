@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/422.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d82eacb6-20dd-459d-a764-62d2ca64aa44",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0422.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "No II Kaart van de stranden en gesamentlyke situatie, der beoosten en bewesten 't Kasteel Batavia, geleegene landen en Tuynen, van den Mond der Riviere Ankee af tot voorby den Mond der rivier van Antsjol en Slingerland [enz]",
+        "dc:title": "Kaart van Batavia en omgeving",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart als voren, bedoeld wordt de titel van VEL0421: Kaart van de Stranden en gesamentlyke situatie der bewesten en beoosten 't Kasteel Batavia gelegene landen en tuynen, van den Mond der Rivier Ank\u00e9 af tot voorby den Mond der rivier van Antsjol en Slingerland.\nNotities verso: No. 6 Kasteel van Batavia en stranden beoosten en bewesten hetzelve Register 2 Deel 1 Folio 3 Portefeul [geschreven op een blauw etiket] / No. 201.\nKopie naar de kaart van C.F. Reimer.\nTopografische namen vermeld op deze kaart: Batterij Bottelier, Rivier van Antsjol, Batterij Zeelucht, Batterij Slingerland, Rotterdamer Poort, Fort Antsjol, Tandjong Priok, 't Kasteel, Saphier, Parel, Diamant, Robijn, Cuylenburg, Zeeburg, Groningen, Kampen, Overijsel, Batterij van Ploederhuijsie [?], Waterkasteel, Dieren, Batterij de Fluyt, Rivier Ankee, Grote Rivier.\nZie ook VEL0421 en VELH0444.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0422",
+        "dc:subject": [
+            "rede / haven / pier",
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "102 x 348 cm",
+        "dcterms:date": "ca. 1788",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1468/kaart-van-batavia-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e7/60/b0/64/56/18/4a/17/b4/e9/04/2c/e6/dc/b6/a6/e8797e8a-aeb8-4241-adde-667f72f4c66a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e7/60/b0/64/56/18/4a/17/b4/e9/04/2c/e6/dc/b6/a6/e8797e8a-aeb8-4241-adde-667f72f4c66a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/422.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Stranden en gesamentlyke situatie der bewesten en beoosten 't Kasteel Batavia gelegene landen en tuynen, van den Mond der Rivier Ank\u00e9 af tot voorby den Mond der Rivier van Antsjol en Slingerland."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

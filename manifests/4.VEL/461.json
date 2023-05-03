@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/461.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Noord- en een gedeelte van de Oostkust van Celebes, de Sangi- en Talautsche Eilanden, de Zuidkust van Magindanao, Ternate, Tidor enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "461"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1700/1800"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/2785c4ee-07ba-4814-9932-5ed8efb85959\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/461.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/461.json#canvas/p1",
+            "type": "Canvas",
+            "height": 12233,
+            "width": 8717,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/461.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/461.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/13/e1/c5/39/de/0f/41/a0/8c/6f/0f/ec/6c/25/6b/8d/43188be4-796f-4d35-9145-512b1e5b110d.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 12233,
+                                "width": 8717,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/13/e1/c5/39/de/0f/41/a0/8c/6f/0f/ec/6c/25/6b/8d/43188be4-796f-4d35-9145-512b1e5b110d.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/461.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

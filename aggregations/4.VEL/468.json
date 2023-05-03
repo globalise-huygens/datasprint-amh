@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/468.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3de5b64d-4130-49f2-8e6e-67024e7977d0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0468.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Straat Bouton",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart van Straat Bouton, van het Zuyder Eyland tot het eyland Wawony.\nNotities verso: Ryks-Archief 's Gravenhage [stempeltje].\nCf. Bodel Nijenhuis/Universiteitsbibliotheek Leiden, inv.nr. COLLBN 006-15-032.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0468",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51,5 x 73 cm",
+        "dcterms:date": "1725-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5648/kaart-van-straat-bouton"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/28/ef/4f/3d/41/29/47/9b/b7/27/9b/71/b8/62/26/24/6e497b97-0fb9-4eac-9a0a-7689c6fb7c36.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/28/ef/4f/3d/41/29/47/9b/b7/27/9b/71/b8/62/26/24/6e497b97-0fb9-4eac-9a0a-7689c6fb7c36.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/468.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Straat Bouton, van het Zuyder Eyland tot het eyland Wawony."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

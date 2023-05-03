@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1545.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7fa5ac91-9c7a-44ec-9647-31f1ba00029f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1545.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title, centre bottom)\nFaits par les Arpenteurs v.d. Burght & Chollet, d\u2019apr\u00e8s les ordres de S.E. Monsieur le Baron de Grovestins Gouverneur General; & Dress\u00e9e par le Soussign\u00e9 Arpenteur Jur\u00e9. \u00e0 Demerary le 27 Juin 1794 L.s Chollet\n(A key to the properties numbered 1 to 98, not transcribed, upper left)\n(A cadastral description, not transcribed, upper left)\n(A key to the letters A and a to d, lower right):\nExplication.\nA Terrain reserv\u00e9 pour la Ville.\naa Batteries pour d\u00e9tfendre l\u2019Entr\u00e9e de la Riviere.\nbb. Canaux Projett\u00e9s.\ncc. Canaux Projett\u00e9s.\ndd. Canaux Projett\u00e9s.",
+        "dc:title": "Kaart van plantages aan beide oevers van de rivier Pomeroon",
+        "dc:description": "Titel Leupe: Carte du relev\u00e9 et arpentage d'une partie de la Riviere de Ponmaron et Cot\u00e9 de la Mer adjacent, faits par les arpenteurs V.D. Burght et Chollet etc., et dresse\u00e9 par.\nDeze kaart van de hernieuwde kolonisatie aan de Pomeroon is gemaakt onder het gouverneurschap van Willem August Sirtema, baron van Grovestins (1791-1795).\nDe kaart is oorspronkelijk vermoedelijk bedoeld als wandkaart (de gaatjes aan de boven\nen onderkant geven aan dat de kaart op stokken was gemonteerd) en toont de geplande verdere ontginningen, kanalen (b, c, d) en fortificaties (a), en een terrein gereserveerd voor een nieuwe stad (A) bij de samenvloeiing van de Pomeroon en de Wakapaukreek.\nVoor deze kaart werkte Chollet samen met de landmeter J. van der Burght, van wie ook een overzichtskaart van Essequibo bestaat; zie NA 4.AANW1473.\nDe kustpost aan de monding van de Morokokreek (\u2018Morocco Ck\u2019) is ingetekend.\nOnder Brits bestuur zette de economische opgang zich versterkt voort, maar de eerder gemaakte plannen zijn nooit gerealiseerd. Louis Chollet ging in 1805 een maatschap aan met zijn collega-landmeter en plantagebezitter J.H. Wiedeman; zie diens kaart van het kustgebied van Berbice; zie VEL1575.\nVEL1546 is een kopie van deze kaart.\nSchaalstok van 1000 Roeden = 78 strepen [ca. 1 : 48.700].\nOorsprong: zie missive van Goeverneur Generaal  Si[rtema van Grovestins] 19 aug 1794 kohier 800 no. 171 pp. 428-461.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1545",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.45 - 0.58 El. (48 x 119 cm)",
+        "dcterms:date": "1794",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10243/kaart-van-plantages-aan-beide-oevers-van-de-rivier-pomeroon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5e/13/f5/b6/f5/a4/4d/63/95/8c/a0/38/3a/69/73/fc/ef4fc75e-a261-42bf-9ce7-b60836a11eec.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5e/13/f5/b6/f5/a4/4d/63/95/8c/a0/38/3a/69/73/fc/ef4fc75e-a261-42bf-9ce7-b60836a11eec.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1545.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte du relev\u00e9 et arpentage d'une partie de la Riviere de Ponmaron et Cot\u00e9 de la Mer adjacent, faits par les arpenteurs V.D. Burght et Chollet etc., et dresse\u00e9 par:"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

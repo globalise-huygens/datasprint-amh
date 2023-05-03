@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1605.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a988e798-d307-446b-8618-4a4c71df4933",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1605.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "centre: a survey certificate and a cadastral description, not transcribed.",
+        "dc:title": "Kaart van de plantage Sint Jan",
+        "dc:description": "Titel Leupe: Caart van alle nieuwe als oude gronden in de beneedenste gedeelte van Rio Canie.\nKaart van de plantage Sint Jan, in eigendom van de heer Volkmaar te Amsterdam en gelegen ten oosten can de rivier Canje.\nDe kavel blijkt 500 Surinaamse akkers te meten (215 hectare).\nTen zuiden ligt de plantage Don Phillip, en ten noorden de plantage Ongegundt.\nDit betreft een sierlijk uitgevoerde versie van de kaart onder nummer VEL1604, in een stijl die typerend is voor de kaartenmaker Christiaan Cederkreutz. Daarnaast is in de roodgekleurde tabel ook nieuwe informatie toegevoegd over de gewassen die op de plantage groeien.\nDe oorspronkelijke kaart is ondertekend op 28 januari 1769.\nHet noorden is links.\nZie ook VEL1604 en 1606.\nSchaalstokken van 300 Rijnlandse Roeden = [ca. 1 : 9.200] / [inzetkaart] 150 Rijnlandse Roeden = [ca. 1 : 2.940].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1605",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage",
+            "gebouw",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "48 x 61 cm.",
+        "dcterms:date": "1774",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10271/kaart-van-de-plantage-sint-jan"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/64/c1/94/1c/b3/ac/45/d8/ad/07/e0/4f/6f/a5/87/33/c9099620-20c8-404c-9cfe-0a3a5371917e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/64/c1/94/1c/b3/ac/45/d8/ad/07/e0/4f/6f/a5/87/33/c9099620-20c8-404c-9cfe-0a3a5371917e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1605.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Vrye Plantagie St. Jan in rio Canje enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

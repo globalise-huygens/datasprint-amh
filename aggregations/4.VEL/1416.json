@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1416.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5a70b787-75cd-45c4-84fa-ddc8e7ec7f04",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1416.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Hispaniola",
+        "dc:description": "Titel Leupe: The Island of Hispaniola, called by the French St. Domingo, subject to France and Spain etc.\nDeze kaart van Hispaniola is gemaakt tijdens het hoogtepunt van de suikerslavernij. Het aantal plantages op het westelijke deel van het eiland was drastisch toegenomen sinds de Vrede van Rijswijk in 1697. Maar in plaats van plantages laat deze kaart alleen plaatsnamen zien. Het werk vormt onderdeel van een bundel genaamd A description of the Spanish islands and settlements on the coast of the West Indies / compiled from authentic memoirs, revised by gentlemen who have resided many years in the Spanish settlements ; and illustrated with thirty-two maps and plans, chiefly from original drawings taken from the Spaniards in the last war. Verrassend genoeg richt de kaart zich voornamelijk op het Franse deel van het eiland wat suggereert dat voornamelijk Franse kaarten als basis zijn gebruikt (zie VEL1415) en hulp is verleend door 'gentlemen' die in Franse nederzettingen verkeerde. In vergelijking met de eerdere Franse kaarten van het eiland, is de geografische weergave verbeterd. Zo is de kust strakker getekend en is het mystische zoutmeer in het binnenland te herkennen als de Azuei en Enriquillo meren. Toch blijven de binnenlanden in het algemeen gekenmerkt door vele hachures.\nSchaal van 70 Brit. Statute m. = 74 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1416",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.33 - 0.485 El.",
+        "dcterms:date": "1771",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10351/kaart-van-hispaniola"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/39/55/e6/f7/d7/4a/4b/f1/a5/86/c2/6e/81/8a/73/d9/237f3734-c378-4527-a08f-7bbc70251588.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/39/55/e6/f7/d7/4a/4b/f1/a5/86/c2/6e/81/8a/73/d9/237f3734-c378-4527-a08f-7bbc70251588.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1416.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "The Island of Hispaniola, called by the French St. Domingo, subject to France and Spain etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

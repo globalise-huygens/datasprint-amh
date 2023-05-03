@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1331.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/eba7050d-c113-4b2d-887a-49fa4960f63d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1331.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "N:o 5 / Situatie Plan van 't Kasteel Nieuw Victoria en omstreken, gelijk hetzelve bevonden is bij gedane meeting ter ordre van de weledelgestrenge Heeren Vaillant, Verhuel en Graevestein Commissarissen militair enz. enz.",
+        "dc:title": "Kaart van Ambon en omstreken",
+        "dc:description": "Titel catalogus Leupe (NA): Situatie Plan van 't Kasteel Nieuw Victoria en omstreken, gelijk hetzelve bevonden is bij gedane meeting.\nLegenda: A-Z; A-U\nGenummerd: No. 1.\nNotities verso: No. 1 / 655 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1331",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "landerij / plantage",
+            "rede / haven / pier",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "94,5 x 129 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2364/kaart-van-ambon-en-omstreken"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f1/12/e4/1b/ed/58/4c/3f/b7/9b/58/fe/81/70/db/b3/e5e2c373-28ed-4f74-96f1-9891f27894ad.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f1/12/e4/1b/ed/58/4c/3f/b7/9b/58/fe/81/70/db/b3/e5e2c373-28ed-4f74-96f1-9891f27894ad.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1331.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Situatieplan van 't kasteel Nieuw Victoria en omstreken, gelijk hetzelve bevonden is bij gedane meeting."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

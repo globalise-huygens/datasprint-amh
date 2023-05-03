@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/638B.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan van het Binnenwater of Haven van de Fuik, benevens de peilingen op de Kust, tusschen de Schout by nachts- en Vice-Admiraals hoek."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "638B"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1742"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/75411a44-f28a-4ceb-aa2f-477791e75372\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/638B.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/638B.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5120,
+            "width": 18138,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/638B.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/638B.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/53/f4/bf/b7/2d/1d/40/97/b2/fd/fa/de/fe/0e/8f/e2/56275404-c544-4af0-85ea-998889a754e9.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5120,
+                                "width": 18138,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/53/f4/bf/b7/2d/1d/40/97/b2/fd/fa/de/fe/0e/8f/e2/56275404-c544-4af0-85ea-998889a754e9.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/638B.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

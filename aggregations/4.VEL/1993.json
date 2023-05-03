@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1993.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c0d56ab3-3fd1-403a-9288-20f34d252d0d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1993.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plan voor batterijen aan de monding van de rivieren Saramacca en Coppename",
+        "dc:description": "Titel Leupe: Schetsplan van de verdediging van de riviere Saramacca en Coppename.\nDeze kaart toont het verdedigingswerk rond de monding van de rivieren Saramacca en Coppename.\nDeze anonieme kaart van de mondingen van de Saramacca en Coppename stamt vermoedelijk uit de laatste jaren voor de eerste Britse bezetting in 1799, of uit de korte periode dat Nederland in 1803-1804 opnieuw controle had over het gebied.\nAan de oevers van de Saramacca zijn de twee kleine versterkingen Marquette en Johan Gerhard (genoemd naar oud-gouverneur Wichers) ingetekend, die iets te ver zeewaarts geplaatst zijn.\nEen derde versterking is op de punt tussen de Saramacca en de Coppename geprojecteerd, in de vorm van een nieuwe batterij die volgens dit plan een linie met Marquette moest vormen, terwijl op beide rivieren tevens een versperring met schepen en een drijvende barri\u00e8re was voorzien.\nDit plan is eveneens nooit gerealiseerd, maar op de plaats aan de zuidoever van de Saramacca waar hier foutief de post Marquette is aangegeven, kwam na 1816 wel het fortje Nassau tot stand.\nHet bereik van de batterijen is met rechte lijnen aangegeven vanuit de fortificatie.\nDoor slijtage van de kaart wordt de e loop van de rivier Saramacca naar boven toe steeds vager.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1993",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.58 - 0.33 El. (32,5 x 57,5 cm)",
+        "dcterms:date": "1795-1804",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10106/plan-voor-batterijen-aan-de-monding-van-de-rivieren-saramacca-en"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/45/80/93/96/ac/7b/4a/60/b9/ac/4e/99/58/82/95/5f/1bb0c670-1bba-4429-8643-b32c2ae7088b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/45/80/93/96/ac/7b/4a/60/b9/ac/4e/99/58/82/95/5f/1bb0c670-1bba-4429-8643-b32c2ae7088b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1993.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schetsplan van de verdediging van de riviere Saramacca en Coppename."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

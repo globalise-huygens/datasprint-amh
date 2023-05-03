@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1617.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1b34b25d-c72f-4652-8082-fa1b929d9393",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1617.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(A key to the letters a to o and the numbers 1 to 8, left): \nRenvoij.\na. Het Huis van den Commandant.\nb. De Wooning der Heere Officieren.\nc. De Caserne.\nd. Het Magazijn voor Vivres.\ne. De Hoofdwagt.\nf. \u2019t Labertorium.\ng. Het Kruit Magazijn.\nh. De Regenbakken.\ni. De Combuis, en Pakhuizen van den Commandant.\nk. De Combuis van de Heeren Officieren.\nl. een Combuisje van Manicolen voor den Capitein.\nm. Kookloots der Militairen.\nn. Het Privaat.\no. Een Klijn los Kokertje.\nNo. 1. Battarij, waar op staan 4 18 lbs.\n2. Batterijen, waar op staan 3 18 [idem] Twee en barbette schietende.\n3. Batterij, waar op staan 5 6 lbs.\n4. Batterij, waar op staan 5 6 lbs.\n5. Batterij, waar op staan 2 1 lbs.\n6. Batterij, en barbette voor 3 stukken.\n7. Batterij, en barbette voor 4 18 lbs.\n8. Batterij, en barbette voor 4 18 lbs.",
+        "dc:title": "Plan voor de herinrichting van het fort Sint Andries",
+        "dc:description": "Titel Leupe: Platte grond van 't fort St. Andries.\nOp 6 maart 1781, ruim een week na de bezetting van Essequibo en Demerara, verschenen voor Fort Sint Andries twee Engelse schepen, die de pas herstelde zwak bewapende post na een kort gevecht tot overgave dwongen. Het fortje werd aansluitend in brand gestoken, waarna de Britten ongehinderd konden doorvaren naar Fort Nassau, waar gouverneur Pieter Hendrik Koppiers (1778-1781) zich bij gebrek aan militair personeel ter plaatse eveneens genoodzaakt zag te capituleren. Sint Andries werd na de verdrijving van de Britten in februari 1782 onder het Franse interim-bestuur provisorisch opgeknapt, maar pas na het vertrek van de Fransen in maart 1784 konden in ernst nieuwe plannen voor de versterking van de monding van de Berbice worden opgesteld.\nDeze plattegrond toont Herlins projectie voor de herinrichting van Fort Sint Andries. Deze plannen zijn na 1785 bij benadering ook zo uitgevoerd, zoals onder meer te zien is op de overzichtskaart uit 1801 (zie VEL1575).\nHet Profil links van de kaart is 'in de breete der zwaare borstweering doorgesnede volgens linie AB'.\nSchaalstokken van 168 Voeten Rhijnl: = [ca. 1 : 410] / [profielen] 10 Roeden Rhijnl: = [ca. 1 : 305].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1617",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "67 x 103,5 cm.",
+        "dcterms:date": "ca. 1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1912/plan-voor-de-herinrichting-van-het-fort-sint-andries"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/50/ed/4a/c8/c5/31/49/e7/a7/77/8c/01/0b/97/df/75/cf267ecc-216b-4613-b0ab-3cfa58b8d486.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/50/ed/4a/c8/c5/31/49/e7/a7/77/8c/01/0b/97/df/75/cf267ecc-216b-4613-b0ab-3cfa58b8d486.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1617.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van 't fort St. Andries."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1450.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/22942801-b3ce-47f7-b9e4-4956fa149bd4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1450.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Projectplan voor uitbreiding van fort Amsterdam",
+        "dc:description": "Titel Leupe: Plan van een gedeelte van de Willemstad, met de nieuwe projecten van den Heer\nLuit. Generaal Hertel en hoe verre daar aan gewerkt is..\nAan de uitvoering van het plan tot versterking van Willemstad zoals opgesteld door directeur van \u2019s Lands fortificati\u00ebn Hertell in 1742 (zie VEL1444) is in de volgende twee jaar op bescheiden schaal gewerkt, met name aan de vergroting van het oude stadsbastion Bloedfort aan het Waaigat. De nieuwe fundamenten daarvoor waren eind 1744 gelegd, waartoe men eerst een stuk land tegen het oude bastion had moeten aanplempen. Daar bleef het echter bij, want in het jaar daarop werd door directeur Faesch en de notabele ingezetene Willem Meijer, majoor van de burgermilitie, een nieuw plan voor de versterking en uitbreiding van Willemstad opgesteld, waarbij de vestingwal veel verder naar het oosten zou worden verlegd. Toch werd in 1750 nog een laatste poging gedaan om het bastion te vergroten zoals op deze kaart is aangegeven. Hier wordt bevestigd dat reeds alle fondamenten gelegd en opgevuld zijn. De muren van het bastion zijn echter slechts geprojecteerd.\nHet noorden is boven.\nSchaal van 30 Rijnlandse Roeden = 117 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1450",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.24 - 0.40 El.",
+        "dcterms:date": "1751",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1609/projectplan-voor-uitbreiding-van-fort-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/95/94/95/57/21/09/42/c9/90/8d/e6/12/03/b6/75/03/6a0e11ad-4d8a-440c-8840-55f8302b26eb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/95/94/95/57/21/09/42/c9/90/8d/e6/12/03/b6/75/03/6a0e11ad-4d8a-440c-8840-55f8302b26eb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1450.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van een gedeelte van de Willemstad, met de nieuwe projecten van den Heer Luit. Generaal Hertel en hoe verre daar aan gewerkt is."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

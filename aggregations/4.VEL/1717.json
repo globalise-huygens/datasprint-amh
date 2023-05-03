@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1717.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2cf9a944-58a7-479f-8d31-90259184202d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1717.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [lower right] a description : \nOp ordre van den Gouverneur Generaal der Collonie Surinaame, riviere en Districten van dien Juriaan Fran\u00e7ois Fredericij, hebbe ik ondergeteekende gemeeten, een stuk Land geleegen aan de Reyweg, van Paramaribo nae de Comb\u00e9e, regter hand, op de Caart gemerkt met d. Litt A:B.C.D. en hetzelve geprojecteerd, tot 66 Erven Eyder Circa 5 Kettingen lang, en Een Ketting breedt, does uytmaakende Een half Akker m:om: zoo als boovenstaande Figuur naeder aanwyst.",
+        "dc:title": "Kaart van de buitenwijk Zeelandia te Paramaribo",
+        "dc:description": "Titel Leupe: Plan van de voorstad Comb\u00e9.\nIn 1785 werden door gouverneur Wichers 45 tuingrondjes (er mochten geen exportproducten verbouwd worden) van ieder ca. 50 akkers uitgegeven langs de rivier tussen Paramaribo en de redoute Purmerend. Zij werden de Comb\u00e9es genoemd, een naam die in verband wordt gebracht met Nicolaas Comb\u00e9, een ambtenaar die eind zeventiende eeuw iets ten noorden van Fort Zeelandia een kleine plantage had gehad. In februari 1797 besloot gouverneur Juriaan Fran\u00e7ois de Friderici (1790-1802) tot een uitbreiding. Daartoe had hij een strook land ter grootte van 33 akkers, gelegen tussen de Sommelsdijkse Kreek en de door Wichers aan de rivier uitgegeven percelen, in 66 uit te geven particuliere erven laten verdelen. Ter nadere informatie stuurde hij dit verkavelingsplan. Dit plan toont de nieuwe uitleg in de oorspronkelijk ontworpen vorm rondom een centraal plein, dat in werkelijkheid op deze wijze nooit is gerealiseerd maar bijvoorbeeld nog wel zo terugkomt op Hiemckes grote plattegrond van Paramaribo uit 1806 (zie 4.MIKO 348 in het Nationaal Archief). De woonbuurt werd vanaf het begin, net als de eerder door Wichers uitgegeven gronden, als Comb\u00e9 aangeduid, maar heette formeel de Voorstad Zeelandia.\nHet noorden is linksboven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1717",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kolonie / dorp"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "75 x 40 cm.",
+        "dcterms:date": "1796",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7713/kaart-van-de-buitenwijk-zeelandia-te-paramaribo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/49/92/8a/c6/b4/c8/42/e7/be/16/42/bf/85/32/d3/80/c709aa52-605a-463f-85e3-cdb7334cbe18.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/49/92/8a/c6/b4/c8/42/e7/be/16/42/bf/85/32/d3/80/c709aa52-605a-463f-85e3-cdb7334cbe18.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1717.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de voorstad Comb\u00e9."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

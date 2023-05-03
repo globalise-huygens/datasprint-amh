@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1944.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0b626d57-14ee-40f0-b581-2f63cbe74e7f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1944.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Beekvliedt en Rotterdam Plantage",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie Riddersburg en een daaraan gelegen stuk land, tusschen La Felicit\u00e9 en Charlottenburg.\nDeze kaart toont de plantages La Felicit\u00e9, Rotterdam, Beekvliedt en Charlottenburg, gelegen ten noorden van de Cottica Rivier.\nDit betreft een hermeting van de plantages Rotterdam en Beekvliedt (aangegeven met de letters A tot en met M) zoals aangevraagd door de Gouverneur-Generaal.\nDe eigenaren van deze plantages zijn respectievelijk C. Juliaans en Herman van der Poll, samen met de WIC.\nDe wijze waarop de meting is uitgevoerd staat uitgelegd in de tekst rechts op de kaart samen met de uitkomst van de verschillende metingen waaruit blijkt dat de Beekvliedt plantage land tekort schiet en dat de Rotterdam plantage meer land heeft dan verwacht.\nDe plantage-eigenaren komen overeen dat de plantage Rotterdam zijn overtollig land afstaat en daartegenover controle krijgt over de sluis, dam en andere waterwerken.\nTen noorden ligt de plantage Leijenhoop.\nDe kaart is door de landmeter ondertekend op 19 Maart 1794 en officieel erkend op 25 April 1798 te Paramaribo.\nEen voorstudie, VEL1944A, is niet apart opgenomen in de Atlas of Mutual Heritage.\nSchaal van 150 Kettingen \u00e0 66 Rijnlandse voeten = 185 strepen.\nOorsprong: [OBP Suriname] 1736 [fols.] 1259-1260.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1944",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.30 El.",
+        "dcterms:date": "1798",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10050/kaart-van-de-beekvliedt-en-rotterdam-plantage"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c5/37/51/93/eb/fe/40/4f/8d/06/a7/97/2a/14/a2/32/f8824a66-da07-487b-9872-003fb20305b8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c5/37/51/93/eb/fe/40/4f/8d/06/a7/97/2a/14/a2/32/f8824a66-da07-487b-9872-003fb20305b8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1944.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

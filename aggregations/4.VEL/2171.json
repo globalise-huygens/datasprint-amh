@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2171.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/104dc327-e0ca-4c14-90f7-0b297c1b5ec1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2171.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Paraguay,\u00f3 / Prov. De Rio De La Plata",
+        "dc:title": "Kaart van een deel van Zuid Amerika",
+        "dc:description": "Kaart van een deel van Zuid Amerika.\nTitel in Catalogus Leupe (NA): Paraguay o Prov. de Rio de la Plata, cum regionibus adiacentibus Tucuman et St. Cruz de la Sierra.\nParaguay,\u00f3 / Prov. De Rio De La Plata / cum regionibus adiacentibus / Tucuman / et / Sta. Cruz de la Sierra.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2171",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "gravure",
+        "dcterms:extent": "37 x 47 cm",
+        "dcterms:date": "ca. 1640",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9128/kaart-van-een-deel-van-zuid-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2d/c1/1e/68/9b/7c/45/54/8f/46/09/98/51/34/26/d4/13d185be-3c9d-4662-adb9-791e5923f869.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2d/c1/1e/68/9b/7c/45/54/8f/46/09/98/51/34/26/d4/13d185be-3c9d-4662-adb9-791e5923f869.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2171.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                            Paraguay o Prov. de Rio de la Plata, cum regionibus adiacentibus Tucuman et St. Cruz de la Sierra."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

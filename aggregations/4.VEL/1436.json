@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1436.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d9ac264b-6c3d-4f52-b91b-04b6101edc42",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1436.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het eiland Grenada",
+        "dc:description": "Titel Leupe: A New plan of the Island Grenada, from the original French survey of Monsieur Pinel, taken in 1763 etc.\nEen kaart van verschillende administratieve regio's op Grenada. Dit is de eerste versie van een kaart die opnieuw zou worden gepubliceerd in 1796 en 1825. Hij is opgedragen aan Lieutenant-Generaal Robert Melvill, de gouverneur van de regio, en toont kavels, reli\u00ebf, rivieren en nederzettingen op het eiland. Verschillende industrie\u00ebn zoals de suikermolens zijn met aparte symbolen aangeduid. De referentienummers verwijzen naar de benaming van de kavels in Patersons Topographical Description (zie 1436A). Deze kaart is gebaseerd op de landmeting die door in 1763 was uitgevoerd door monsieur Pinel.\nSchaal van Verschillende mijlschalen. 3 Britisch Statute m. = 144 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1436",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.81 - 0.595 El.",
+        "dcterms:date": "1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10375/kaart-van-het-eiland-grenada"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1a/9e/a8/17/43/21/45/9b/af/ab/22/1c/43/de/e5/a1/a26230b7-b1da-43f5-83da-3c261126e1ea.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1a/9e/a8/17/43/21/45/9b/af/ab/22/1c/43/de/e5/a1/a26230b7-b1da-43f5-83da-3c261126e1ea.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1436.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A New plan of the Island Grenada, from the original French survey of Monsieur Pinel, taken in 1763 etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

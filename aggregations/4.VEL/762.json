@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/762.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/60367d07-9b49-4f34-adc7-b19f199f6964",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_762.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het Fortress Orange tot Sacconde",
+        "dc:title": "Plattegrond van het fort Oranje te Sekondi",
+        "dc:description": "Plattegrond van het fort Oranje te Sekondi.\nTitel catalogus Leupe (NA): Het Fortress Orange tot Sacconde.\nHet Fortress Orange tot Sacconde.\nNotities verso: No. 22 reg. 8 / 459 [met vette cijfers gestempeld op een etiketje].\nLegenda [nummers 1 tot en met 22 en A tot en met C].\nRechtsonder: No: 8.\nMiddenboven: No: LXII.\nLinksboven en linksonder: 762 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0762",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "legenda",
+            "vesting",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "48,5 x 47 cm",
+        "dcterms:date": "1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1319/plattegrond-van-het-fort-oranje-te-sekondi"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4c/91/d1/ee/5a/12/4b/01/ba/5f/9c/f8/e2/a6/a8/8e/65eee7e1-54cd-4b63-8ab1-fed3672a5509.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4c/91/d1/ee/5a/12/4b/01/ba/5f/9c/f8/e2/a6/a8/8e/65eee7e1-54cd-4b63-8ab1-fed3672a5509.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/762.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Fortress Orange tot Sacconde."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

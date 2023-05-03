@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1280.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/45ce4708-f755-4996-a301-e5a584166a03",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1280.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plaan van het Fort, Retrenchement en omleggende Cituatie van Sourabaya",
+        "dc:title": "Kaart van Sourabaja",
+        "dc:description": "Titel catalogus Leupe (NA): Plaan van het fort, Retrenchement en omleggende cituatie van Sourabaya.\nNotities verso: Plaan van het fort, Retranchement, en omleggende Cituatie van Sourabaija anno 1719 [twee keer] / No. 82. [op een etiketje] / No. 11 Fort, Retranchement en Situatie van Sourabaija. / Register 2, Deel 1, Folio 6, Portefeuille .. [geschreven op een blauw etiket, no 11 niet helemaal zeker] / 643 [met vette cijfers gestempeld op een etiketje]",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1280",
+        "dc:subject": [
+            "vesting",
+            "landerij / plantage",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41 x 104 cm",
+        "dcterms:date": "1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4051/kaart-van-sourabaja"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/53/fd/08/f6/c3/37/4e/74/bd/66/4d/78/14/50/74/64/7d220569-a784-4d59-bea2-83961797caf2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/53/fd/08/f6/c3/37/4e/74/bd/66/4d/78/14/50/74/64/7d220569-a784-4d59-bea2-83961797caf2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1280.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van het Fort, Retrenchement en omleggende cituatie van Sourabaya."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

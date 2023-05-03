@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1275.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/179cc317-74e0-48b7-8bb3-5cbb7b7c9f5a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1275.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plaan van de Forten en Bergh van Japara",
+        "dc:title": "Plattegrond van het fort en de berg te Japara",
+        "dc:description": "Titel catalogus Leupe (NA): Plaan van de forten en de Bergh van Japara.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nNotities verso: Plaan van de Forten en den Berg tot Japara Ao 1719 [staat zowel aan de boven\nals aan de onderkant] / No. 25 Plan van het Fort en Berg van Japara Register 2 Deel 1 Folio 8 Portefeul [geschreven op een blauw etiket] / 639 [met vette cijfers gestempeld op een etiketje] / No. 81 [vrij groot geschreven op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1275",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "vesting",
+            "scheeps- / timmerwerf",
+            "menagerie / stal"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "65 x 45,5 cm",
+        "dcterms:date": "ca. 1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3799/plattegrond-van-het-fort-en-de-berg-te-japara"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/45/f4/1e/d8/39/7e/4c/ad/88/2d/8f/c0/20/93/55/ad/2f3a6de6-6d49-40a2-8e1f-d0f47a97f734.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/45/f4/1e/d8/39/7e/4c/ad/88/2d/8f/c0/20/93/55/ad/2f3a6de6-6d49-40a2-8e1f-d0f47a97f734.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1275.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van de forten en Bergh van Japara."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

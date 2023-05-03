@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1462A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9633c499-9145-43ce-b245-5c261378293b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1462a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een bastion aan de baaien Piscaderis, Sint Michiel en Porto Marie",
+        "dc:description": "Titel Leupe: Platte grond voor Piscaderis, St. Michiel en Porte Marie Bayen (Lage Battery).\nDeze schets is onderdeel van een serie (VEL1462-VEL1472) met plannen tot versterking van de baaien Piscaderis, Sint Michiel en Porto Marie met een lage batterij en een fort. Het hier afgebeelde ontwerp voor een bastion is op een aantal vlakken verbeterd vergeleken met eerdere schetsen. Zo zijn de hoeken minder scherp, de flanken groter en is de nabijgelegen vestinggracht dieper. Deze verbeteringen zijn weergegeven met behulp van een profiel en een plattegrond.\nSchaal van 15 Rijnlandse Roeden = 160 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1462A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.32 - 0.50 El.",
+        "dcterms:date": "1743",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1652/ontwerp-voor-een-bastion-aan-de-baaien-piscaderis-sint-michiel-en"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/35/d2/fd/5a/b3/54/4d/96/bd/a3/32/71/4d/d7/e5/e7/6dfc6e08-99c5-4731-9934-0ca0e3d2a851.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/35/d2/fd/5a/b3/54/4d/96/bd/a3/32/71/4d/d7/e5/e7/6dfc6e08-99c5-4731-9934-0ca0e3d2a851.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1462A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Manuscript"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1931.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ebca9867-61c6-4a7e-9033-a564daf5bb8f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1931.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Ephrata",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie Ephrata en een daaraan gelegen stuk land\nDeze kaart toont de plantage Ephrata (aangeduid met de letters A-F) van de weduwe van Jacob Lemmers, gelegen ten noorden van de Cotticarivier. Aan de rivieroever worden enkele gebouwen weergegeven.  Het oppervlakte is gemeten op 770 Surinaamse akkers (331,1 hectare).\nDe kaart is door de landmeter ondertekend op 20 november  1708 en officieel erkend op 11 augustus 1732 te Paramaribo.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 118 strepen.\nOorsprong: [OBP Suriname] 1732 [fol.] 1077.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1931",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.27 - 0.22 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10036/kaart-van-de-plantage-ephrata"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/82/3d/22/37/42/83/4a/b2/a4/0f/0e/ac/85/8e/38/94/9dadbbcc-58ea-49ce-bc51-1b8266b5c217.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/82/3d/22/37/42/83/4a/b2/a4/0f/0e/ac/85/8e/38/94/9dadbbcc-58ea-49ce-bc51-1b8266b5c217.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1931.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagie Ephrata en een daaraan gelegen stuk land."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

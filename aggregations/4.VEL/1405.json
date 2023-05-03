@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1405.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dd8a2d2e-e3ff-427f-874c-2ac47392d0a5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1405.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van North en South Carolina",
+        "dc:description": "Titel Leupe: An accurate Map of North and South Carolina, with their Indian Frontiers etc.\nKaart van de North en South Carolina die veel gebruikt werd tijdens de Amerikaanse Revolutie door de Amerikaanse, Engelse en Franse legers. De geografische details op de kaart geven een uitstekend overzicht van de water\nen landwegen van de kust tot de westelijke regios Tidewater, Piedmont, en Back Country. De kaart kwam aan het begin van de Amerikaanse Revolutie uit, slechts vij weken na de slag bij Lexington en Concord, waardoor de invloed ervan in het begin van dit conflict zeer groot was. De kaart bereikte een wijd publiek door zijn uitvoering in Thomas Jefferys American Atlas uit 1775.\nSchaal van 60 Eng. M. = 175 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1405",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kolonie / dorp",
+            "kompas / windroos",
+            "North en South Carolina",
+            "Verenigde Staten"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.50 - 0.71 El. (57 x 40.5 inches)",
+        "dcterms:date": "1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10330/kaart-van-north-en-south-carolina"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fd/be/96/25/c2/fc/40/f1/b8/02/fe/47/7a/81/e0/20/47181f10-325d-4772-9b9c-49ae25553e77.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fd/be/96/25/c2/fc/40/f1/b8/02/fe/47/7a/81/e0/20/47181f10-325d-4772-9b9c-49ae25553e77.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1405.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "An accurate Map of North and South Carolina, with their Indian Frontiers etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

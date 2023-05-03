@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1492.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/88f565b6-e24d-4b73-b7a5-0dc16be00b13",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1492.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "CAERTE VAN DE RIVIER DEMERARY VAN OUDS IMMENARY GELEGEN OP SUYD AMERICAES NOORDKUST",
+        "dc:title": "Plantages langs de rivieren Demerara en Essequibo",
+        "dc:description": "Titel Leupe: Caerte van de rivier Demerary van Ouds Immenary, gelegen op Suyd Americaes Noordkust op de Noorder Breedte van 6 Gr. 40 Min. enz.\nKaart van plantages langs de rivier de Demerara en een gedeelte van de rivier de Essequibo. De kaart toont de ligging en omvang van de plantages en is voorzien van een lijst met namen van de plantages en hun eigenaren.\nLegenda: Suyker Plantage. Coffy Plantage. Broodgronden. Nog niet bepaald. Paerde Suykermolen. Water Suykermolen. Begonne Paerde Suykermolen. Begonne Water Suykermolen. De Zaagmole.\nIn cartouche een register van plantages langs de Essequibo: a t/m m. Met pen zijn bij enkele plantages nieuwe eigenaars vermeld.\nLinksonder een register van plantages langs de oostelijke oever van de Demerary: 1 t/m 57.\nRechtsonder een register van plantages langs de westelijke oever van de Demerary: 1 t/m 61. \u2013 Rechtsboven een opdracht door de maker aan verschillende WIC-hoogwaardigheidsbekleders.\nEen inzet toont geheel Guyana.\nSchaalstok van 600 Kettingen \u00e0 60 Rijnlandse voeten.\nVoor een ingekleurde versie van deze kaart zie VEL1493. Zie ook VEL1494.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1492",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "landerij / plantage",
+            "kompas / windroos",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "gravure",
+        "dcterms:date": "1759",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1869/plantages-langs-de-rivieren-demerara-en-essequibo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/00/46/98/0d/90/1c/42/b3/a2/86/2d/3c/fc/8c/f2/bd/8226ca99-6fa8-4277-9eaa-ecee45b2bd17.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/00/46/98/0d/90/1c/42/b3/a2/86/2d/3c/fc/8c/f2/bd/8226ca99-6fa8-4277-9eaa-ecee45b2bd17.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1492.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar, ongekleurd"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

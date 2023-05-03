@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1055.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ae17628e-5e20-4c93-9842-6dc9adbd6b3d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1055.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaarte van een gedeelte der stadt Gale",
+        "dc:title": "Plattegrond van Gale",
+        "dc:description": "Titel catalogus Leupe (NA): Kaarte van een gedeelte der stadt Gale.\nRechts onder: N 737a.\nNotities verso: caarte der stad gale, waer in aengewesen werden de blocken, daer de clappies boomen staen. No 38: / 903 [geschreven aan de bovenkant, op ongeveer 1/3 van de kaart] / Behoord tot de overgekomen Papieren van Ceilon [gevolgd door een onleesbaar woord] 4, 1694 fol 904 / N 418.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1055",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "27,5 x 47 cm",
+        "dcterms:date": "januari 1694",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3095/plattegrond-van-gale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b1/87/0f/69/51/51/45/d0/93/43/8c/d0/a6/e6/a3/72/41d62e4a-3030-403a-b363-4bf30c70b946.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b1/87/0f/69/51/51/45/d0/93/43/8c/d0/a6/e6/a3/72/41d62e4a-3030-403a-b363-4bf30c70b946.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1055.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Karte van een gedeelte der stadt Gale enz., tusschen de Bolwerken Uytrecht en Vlagge-Klip."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2029.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/62b6fb18-ad38-4fb8-abf1-593cdb4ea32e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2029.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [inscripties bij het dekplan en de profielen] diverse technische beschrijvingen, niet getranscribeerd. \nExplanations: [inscriptions with the deck plan and the profiles] various technical descriptions, not transcribed. \n[rechtsboven] een aantekening : \n[upper right] a note : \nN.B. op deze Ponten kan een Mast met een vierkant Zyl en 20 riemen des noods gelegd worden. de eiserere ringen dienen om de trossen ter boegsering door te scheeren.",
+        "dc:title": "Plan voor een kanonneerboot",
+        "dc:description": "Titel Leupe: Plaan van een Cannonier pont op de rivier Suriname.\nDeze schets maakt een onderdeel uit van de serie \u2018plannen van verstopping\u2019 die na 1780 is gevormd (zie VEL2020-2027). Een belangrijk aspect van deze plannen waren de kanonneerboten of 'canoniere' die met zeilen of roeiers vijandige schepen moesten weerhouden. De geringe diepgangvan deze boten was voordelig tijdens eb, maar de balans tussen wendbaarheid en de platte bodem was lastig te vinden. De bewapening lijkt veel te zwaar, ook in gewicht, voor de lichte, onstabiele pontonvaartuigen met hun geringe vrijboord en diepgang, zelfs indien die van een flinke hoeveelheid ballast zouden worden voorzien. Van een behoorlijke bescherming voor de kanonniers was gezien de geringe dikte van de scheepswand geen sprake, terwijl de pontons kennelijk ook niet op eigen kracht konden varen. Dit plan werd in 1797 gepresenteerd maar is nooit gerealiseerd. Afgaande op de tekenstijl en het handschrift is het aannemelijk dat het gaat om een ontwerp van de majoor B\u00f6hm, die hier dus een eigen draai geeft aan de eerdere plannen van Wollant. Naast de ontwerpen voor boten. was ook een plan van versperring in ontwikkeling waarbij drijvende stammen met staken in de rivier geplaatst zouden worden via ankers.\nSchaalstok van 48 Voeten = 438 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2029",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.49 = 0.37 El.",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2016/plan-voor-een-kanonneerboot"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fa/60/5b/ee/58/08/48/7d/bf/50/50/c9/33/80/5c/ff/66935ab9-5b85-4bd7-9ed1-c24e0acb71c0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fa/60/5b/ee/58/08/48/7d/bf/50/50/c9/33/80/5c/ff/66935ab9-5b85-4bd7-9ed1-c24e0acb71c0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2029.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van een uitlegger."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

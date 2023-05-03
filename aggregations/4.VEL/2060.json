@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2060.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4105545e-4db1-4c53-96d5-47c70140ac26",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2060.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsboven] vervolg van de titel : \nExplanations: [upper right] continuation of the title : \nOntworpen Ingevolge de Memorie Sub Litt: B. en naa de locaale Inspectie en Bevindinge geconcerteert door J.H. Hottinger L. Ingenieur, A. Kikkert Cap. ter Zee, Wichers, Friderici, J.G.R. B\u00f6hm. \n[rechtsonder] een legenda bij de letters A t/m F en M : \n[lower right] a key to the letters A to F and M : \nExplicatie der Letteren. \nA: Batterie van \u2026 8 \u2026 24 lb. \nDeeze batterie woord 2 Voeten boven de Horizontaale Lijn aangelegd, om de Batterij in de Flanquen te dekken. Deeze batterij ageerd met \u20264 \u2026 12 lb. \nB: Batterie van \u2026 16 \u2026 24 lb. \nC: Batterij van 2 Houwitsers \u00e0 16 lb Steen.\nD: Batterij van \u2026 6 \u2026 24 lb. \nE. Batterij van \u2026 6 \u2026 12 lb. \nF. Battery van \u2026 5 \u2026 18 lb. \nM: te Planten lemmetjes heg tot dekking van het Communicatie Pad.",
+        "dc:title": "Projectplan van batterijen bij de redoute Leiden ter verdediging van de 'Linie van Verstopping'",
+        "dc:description": "Titel Leupe: Plan en profil der geprojecteerde Batteryen om en by de redout Leyden, dienende tot defensie der Linie van Verstopping.\nVerbonden met het in 1786 opgestelde plan voor de \u2018Linie van Verstopping\u2019, dat een vijandelijke vloot moest beletten de Surinamerivier op te varen (zie VEL2013), was dit aanvullend ontwerp voor twee buitenbatterijen bij de redoute Leiden ter extra bescherming van de voorgestelde vaste barri\u00e8re over de Surinamerivier. Dit projectplan met profiel toont behalve de nieuwe batterijen zelf ook het \u2018Communicatie Pad\u2019, de met een haag van limoenbomen te camoufleren verbindingsweg tussen Leiden en de buitenwerken. De uitvoering van dit project na 1790 volgde in hoofdzaak het oorspronkelijke ontwerp, zoals te zien is op VEL2065, maar met een wat soberder opzet. Zo werd alleen de batterij op enige afstand aan de kust aangelegd en kwam de tweede pal naast Leiden te vervallen, evenals het voorwerkje aan de landzijde van de redoute.\nHet noorden is onder.\nSchaalstokken van 110 Rhynlansche Roeden, dienende tot het Plan = [ca. 1 : 2.200] / profielen 4 Rijnlandse Roeden, dienende tot het General Profil der Batterijen = [ca. 1 : 90] / [2] eene Rhijnlandsche Roede tot het Profil van het Communicatie Pad = [ca. 1 : 47].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2060",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53.5 x 75 cm.",
+        "dcterms:date": "1786",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2216/projectplan-van-batterijen-bij-de-redoute-leiden-ter-verdediging-van"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/16/db/af/72/4e/37/4a/e5/97/93/60/2d/a5/ad/07/71/03c3ad5d-1ab5-4029-bcbe-f3533654b2d5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/16/db/af/72/4e/37/4a/e5/97/93/60/2d/a5/ad/07/71/03c3ad5d-1ab5-4029-bcbe-f3533654b2d5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2060.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan en profil der geprojecteerde Batteryen om en by de redout Leyden, dienende tot defensie der Linie van Verstopping."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

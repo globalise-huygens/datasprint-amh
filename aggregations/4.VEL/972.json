@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/972.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8eb4e2ef-a437-467b-8e05-b358b455b653",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0972.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Brouillon, van een derde project, ter Verbeetering en Versterking der Werken van Colombo, ...",
+        "dc:title": "Plan voor veranderingen aan het kasteel van Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Brouillon van een derde project ter verbetering en versterking der werken van Colombo.\nNotities verso: Plan de Colombo Par Mr: Reimer. / No. 1 / No 129-142 / ..4 52 [in potlood, 52 onder het andere getal geschreven].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0972",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 67,5 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/771/plan-voor-veranderingen-aan-het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/73/77/c1/a2/94/83/44/c9/a6/b5/e8/bb/49/2e/6a/9e/42058963-3a28-40fa-a2a0-2b6648e6a48f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/73/77/c1/a2/94/83/44/c9/a6/b5/e8/bb/49/2e/6a/9e/42058963-3a28-40fa-a2a0-2b6648e6a48f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/972.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Brouillon van een derde project ter verbetering en versterking der werken van Colombo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

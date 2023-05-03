@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/284.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e7bf5fbc-0bf9-439b-b7b5-39d9e5e586e5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0284.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het Noordoostelijke deel van Japan met de reis van Commandeur Fries",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van het Noord-Oostelyk gedeelte van Japan en Jeso, het Statenland, Compagniesland enz., waarop den trek van den Commandeur Fries, met De Castricum in 1643.\nDatering ca. 1695 naar een voorbeeld van 1643.\nMet aantekeningen.\nDe kompaslijnen zijn gedrukt.\nRechtsboven genummerd: 41..\nNotities verso: 'T Land van Jeso ende andere benoorden Japan. / Ryks-Archief 's Gravenhage / [stempeltje, 2x].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0284",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7976/kaart-van-het-noordoostelijke-deel-van-japan-met-de-reis-van"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6e/c2/20/df/93/f7/4a/33/b6/56/1f/a8/9e/3c/cf/af/64aeeed0-bffb-4735-842e-8a62b4c2b854.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6e/c2/20/df/93/f7/4a/33/b6/56/1f/a8/9e/3c/cf/af/64aeeed0-bffb-4735-842e-8a62b4c2b854.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/284.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Noord-Oostelyk gedeelte van Japan en Jeso, het Statenland, Compagnieland enz., waarop de trek der reis van den Commandeur Fries, met de Castricum in 1643."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1564.28.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ceb16a5d-a721-44b3-97b9-fe63b30ea5b1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1564_28.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)",
+        "dc:description": "Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.\nBij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.\nVEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.\nSchaalstok 200 Rijnland voet = 100 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1564.28",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1774-1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7826/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f4/5d/7a/14/fd/1f/4d/02/98/24/0d/39/cc/c1/b4/1c/39001858-cd03-4b39-a267-278da8899060.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f4/5d/7a/14/fd/1f/4d/02/98/24/0d/39/cc/c1/b4/1c/39001858-cd03-4b39-a267-278da8899060.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.28.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 28"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/488.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cef047b9-1087-42c7-8206-9cf28bc5ad4a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0488.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Halmahera, Seram en Nove Guinea",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de West en Noordkust van Nieuw-Guinea, benevens de Papoesche Eilanden.\nRechtsboven genummerd: 46.a..\nDe achterkant is beplakt met een vel papier.\nOpmerking catalogus Leupe: Deze kaarten zijn vervaardigd door de Schippers enz., in de expeditie onder bevel van Jacob Weyland.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0488",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 74 cm",
+        "dcterms:date": "ca. 1705",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2377/kaart-van-halmahera-seram-en-nove-guinea"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8e/e1/b8/ed/49/06/4c/38/85/d6/10/6d/a5/f2/9a/3f/14ec1b04-6e33-4b66-9b3f-a9888ee7aca1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8e/e1/b8/ed/49/06/4c/38/85/d6/10/6d/a5/f2/9a/3f/14ec1b04-6e33-4b66-9b3f-a9888ee7aca1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/488.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de West- en Noordkust van Nieuw-Guinea, benevens de Papoesche Eilanden."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

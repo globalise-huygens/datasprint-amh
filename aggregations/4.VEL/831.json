@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/831.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e697db31-77a1-48cf-8c09-738ecd2d9221",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0831.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Concept van 't Plaan de Caap de Goede Hoop / Plaen van de Baaij de Caap de Goede Hoop",
+        "dc:title": "Concept voor versterking van Kaap de Goede Hoop",
+        "dc:description": "Titel catalogus leupe (NA): Concept van 't Plaan de Caap de Goede Hoop (te versterken).\nOpschrift van de profieltekening die eronder is aangehecht: Profil van de batterij van 24 stucken Cannon als ook van de Ronduijt.\nNotities verso: onleesbaar met linnen gerestaureerd.\nPlankaart van de aanleg van verschillende vestingwerken en batterijen, een aarden ronduit, een gemetselde vestingmuur ter versterking van de bestaande bolwerken op de rede van de Tafelbaai.\nAangehecht is een profieltekening met legenda: A-K; A-G\nBij aangehecht profiel geen schaal omgerekend.\nAfmetingen profiel volgens catalogus Leupe: 31 x 39 cm\nDoor Leupe toegeschreven aan Pieter Noordt.\nTermen op deze kaart vermeld: ronduit, bolwerk, batterij.\nTopografische naam vermeld op deze kaart: Tafelbaaij.\n70 [Rijnlandse] roeden = 35 strepen; omgerekende schaal [1 : 7532] / 50 [Rijnlandse] voeten = 58 strepen; omgerekende schaal 1 : 270.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0831",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "schip / vaartuig",
+            "rede / haven / pier",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "808 x 403 mm",
+        "dcterms:date": "ca. 1714",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2578/concept-voor-versterking-van-kaap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/76/eb/f9/fe/a9/ba/41/71/86/86/b4/2c/2a/89/3b/8a/1e1a9af5-ce65-4ae3-88e9-9fc26d3f751f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/76/eb/f9/fe/a9/ba/41/71/86/86/b4/2c/2a/89/3b/8a/1e1a9af5-ce65-4ae3-88e9-9fc26d3f751f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/831.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Concept van 't Plaan de Caap de Goede Hoop (te versterken)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2045B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9aee4500-a443-475e-90b1-3e62deb8a2c7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2045b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [onder] een legenda bij de letters A t/m H en een aantekening : \nExplanations: [below] a key to the letters A to H and a note : \nAAAAAA Redout Purmerent soo als de zelve zig tegenswoordig in staad bevind. \nBBBB Bastions welke veel te kleijn sijn om eenig geschut daar in te kunnen plaetsen. \nCCCCC Gragt om De Zelve welke Onnoodig is en diend gevult te worden. \nDDDDD Bedeckte weg en glasie welke tot een Capitaele wall Diend gemaekt te worden soo als onderleggende project anwijst. \nEF Profil van de linie EF. \nG Wagt huijs. \nH Sluijs. \nDe gestippelde linien wijzen aan de verbeetering van gemelde Redout Purmerent.",
+        "dc:title": "Plattegrond van de redoute Purmerend",
+        "dc:description": "Titel Leupe: De Redout Purmerent, soo als deselve teegenwoordig sig in staad bevind met de voorgestelde verbeteringen.\nIn aanvulling op Fort Nieuw Amsterdam was in het in 1733 opgestelde plan voor de verbetering van de verdediging van Suriname voorzien in de aanleg van twee hulpforten op de tegenoverliggende oevers aan de mondingen van de Suriname en de Commewijne. De eerste daarvan, de aarden redoute Purmerend aan de westoever van de Suriname, werd in 1748 begonnen naar een ontwerp van de vaandrig Andries Lodewijk (Andreas Ludovicus) Calvi, tussen 1744 en 1754 de functie 'waarnemend inspecteur der fortificati\u00ebn'.  Eenmaal in dienst gesteld, bleek de redoute Purmerend op een aantal punten niet goed te voldoen. Zo had Calvi aan de rivierkant twee tenailles laten aanleggen waarvan de punten eigenlijk te klein waren om met voldoende geschut te worden bezet, terwijl de gracht en voorwal met glacis zo dicht op de oever als overbodig werd ervaren.\nDit is een situatiekaart van de redoute in de oorspronkelijke staat die omstreeks 1767 werd getekend door de cadet der artillerie Jacob Gerrit Dircks. Deze was een zoon van de directeur-generaal der fortificati\u00ebn en gebouwen in Suriname Abraham Dircks, in functie tussen 1766 en 1772. Een plan tot verbetering van Purmerend door Dircks jr. is hier dun gestippeld ingetekend; zijn kaart op VEL2044B geeft dit in meer detail weer. Van Dircks sr. bestaat in het Nationaal Archief overigens een zelfde plan, onder nummer VEL2045A.\nHet noorden is onder.\nSchaalstok van 10 Roeden = [ca. 1 : 490].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2045B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "40,5 x 53,5 cm.",
+        "dcterms:date": "ca. 1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2233/plattegrond-van-de-redoute-purmerend"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/77/8d/59/19/a1/41/4e/0c/8b/4a/5d/dd/6f/d0/a2/a0/6cba247e-712a-429f-94a4-3e4bd7c10024.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/77/8d/59/19/a1/41/4e/0c/8b/4a/5d/dd/6f/d0/a2/a0/6cba247e-712a-429f-94a4-3e4bd7c10024.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2045B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2, profil"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

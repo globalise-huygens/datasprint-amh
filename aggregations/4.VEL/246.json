@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/246.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dbefa18f-7d00-4c0b-821d-913656773d94",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0246.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Passage bewesten 't Comp. Eiland en bekwame Kielplaets in de Baay van Trinconomale",
+        "dc:title": "De baai van Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Passage Beoosten en Bewesten 't Compagnies Eiland en bekwame Kielplaats in de Baay van Trinconomale.\nNotities verso: Nr. 12 Trinconomale.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0246",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rede / haven / pier",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "490 x 650 mm",
+        "dcterms:date": "1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4774/de-baai-van-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/82/12/5f/81/3e/e4/4a/70/a8/2c/9d/84/e7/d4/e2/84/0cfc5d71-d594-401f-bc3d-ac5eae5dcdab.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/82/12/5f/81/3e/e4/4a/70/a8/2c/9d/84/e7/d4/e2/84/0cfc5d71-d594-401f-bc3d-ac5eae5dcdab.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/246.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

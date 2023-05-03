@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/334.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/796935e5-bd5e-42a4-9d08-5a236e64a95b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0334.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "D' Ooster Haven van Mauritius / T' Eylandt Mauritius",
+        "dc:title": "Kaart van het eiland Mauritius",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van 't Eyland Mauritius.\nLegenda: A-W",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0334",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kerk / pastorie",
+            "vesting",
+            "rede / haven / pier",
+            "scheeps- / timmerwerf",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "530 x 735 mm",
+        "dcterms:date": "1600-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/872/kaart-van-het-eiland-mauritius"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/06/f2/8a/1d/ab/3d/4a/4e/b0/94/8b/9b/58/51/ae/0e/71052c15-82ef-4551-a258-00265af53214.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/06/f2/8a/1d/ab/3d/4a/4e/b0/94/8b/9b/58/51/ae/0e/71052c15-82ef-4551-a258-00265af53214.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/334.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van 't Eyland Mauritius."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1489.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ca8f7076-03bf-4cd6-9a56-57166b873269",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1489.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Generaale en Speciaale Kaart der Colonie van de Republicq der Vereenigde Nederlanden Geleegen in Guayana Langs de Zeekust de Rivieren Ponmaro, Essequebo, Demerary, van de Grensen van Berbice tot de rivier Morocco aan de Grens in de Spaansche Besittingen Oronoco.",
+        "dc:title": "Kaart van de Nederlandse bezittingen in Guyana",
+        "dc:description": "Titel Leupe: Generale en speciale kaart der Colonien van de republicq der Ver. Nederl., geleegen in Guyana, langs de Zeekust der rivieren Poumaron, Essequebo, Demerary; van de grensen van Berbice tot de rivier Morocco aan de grens in de Spaansche Bezitting Oronoco.\nDe kaart toont onder andere de algemene topografie, de plantagegebieden, de fortificaties, de (militaire) verbindingswegen en het agrarisch grondgebruik.\nLegenda: _Koffy. Zuiker. Katoen. Cacao. Bosch. Verlaate\nBraak\nen Kostgronden. Steenbakkereij en Mezeley. Werk\nen Bouwhout. Zaag Moolen. Ryst\nTabakgronden. Kerk. Indianen Dorpe en Wooningen. A t/m F: Geprojecteerde Linien, en Canaals tot eene binnenlandsche Communicatie en Defensie. x t/m y: Geprojecteerde Militaire Posten van Europeesche Soldaaten, en Neger Militie Cultures tot den Onderhoud der Troupen. AA Terrain reserv\u00e9. aa Batteries projett\u00e9s. bb Canaux projett\u00e9s. cc [idem]. dd [idem] _\nOpschriften: NB de Rivier Cajonie heeft naar omtrent nog 2000 Roeden Loop, een Vall genaamt Akajoe. De Oevers der Rivieren en Kreeken Zyn meest all met Zwaare Bosschen, en de Savaanes of Weilanden met Kruipelbosch, en Riet bewassen, \u2019t welk laatste rottende tot Sluik wordt; en terwijl het Regenwaater niet genoegzaam kan afloopen, zoo zijn de Weilanden veel moerassig.\nSchaalstok van 6000 Roeden (schaal ca 1:193.000)\nDit is een manuscriptversie van VEL1490A. Zie ook VEL1488.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1489",
+        "dc:subject": [
+            "landerij / plantage",
+            "banderol / cartouche / versiering",
+            "vesting",
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "2 dln., totaal 66 x 102,5 cm",
+        "dcterms:date": "1796",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1867/kaart-van-de-nederlandse-bezittingen-in-guyana"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b9/81/3b/b3/70/9d/46/5b/b9/1b/8b/83/70/e2/c6/2d/e2088a64-a879-419c-b0b5-33e79bdf41b0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b9/81/3b/b3/70/9d/46/5b/b9/1b/8b/83/70/e2/c6/2d/e2088a64-a879-419c-b0b5-33e79bdf41b0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1489.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Generale en speciale kaart der Colonien van de republicq der Ver. Nederl., geleegen in Guyana, langs de Zeekust der rivieren Poumaron, Essequebo, Demerary; van de grensen van Berbice tot de rivier Morocco aan de grens in de Spaansche Bezitting Oronoco."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

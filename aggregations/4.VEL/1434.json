@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1434.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e4cf05c6-2fe3-4db4-9706-aaca875f6a9a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1434.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Martinique",
+        "dc:description": "Titel Leupe: Insula Matanino Vulgo Martanico in lucem edita.\nDeze kaart van Martinique verdeelt het eiland in twee\u00ebn: een Frans gebied in het westen en een inheems gebied in het oosten genaamd Cabesterre oftwel het kwartier van de inboorlingen. Zoals kan worden verwacht is het westen veel beter in kaart gebracht. Voornamelijk aan de kust zijn veel details te vinden. Op de kaart zijn bergen getekend; de cartouche bevat kransen en op een pilaar gelegen navigatie-instrumenten.\nHet noorden is boven.\nSchaal van 1 1/2 Duitse mijlen = 86 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1434",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.46 - 0.56 El.",
+        "dcterms:date": "1720",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10347/kaart-van-martinique"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fc/69/ef/07/46/8f/48/85/8a/98/3b/62/ad/5a/a3/85/7693486c-948a-42c0-b20c-eb77d5854d1e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fc/69/ef/07/46/8f/48/85/8a/98/3b/62/ad/5a/a3/85/7693486c-948a-42c0-b20c-eb77d5854d1e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1434.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Insula Matanino Vulgo Martanico in lucem edita."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

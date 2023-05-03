@@ -1,0 +1,57 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/773.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/efca895a-8437-4e7e-b39e-0daaca58bb11",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4vel_773.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aldvs vertoont het Casteel de Mina coomende vyt den Westen",
+        "dc:title": "Gezicht op het fort Elmina",
+        "dc:description": "Gezicht op het fort Elmina.\nTitel catalogus Leupe (NA): Het Kasteel D'Elmina, aldus vertoont het Casteel de Mina, coomende uyt den Westen.\nAldvs vertoont het Casteel de Mina coomende vyt den Westen.\nNotities verso: 17e eeuw [in potlood] / a 509 [in potlood].\nMiddenonder twee keer: 773 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0773",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "vesting",
+            "Persoon",
+            "Europeanen",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "gebouw",
+            "huis / woonhuis",
+            "schip / vaartuig",
+            "rede / haven / pier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "aquarel/waterverf",
+        "dcterms:extent": "44 x 56 cm",
+        "dcterms:date": "ca. 1665",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1116/gezicht-op-het-fort-elmina"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0b/fb/34/e3/91/25/41/83/8e/62/39/cc/ee/fb/0f/80/a09e3cd6-4f8c-4d87-846f-04339c9173e6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0b/fb/34/e3/91/25/41/83/8e/62/39/cc/ee/fb/0f/80/a09e3cd6-4f8c-4d87-846f-04339c9173e6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/773.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Kasteel D'Elmina, aldus vertoont het Casteel de Mina, coomende uyt den Westen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1703.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8d12baad-f995-40fe-a0f5-7493a76ed738",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1703.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van percelen aan de Surinamerivier",
+        "dc:description": "Titel Leupe: Kaart van eenige opgemeten gronden tusschen de Plantagien Acaribo en la Rancontre.\nDit betreft een meting van meerdere percelen aan de Surinamerivier. Het eerste perceel behoort tot de plantage Acaribo en is aangegeven met de letters A-C en X, daarnaast ligt het niemandsland binnen het kader B-D en weer daarnaast het land van Joh. Sterrenbergh dat met de letters I, H, G, F, E en D is aangegeven en voor de plantage Waterland verleendt is. Ten oosten (onder op de kaart) van deze laatgenoemde plantage is het land van Postelt en de plantage Waterlandt gelegen. De omvang van al deze percelen is in Surinaamse akkers (1 akker = 0,43 hectare) aangegeven in de aantekening linksonder. De kaart is ondertekend op 30 Mei 1716.\nHet noorden is rechts.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse voeten = 161 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1703",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.55 - 0.10 El.",
+        "dcterms:date": "1716",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9830/kaart-van-percelen-aan-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/69/a3/dc/d8/3d/b3/4e/65/84/a7/73/fd/ef/9d/6e/a3/b0b77ae8-0ec6-4de2-9dac-85575f999681.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/69/a3/dc/d8/3d/b3/4e/65/84/a7/73/fd/ef/9d/6e/a3/b0b77ae8-0ec6-4de2-9dac-85575f999681.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1703.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige opgemeten gronden tusschen de Plantagien Acaribo en la Rancontre."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

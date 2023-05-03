@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1905.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8f5f41d4-8c4f-40b7-9f1f-b512035cc44f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1905.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de grond van de weduwe van de heer Schaffo",
+        "dc:description": "Titel Leupe: Kaart van de plantagien tusschen Waterwyk en de Eendragt gelegen.\nDeze kaart toont de plantages Eendracht en Waterwijk, en de grond van de weduwe van de heer Adriaan Schaffo.\nDe weduwe van Schaffo heeft de meting aangevraagd, om het land aan te duiden dat op 23 Januari 1708 aan haar verleend is (weergegeven met de letters A-K).\nHet land van de weduwe van de heer Schaffo blijkt 2150 Surinaamse akkers ( 924,5 hectare).\nTen oosten van het perceel ligt de plantage Moolwijk.\nDe kaart is door de landmeter ondertekend op 2 Maart 1732 en officieel erkend op 11 April 1732 te Paramaribo.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 123 strepen.\nOorsprong: [OBP Suriname] 1732, [fols.] 1082-1083.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1905",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.54 - 0.43 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10153/kaart-van-de-grond-van-de-weduwe-van-de-heer-schaffo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a9/2e/aa/ec/a8/ce/42/34/9b/ac/58/9e/58/25/86/7e/17a420d1-2c27-4135-8c78-f94d5cc792cb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a9/2e/aa/ec/a8/ce/42/34/9b/ac/58/9e/58/25/86/7e/17a420d1-2c27-4135-8c78-f94d5cc792cb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1905.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de plantagien tusschen Waterwyk en de Eendragt gelegen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1277.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3a50dbee-9633-4596-926e-6f43130fdcd3",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1277.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plaan van het Fort en omleggende cituatie van Grise\u00e9",
+        "dc:title": "Kaart van het fort van Griss\u00e9 en omgeving",
+        "dc:description": "Titel catalogus Leupe (NA): Plaan van het Fort en omleggende cituatie van Grise\u00e9.\nNotities verso: Plaan van het Fort en omleggende cituatie van Grissee anno 1719 [twee keer] / No. 21 Plan en omliggende situatie van Griss\u00e9. Register 2, Deel 1, Folio 7, Portefeuille .. [geschreven op een blauw etiket] / 641 [met vette cijfers gestempeld op een etiketje] / No. 78. [vrij groot, op een etiket] / no. 195.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1277",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41,5 x 51 cm",
+        "dcterms:date": "ca. 1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3150/kaart-van-het-fort-van-griss%C3%A9-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/41/64/52/56/aa/e6/4e/85/93/81/71/16/49/68/02/d7/211d3a92-9c4b-40c3-a67e-b5f8498b470b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/41/64/52/56/aa/e6/4e/85/93/81/71/16/49/68/02/d7/211d3a92-9c4b-40c3-a67e-b5f8498b470b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1277.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van het fort en omleggende cituatie van Gris\u00e9e."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

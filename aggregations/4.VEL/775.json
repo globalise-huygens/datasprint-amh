@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/775.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2845f7d3-13bc-408d-9634-9d2706984c0d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_775.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plaan van de Fortressen St: George Delmina en Coenraadsburg",
+        "dc:title": "Plattegrond van de forten Coenraadsburg en Sint George te Elmina",
+        "dc:description": "Plattegrond van de forten Coenraadsburg en Sint George te Elmina.\nTitel catalogus Leupe (NA): Plaan van de Fortressen St. George Delmina en Coenraadsburg.\nPlaan van de Fortressen St: George Delmina en Coenraadsburg.\nHet papier van de kaart is op linnen gelijmd.\nDe kaart verkeert in een slechte materi\u00eble staat.\nNotities verso: Het kasteel St. George d'Elmina. Register 8, Deel 1, Folio 31, Portefeuille .. [geschreven op een blauw etiket] / 471 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0775",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "brug",
+            "gebouw",
+            "rede / haven / pier",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "92 x 264 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1119/plattegrond-van-de-forten-coenraadsburg-en-sint-george-te-elmina"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6b/08/2b/c3/4c/99/48/52/b9/39/c1/b2/1d/91/27/e0/fa94a572-81c8-4f47-879e-1379d41bfbab.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6b/08/2b/c3/4c/99/48/52/b9/39/c1/b2/1d/91/27/e0/fa94a572-81c8-4f47-879e-1379d41bfbab.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/775.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van de Fortressen St. Georgge Delmina en Coenraadsburch."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

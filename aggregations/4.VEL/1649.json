@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1649.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fce13308-131e-4b73-ac2a-35ef1efce32e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1649.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "[right] Project Plans en Proffillen der redoutten a Machicoulis in de colonie Berbice.\nA. Plattegrond van de redoutten boven de plantage Nieuw Savonnette, en bij de Kreek Wicky in Rio Berbice, als meede boven de plantage Bearn\u00e9 in Rio Canje.\nB. Het profiel.\nC. Plan, vertoonende hoe de polder balken dienen gearangeerd te worden.\nD. Plan van de Redoute bij de Gereformeerde Kerk....\nE. Proffil van dese redoute en houten tamboer.",
+        "dc:title": "Ontwerp voor een redoute tussen de rivier Berbice en de kreek Wironje",
+        "dc:description": "Titel Leupe: Project plans en proffillen der Redoutten \u00e0 Machicoulis in de Colonie de Berbice.\nDe laatste versterking stroomopwaarts van Fort Nassau is te zien op dit plan van Fran\u00e7ois Samuel de Veije, met diens ontwerp voor een binnen de bestaande wal te plaatsen toren \u2018\u00e0 machicoulis\u2019, van een vergelijkbaar ontwerp als voorzien voor Nieuw-Savonette, de Wikkikreek en aan de Canje. Deze schets is compleet met plattegronden (A en D) en profielen (B-C en E).\nSchaal van 36 Rijnlandse voeten = 95 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1649",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "redoute"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.495 - 0.66 El.",
+        "dcterms:date": "1766",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10290/ontwerp-voor-een-redoute-tussen-de-rivier-berbice-en-de-kreek-wironje"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/41/99/33/9f/c7/a9/42/51/89/4c/0a/0d/a4/78/93/d2/418667c2-a3ac-41f6-b3b1-967fc6c5c7dc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/41/99/33/9f/c7/a9/42/51/89/4c/0a/0d/a4/78/93/d2/418667c2-a3ac-41f6-b3b1-967fc6c5c7dc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1649.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Project plans en proffillen der Redoutten \u00e0 Machicoulis in de Colonie de Berbice."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

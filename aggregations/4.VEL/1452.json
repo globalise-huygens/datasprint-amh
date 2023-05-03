@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1452.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3568dec2-5392-4b2a-b5b1-207aeed0a10e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1452.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [upper left] a key to the letters A to Z and a to h : \nRenvoi. \nA. De Willemstad. \nB. Het Fort Amsterdam. \nC. Laage Batterie of Water Fort. \nD. Gouvernement. \nE. Poort van\u2019t Fort. \nF. De Kerk. \nG. De Katte. \nH. Kruit-Magazijnties. \nI. Bastion Vlaggestok. \nK. [Bastion] Nieuwe Batterie. \nL. [Bastion] de Klok. \nM. [Bastion] de Katte. \nN. [Bastion] de halve Maan. \nO. [Bastion] Orange. \nP. [Bastion] Bloet-Fort. \nQ. [Bastion] Schrikkenburg. \nR. Stadt Poorten. \nS. Muur van\u2019t Hoffie. \nT. Het Kerkhoff. \nU. Riff van de 3 Gebroeders. \nW. Steene Beer, waarom de Ketting word vastgemakt, dienende tot Sluiting de Haven. \nX. Steene Pilaren of Beeren om de Schepen van Oorlog vast te leggen. \nIJ. Scheeps Timmer-Werven. \nZ. Berg Scharlo. \nNieuwe Proiecteerde Werken. \na. Cunette. voor de Nieuwe Versterkinge. \nb. Lunette. [idem]. \nc. Fort op het Riff, aen de West Zijde van de Haven. \nd. Nieuw-Werk op de Berg Scharlo. \ne. Regenbak.\n93 \nf. Tenaille voor de Poort van\u2019t Fort Amsterdam. \ng. Nieuwe Versterking van de Hoofd Plaets aengenoomen van Willem Meijer. \nNB. h. Reduit, seer dienstig. \n\n[below] a note : \nPlan behoorende tot de Memorie van den Heer Generaal Burmania gedateert den 14:e November 1751. G v Burmania.",
+        "dc:title": "Projectplan voor nieuwe verdedigingswerken rond Wilemstad",
+        "dc:description": "Titel Leupe: Plan van de Willemstad en het fort Amsterdam op het Eyland Cura\u00e7ao.\nGeneraal Van Burmania\u2019s algemene projectkaart omvatte naast de versterking en uitbreiding van Willemstad zelf ook de aanleg van enkele nieuwe verdedigingswerken rond de stad. Bij de toegang tot de Sint Annabaai projecteerde hij aan de westzijde een sterk fort op het rif (c), ter vervanging van of aanvulling op de twee batterijen die aan deze kant in 1701-1703 waren gebouwd, namelijk Punta Brava (waar de ketting voor de afsluiting van de haven werd bewaard) en de Rifbatterij. Pas in 1828 zou hier daadwerkelijk een nieuw fort worden gebouwd, het tegenwoordig nog bestaande Riffort. Op de zuidhelling van de \u2018Berg van Scharlo\u2019 aan de overzijde van het Waaigat wenste de generaal ook een fort (d), ter voorkoming van vijandelijke aanvallen op Willemstad van de landzijden. Pas in 1796 verrees helemaal op de top van de heuvel Seru Sablica, dus iets noordelijker dan de hier aangegeven locatie, het fort Republiek, dat in 1816 de naam Fort Nassau kreeg.\nHet noorden is boven.\nSchaalstok van 70 Rheinl: Ruthen = [ca. 1 : 1.500].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1452",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "92,5 x 121,5 cm.",
+        "dcterms:date": "1751",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1612/projectplan-voor-nieuwe-verdedigingswerken-rond-wilemstad"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7f/c1/45/5c/79/1e/42/7d/9b/5a/07/f3/d1/e7/23/2c/2ca90599-6d5f-4d55-a0ee-57e642b2cfbf.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7f/c1/45/5c/79/1e/42/7d/9b/5a/07/f3/d1/e7/23/2c/2ca90599-6d5f-4d55-a0ee-57e642b2cfbf.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1452.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Willemstad en het fort Amsterdam op het Eyland Cura\u00e7ao."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

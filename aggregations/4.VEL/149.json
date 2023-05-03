@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/149.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9d1e0e75-4d89-469e-bf19-2957b925c51e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_149.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Goud Kust in Guinea",
+        "dc:title": "Kaart van de Goudkust",
+        "dc:description": "Kaart van de Goudkust.\nTitel catalogus Leupe (NA): Kaart van de Goudkust in Guinea, tusschen Joni en Rio da Volta uwt 't orseneel van dat myn gelanckt is.\nDe Goud Kust in Guinea.\nOnderin de cartouche van de schaalstok: W 't orsineel van dat mijn gelanckt is.\nMiddenonder een stempel: 'S Ryks Archief.\nIn de hoeken, middenboven en middenonder: 149 [in potlood].\nNotities verso: De Heer van der Kemp, Den Haag [met naast deze naam een rood lakzegeltje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0149",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "vesting",
+            "schip / vaartuig",
+            "gebouw",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "54,5 x 97 cm",
+        "dcterms:date": "17e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/985/kaart-van-de-goudkust"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/14/36/ac/d9/8a/b2/4a/3b/9a/dc/6c/f0/38/fb/88/52/f4841add-c4a7-4a5e-98e5-057b343a1ead.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/14/36/ac/d9/8a/b2/4a/3b/9a/dc/6c/f0/38/fb/88/52/f4841add-c4a7-4a5e-98e5-057b343a1ead.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/149.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Goudkust in Guinea, tusschen Joni en Rio da Volta uwt. 't orseneel van dat myn gelanckt is."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

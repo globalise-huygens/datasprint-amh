@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1171.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/69b0e6c8-0676-4c60-8737-0ccd2c20ccdb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1171.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Profil of opteekeninge van de seyde dewelke in de grondteekeninge Zuyden en Noorden aanloopt, en dewelke uytsigt heeft na de rivier Tsitaroem en na deszelfs omleggende vlakte",
+        "dc:title": "Gezicht op het kantoor te Soecawayana",
+        "dc:description": "Titel catalogus Leupe (NA): Profil of opteekeninge van de seyde dewelke in de grondteekeninge Zuyden en noorden aanloopt, en dewelke uytsigt heeft na de rivier Tsitaroem en na deszelfs omleggende vlakte.\nAan de linkerrand zit een strookje van 2 cm dat meegenomen is uit de band OBP.\nNotities verso: 1731 N 2 [moet net als VEL1170 ook OBP Batavia 1731 eerste deel zijn] / 395 [moet het folionummer zijn] / 602 o.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1171",
+        "dc:subject": [
+            "kompas / windroos",
+            "overzicht / aanzicht",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "18,5 x 102,5 cm",
+        "dcterms:date": "1730",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6321/gezicht-op-het-kantoor-te-soecawayana"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/71/7d/01/18/6f/df/4b/b9/8c/77/57/37/f8/56/d4/30/69c37668-d419-4473-b7ff-6da6702e5c80.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/71/7d/01/18/6f/df/4b/b9/8c/77/57/37/f8/56/d4/30/69c37668-d419-4473-b7ff-6da6702e5c80.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1171.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Profil of opteekeninge van de seyde dewelke in de grond-teekeninge Zuyden en Noorden aanloopt, en dewelke uytsigt heeft na de rivier Tsitaroem en na deszelfs omleggende vlakte."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

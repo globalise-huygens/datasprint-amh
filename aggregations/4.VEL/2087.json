@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2087.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b523b452-30e8-4d60-837c-c86a0689c05b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2087.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [linksboven, rechtsboven] een legenda bij de letters A t/m N : \nExplanations: [upper left, upper right] a key to the letters A to N : \nA is de post en woonhuys van de militairen. \nB. Het magazijn. \nC. De huysing van salomon Zanders. \nD. twee ingangen in den Berg. \nE. Den ouden wegh. \nF. een nieuwen aangeleghde weg naar den Prost. \nG. Een nieuwen aanleg tot versterking en defensie tegens de weggelopene Neegers zyne van Pallisaaden.\nH. Een opening die myn heer mahoney Zal: heeft Laaten maaken. zynde op een hooge berg den Parnassus annex. \nI. een aangelegde kost grond aan de overseyde van de Rivier. \nK. Een anderen Berg Regt over den Parnas. \nL. Een Eyland Leggende midden in de Rivier. \nM. twee Creeken. \nN. Waght huys aan D\u2019overseyde.",
+        "dc:title": "Kaart van de militaire post en de mijn op de Parnassusberg",
+        "dc:description": "Titel Leupe: Schetsteekening van de post op de Parnassersberg.\nIn 1713 werd een militaire post ingericht op de zogenoemde Parnassusberg bij de latere plantage Berg en Dal, een steile heuvel direct aan de Surinamerivier. Vijf jaar later werd hier ook naar goud gegraven onder leiding van de zelfbenoemde mijnbouwexpert Salomon Sanders. Zowel Sanders\u2019 woonhuis (C) als de ingangen van zijn mijn (D) worden vermeld in de legenda bij deze anonieme situatiekaart van de berg met directe omgeving uit 1719. Tot Sanders\u2019 veroordeling in 1723 is hier naar goud gezocht, zonder enig resultaat, en ook de latere pogingen tussen 1729 en 1741 iets verder stroomopwaarts leverden vrijwel niets op.\nHet noorden is rechts.\nSchaalstok van 100 Voeten Reynlans = [ca. 1 : 435].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2087",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "Mijn"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "32,5 x 42 cm.",
+        "dcterms:date": "1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9849/kaart-van-de-militaire-post-en-de-mijn-op-de-parnassusberg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/29/0e/bb/cc/fe/2f/4a/9c/97/51/6e/8f/86/2c/eb/9e/62c305be-bc87-4495-8026-c775bc2c07dc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/29/0e/bb/cc/fe/2f/4a/9c/97/51/6e/8f/86/2c/eb/9e/62c305be-bc87-4495-8026-c775bc2c07dc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2087.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schetsteekening van de post op de Parnassersberg."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

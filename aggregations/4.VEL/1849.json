@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1849.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2af00634-19a4-4e75-b6ec-52121162fb94",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1849.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantages ten noorden van de Commewijne rivier",
+        "dc:description": "Titel Leupe: Generaale kaart van de Noordzyde der Beneden rivier Commewyne, van Braamspunt af tot de laatste plantagie in de Warappe Creque enz..\nDeze kaart toont alle kavels en hun achterlanden ten noorden van de Commewijne rivier van de westelijke (links op de kaart) kust bij Bramspunt tot  de Livonia plantage ten noordoosten in de Warapa Kreek.\nIn de kavels staan eigenamen vernoemd en in de achterlanden zijn afmetingen in Surinaamse akkers (1 Surinaamse akker is gelijk aan 0,43 hectare) geplaatst.\nOp drie plekken langs de rivier is de astand naar de noordelijke kust gemeten (A-B, C-D en E-F) ten voorbereiding op de geplande uitbreiding die verder wordt weergegeven op VEL 1850 t/m 1854.\nDeze kaart legt de nadruk op de wildernis tussen de kust en de reeds bestaande kavels, niet op verder ontginning en de bouw van kanalen zoals de andere kaarten in de serie doen.\nHet fort Nieuw Amsterdam en de redoutes Leyde en Purmerend zijn ter referentie weergegeven, net als de Hoer Helena, Matapica en Warapa Kreek.\nDe kaart is gemeten en getekend in December 1770.\nSchaal van 500 Kettingen \u00e0 66 Rijnlandse voeten = 230 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1849",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.53 - 1.00 El.",
+        "dcterms:date": "1770",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1979/kaart-van-de-plantages-ten-noorden-van-de-commewijne-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/21/b6/81/18/07/62/4e/fe/b4/b8/25/d4/80/43/4a/51/81bfccbe-56c0-44bf-b07e-ae2e4db4b1fc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/21/b6/81/18/07/62/4e/fe/b4/b8/25/d4/80/43/4a/51/81bfccbe-56c0-44bf-b07e-ae2e4db4b1fc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1849.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Generaale kaart van de Noordzyde der Beneden rivier Commewyne, van Braamspunt af tot de laatste plantagie in de Warappe Creque enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

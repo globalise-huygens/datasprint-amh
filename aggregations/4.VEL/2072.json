@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2072.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/adf6bd98-e699-4b1f-b088-002df4cb9211",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2072.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Projectplan voor de versterking van Fort Zeelandia",
+        "dc:description": "Titel Leupe: Plan van eenige werken in het Fort Zelandia.\nIn de decennia na 1710 werden vele verschillende suggesties gedaan voor de verbetering van het ontwerp van fort Zeelandia. Dit plan door de bombardier M\u00fcller geeft een nieuwe draai aan de batterijen, courtines, grachten, magazijnen en bastions door middel van profielen, zijzichten en een plattegrond.\nOorsprong: OBP Suriname 1743 [fols.] 612-613.\nSchaal 12 Rijnlandse roeden = 218 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2072",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.58 - 0.43 El",
+        "dcterms:date": "ca. 1743",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2118/projectplan-voor-de-versterking-van-fort-zeelandia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0c/a7/f0/80/40/fc/49/af/b8/ce/51/61/b2/c3/92/e3/3fa36a13-d029-43e6-ae07-407b7be51fe1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0c/a7/f0/80/40/fc/49/af/b8/ce/51/61/b2/c3/92/e3/3fa36a13-d029-43e6-ae07-407b7be51fe1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2072.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van eenige werken in het Fort Zelandia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

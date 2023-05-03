@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1960.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/87a8f7fe-0be3-45cc-a1b4-65fee8c06e7e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1960.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kustgebied rond de Motkreek",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien, gelegen aan beide oevers van de Motkreek, van Zeezigt en Dageraad tot aan Zee.\nDe kaart geeft een deel van het gebied tussen de zeekust en de Cottica rond de Motkreek weer dat in hoofdzaak pas na ca. 1785 werd ontgonnen.\nDe meting betreft twee kavels: een van de heer Gomarre (aangegeven met de letters A-D), en de ander van de heer Sjaak (aangegeven met de letters E-G en C).\nDe eerste kavel (genaamd de plantage Zeezigt) blijkt 500 Surinaamse akkers (215 hectare) en de tweede 296 akkers (127,28 hectare).\nDe kavels zijn nog omringd door de natuur; tussen de grond van de heer Sjaak en de Motkreek ligt bijvoorbeeld een blaka-beri bos.\n-Ten westen (boven op de kaart) van de kavels ligt de plantage Dageraad en Dankbaarheid en het nieuwe kanaal.\nDe kaart is ondertekend op 26 Mei 1794.\nEen kopie van deze kaart, VEL1960A, is niet apart in de AMH opgenomen.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 125 strepen.\nOorsprong: missive van de Gouv.-Gen. dd 26 mei 1794 sub. no. 852.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1960",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.55 - 0.42 El.",
+        "dcterms:date": "1794",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2255/kaart-van-kustgebied-rond-de-motkreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9c/e0/1f/38/ba/30/44/c7/9d/c8/8b/63/d5/62/f7/fe/c1374b3e-229d-4acf-80db-413588e660ac.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9c/e0/1f/38/ba/30/44/c7/9d/c8/8b/63/d5/62/f7/fe/c1374b3e-229d-4acf-80db-413588e660ac.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1960.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

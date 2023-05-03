@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2152.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4ba8ad1d-687c-4f44-ab19-0ea05500b762",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2152.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de kust van de Approuague tot de Cal\u00e7oene rivier",
+        "dc:description": "Titel Leupe: Kaart van Cayenne, van Raper Waca tot Rio Cassaporu.\nFrankrijk was in de Vierde Engelse Oorlog (1780-1784) een bondgenoot van de Republiek, en hielp, als veel sterkere maritieme en koloniale mogendheid in deze periode, wereldwijd het verlies van aantal Nederlandse koloni\u00ebn voorkomen. In het kader van dit bondgenootschap werd begin november 1781 vanuit Suriname de militair ingenieur Johann Friedrich Ferdinand Wollant naar de Franse buurkolonie Cayenne gezonden om met de autoriteiten aldaar te overleggen over wederzijdse militaire bijstand (of beter gezegd, Franse hulp aan de Nederlandse koloni\u00ebn) en over levering van wapens, ammunitie en voedsel door de Fransen. Tijdens deze missie, die tot eind januari 1782 duurde, verzamelde Wollant ook gegevens voor een aantal kaarten en ontwerpen.\nDeze kaart heeft hij waarschijnlijk zelf geschetst en toont de oostelijke kust tussen de Approuague en de Cal\u00e7oene rivier. Overigens schrijft het Leupe inventaris deze kaart verkeerd toe aan Jefferys en Mareechais, dit betreft mogelijk een kopieerfout.\nSchaal van 10 D.m = 65 strep.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2152",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.46 - 0.34 El.",
+        "dcterms:date": "ca. 1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7830/kaart-van-de-kust-van-de-approuague-tot-de-cal%C3%A7oene-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ac/07/85/fb/8f/f5/43/5f/b9/5b/32/fa/46/31/e0/08/12e2102d-c00f-41e1-9001-0d52ca880449.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ac/07/85/fb/8f/f5/43/5f/b9/5b/32/fa/46/31/e0/08/12e2102d-c00f-41e1-9001-0d52ca880449.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2152.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Cayenne, van Raper Waca tot Rio Cassaporu."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

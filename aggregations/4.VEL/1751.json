@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1751.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ed5381c4-40c4-4ce9-903a-24a2bfab4ef0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1751.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een perceel aan de Corpinekreek",
+        "dc:description": "Titel Leupe: Kaart van eenige stukken land, gelegen tusschen de Corpine en Tawaricoeroe creeken.\nDeze meting van een perceel aan de Corpinekreek is aangevraagd door Frederik Nieuwkerk en Elie du Bois. De omvang van het stuk grond is aangegeven met de letters A-D, en blijkt  1000 Surinaamse akkers oftewel 430 hectare. De aantekening rechts vertelt over de transactie van het stuk land. Ten zuiden (linksonder op de kaart) van het perceel liggen de aparte gronden van Frederik Nieuwkerk en Elie du Bois alsook die van Pappot en Klassesoup. De meting is voltooid op  24 juli 1719 en erkend op 15 augustus 1719.\nHet noorden is rechtsboven.\nSchaal van 110 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 197 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1751",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.415 - 0.32 El.",
+        "dcterms:date": "1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10431/kaart-van-een-perceel-aan-de-corpinekreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d3/4a/fe/38/78/29/4b/09/9f/12/76/1d/cc/4f/82/8b/1591efa3-de1d-479a-a53c-810066249b1b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d3/4a/fe/38/78/29/4b/09/9f/12/76/1d/cc/4f/82/8b/1591efa3-de1d-479a-a53c-810066249b1b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1751.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige stukken land, gelegen tusschen de Corpine en Tawaricoeroe creeken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

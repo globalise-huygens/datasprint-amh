@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1658.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6a759d2b-f260-4f20-ac30-a37adc8b5603",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1658.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "[lower right] a key to the letters a to c : \nRenvoij. \na. De Nieuwe Stad. \nb. Richting voor de vrij Lieden. \nc. Richting voor de negerij der Colonie Slaven.",
+        "dc:title": "Plan voor werkzaamheden voor de nieuwe stad Nieuw-Amsterdam bij de kreek Canje",
+        "dc:description": "Titel Leupe: Kaart van een gedeelte van de mond der rivier met de rigting der nieuwe Stad Amsterdam en die der Vrylieden.\nTijdens het Franse tussenbestuur van 1782-1784 namen de directeuren van de Soci\u00ebteit alsnog het besluit de hoofdplaats met het gouvernement te verplaatsen naar de monding van de Berbice. Herlin kreeg in 1785 de instructie geen verdere werken aan Fort Nassau of de onvoltooide gouvernementsgebouwen in Nieuw-Amsterdam meer te laten uitvoeren maar in plaats daarvan een voorstel te doen voor de locatie en inrichting van de nieuwe stad, die ook weer Nieuw-Amsterdam zou gaan heten. Dit algemene situatieplan toont de ligging van het tweede Nieuw-Amsterdam op een moerassig terrein op de oostoever van de Berbice iets stroomopwaarts van de samenvloeiing met de Canje, dat voorafgaand aan de bouw ontwaterd en ingepolderd moest worden. Zijn plaatskeuze kreeg na enige deliberaties goedkeuring van de directie, waarna in 1787-1788 de eerste polderwerken werden uitgevoerd.\nHet noorden is rechtsboven.\nSchaalstok van 1000 Roeden Rhijnl: = [ca. 1 : 35.700].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1658",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "49 x 63 cm.",
+        "dcterms:date": "ca. 1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7613/plan-voor-werkzaamheden-voor-de-nieuwe-stad-nieuw-amsterdam-bij-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3b/6b/b2/75/27/f1/4f/57/a9/ff/84/dc/f9/69/41/16/460d08a2-d1d5-49c2-b2f5-db7a340c5158.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3b/6b/b2/75/27/f1/4f/57/a9/ff/84/dc/f9/69/41/16/460d08a2-d1d5-49c2-b2f5-db7a340c5158.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1658.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de mond der rivier met de rigting der nieuwe Stad Amsterdam en die der Vrylieden."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

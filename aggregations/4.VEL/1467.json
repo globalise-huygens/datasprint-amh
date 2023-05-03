@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1467.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/db2a44c7-3c97-4bd8-8121-36d27e07299c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1467.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een redoute aan de kust",
+        "dc:description": "Titel Leupe: Teekening van een vierkante Redout of Tooren, dienende ter versterking van de\nbayen als boven.\nDeze schets toont de plannen tot versterking van de kuststrook van Cura\u00e7ao. De hier afgebeelde redoute is een prototype dat op verschillende plaatsen kon worden gebouwd, hoewel duidelijk is dat het ontwerp specifiek werd gemaakt met het oog op de verdediging van de baaien Piscaderis, Sint Michiels en Santa Cruz.. Een facade, drie profielen en drie plattegronden zijn zichtbaar. Naast de detailtekening van de poort zijn weinig verschillen zichtbaar met het ontwerp van twee jaar eerder (zie VEL1461A en D).\nSchaal van 40 Rijnlandse Roeden = 155 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1467",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.73 - 0.48 El.",
+        "dcterms:date": "1744",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1491/ontwerp-voor-een-redoute-aan-de-kust"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f9/b1/8b/cb/65/9f/47/df/8d/f0/21/fc/6e/35/49/28/d96d3230-4ea9-4ce5-9da2-19cab46406eb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f9/b1/8b/cb/65/9f/47/df/8d/f0/21/fc/6e/35/49/28/d96d3230-4ea9-4ce5-9da2-19cab46406eb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1467.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Teekening van een vierkante Redout of Tooren, dienende ter versterking van de bayen als boven."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/780.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/23c535fe-8050-442f-ae4e-d488ec7b7def",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_780.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan / Van de Platte-Grond van S: Edl: Comp: Fortress Coenraadsboerg op de Berg St: Jago.",
+        "dc:title": "Plattegrond van het fort Coenraadsburg te Elmina",
+        "dc:description": "Plattegrond van het fort Coenraadsburg te Elmina.\nTitel catalogus Leupe (NA): Plan van de Platte grond van S. Ed. Comp. Fortres Coenraadsboerg, op de berg St. Jago.\nPlan / Van de Platte-Grond van S: Edl: Comp: Fortress Coenraadsboerg op de Berg St: Jago.\nNotities verso: No. 7 Fortres Coenraads Burg. Register 8, Deel 1, Folio 32, Portefeuille .. [geschreven op een blauw etiket] / 476 509 [in potlood].\nLegenda: 1-71.\nIn de hoeken: 780 [in potlood].\nRechtsonder: No: 13.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0780",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "legenda",
+            "vesting",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "44 x 57 cm",
+        "dcterms:date": "1774",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1120/plattegrond-van-het-fort-coenraadsburg-te-elmina"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ad/82/ff/ca/b0/e6/46/99/b7/47/a7/1e/d6/9d/77/5c/1b52939b-b6af-486f-99ef-b4ebe7799b09.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ad/82/ff/ca/b0/e6/46/99/b7/47/a7/1e/d6/9d/77/5c/1b52939b-b6af-486f-99ef-b4ebe7799b09.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/780.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Platte grond van S. Ed. Comp. Fortres Coenraadsburg, op de berg St. Jago."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

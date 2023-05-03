@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1105.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/71a224d5-05be-4794-a9ef-bd8fc8ec4169",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1105.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Profiel van de Faussebraye",
+        "dc:title": "Profiel van de 'Faussebraye' te Hougli",
+        "dc:description": "Titel catalogus Leupe (NA): Profiel van de Fausse braye.\nNotities verso: N3 1743 / 584 [folionummer in de band ?] / No. 12 [volgnummer van het stuk in de band ?] / 593 d [in potlood].\nEen faussebraye komt in de VOC-terminologie in drie verschillende betekenissen voor: 1: dubbele buitenomwalling van een versterkte plaats. 2: omwalling tussen een gracht en een hoofdwerk. 3: borstwering oor musketschutters voor en onderlangs de hoofdwal. Ook met andere spellingswijzen: faucebray, faucebr\u00e9 en fossebraij.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1105",
+        "dc:subject": [
+            "doorsnede / profiel",
+            "overzicht / aanzicht",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "27 x 42 cm",
+        "dcterms:date": "ca. 1743",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5442/profiel-van-de-faussebraye-te-hougli"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ee/66/cd/cd/ed/21/40/47/a1/fb/1c/8d/85/1e/64/b2/c4a1dff1-d8ed-423a-bcf1-600493283e3b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ee/66/cd/cd/ed/21/40/47/a1/fb/1c/8d/85/1e/64/b2/c4a1dff1-d8ed-423a-bcf1-600493283e3b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1105.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Profil van de Fausse braye."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

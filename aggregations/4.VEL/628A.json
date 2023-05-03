@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/628A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8fd70c86-facc-406a-894d-ce594bda7e6f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_628a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsboven] een legenda bij de letters A t/m E : \nExplanations: [upper right] a key to the letters A to E : \nA. Punt om de Nieuwe fortificatie op te Leggen.\nB. Landing plaats van den Heer Cassart in den Laasten Oorlog. \nC. de Zuijdlijkste hoek van de Baij.",
+        "dc:title": "Kaart van de Sint Kruisbaai",
+        "dc:description": "Titel Leupe: Plan van de St. Cruz Bay.\nDeze kaart van de Sint Kruisbaai behoorde oorspronkelijk bij kapitein Cornelis Schrijvers rapport over de versterking van Cura\u00e7ao uit 1738, of bij een kopieversie daarvan. Op de rapportkaarten van Cornelis Schrijver zijn de geprojecteerde versterkingen steeds op dezelfde wijze getekend, in de vorm van een torenfort met een achthoekig grondplan. Het is niet altijd duidelijk of het daarbij om een ontwerpvoorstel dan wel om een schematische weergave gaat.\nZie ook VEL628B en C, andere aftekeningen van deze kaart.\nPeilingen en relief zijn aangegeven.\nHet noorden is links.\nSchaalstok van 1000 Treeden daar van de 40 treeden ontrent de 90 Voeten uijtmaaken = [ca. 1 : 6.130].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL628A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "26 x 36,5 cm.",
+        "dcterms:date": "1737",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1497/kaart-van-de-sint-kruisbaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/84/2d/02/18/fb/c9/4d/b6/bd/d1/d3/bb/82/25/8f/fc/db285f3c-8ea7-4ee8-8517-a050f7e894c8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/84/2d/02/18/fb/c9/4d/b6/bd/d1/d3/bb/82/25/8f/fc/db285f3c-8ea7-4ee8-8517-a050f7e894c8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/628A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de St. Cruz Bay."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1410.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e98a19e4-7461-4e54-965c-13805c6f563c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1410.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de noordelijke grens van Georgia",
+        "dc:description": "Titel Leupe: Sketch of the Northern Frontiers of Georgia, extending from the Mouth of the river Savannah to the Town of Augusta.\nDe kaartenmaker van dit werk reisde mee met de 3.000 Britse troepen die de nederzettingen Savannah en Augusta in december 1778 veroverden. Na deze zege werd Ebenezer erop uit gestuurd om het land te meten dat stroomafwaarts aan de Savannah Rivier lag. Hij moest daarbij noteren hoe de wegen de kustplantages met de dorpen rond de rivier verbonden. Om deze kaart te produceren gebruikte Ebenezer de kaart van De Brahm van dit gebied uit 1757. Hij voegde veel geografische details en een korte verwijzing naar de oorlog aan dit standaardwerk toe.\nSchaal van 10 Statute m. = 176 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1410",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname",
+            "kompas / windroos",
+            "Georgia",
+            "Verenigde Staten"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.70 - 0.60 El. ( 27.5 x 23.5 inches)",
+        "dcterms:date": "1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10339/kaart-van-de-noordelijke-grens-van-georgia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/09/ab/50/57/3f/75/46/59/8d/fe/b3/b9/53/77/61/c4/1df7358c-09b1-4b80-8d34-39f5f122f6d2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/09/ab/50/57/3f/75/46/59/8d/fe/b3/b9/53/77/61/c4/1df7358c-09b1-4b80-8d34-39f5f122f6d2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1410.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Sketch of the Northern Frontiers of Georgia, extending from the Mouth of the river Savannah to the Town of Augusta."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

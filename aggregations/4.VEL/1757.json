@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1757.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/78fddeb7-7953-48b8-907a-29d68c57604e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1757.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het Wanicakanaal",
+        "dc:description": "Titel Leupe: Kaart van het Kanaal en Pad van Wanica tot in de Wanica Creeq (voor zoo ver gedolven is).\nDeze kaart toont het kanaal van Wanica lopend van het Pad van Wanica nabij de grond van A. J. Koopman en U. Wilkers tot de Wanicakreek. Het afgebeelde Pad van Wanica was de zuidwaartse voortzetting van de Wanicastraat, die toen de westelijke begrenzing van Paramaribo vormde, en was met zijn verlengden voorbij de plantage Beekhuizen de voornaamste toegangsweg over land naar het plantagegebied van Wanica tussen de Parakreek en de Saramacca. Tegenwoordig is dit onder de namen Indira Gandhiweg en John F. Kennedyweg de voornaamste zuidelijke uitvalsroute van Paramaribo. Aan het eind van de achtiende eeuw kwam het Pad zo\u2019n 25 kilometer ten zuiden van Paramaribo uit op de Pararacweg, die men een stuk westwaarts kon volgen om ten slotte via een patrouillepad door het bos bij de militaire post Voorzorg aan de Saramacca te komen. Het kanaal was door moerassen, bossen en plantages gegraven om de verbintenis tussen het pad en de kreek te verbeteren.\nHet noorden is onder.\nSchaal van 200 Kettingen \u00e0 66 Rijnlandse voeten = 393 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1757",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.51 - 0.19 El.",
+        "dcterms:date": "1795",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10474/kaart-van-het-wanicakanaal"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8a/f8/a4/e9/bf/e2/49/5e/a8/17/9c/4d/c0/64/dc/44/fee17b8b-7041-43f8-bba9-5115c4fae195.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8a/f8/a4/e9/bf/e2/49/5e/a8/17/9c/4d/c0/64/dc/44/fee17b8b-7041-43f8-bba9-5115c4fae195.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1757.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Kanaal en Pad van Wanica tot in de Wanica Creeq (voor zoo ver gedolven is)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

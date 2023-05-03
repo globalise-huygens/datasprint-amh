@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2103.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7fde14a5-8e3c-4406-983e-5e00eeee38d5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2103.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het Cordon van Defensie, Plan VII. van de Perica Divisie tot de Oceaan",
+        "dc:description": "Titel Leupe: Kaarten van het Cordon van Defentie. Plan VII. Tusschen de Perica Divisie tot den Oceaan, by den Schans\nden Uytkyk.\nVanaf het midden van de 18de eeuw groeiden de Marrons, ontsnapte slaafgemaakten die in de binnenlanden van Suriname nieuwe gemeenschappen vormden, uit tot steeds geduchtere tegenstanders. Nadat ze zich verenigd hadden onder leiding van de befaamde Boni, naar wie zij zich later ook gingen noemen, kwam het in 1771 uiteindelijk tot een grote oorlog, die bekend is geworden als de (eerste) Boni-oorlog. Deze eindigde in 1776 met de verdrijving van de Boni naar Frans-Guyana. Tussen 1774 en 1778 legde de koloniale overheid in de strijd tegen Boni het bijna 100 kilometer lange Cordon van Defensie of Cordonpad aan. De eerste ontwerpen en opmetingen voor deze doorgaande patrouilleweg met op geregelde afstanden militaire posten kwamen al in 1772 tot stand, maar op grotere schaal begonnen de voorbereidende werkzaamheden in het jaar daarop, met daarin een hoofdrol voor de militair ingenieurs Johan Christoph Heneman en Johann Friedrich Ferdinand Wollant.\nWollants serie werd vrijwel zeker in 1774 gemaakt, nadat het definitieve besluit tot de aanleg was genomen en voordat Wollant later dat jaar assistent-posthouder werd geplaatst in Antoe-plantage, in het zuidoosten van de kolonie. De volgorde van de afzonderlijke bladen is van zuidwest naar noordoost, dus van de Jodensavanne en de post Gelderland aan de Surinamerivier naar de geprojecteerde post Uitkijk aan de zeekust. De deelkaarten sluiten steeds direct op elkaar aan, met de aantekening echter dat niet alle kaarten op dezelfde schaal getekend zijn. Dit blad toont de nederzettingen, kreken en bossen aan het cordon gelegen tussen de Perica-divisie en de Oceaan. Een profiel geeft daarnaast een kanaal van het cordon met een nabijgelegen bos en dam aan. In deze deelkaart van het laatste trac\u00e9 van het Cordon van Defensie tussen de posten Willemsburg en De Uitkijk heeft Wollant het verloop slechts voor de helft ingetekend, in overeenstemming met de onzekerheid die er toen nog bestond op dit punt. Bij de voorlopige afronding van het project in 1778 werd dit gedeelte van de linie nog niet doorgetrokken tot aan zee, maar via de Cottica naar de posten Vredenburg en Oranje geleid.\nHet noorden is onder.\nSchaalstokken van 120 Ketting \u00e0 66 V.t Rhijnl = [ca. 1 : 26.500] / [profiel] 50 Voet = [ca. 1 : 135.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2103",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "75,5 x 54,5 cm.",
+        "dcterms:date": "ca. 1774",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10088/kaart-van-het-cordon-van-defensie-plan-vii.-van-de-perica-divisie-tot"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/af/76/4b/37/cf/2f/4d/53/86/81/55/d5/7c/e9/9f/cb/1cc43732-585d-44a3-8ac2-76973855c5d2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/af/76/4b/37/cf/2f/4d/53/86/81/55/d5/7c/e9/9f/cb/1cc43732-585d-44a3-8ac2-76973855c5d2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2103.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

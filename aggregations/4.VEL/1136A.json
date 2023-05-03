@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1136A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/15125f14-849f-40bd-ad4d-71cc406ff12d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1136a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Platte grondt van 't Compagnies Logie op Jambi",
+        "dc:title": "Plattegrond van de loge te Jambi",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van 's Comp:s Logie op Jamby.\nDe kaart bevat vochtvlekken.\nVan de kaart bestaat ook een manuscriptkopie, VEL1136A1, die hier niet apart is opgenomen\nNotities verso: Drie aftekeningen van de Logie en de Pagger tot Jambij / 599 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1136A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "gebouw",
+            "vesting",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 75 cm",
+        "dcterms:date": "ca. 1707",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5703/plattegrond-van-de-loge-te-jambi"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/92/6b/7c/82/f7/5a/46/24/8a/1d/c2/d3/44/c2/c3/4a/9a41aa31-a1c2-4e23-ba19-7960d5c5b7ed.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/92/6b/7c/82/f7/5a/46/24/8a/1d/c2/d3/44/c2/c3/4a/9a41aa31-a1c2-4e23-ba19-7960d5c5b7ed.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1136A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

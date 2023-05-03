@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1899.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e79fd42f-aa41-4514-901f-59745ee9df4d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1899.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het land van de heer Cleij aan de Cotticarivier",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen in Cottica tegenover de Plantagie Nacracabo.\nDeze kaart toont het land van de heer Cleij (aangegeven met de letters A-E) aan de zuidoever (boven op de kaart) van de Cotticarivier.\nDe heer Cornelis Cleij heeft de meting zelf verzocht na dit stuk land op 10 Juni 1698 in handen te hebben gekregen.\nHet stuk grond blijkt 500 Surinaamse akkers (215 hectare) in omvang.\nDe kavel ligt nabij de plantage Nacracabo en de Mot-kreek.\nTen noorden van het stuk grond (beneden op de kaart) is een eerder gebruikte meetpaal weergegeven en wat bebouwing.\nDe kaart is door de landmeter ondertekend op 3 Januari 1731 en officieel erkend op 30 April 1732 te Paramaribo.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 128 strepen.\nOorsprong: [OBP Suriname] 1732, [fols.] 1092-1093.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1899",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.27 - 0.21 El.",
+        "dcterms:date": "1731",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10025/kaart-van-het-land-van-de-heer-cleij-aan-de-cotticarivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4f/b1/95/08/46/fd/40/cb/aa/92/ad/31/d9/7f/94/34/2e9c4d78-58b6-46b9-99ae-36aa99047cd5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4f/b1/95/08/46/fd/40/cb/aa/92/ad/31/d9/7f/94/34/2e9c4d78-58b6-46b9-99ae-36aa99047cd5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1899.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen in Cottica tegenover de Plantagie Nacracabo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

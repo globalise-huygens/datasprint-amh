@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1880.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b7be4f50-d7b8-48cc-8196-93aba5a2caeb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1880.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Nacra Kabo",
+        "dc:description": "Titel Leupe: Kaart van eenige landen aan beide oevers van de rivier Cottica gelegen.\nDeze kaart toont de plantage Nacra Kabo (rood omlijnd en met de letters A-E aangegeven) aan de noordoever (onder op de kaart) van de Cottica Rivier en ten oosten (links op de kaart) van de kreek Mot.\nDe meting is gedaan meerdere decennia nadat de grond was toegekend aan de heer Gillis Bert Holtt, door Gouverneur-Generaal Paul van der Veen op 20 September 1698.\nDe plantage ligt tussen de plantages van de heer Van der Kolck en de heer Labbadie alsook de woningen van de heer Cley en Rayneval.\nTen noorden van de plantage (onder op de kaart) zijn ook gebouwen afgebeeld.\nDe kaart is door de landmeter ondertekend op 3 Januari 1731 te Paramaribo en officieel erkend op 29 November 1731.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 130 strepen.\nOorsprong: [OBP Suriname] 1732 [fols.] 82-83.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1880",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.29 - 0.17 El.",
+        "dcterms:date": "1731",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10009/kaart-van-de-plantage-nacra-kabo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a1/d5/16/62/0c/9e/46/41/a6/dc/36/a0/4e/cb/7f/ba/1a5728fa-5a76-4c32-9050-2e5e779effd2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a1/d5/16/62/0c/9e/46/41/a6/dc/36/a0/4e/cb/7f/ba/1a5728fa-5a76-4c32-9050-2e5e779effd2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1880.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen aan beide oevers van de rivier Cottica gelegen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

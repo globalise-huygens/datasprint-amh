@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1517.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart figuratif van Mahaika Kreek, geleegen in de Oostkust van Rio Demerary, met de namen der planters van de in deze Kreek gelegene Plantagien."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1517"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1790"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/5b756ea6-e91c-4662-b4a6-b4a21c7231cf\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1517.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1517.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5764,
+            "width": 4512,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1517.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1517.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/af/ef/98/93/4c/63/41/33/97/d5/d2/b5/e9/89/bd/82/143cb8b4-9675-48b6-a3eb-78de5121a0c6.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5764,
+                                "width": 4512,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/af/ef/98/93/4c/63/41/33/97/d5/d2/b5/e9/89/bd/82/143cb8b4-9675-48b6-a3eb-78de5121a0c6.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1517.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

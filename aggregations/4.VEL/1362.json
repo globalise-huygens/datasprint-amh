@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1362.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2b869117-f01e-45cd-a34a-b87213bfc5d7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1362.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "N:o 3 / Plans en profils van 't fort Belgica",
+        "dc:title": "Plattegrond en profiel van fort Belgica op Banda Neira",
+        "dc:description": "Titel catalogus Leupe (NA): Plans en profils van 't fort Belgica.\nLegenda: 1-6\nGenummerd: No. 3.\nNotities verso: 664 [met vette cijfers gestempeld op een etiketje].\n15 [Rijnlandse] roeden = 205 strepen; omgerekende schaal 1 : 275 / 5 [Rijnlandse] roeden = 217 strepen; omgerekende schaal 1 : 86.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1362",
+        "dc:subject": [
+            "legenda",
+            "vesting",
+            "doorsnede / profiel",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "64,5 x 100 cm",
+        "dcterms:date": "ca. 1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6921/plattegrond-en-profiel-van-fort-belgica-op-banda-neira"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1e/c9/8b/84/c6/0f/4b/3f/a2/08/89/44/bc/31/ab/ee/01bc2245-a3f4-4f0a-832c-ff114bf21ec1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1e/c9/8b/84/c6/0f/4b/3f/a2/08/89/44/bc/31/ab/ee/01bc2245-a3f4-4f0a-832c-ff114bf21ec1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1362.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plans en profiles van 't fort Belgica."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

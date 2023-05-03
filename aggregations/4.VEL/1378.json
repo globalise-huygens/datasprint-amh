@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1378.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7b71fd6e-8160-4ed0-8c77-f7bda719cb6a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1378.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Amerique Septentrionale",
+        "dc:title": "Kaart van Noord Amerika en het Caribisch gebied",
+        "dc:description": "Kaart van Noord Amerika en het Caribisch gebied.\nTitel Catalogus Leupe (NA): Amerique Septentrionale.\nAmerique Septentrionale.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1378",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "Persoon",
+            "Europeanen",
+            "fauna"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "88,5 x 85,1 cm",
+        "dcterms:date": "1746",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7178/kaart-van-noord-amerika-en-het-caribisch-gebied"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/52/9a/ad/11/ce/96/4a/62/ae/c0/51/ff/aa/f3/fb/74/6df62afe-486c-4bcb-b8bb-24492fc96281.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/52/9a/ad/11/ce/96/4a/62/ae/c0/51/ff/aa/f3/fb/74/6df62afe-486c-4bcb-b8bb-24492fc96281.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1378.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                          Amerique Septentrionale. Vier bladen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

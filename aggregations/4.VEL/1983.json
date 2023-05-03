@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1983.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/caf4ef23-3a8f-4977-bf16-5310ada275c0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1983.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van plantage Kleinhoop en aangrenzende plantages",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien, gelegen tusschen een gedeelte van de Cottica en Tapoeripa.\nDeze kaart toont de plantage Kleinhoop, met haar nieuwe achterland (H-P), ten noorden van de Cotticarivier.\nDe heren Godenaar en J.W. Kennedy, administrateurs van de plantage, alsook de heer P. Wintwort, de eigenaar ervan, hebben de meting aangevraagd na een nieuw stuk achterland te hebben ontvangen op 9 April 1764.\nHet achterland blijkt 384 1/11 Surinaamse akkers (165,16 hectare) te meten.\nDaarnaast is ook een nog te onginnen stuk grond gemeten (B-G, Q en R) van 257 Surinaamse akkers (110,5 hectare), wat overgedragen is aan de heer A.W. Wolff op 25 Mei 1754.\nDit laatste stuk grond was al in 1754 verkeerd gemeten door de landmeter J.E. Feltman.\nDeze kaart is een kopie gemaakt in 1802.\nDe oorspronkelijke kaart is ondertekend op 22 November 1766.\nSchaal van 100 Kettingen Rijnlandse = 123 strepen.\nOorsprong: portefeuille requesten voor gronden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1983",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.17 - 0.31 El.",
+        "dcterms:date": "1802",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10102/kaart-van-plantage-kleinhoop-en-aangrenzende-plantages"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/31/59/0e/83/ad/f8/42/85/92/56/7e/b3/03/7b/e2/bc/51323dbd-3138-4eeb-87d3-19d75545c56f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/31/59/0e/83/ad/f8/42/85/92/56/7e/b3/03/7b/e2/bc/51323dbd-3138-4eeb-87d3-19d75545c56f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1983.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien, gelegen tusschen een gedeelte van de Cottica en Tapoeripa."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2044A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/723a0e1c-fc5b-403a-abd0-b65d4636e96a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2044a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [onder] een legenda bij de letters A t/m E : \nExplanations: [below] a key to the letters A to E : \nAB Profil of Doorsnit van voorn en agter Door de linie AB. \nCD Loosings sluijsen of kookers. \nE Wagt huijs.",
+        "dc:title": "Plattegrond van de redoute Purmerend",
+        "dc:description": "Titel Leupe: Nieuw Project der Verbreeding van de redout Purmerent.\nIn aanvulling op Fort Nieuw Amsterdam was in het in 1733 opgestelde plan voor de verbetering van de verdediging van Suriname voorzien in de aanleg van twee hulpforten op de tegenoverliggende oevers aan de mondingen van de Suriname en de Commewijne. De eerste daarvan, de aarden redoute Purmerend aan de westoever van de Suriname, werd in 1748 begonnen naar een ontwerp van de vaandrig Andries Lodewijk (Andreas Ludovicus) Calvi, tussen 1744 en 1754 de functie 'waarnemend inspecteur der fortificati\u00ebn'.  Eenmaal in dienst gesteld, bleek de redoute Purmerend op een aantal punten niet goed te voldoen. Zo had Calvi aan de rivierkant twee tenailles laten aanleggen waarvan de punten eigenlijk te klein waren om met voldoende geschut te worden bezet, terwijl de gracht en voorwal met glacis zo dicht op de oever als overbodig werd ervaren.\nVolgens dit projectplan voor de verbetering van de redoute Purmerend van Abraham Dircks, waarvan ook weer een versie door zijn zoon Jacob Gerrit Dircks bestaat (Zie VEL2044B), moest de overbodige gracht rondom worden gedempt en tezamen met de oude voorwal en hoofdwal tot \u00e9\u00e9n zwaardere hoofdwal worden opgehoogd. Tevens dienden de te kleine punten van de tenailles te worden rechtgetrokken, zodat op de bredere flanken meer kanonnen konden worden geplaatst. Voor zover bekend is dit project omstreeks 1770 inderdaad zo uitgevoerd.\nHet noorden is onder.\nSchaalstokken van 10 Roeden = [ca. 1 : 500] / [profiel] 15 Voet = [ca. 1 : 315].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2044A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "42 x 53 cm.",
+        "dcterms:date": "ca. 1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2230/plattegrond-van-de-redoute-purmerend"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/26/c2/b9/d6/72/b5/46/63/a5/61/47/92/8d/e0/d9/d3/aca3c027-057a-4dac-ace0-c008875c9a57.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/26/c2/b9/d6/72/b5/46/63/a5/61/47/92/8d/e0/d9/d3/aca3c027-057a-4dac-ace0-c008875c9a57.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2044A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

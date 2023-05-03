@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1488.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Schetskaart van de Colonien van Rio Demerary en Rio Essequebo, alsmede van de Verlaatene Colonie van Rio Pomeron, mitsgaders een gedeelte der Colonie van Berbice enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1488"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/4fb6d61e-5698-4a5e-80f9-e56de033bcc0\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1488.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1488.json#canvas/p1",
+            "type": "Canvas",
+            "height": 23368,
+            "width": 15509,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1488.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1488.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/9d/66/6f/aa/6f/60/48/28/af/23/26/43/cd/82/7b/59/af438646-fa14-4b6b-8416-71d3017aa2b3.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 23368,
+                                "width": 15509,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/9d/66/6f/aa/6f/60/48/28/af/23/26/43/cd/82/7b/59/af438646-fa14-4b6b-8416-71d3017aa2b3.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1488.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

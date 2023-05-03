@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1369.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6d90743b-c9f7-49c1-866b-d08f2f8222e7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1369.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Lacoy / Ourien / Dender / Culenborg",
+        "dc:title": "De forten van Lacoy, Storm te Ourien, Morgenstar te Dender en Culenborg te Selamme op Lonthor",
+        "dc:description": "Titel catalogus Leupe (NA): Afteekening van de redout Lacoy; Als vooren van de redout Ourien; Als vooren van de redout Dender; Als vooren van de redout Culenburg.\nBehoort bij het rapport van Arnold de Vlamingh van Outshoorn.\nRechts boven genummerd: 403.\nDe onder en bovenrand zijn gerafeld en in de bovenrand zit een scheur.\nNotities verso: 403 [moet het folionummer in de band OBP zijn] /664 l.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1369",
+        "dc:subject": [
+            "vesting",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "33 x 41,5 cm",
+        "dcterms:date": "ca. 1651",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5333/de-forten-van-lacoy-storm-te-ourien-morgenstar-te-dender-en-culenborg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/25/2c/de/77/31/95/42/b1/bb/6c/ca/10/df/ce/40/8d/e08a8898-4372-47d7-a334-10d98e23715a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/25/2c/de/77/31/95/42/b1/bb/6c/ca/10/df/ce/40/8d/e08a8898-4372-47d7-a334-10d98e23715a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1369.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteekening van de redout Lacoy."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

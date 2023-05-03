@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.8.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e5746140-179d-4492-9c25-e35a481c3d47",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_8.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [above the separate drawings] descriptions : \nStand Gesigt van de Voor en Agter Geevel. \nProfil in de Breedte Doorgesneeden. \nProfil in de Lengte Door Gesneeden. \nVerdeeling der Derde Solder Balken. \nVerdeeling der Twede Solder Balken. \nPlatte Grond van de Eerste Verdieping. \nPlatte Grond van de Twede Verdieping. \nVerdeeling der Eerste Solder Balken. \n[rechtsboven] een legenda bij de letters A t/m L : \n[upper right] a key to the letters A to L : \nA. Raads kaamer. \nB. Comtoir. \nC. kaamer voor die geene welke met Het Hoff te doen heeft. \nD. Spreekkaamer. \nE kaamer. \nF. Voor Huys. \nG Secreet. \nH. Eet kaamer. \nI. Zaal. \nK. kaamer. \nL Passage om booven in de kaamers te koomen.",
+        "dc:title": "Ontwerp voor de ambtswoning van de gouverneur in Nieuw-Amsterdam",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nDe militair ingenieur Jan Carel Willem Herlin die begin 1780 aankwam in Berbice als opvolger van d\u2019Arnaud, tekende meteen in dat jaar een ontwerp voor een nieuwe hoofdwacht in Fort Nassau (dus nog altijd de provisorische versterking van 1764) al kwam deze pas in 1785 aan in de Republiek. In antwoord op zijn voorstel voor de hoofdwacht lieten de directeuren hem weten dat dit project en eventuele volgende voor Nieuw-Amsterdam overbodig waren geworden, omdat zij intussen Abraham van der Hart hadden gevraagd geheel nieuwe plannen voor de hoofdplaats op te stellen.\nHerlin diende zijn aandacht nu vooral te richten op de versterking van Fort Sint Andries en de andere posten aan de benedenloop van de Berbice, teneinde de kolonie beter weerbaar te maken tegen een aanval vanuit zee (zie VEL1619). Tegelijkertijd moest hij erop toezien dat Nieuw-Amsterdam in een zodanige staat van verdediging bleef dat de plaats in geval van een slavenopstand niet meer ontruimd hoefde te worden, zoals in 1763. Tenslotte diende hij ook een nieuwe ambtswoning voor de gouverneur en de ontvanger-generaal te ontwerpen. De hier getoonde tekening van de eerstgenoemde woning draagt weliswaar zijn naam, maar is waarschijnlijk een kopie, gelet op het afwijkende handschrift en de belettering. Naast twee plattegronden, twee profielen en de facade toont de schets ook drie technische tekeningen van de balkconstructies.  De locatie van het gebouw is met de letter d aangeduid op Herlins plan onder VEL1659.\nSchaalstok van 48 Rijnlandse voeten = 12 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.8",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50,5 x 66,5 cm.",
+        "dcterms:date": "ca. 1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7617/ontwerp-voor-de-ambtswoning-van-de-gouverneur-in-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e5/3a/81/32/42/8d/47/4c/b0/81/ba/5a/c0/47/6d/9d/9ba139c9-eaff-4afb-a873-f6e80c5e68ae.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e5/3a/81/32/42/8d/47/4c/b0/81/ba/5a/c0/47/6d/9d/9ba139c9-eaff-4afb-a873-f6e80c5e68ae.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.8.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 8"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

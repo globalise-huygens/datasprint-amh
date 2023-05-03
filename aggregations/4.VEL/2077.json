@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2077.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0725dc2d-4d18-4528-b722-f76d538ce6bc",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2077.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsboven] een legenda bij de letters a t/m z en de nummers 1 t/m 3 voor de bestaande situatie in 1781, deels in geheimschrift, niet getranscribeerd. \nExplanations: [upper right] a key to the letters a to z and the numbers 1 to 3 for the existing situation in 1781, partly encrypted, not transcribed.\n33 \n[inzetkaart, links] twee aantekeningen en een legenda bij de letters a t/m s en de nummers 1 t/m 14 voor de geprojecteerde situatie, deels in geheimschrift, niet getranscribeerd : \n[inset map, left] two notes and a key to the letters a to s and the numbers 1 to 14 for the projected situation, partly encrypted, not transcribed.",
+        "dc:title": "Plan van fort Zeelandia",
+        "dc:description": "Titel Leupe: Plan van de fortress Zelandia.\nIn de decennia vanaf 1710 werden vele verschillende suggesties gedaan voor de verbetering van het ontwerp van fort Zeelandia. Alle aanbevelingen voor een veel groter fort of een echte citadel bij Paramaribo ten spijt, bleef de opzet van Fort Zeelandia echter tot omstreeks 1780 in hoofdzaak ongewijzigd. Pas in 1781 volgde de aanleg van een nieuwe batterij van elf stukken aan de zuidoostelijke flank van het buitenfort, die een betere bescherming moest bieden tegen een aanval van vijandelijke schepen op de rivier. Later dat jaar kreeg ingenieur Johann Friedrich Ferdinand Wollant de opdracht een ontwerp te maken voor een algemeen defensieplan (zie VEL2007A), voorzien van met een reeks van voorstellen voor voorlopige verbetering van alle bestaande verdedigingswerken. De annotatie bij deze deelplannen is steeds ten dele of geheel in geheimschrift.\nHet hier getoonde uit deze serie afkomstige ontwerp voor Zeelandia is samengesteld uit een weergave van de bestaande (rechts) en de beoogde situatie (inzet links). Behalve de uitbreiding en verzwaring van de batterijen van het buitenfort voorzag het plan ook in de verplaatsing van de buiten de omwalling gelegen landsmagazijnen en een aantal andere gebouwen ten noorden van het fort naar nieuwe onderkomens binnen het buitenfort. Tegelijkertijd zouden de terreinen rondom het Plein opnieuw moeten worden ingericht, waarbij onder meer de vervallen bijgebouwen achter het Gouvernement plaats dienden te maken voor de tuin, zoals naderhand inderdaad is gebeurd.\nHet noorden is rechtsonder.\nSchaalstok van 60 Roeden \u00e0 12 V:t Rhijnlands = [ca. 1 : 1.900] / [inzetkaart] 40 Roeden = [ca. 1 : 1.900].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2077",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "42,5 x 89,5 cm.",
+        "dcterms:date": "1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2123/plan-van-fort-zeelandia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/04/12/d4/0d/95/bd/4f/e9/b4/7f/87/d6/4f/ff/c0/07/cd3a65eb-7a10-497f-9c1e-373699a0e02d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/04/12/d4/0d/95/bd/4f/e9/b4/7f/87/d6/4f/ff/c0/07/cd3a65eb-7a10-497f-9c1e-373699a0e02d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2077.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de fortress Zelandia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

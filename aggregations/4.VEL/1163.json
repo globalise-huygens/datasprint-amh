@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1163.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/67a363c0-8fb4-47cc-8f94-126b7b5eefbb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1163.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een deel van de noordkust van Java, omgeving tussen Samarang en Soerabaja",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, van Samarang tot Grouda langs de Kust, en van Mataram tot Blietar.\nRechtsboven genummerd: 5.a.\nAfkomstig uit de Atlas Amsterdam.\nNotities verso: 602 g",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1163",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 74,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4049/kaart-van-een-deel-van-de-noordkust-van-java-omgeving-tussen-samarang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/79/d0/a4/9b/fb/89/43/9c/a7/30/26/d0/c4/70/d3/ed/bc61b052-6276-4f44-9fc9-52d3adb845cd.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/79/d0/a4/9b/fb/89/43/9c/a7/30/26/d0/c4/70/d3/ed/bc61b052-6276-4f44-9fc9-52d3adb845cd.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1163.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Landkaart van Cheribon tot Golongong en de negory Madoera, van Samarang tot Grouda Langs de Kust, en van Mataram tot Blietar."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

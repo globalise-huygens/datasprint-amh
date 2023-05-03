@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1272.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/97bdb0bf-eca6-4328-befe-899f42436ff2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1272.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart met uitleg over de woningen van de VOC-dienaren in Japara",
+        "dc:description": "Titel catalogus Leupe (NA): Kaartje van Japara, waarin vertoont werd hoe de Nederlanders en andere Comps. dienaars en onderdanen aldaar gelegen en gewoont hebben ten tyd dat de Ed. Heer Harmen van der Poel daar van daan is vertrokken.\nLegenda: 1-16\nNotities verso: Een kaartje van Japara waar in vertoont werd, hoe de Nederlanders en andere Comp: dienaars en onderdaanen aldaar gelegen en gewoont hebben, ten tijde dat den E: Capitn Harmen van der Poel daar van daanen is vertrocken, Overgegeven den 2 febr: 1687 / No. 30 [doorgestreept] / No. 6 / 18 [geschreven op een rond plakkertje] / No. 39 [doorgestreept] / Japara / 636 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1272",
+        "dc:subject": [
+            "gouvernementshuis / -gebouw",
+            "bazaar / markt",
+            "huis / woonhuis",
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "46,5 x 67,5 cm",
+        "dcterms:date": "1670-1687",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3797/kaart-met-uitleg-over-de-woningen-van-de-voc-dienaren-in-japara"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ef/3c/cc/1c/1c/9a/4e/49/93/3b/e7/5d/cb/a5/aa/38/41a46675-92c5-4e5b-a475-fc59d209b7a1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ef/3c/cc/1c/1c/9a/4e/49/93/3b/e7/5d/cb/a5/aa/38/41a46675-92c5-4e5b-a475-fc59d209b7a1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1272.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaartje van Japara, waarin vertoont werd hoe de Nederlanders en andere Comp.s dienaars en onderdanen aldaar gelegen en gewoont hebben. Ten tyd dat de Ed. Heer Harment van der Poel daar van daan is vertrokken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

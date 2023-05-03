@@ -1,0 +1,58 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/771.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8f176b65-070c-464f-a52d-4b152edf81f2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_771.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "[?] van n' gesigt",
+        "dc:title": "Gezicht op het fort en de rede van Elmina",
+        "dc:description": "Gezicht op het fort en de rede van Elmina.\nTitel catalogus Leupe (NA): Afbeelding van het Kasteel d'Elmina en het fort St. Jago, benevens de gelande troepen en eene Vloot op de reede.\n[?] van n' gesigt.\nOp de wal is een gevecht gaande tussen gelande Nederlandse troepen en de Ghanezen. Het fort is nog in handen van de Portugezen. Het gaat hier wellicht om de expeditie van Jan Dirckszoon Lam in 1625. In 1637 zou het fort in Nederlandse handen vallen.\nAan twee randen zijn stroken Japans papier geplakt.\nNotities verso: Afbeelding van het Kasteel d'Elmina en het fort St. Jago, benevens de gelande troepen en eene vloot op de reede [in potlood] / Hans Propheet, 1629 [in potlood] / 468 [met vette cijfers gestempeld op een etiketje].\nOpmerkingen in de catalogus Leupe (NA): De vloot op de reede leggende, bestaat uit 19 schepen.\nRechtsboven: Mc: sc[?] / Hans Propheet.\nLinksboven, rechtsonder twee keer: 771 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0771",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "schip / vaartuig",
+            "rede / haven / pier",
+            "vesting",
+            "gebouw",
+            "flora",
+            "veldslag / oorlog (strijd) / inname",
+            "Persoon",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "Europeanen"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "44 x 63 cm",
+        "dcterms:date": "1629",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1115/gezicht-op-het-fort-en-de-rede-van-elmina"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/61/57/e9/bb/b6/a7/41/db/89/ed/49/4e/47/54/ba/ea/19ddb31a-deb3-41e2-8dde-6f988bef4b1a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/61/57/e9/bb/b6/a7/41/db/89/ed/49/4e/47/54/ba/ea/19ddb31a-deb3-41e2-8dde-6f988bef4b1a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/771.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van het Kasteel d'Elmina en het fort St. Jago, benevens de gelande troepen en eene Vloot op de reede."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

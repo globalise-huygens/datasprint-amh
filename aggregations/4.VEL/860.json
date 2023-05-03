@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/860.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5d8fb47a-fa36-4820-b00d-e87354d8e77d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0860.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Asia Antiqua cum finitimis Africae et Europae Regionibus",
+        "dc:title": "Kaart van Azi\u00eb",
+        "dc:description": "Titel catalogus Leupe (NA): Asia Antigua cum finitimis Africae et Europae Regionibus.\nNotities verso: 582 a [in potlood]",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0860",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "49 x 57 cm",
+        "dcterms:date": "ca. 1660",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9168/kaart-van-azi%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7e/7a/13/ba/8d/f0/4a/c6/8e/16/bb/c8/78/1a/15/02/c0e99776-9510-4542-a346-4134503dbb77.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7e/7a/13/ba/8d/f0/4a/c6/8e/16/bb/c8/78/1a/15/02/c0e99776-9510-4542-a346-4134503dbb77.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/860.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                          Asia Antigua cum finitimis Africae et Europae Regionibus."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

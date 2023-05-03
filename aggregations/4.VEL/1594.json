@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1594.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/55d53d05-f737-4364-bef8-846de788d685",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1594.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title): Plan van de Suyker Plantagie Hardenbroek, gelegen aan de Kreek Wiekie, in Rio de Berbice, met het nieuw gekoosen Land van 1500 Akers. A. het Woonhuys van de Planter met syn Pakhuys. B. de Suyker Moolen, Paarde Stall, Kookhuys en Ofdak, C. het Canooij huys, Kuypers Winkel en Negery, D. Een Coffy Kraal, daerin 2200 Coffyboomen. E. Een Coffy Tuyn, met een Sloot omgraaven, daarin 4400 Coffybomen, en 250 Cacaoboomen. F. Twee suyker Tuynen.",
+        "dc:title": "Kaart van de plantage Hardenbroek",
+        "dc:description": "Titel Leupe: Plan van de Suyker Plantagie Hardenbroek, geleegen aan de Kreek Wiekie in Rio de Berbice enz.\nKaart van de te bouwen plantage Hardenbroek, ten oosten van de rivier Berbice.\nEen weide voor het vee en woonhuizen zijn te noorden van het nieuwe land weergegeven.\nSchaal van 500 Rijnlandse roeden = 158 strepen.\nHet noorden is onder.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1594",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.35 - 0.46 El.",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10261/kaart-van-de-plantage-hardenbroek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1c/c6/13/e7/1c/f1/4a/da/a6/58/ff/39/a4/45/f0/63/00c91993-986f-43bb-9982-89a1021a518d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1c/c6/13/e7/1c/f1/4a/da/a6/58/ff/39/a4/45/f0/63/00c91993-986f-43bb-9982-89a1021a518d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1594.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Suyker Plantagie Hardenbroek, geleegen aan de Kreek Wiekie in Rio de Berbice enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1996B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3440b230-fa38-48d4-bda5-3346778ba4ef",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1996b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(a key to the letters a to p, centre right)\nEertse Etage. \na. Canoniersquart. \nb. Amunitie Magacijn. \nc. Artil. Offic. quart. \nd.e Magacijns. \nf. Backerij. \ng.h. Keukens. \nl. Reegenbak. \nm. gem: huijs. \nTweede Etage. \nn. Comandanten quart. \no. Officiers quart. \np. Soldaeten Logi.",
+        "dc:title": "Plan voor twee batterijen bij de monding van de rivier Saramacca",
+        "dc:description": "Titel Leupe: Plans van de verdedigingswerken aan de Rio Saramacca.\nDeze kaart maakt deel uit van een serie van drie projectplannen uit ca. 1783 voor batterijen of redoutes aan de Saramacca, in dit geval aan en tegenover de uitmonding van het geplande kanaal vanaf Paramaribo langs het noordelijke trac\u00e9 van de linie.\nJohann Friedrich Ferdinand Wollant maakte tussen 1780 en 1783 niet alleen het totaalontwerp voor gouverneur Texiers beoogde westelijke cordon, maar ontwierp ook de bijbehorende nieuwe fortificaties. Dit plan betreft verdedigingswerk B van de drie ontworpen werken.\nDeze kaart heeft betrekking op de gewenste versterking van de monding van de Saramacca, waarvoor Wollant in aanvulling op zijn plan voor het westelijke cordon op beide oevers een batterij of redoute ontwierp.\nProfil door A.B.\nZie ook de andere delen uit dezelfde serie: VEL1995, VEL1996A en VEL1997.\nHet noorden is onder, maar is niet aangegeven.\nSchaalstokken van 60 Voet = [ca. 1 : 275] / [profiel] 30 Voet = [ca. 1 : 190].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1996B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.37 - 0.52 El.",
+        "dcterms:date": "ca. 1783",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10540/plan-voor-twee-batterijen-bij-de-monding-van-de-rivier-saramacca"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c2/98/c5/de/61/2d/42/33/b0/81/82/86/be/2b/23/5a/2f6f9240-6fef-4075-b7e7-b266d8bbd225.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c2/98/c5/de/61/2d/42/33/b0/81/82/86/be/2b/23/5a/2f6f9240-6fef-4075-b7e7-b266d8bbd225.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1996B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad B"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

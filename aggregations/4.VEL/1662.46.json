@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.46.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d3bc527d-cd6d-4841-8e05-fecdad98464f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_46.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van het nieuwe ziekenhuis in Nieuw-Amsterdam",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nDeze schets behoort tot de ontwerpen die Abraham van der Hart in de jaren 1779-1781 voor de Soci\u00ebteit van Berbice maakte. Dit zijn drie plattegronden van het nieuwe ziekenhuis dat op van der Hart's overzichtsplan voor het nieuwe gouvernementscomplex op kaart VEL1662.42 als gebouw nr. 3 is weergegeven. Drie verdiepingen zijn getoond en alle kamers zijn beschreven waaronder de vertrekken van de chirurgijnen.\nWegens de Britse bezetting van Berbice in maart 1781, kon dit plan niet direct worden overgezonden. Nadat Berbice in 1784 aan de Soci\u00ebteit was teruggegeven, volgden al in het jaar daarop de eerste plannen voor een geheel nieuwe hoofdplaats aan de samenvloeiing van de Berbice en de Canje, waarmee Van der Harts project van 1779-1781 definitief van de baan was.\nSchaal: 150 Rijnlandse voet = 12 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.46",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7576/plattegrond-van-het-nieuwe-ziekenhuis-in-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/34/02/de/9a/37/a2/40/ae/87/40/db/48/f6/cd/26/2c/90d746be-4e7b-4ad1-be17-bc115b947c93.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/34/02/de/9a/37/a2/40/ae/87/40/db/48/f6/cd/26/2c/90d746be-4e7b-4ad1-be17-bc115b947c93.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.46.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 46"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

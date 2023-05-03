@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/802.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5f29255c-c52e-4050-941f-df804fd24765",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0802.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Aanzicht op bergen achter Kaap de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de bergen achter de Kaap.\nNotities verso: van de Kaap 1656 N 6, 360 [folionummer in de band?], No. 20 [volgnummer van het stuk in de band ?], 498 l,  Overgekomen van Kaap de Goede hoop, 1653, Op Japansch papier, met aanteekeningen.\nDe tekening toont bergen met nummering van J tot Q, legenda ontbreekt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0802",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "48,5 x 156",
+        "dcterms:date": "ca. 1656",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2737/aanzicht-op-bergen-achter-kaap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f0/e1/6c/63/8e/0f/40/31/af/11/61/24/15/e0/8c/91/719e47d8-a064-476f-9a8b-e34ce37b4116.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f0/e1/6c/63/8e/0f/40/31/af/11/61/24/15/e0/8c/91/719e47d8-a064-476f-9a8b-e34ce37b4116.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/802.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Bergen achter de Kaap."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

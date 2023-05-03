@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/464.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/67d01137-70c4-4529-9865-bbbe1d1f3e3b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0464.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De bocht van Tomine beseilt met de Hoeker de Brandtgans Anno 1682",
+        "dc:title": "Kaart van de Bocht van Tomini aan de oostkust van Celebes",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart als voren, hiermee wordt bedoeld de titel van VEL0463: Kaart van de Bocht van Tomine (Oostkust van Celebes), beseylt met de Hoeker de Brandgans anno 1682.\nHet betreft hier een in juli 1865 uitgegeven lithografie van de kaart onder nummer VEL0463.\nNotities verso: N 274.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0464",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "litho",
+        "dcterms:extent": "54 x 70,5 cm",
+        "dcterms:date": "1865",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5810/kaart-van-de-bocht-van-tomini-aan-de-oostkust-van-celebes"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/77/c0/c7/a4/3f/11/4d/f7/a3/09/83/d7/81/f4/ff/c0/bb200795-aa77-4f4f-aa3c-a08e4c0ceea9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/77/c0/c7/a4/3f/11/4d/f7/a3/09/83/d7/81/f4/ff/c0/bb200795-aa77-4f4f-aa3c-a08e4c0ceea9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/464.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "facsimile"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1599.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d0013461-15bc-490c-9498-cb289a981d80",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1599.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title):  Kaarte van de Plantagje de Dankbaarheyd Groot Vyfhonderd akkers behoorende de heer Jr. Vandenbroek, gelegen tussen de Plantagje de Bestendigheyd beneden en nog ongekoosen coloniegrond Booven Anno 1772.",
+        "dc:title": "Kaart van de plantage Dankbaarheyd",
+        "dc:description": "Titel Leupe: Kaarte van de Plantagie de Dankbaarheyd aan Rio de Berbice enz.\nKaart van de nieuw ontgonnen plantage Dankbaarheyd, in bezit van de heer J. van den Broek en gelegen ten westen van de rivier Berbice.\nNabij de rivier liggen bossen met verschillende soorten hout.\nDe plantage blijkt 500 Surinaamse akkers te meten (oftewel 215 hectare).\nTen noorden ligt de plantage Bestendigheijd.\nDe kaart is op 9 Mei 1772 ondertekend.\nHet noorden is onder\nSchaal van 300 Rijnlandse roeden = 165 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1599",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.365 - 0.62 El.",
+        "dcterms:date": "1772",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10266/kaart-van-de-plantage-dankbaarheyd"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/af/41/77/a1/e9/fe/4d/d8/ad/ae/a2/67/82/f7/43/0e/ba906e7f-c91d-4bf8-b8f2-b845dc41e6f2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/af/41/77/a1/e9/fe/4d/d8/ad/ae/a2/67/82/f7/43/0e/ba906e7f-c91d-4bf8-b8f2-b845dc41e6f2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1599.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaarte van de Plantagie de Dankbaarheyd aan Rio de Berbice enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1307.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/62e7d455-444a-47ea-b161-34b31ed21c3e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1307.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het Kasteel Rotterdam op Macasser / Het Kasteel Rotterdam van de Landzyde A: 16.. / Het Kasteel Rotterdam van de Zeekant, so als het was voor den jare 16..",
+        "dc:title": "Plattegrond en aanzicht van kasteel Rotterdam te Macasser",
+        "dc:description": "Titel catalogus Leupe (NA): Het Kasteel Rotterdam op Macasser.\nVEL1307a: Het Kasteel Rotterdam van de Landzyde.\nVEL1307b: Het Kasteel Rotterdam van de Zeekant, so als het was voor den jare 16?.\nRechts boven genummerd: 16.\nDe randen rondom zijn helemaal beplakt.\nNotities verso: 19 [in potlood].\n30 Rijnlandse roeden = 77 strepen; omgerekende schaal [1 : 1467] / 100 Rijnlandse voeten = 62 strepen; omgerekende schaal 1 : 506.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1307",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "overzicht / aanzicht",
+            "poort",
+            "vesting",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7060/plattegrond-en-aanzicht-van-kasteel-rotterdam-te-macasser"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b9/5f/bc/20/31/58/49/2c/8e/d4/e4/b1/74/56/21/1a/bd43d500-8fa0-4db5-83b1-0f623bb9cd3f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b9/5f/bc/20/31/58/49/2c/8e/d4/e4/b1/74/56/21/1a/bd43d500-8fa0-4db5-83b1-0f623bb9cd3f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1307.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Kasteel Rotterdam op Macasser."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

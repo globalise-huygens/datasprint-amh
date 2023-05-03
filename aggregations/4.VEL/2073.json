@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2073.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a60dd421-94cd-4a58-a2aa-addc07f2c9d6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2073.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Projectplan voor de versterking van Fort Zeelandia",
+        "dc:description": "Titel Leupe: Plan van eenige Batteryen tot meerdere versterking van de Fortres Zelandia.\nIn de decennia na 1710 werden vele verschillende suggesties gedaan voor de verbetering van het ontwerp van fort Zeelandia. Dit plan door de kaartenmaaker Calvi rekent het potentieel bereik van de batterijen uit bij eb en vloed. Hierbij worden profielen en een plattegrond gebruikt.\nOorsprong: OBP Suriname 1743 [fols.] 612-613.\nSchaal 50 Rijnlandse voeten = 65 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2073",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.24 - 0.53 El.",
+        "dcterms:date": "1744",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2119/projectplan-voor-de-versterking-van-fort-zeelandia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/90/34/2f/f7/49/07/45/5c/ad/37/f1/90/29/7b/73/b2/ac55970c-9809-47a7-867e-8d6e48ea31d2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/90/34/2f/f7/49/07/45/5c/ad/37/f1/90/29/7b/73/b2/ac55970c-9809-47a7-867e-8d6e48ea31d2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2073.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van eenige Batteryen tot meerdere versterking van de Fortres Zelandia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

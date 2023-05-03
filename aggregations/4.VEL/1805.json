@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1805.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f84d260a-987b-420d-bde5-b31279c48a1a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1805.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Imotapi gelegen aan de oevers van de Rivier Commewijne",
+        "dc:description": "Titel Leupe:Kaart van eenige plantagien gelegen aan beide oevers van de rivier Commewyne.\nDeze kaart toont de exacte ligging van de plantages Goed Akkoord; Imotapi; Blakkreek; Crawassibo etc. gelegen aan de oevers van de Rivier Commewijne te Suriname.\nDe kaart is voorzien van aantekeningen (akte van meetinge).\nZie ook kaart VEL 1804V.\nOp kaart VEL 1800 (1732) is hetzelfde gebied te zien, maar met een heel verschillende verkaveling.\nOorsprong: [OBP Suriname] 1736 [fols.] 1237-1238.\nSchaal van 200 Kettingen a\u0300 66 Rijnlandse voeten = 139 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1805",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.55 El",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9895/kaart-van-de-plantage-imotapi-gelegen-aan-de-oevers-van-de-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7d/e4/09/a1/c5/ef/4f/a3/85/e6/d8/67/cc/24/29/ae/e793d009-5826-4212-9d92-746766ec2ce2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7d/e4/09/a1/c5/ef/4f/a3/85/e6/d8/67/cc/24/29/ae/e793d009-5826-4212-9d92-746766ec2ce2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1805.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige plantagien, gelegen aan beide oevers der Commewyne."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

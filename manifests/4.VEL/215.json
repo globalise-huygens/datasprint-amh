@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/215.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Paskaart van een gedeelte der Aethiopische Zee; strekkende van Rio St. Lucia tot Cabo del Gado, langs de kusten van Suffalo en Mocambique, bevattende insgelijks 't Eiland Madagascar met desselfs onderhoorige Eilanden."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "215"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/3ad768e5-d798-44a1-9e85-560f58f9c87b\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/215.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/215.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7417,
+            "width": 12053,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/215.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/215.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/9c/12/e9/b1/fd/71/4f/b6/8f/23/3b/96/32/c8/81/ac/c0ab8205-f3d3-4eae-bb22-472585ff7a53.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7417,
+                                "width": 12053,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/9c/12/e9/b1/fd/71/4f/b6/8f/23/3b/96/32/c8/81/ac/c0ab8205-f3d3-4eae-bb22-472585ff7a53.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/215.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2076.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Platte grond van de Buytenwerken om het fortress Zeelandia, zoo als dezelve zyn gemaakt en hersteld enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2076"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1781"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/635d63ae-ff01-4420-b9f9-6684c4c0d35f\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2076.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2076.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5190,
+            "width": 9041,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2076.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2076.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ed/cd/89/8b/5f/f3/4f/20/a3/3d/5d/36/b5/e0/2f/52/f1cdc5fa-7ab8-4ca7-b1c2-72f4788568cc.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5190,
+                                "width": 9041,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ed/cd/89/8b/5f/f3/4f/20/a3/3d/5d/36/b5/e0/2f/52/f1cdc5fa-7ab8-4ca7-b1c2-72f4788568cc.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2076.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

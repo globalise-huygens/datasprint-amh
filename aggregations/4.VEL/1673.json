@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1673.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0c53da6b-07ab-43c9-8fa6-714f7985d8c9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1673.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de kust tussen de riviermondingen van de Suriname en de Berbice",
+        "dc:description": "Titel Leupe: \u201cFigurative schets der Kolonie Suriname tot aan de Rivier Berbice.\u201d\nDeze kaart toont the rivieren en kreken tussen de Suriname en Berbice koloni\u00ebn. De gecultiveerde stukken grond zijn gearceerd. Ook al lijkt de kaart gemaakt te zijn om de afstand tussen de koloni\u00ebn alsook de omvang van de monding aan te duiden, toch is the schaal niet ingevuld. De kaart is dan ook onvoltooid, wat het beperkte aantal aangegeven namen eveneens verklaart.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1673",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.34 - 0.61 El.",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9785/kaart-van-de-kust-tussen-de-riviermondingen-van-de-suriname-en-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4f/42/4d/af/ef/b2/48/e6/ab/c6/eb/d9/f4/9c/3b/2d/da31aaee-8ddf-4fc7-9c40-a4e635f74dc1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4f/42/4d/af/ef/b2/48/e6/ab/c6/eb/d9/f4/9c/3b/2d/da31aaee-8ddf-4fc7-9c40-a4e635f74dc1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1673.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Figurative schets der Kolonie Suriname tot aan de Rivier Berbice."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

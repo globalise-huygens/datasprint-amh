@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/719.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a4a99c94-c290-45d0-b067-b8aa4bcc2ba6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_719.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "[?]ho da bahia de todos [os] sanctos co acosta do mar ateabarra do cammamu 1638",
+        "dc:title": "Portugese kaart van de Allerheiligenbaai in Brazili\u00eb",
+        "dc:description": "Portugese kaart van de Allerheiligenbaai in Brazili\u00eb.\nTitel in Catalogus Leupe: Kaart .. da bahia de Todos os Sanctos co \u00e1 Costa do Mar ate a barra do Cammam\u00fa.\n[?]ho da bahia de todos [os] sanctos co acosta do mar ateabarra do cammamu 1638.\nLegenda: 1-18.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0719",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "legenda",
+            "gebouw",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "aquarel/waterverf",
+        "dcterms:extent": "38 x 71 cm",
+        "dcterms:date": "1638",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7465/portugese-kaart-van-de-allerheiligenbaai-in-brazili%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b8/54/6c/ca/87/26/4e/73/85/fb/3d/da/c9/bf/42/b0/593b1db8-6fa1-4137-b25a-b19b54992e96.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b8/54/6c/ca/87/26/4e/73/85/fb/3d/da/c9/bf/42/b0/593b1db8-6fa1-4137-b25a-b19b54992e96.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/719.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart ... da bahia de Todos os Sanctos co \u00e1 Costa do Mar ate a barra do Cammam\u00fa."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

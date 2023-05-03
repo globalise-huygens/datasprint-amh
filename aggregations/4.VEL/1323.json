@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1323.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/efc3be40-b0c9-4cf7-aeb8-3236392b852e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1323.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Tabelolo",
+        "dc:title": "De redoute Tabelolo te Macquian",
+        "dc:description": "Titel catalogus Leupe (NA): De redoute Tabelolo te Macquian.\nBehoort bij het rapport van Arnold de Vlamingh van Outshoorn.\nRechts boven genummerd: 112.\nDe randen zijn gerafeld en gescheurd.\nNotities verso: 112 [moet het folionummer in de band OBP zijn] / 668 i.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1323",
+        "dc:subject": [
+            "vesting",
+            "overzicht / aanzicht",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "33 x 41 cm",
+        "dcterms:date": "ca. 1651",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6329/de-redoute-tabelolo-te-macquian"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0f/cf/15/27/c3/25/42/55/8a/60/07/36/d5/5d/78/da/ee70676e-b2d1-494a-bbb1-d639bdaf0a71.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0f/cf/15/27/c3/25/42/55/8a/60/07/36/d5/5d/78/da/ee70676e-b2d1-494a-bbb1-d639bdaf0a71.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1323.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "De redout Tabelolo op Macquian."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1169.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caarte, aanwysende den wegh en distantie tusschen de Mynwercken van Tsie Candang en Passier Anging, geleegen in de Crawangse bovenlanden, aan en omtrent den berg Parrang."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1169"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1700/1800"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f1ddacfd-7722-46bb-ba43-1efa085f1ea1\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1169.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1169.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6488,
+            "width": 9264,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1169.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1169.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/5a/48/4e/15/f6/87/48/46/81/fd/68/80/c8/5f/a3/16/f42f7a8f-d201-42bc-9116-3c2d5c626a66.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6488,
+                                "width": 9264,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/5a/48/4e/15/f6/87/48/46/81/fd/68/80/c8/5f/a3/16/f42f7a8f-d201-42bc-9116-3c2d5c626a66.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1169.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

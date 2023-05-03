@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/817.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6fb6b698-1be7-4072-aede-2516392d66cb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0817.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Redout Duijnhoop",
+        "dc:title": "Plan van redout Duynhoop",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de redout Duynhoop.\nNotities verso: 654 van de Kaap II deel n. 204; 498e.\nLegenda: a-g",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0817",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "210 x 240 mm",
+        "dcterms:date": "ca. 1654",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/869/plan-van-redout-duynhoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b3/50/e8/67/05/c8/43/f8/a8/6d/c1/36/eb/87/fa/ec/4cbe7471-6a6e-411e-a5c3-443260b467a1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b3/50/e8/67/05/c8/43/f8/a8/6d/c1/36/eb/87/fa/ec/4cbe7471-6a6e-411e-a5c3-443260b467a1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/817.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de redout Duynhoop."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

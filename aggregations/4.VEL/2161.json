@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2161.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/033070f5-7074-40ae-8bba-d130d8368112",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2161_2.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Planta do Forte Real Qve Manda Fazer Mathias De Albvqverqve",
+        "dc:title": "Plattegrond van fort Real",
+        "dc:description": "Plattegrond van fort Real.\nTitel Catalogus Leupe: Planta do Forte Real que manda fazer Mathias De albuquerque etc.\nPlanta do Forte Real Qve Manda Fazer Mathias De Albvqverqve Pera seguraoca deporto D:p:rnas buco em d zembro de seis sintos e uinte e n:ve ann: d.\nLegenda: A-R.\nHet bovenste deel van het fort, met de legendanummers P en R, staat afgebeeld op een opgeplakt vel papier. De legendanummers A, D, G-I zijn te zien als dit vel omgevouwen wordt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2161",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "gebouw",
+            "legenda",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "58 x 41 cm",
+        "dcterms:date": "1629",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2187/plattegrond-van-fort-real"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8b/9a/56/d6/6a/01/4f/a8/a0/53/6f/fe/a7/a4/df/36/743444c9-f2b0-42d1-b88e-209ee808a81d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8b/9a/56/d6/6a/01/4f/a8/a0/53/6f/fe/a7/a4/df/36/743444c9-f2b0-42d1-b88e-209ee808a81d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2161.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Planta do Forte Real que manda fazer Mathias De albuquerque etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

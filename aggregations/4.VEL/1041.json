@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1041.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d27e9e85-acf4-4aa1-9dd3-dbd65f2187c5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1041.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Algemeen Plan der Verbeteringen aan de Vestingwerken van Oostenburg, beraamd door de WelEdele Gestrenge Heeren Vaillant, Verhuell en Graevesteyn, Commissarissen-Militair enz",
+        "dc:title": "Plattegrond van fort Oostenburg",
+        "dc:description": "Titel catalogus Leupe (NA): Algemeen plan als voren, hiermee wordt bedoeld de titel van VEL1040: Algemeen plan der verbeeteringen aan de vestingwerken van Oostenburg, door de H.H. Vaillant, Ver-Huel en Graevesteyn, Commissarissen-Militair enz.\nNotities verso: No. 22A Verbetering van Oostenburg. Register 4, Deel 1, Folio 14, Portefeuille .. [geschreven op een blauw etiket] / 570 [met vette cijfers gestempeld op een etiketje] / No. 8 / 3 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1041",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "48 x 63 cm",
+        "dcterms:date": "ca. 1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/600/plattegrond-van-fort-oostenburg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/84/c6/6a/ac/83/36/47/e8/b6/4a/6a/67/e9/6e/d0/6d/be1ce741-3138-449f-b8d7-3693103c477c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/84/c6/6a/ac/83/36/47/e8/b6/4a/6a/67/e9/6e/d0/6d/be1ce741-3138-449f-b8d7-3693103c477c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1041.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Algemeen plan der verbeeteringen aan de vestingwerken van Oostenburg, door de H.H. Vaillant, Ver-Huell en Graevesteyn, Commissarissen-Militair enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

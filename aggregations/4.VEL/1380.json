@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1380.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5c0c606c-3f94-422f-b692-766dd96b3130",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1380.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Amerikaanse continenten",
+        "dc:description": "Titel Leupe: A Map of the whole continent of America, divided into North and South and West Indies etc. Vier bladen.\nEen kaart van Noord\nen Zuid-Amerika alsook de Cariben met een uitgebreide index die alle Europese koloni\u00ebn bevat. De grenzen tussen deze koloni\u00ebn zijn met verschillende kleuren getekend en staan centraal in deze kaart. Ze zijn gebaseerd op het verdrag dat op 10 Februari 1763 in Parijs werd getekend. De voorwaarden van dit verdrag zijn ook ingevoegd, wat aantoont dat de uitgever Sayer met deze kaart de nieuwe politieke balans op deze twee continenten wil weergeven. De erkenning die de kaart in het buitenland kreeg maakte hem belangrijk voor de Nederlandse Republiek aangezien het WIC-gebied hiermee internationaal werd vastgelegd. Linksonder is ook een kaart van het Noord-Amerikaanse toendra gebied te vinden.\nSchaal van ca. 1:11,250,000.",
+        "dc:type": "drukwerk",
+        "dc:identifier": "VEL1380",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "104 x 120 cm.",
+        "dcterms:date": "1772",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7196/kaart-van-de-amerikaanse-continenten"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7b/e3/b4/d3/d1/ac/43/de/9f/78/e5/58/26/71/6d/ea/88ce6cb1-f528-4adf-a968-d3060c057163.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7b/e3/b4/d3/d1/ac/43/de/9f/78/e5/58/26/71/6d/ea/88ce6cb1-f528-4adf-a968-d3060c057163.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1380.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A Map of the whole continent of America, divided into North and South and West Indies etc. Vier bladen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

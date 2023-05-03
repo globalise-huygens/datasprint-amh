@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1340.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6ef6a754-41f3-4443-9adb-5f2ae7ed4577",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1340.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Redout Amstedam tot Hila / Redout Middelburg, Pas Baguela / Redout Rotterdam tot Larique / Barricade Oery",
+        "dc:title": "Plattegronden van de fortificaties te Hila, Larike, Pas Baguala en Ourien",
+        "dc:description": "Titel catalogus Leupe (NA): De redout Amstedam tot Hila.\nVEL1340a: De redout Middelburg, Pas Baguela.\nVEL1340b: De redout Rotterdam tot Larique.\nVEL1340c: De barricade Oery.\nRechts boven genummerd: 27.\nDe linker rand en onderrand op verschillende plaatsen gescheurd.\nNotities verso: 32 [in potlood, slecht leesbaar] / 652 t.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1340",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "begraafplaats / kerkhof"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5316/plattegronden-van-de-fortificaties-te-hila-larike-pas-baguala-en"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/51/6f/2e/c1/4c/51/49/c7/be/7c/13/03/8b/fd/05/66/e4f44bba-6dc7-4534-90f0-a5e867fdb674.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/51/6f/2e/c1/4c/51/49/c7/be/7c/13/03/8b/fd/05/66/e4f44bba-6dc7-4534-90f0-a5e867fdb674.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1340.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "De redout Amsterdam tot Hila."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2012.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a0341814-1e22-47ee-a045-d3331e286d0f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2012.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plan om de monding van de Surinamerivier in tijd van oorlog af te sluiten",
+        "dc:description": "Titel Leupe: Schetsplan van een defens plan der rivieren Surinamen en Comowini, ontworpen door: Hottinger..\nDeze kaart toont de zogenoemde \u2018Linie van Verstopping\u2019, dus de afsluiting in tijd van oorlog, van de monding van de Surinamerivier, zoals tijdens en na de Vierde Engelse Oorlog uitgewerkt op basis van de eerste, ge\u00efmproviseerde opzet daartoe in 1781-1782.\nDeze kaart toont hoe vijandelijke schepen onder vuur komen te liggen.\nNaast de batterijen, blokkadeschepen, kanonneerboten en de houten barri\u00e8re zijn ook brandschepen weergegeven die op de vijand zullen worden afgerstuurd.\nDeze kaart maakte deel uit van het verslag van de inspectiereis langs de Nederlandse bezittingen aan de Goudkust en in West-Indi\u00eb van januari 1786 tot augustus 1787 met het marinefregat Hector, geleid door de luitenant-ingenieur Johann Heinrich Hottinger en de luitenant-ter-zee Albert Kikkert. Dit was de eerste inspectietocht die na de oorlog met Engeland werd ondernomen.\nHottinger en Kikkert verbleven tussen 9 november 1786 en 2 maart 1787 in Suriname. Ze inspecteerden in die periode, met medewerking van de ingenieur Johann Gottfried Rabanus B\u00f6hm, de militair commandant Juriaan Fran\u00e7ois de Friderici en gouverneur Jan Gerhard Wichers, de defensiewerken in de kolonie en vervaardigden een klein aantal projectkaarten. De aandacht ging daarbij in de eerste twee maanden vooral uit naar een nieuw ontwerp voor de \u2018Linie van Verstopping\u2019, dat deze versperring in korte tijd en met weinig middelen inzetbaar moest maken.\nHet resulterende plan, dat overigens in hoofdzaak Hottingers werk was, behelsde de plaatsing van een permanente barri\u00e8re van zware palen en ijzerwerk dwars over de rivier tussen de redoutes Purmerend en Leyden, met alleen in de vaargeul een relatief kleine doorvaart die bij oorlogsdreiging met kettingen kon worden gesloten.\nDirect daarachter was een linie van \u2018canonnieer chalouppen\u2019 voorzien, terwijl iets verder stroomopwaarts ter hoogte van Fort Nieuw Amsterdam zowel in de Suriname als in de Commewijne grotere gewapende schepen gepositioneerd zouden worden.\nDe totale kosten van de versperring beraamde Hottinger op bijna 93.000 gulden; tot uitvoering is het nooit gekomen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2012",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier",
+            "kompas / windroos",
+            "plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.25 - 0.40 El.",
+        "dcterms:date": "1786",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1999/plan-om-de-monding-van-de-surinamerivier-in-tijd-van-oorlog-af-te"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1f/92/ef/8f/21/73/4d/25/b6/2f/1c/60/59/3f/44/30/8a6c25d8-fa3f-4082-9835-cc50418ea8ed.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1f/92/ef/8f/21/73/4d/25/b6/2f/1c/60/59/3f/44/30/8a6c25d8-fa3f-4082-9835-cc50418ea8ed.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2012.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schetsplan van een defens plan der rivieren Surinamen en Comowini, ontworpen door: Hottinger."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

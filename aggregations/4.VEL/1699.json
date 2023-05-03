@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1699.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/50261309-0bed-4786-bd9e-b70d8da4a552",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1699.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de uitbreiding van de plantage Worsteling Jacobs",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie de Worsteling Jacobs enz.\nOp deze kaart wordt een gedeelte van de plantage Worsteling Jacobs opnieuw gemeten. Dit stuk is aangegeven met de letters B-E en was eerder door de landmeter R. de Meester onderzocht. Hier is een nieuwe schatting van omvang en landschap gemaakt die is aangegeven in Surinaamse akkers (1 akker = 0,43 hectare) en meerdere aantekeningen. In het midden van het nieuwe stuk grond ligt een bos en savanne, maar werd de door De Meester genoemde kreek niet aangetroffen. Het oorspronkelijke deel van de plantage (lichtgroen gekleurd) heeft ten zuiden (linksonder op de kaart) een savanne die gebruikt wordt voor bebouwing, die met referentienummers is aangegeven. Deze nummers zijn verder uitgelegd in de hoek linksonder op de kaart. Verder zijn ook klippen, sleepaden en kanalen te zien. De kaart is ondertekend op 18 Januari 1779.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 185 strepen",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1699",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "mijn"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.75 - 0.54 El.",
+        "dcterms:date": "1773-1784",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9826/kaart-van-de-uitbreiding-van-de-plantage-worsteling-jacobs"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fb/73/17/21/12/e2/4f/b0/94/92/5c/78/93/c6/9c/32/4e7a5ebb-1b15-4faf-9c88-09430e8c1394.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fb/73/17/21/12/e2/4f/b0/94/92/5c/78/93/c6/9c/32/4e7a5ebb-1b15-4faf-9c88-09430e8c1394.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1699.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagie de Worsteling Jacobs enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

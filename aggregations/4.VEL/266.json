@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/266.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/701213b2-69b2-4d78-a8b6-f4a97ca4c79b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0266.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De rivier van Siam / De Stad Judia / het opdoen van de Bay en het Hooge land van Siam, als men sig by het ancker op 5 vadem waters bevindt",
+        "dc:title": "Kaart van de rivier van Siam",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de rivier van Siam, van de Zee tot aan de Stad Judia.\nNotities verso: A.A. 32 verso potlood: nr. 6; 33 zie L 267 [=VELH sic. RMH]\nCatalogus Leupe (NA): a. De Stad Judia met de Hollandsche Logie.; Schaal van 2 D.m. = 126 strepen\nOmgerekend [ca. 1:117.577] (27 x 37 cm).\nCatalogus Leupe (NA): b. Kaart van het opdoen van de Bay en het Hoogeland van Siam, op 5 vadem water enz.;\nSchaal van 4 D.m. = 105 strepen; Omgerekend [ca. 1:282.186] (21 x 37 cm).\nRechts boven: 32.\nTopografische naam vermeld op deze kaart: Bankock.\nZichtbaar is het tolhuis.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0266",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kerk / pastorie",
+            "rede / haven / pier",
+            "tolhuis / wachthuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "525 x 740 mm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/927/kaart-van-de-rivier-van-siam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/23/17/ea/48/bc/8f/4b/ee/a6/5c/f5/60/ce/a4/da/f7/ce8b9a59-b201-46d5-8aa3-148b558f1988.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/23/17/ea/48/bc/8f/4b/ee/a6/5c/f5/60/ce/a4/da/f7/ce8b9a59-b201-46d5-8aa3-148b558f1988.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/266.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de rivier van Siam, van de Zee tot aan de Stad Judia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

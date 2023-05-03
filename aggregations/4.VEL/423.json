@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/423.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/98ec54d7-17f7-4d77-b556-5e6cc1a5c8fa",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0423.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een gedeelte van de noordkust van Java",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van een gedeelte van de Noordkust van Java, tusschen Ondjong Java en Lassum.\nBevat de aantekening Accordeert met de Origineele, Batavia den 19 Maart Anno 1755, Pieter Hermanus Ohdem.\nBevat ook aantekeningen in potlood die slecht leesbaar zijn.\nNotities verso: Noordkust van Java, tot aan de kust van Malaya, Sourabaya en Madura, Ba\u2026 Passage, Banka \u2026 Bintang [tekst staat op een opgeplakt stukje papier, gedeeltelijk afgescheurd].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0423",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "69,5 x 152,5 cm",
+        "dcterms:date": "1755",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3024/kaart-van-een-gedeelte-van-de-noordkust-van-java"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c5/1d/75/3f/33/dc/47/79/9b/82/49/9b/41/05/6a/c9/14015e9c-e440-4b23-965c-c2c309989f4c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c5/1d/75/3f/33/dc/47/79/9b/82/49/9b/41/05/6a/c9/14015e9c-e440-4b23-965c-c2c309989f4c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/423.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de Noordkust van Java, tusschen Ondjong Java en Lassum."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

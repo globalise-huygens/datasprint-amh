@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1324.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fc9d6671-abda-4da8-bfab-4dbe1f20930f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1324.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Ontwerpinghe van Amboyna neffens taencleven van dienals wijt loopich aenghewesen wert bij de beschrijvinghe",
+        "dc:title": "Kaart van Ambon en omgeving",
+        "dc:description": "Titel catalogus Leupe (NA): Ontwerpinghe van Amboyna, neffens t'aencleven van dien enz..\nTwaalf bladen gezamenlijk, behoort bij de Beschrijving van het eiland Ambon door gouverneur Herman van Speult, 1623.\nNotities verso: 660 a.\nLinksonder het opschrift: Ontwerpinghe van Amboyna neffens taencleven van dienals wijt loopich aenghewesen wert bij de beschrijvinghe.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1324",
+        "dc:subject": [
+            "flora",
+            "huis / woonhuis",
+            "kerk / pastorie",
+            "plattegrond / kaart",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "67 x 177,5 cm",
+        "dcterms:date": "1623",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2388/kaart-van-ambon-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/26/f8/e6/46/20/87/48/6e/a5/00/09/25/4d/28/df/a5/d9a342d1-c6ae-418b-abef-4049d741cc92.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/26/f8/e6/46/20/87/48/6e/a5/00/09/25/4d/28/df/a5/d9a342d1-c6ae-418b-abef-4049d741cc92.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1324.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

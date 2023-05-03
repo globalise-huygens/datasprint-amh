@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1869.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/40f9a81d-ca86-4135-b86b-79109c65a006",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1869.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van nieuwe kavels tussen de  Matapica en Warapa Kreek Kanaal",
+        "dc:description": "Titel Leupe: Kaart van de Landen tusschen het gedolven Canaal van Klein Matappica en Warapper Creeq gelegen..\nDeze kaart toont verschillende kavels tussen het Klein Matapica en Warapa Kreek kanaal (blauwe strepen links en rechts op de kaart) door de Warapa Kreek.\nDe nadruk ligt op de nieuw geplande kavels ten noorden (boven in de kaart) van de bestaande plantages.\nDeze nieuwe kavels zijn aangeduid met de cijfers A-G en bevatten hun oppervlakte in Surinaamse akkers (1 akker is gelijk aan 0,43 hectare).\nDe al gebruikte kavels bevatten eigenamen en hun hun oppervlakte in Surinaamse akkers (1 akker is gelijk aan 0,43 hectare).\nDe eerste gronden in dit gebied werden kort voor het midden van de achttiende eeuw uitgegeven.\nAl voor ca. 1757 begon hier ook de ontginning van de laaggelegen delen verder van de rivier vandaan, het eerst langs de Warapa\nen de Matapicakreek, waarvoor het echter noodzakelijk was op uitgebreide schaal afwaterings\nen toevoerkanalen te graven.\nSchaal van 300 Kettingen \u00e0 66 Rijnlandse voeten = 123 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1869",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.315 - 0.195 El.",
+        "dcterms:date": "18de eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9986/kaart-van-nieuwe-kavels-tussen-de-matapica-en-warapa-kreek-kanaal"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/be/a3/8e/1d/7b/a8/4e/d0/b8/df/c6/14/cc/e6/0a/5f/ce8ab00a-0683-45aa-a89a-023c7edc7ade.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/be/a3/8e/1d/7b/a8/4e/d0/b8/df/c6/14/cc/e6/0a/5f/ce8ab00a-0683-45aa-a89a-023c7edc7ade.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1869.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Landen tusschen het gedolven Canaal van Klein Matappica en Warapper Creeq gelegen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

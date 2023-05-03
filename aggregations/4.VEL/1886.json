@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1886.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fe6dbe13-0c2a-48ac-989d-d25b6016ac95",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1886.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage van de heer du Peijrou",
+        "dc:description": "Titel Leupe: Kaart van een stuk land gelegen in de rivier Cottica, links in het afvaren, gelegen in de bogt van het 1e tabbetje, gelegen tegen over het Eiland van Egtensveen.\nDeze kaart toont het stuk grond van de heer du Peijrou (omlijnd) aan de zuidoever (boven op de kaart) van de Cottica-rivier.\nDe meting is aangevraagd door de heer Pierre du Peijrou, Raad in de Edele Hove van Civile Justitie, om zijn nieuw stuk grond te meten dat hij op 30 Januari 1730 van de Gouverneur-Generaal bemachtigd heeft.\nDe regering in Paramaribo verbiedt dat Pierre du Peijrou de kreken aan de noordkant van zijn land (onder op de kaart) zal belemmeren.\nDe kavel blijkt 500 Surinaamse akkers (215 hectare) in omvang.\nDe kavel ligt ten westen (rechts van op de kaart) van de plantage van Barend Adriaansen Rubsina en ten oosten (links van op de kaart) van grond behorend tot de Soci\u00ebteit van Suriname.\nDe kaart is door de landmeter ondertekend op 2 September 1730 en officieel erkend op 5 October 1730 te Paramaribo.\nSchaal van 60 Kettingen \u00e0 66 Rijnlandse voeten = 112 strepen.\nOorsprong: [OBP Suriname] 1732 [fols.] 72-73.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1886",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.42 - 0.33 El.",
+        "dcterms:date": "1728",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10014/kaart-van-de-plantage-van-de-heer-du-peijrou"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/98/63/25/3e/90/ae/41/9b/9a/8e/de/b3/34/51/f4/80/5e10f83a-7c10-40ea-bcd8-3858d7e47450.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/98/63/25/3e/90/ae/41/9b/9a/8e/de/b3/34/51/f4/80/5e10f83a-7c10-40ea-bcd8-3858d7e47450.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1886.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land gelegen in de rivier Cottica, links in het afvaren, gelegen in de bogt van het 1e tabbetje, gelegen tegen over het Eiland van Egtensveen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1716.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/55854a0b-6efa-4cdf-be2e-63084ae0e047",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1716.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [above] continuation of the title : \nOp order van de WelEd: Gestr: Heer Jan Nepveu, Gouverneur Generaal deezer Colonie &a &a &a.",
+        "dc:title": "Kaart van de nieuwe uitbreiding van Paramaribo",
+        "dc:description": "Titel Leupe: Schetskaart van de Verdeelinge der Erven voor het Vrye Corps..\nDeze kaart geeft een van de verkavelingsontwerpen weer van de drie grote uitbreidingen van Paramaribo aan de zuid\nen westkant in de jaren rond 1770. Dit geeft de derde fase weer. Voor het terrein ten zuiden van de Drambrandersgracht ontwierp Lieftinck in 1772 een kleiner verkavelde buurt speciaal bestemd voor de leden van het in juli van dat jaar opgerichte Vrije Korps, het militaire korps van voormalige slaafgemaakten in dienst van de kolonie, dat een belangrijke rol speelde bij de strijd tegen de Marrons. De bevolking van dit stadsgedeelte raakte gaandeweg gem\u00ealeerd omdat niet iedere zwarte soldaat gebruikmaakte van zijn recht op een perceel en meerdere hun bezit aan burgers vermaakten, maar tot vandaag de dag herinnert de gangbare benaming van de wijk die hier is afgebeeld, Frimangron (\u2018Vrijmansgrond\u2019), aan de oorsprong.\nSchaalstok van 20 Kett:n \u00e0 66 Rijnl:e v:te = [ca. 1 : 165].\nHet noorden is linksboven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1716",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kolonie / dorp"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53,5 x 76 cm.",
+        "dcterms:date": "1772",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7712/kaart-van-de-nieuwe-uitbreiding-van-paramaribo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f7/90/78/e1/d9/b9/44/bf/97/8f/52/86/80/69/76/a4/82d145a8-0324-44e8-b0bb-07d9e6807732.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f7/90/78/e1/d9/b9/44/bf/97/8f/52/86/80/69/76/a4/82d145a8-0324-44e8-b0bb-07d9e6807732.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1716.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schetskaart van de Verdeelinge der Erven voor het Vrye Corps."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

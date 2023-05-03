@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1584.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5759d760-fd20-4f9d-a42c-364747d31e9e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1584.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van plantages in Berbice",
+        "dc:description": "Titel Leupe: Kaart van Canaal en Ostsee kust van Berbice.\nDeze kaart toont verschillende plantages langs de rivier. Tevens zijn twee nieuwe voorpolders te zien langs de rivier. Deze polders waren stroken van ontwaterd en bouwrijp gemaakt land langs de rivier, direct ten zuiden van de gouvernementswijk, en werden verdeeld in woonerven om uitbreiding van de stad mogelijk te maken. (Zie VEL1665).\nDe index rechts op de kaart geeft de namen van de eigenaars van plantages en een lijst met bijbehorende oppervlakte en afstanden.\nDeze diende als voorbeeld voor een overeenkomstige kaart uit 1803 door de landmeter in Berbice J.H. Wiedeman, waarvan ook een meer uitgewerkte kopie bestaat door A. en G.H. Ampt (zie VEL 1585).\nKreken en het Brandwagt kanaal zijn bij naam genoemd.\nHet noorden is linksboven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1584",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.41 - 0.53. (44.5 x 56 cm.)",
+        "dcterms:date": "ca. 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1905/kaart-van-plantages-in-berbice"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/96/31/e0/c5/c4/fd/4e/1e/a3/bb/08/6c/c7/b3/72/d6/fc0b5950-dccb-4bbf-86fc-cff43397cea7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/96/31/e0/c5/c4/fd/4e/1e/a3/bb/08/6c/c7/b3/72/d6/fc0b5950-dccb-4bbf-86fc-cff43397cea7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1584.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Canaal en Ostsee kust van Berbice."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

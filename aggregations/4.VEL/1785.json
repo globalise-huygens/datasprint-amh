@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1785.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cb7dc537-941d-4fe9-80e8-89b07a2142c9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1785.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van gronden gelegen aan de Suriname rivier",
+        "dc:description": "Titel Leupe: Kaart van eenige landen behoorende aan de Plantagie Rac a\u0300 Rac enz.\nDe kaart toont de exacte ligging van enkele kavels, waarin eigennamen zijn gezet.\nDe kavels zijn gelegen aan de rechteroever van de Suriname rivier (in 't afvaren) ten Zuiden van de Marine Kreek en ten Noordwesten van de Rak a Rak Kreek.\nIn de verschillende kavels zijn de afmetingen in Kettingen aangegeven.\nOorspong: OBP Suriname 1740 [fol.] 1008\nSchaal van 100 Kettingen = 130 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1785",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.28 El.",
+        "dcterms:date": "1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9774/kaart-van-gronden-gelegen-aan-de-suriname-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6f/47/a8/bc/45/07/49/81/b2/8e/04/6a/32/94/7b/36/961a1739-34c6-4dec-9212-90af218673ee.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6f/47/a8/bc/45/07/49/81/b2/8e/04/6a/32/94/7b/36/961a1739-34c6-4dec-9212-90af218673ee.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1785.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen behoorende aan de Plantagie Rac \u00e0 Rac enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

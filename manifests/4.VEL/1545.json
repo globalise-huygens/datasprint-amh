@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1545.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Carte du relev\u00e9 et arpentage d'une partie de la Riviere de Ponmaron et Cot\u00e9 de la Mer adjacent, faits par les arpenteurs V.D. Burght et Chollet etc., et dresse\u00e9 par:"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1545"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1794"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/7fa5ac91-9c7a-44ec-9647-31f1ba00029f\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1545.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1545.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5774,
+            "width": 14237,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1545.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1545.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/5e/13/f5/b6/f5/a4/4d/63/95/8c/a0/38/3a/69/73/fc/ef4fc75e-a261-42bf-9ce7-b60836a11eec.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5774,
+                                "width": 14237,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/5e/13/f5/b6/f5/a4/4d/63/95/8c/a0/38/3a/69/73/fc/ef4fc75e-a261-42bf-9ce7-b60836a11eec.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1545.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

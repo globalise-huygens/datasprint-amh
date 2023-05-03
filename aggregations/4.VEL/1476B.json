@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1476B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f39a6fb1-9f68-4ad1-a77f-ba8fb60ad0cf",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1476b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plan voor fortificaties bij Willemstad",
+        "dc:description": "Titel Leupe: Profilen van de geprojecteerde werken tot dekking der stad en haven van Cura\u00e7ao.\nDeze vier profielen geven, samen met VEL1476A, de afstanden tussen een geplande bastion, lunet en Place d\u2019 Armes bij Willemstad weer. Het bastion lijkt een uitbreiding van het fort Amsterdam te zijn. Deze kaart maakte deel uit van het verslag van de inspectiereis langs de Nederlandse bezittingen aan de Goudkust, Sint Eustatius, Cura\u00e7ao en de rest van West-Indi\u00eb van januari 1786 tot augustus 1787 met het marinefregat Hector, geleid door de luitenant-ingenieur Johann Heinrich Hottinger en de luitenant-ter-zee (later kapitein-ter-zee) Albert Kikkert. Dit was de eerste tocht van deze aard die na de oorlog met Engeland werd ondernomen\nSchaal van 5 Roeden = 137 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1476B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.48 - 0.65 El.",
+        "dcterms:date": "1786-1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1617/plan-voor-fortificaties-bij-willemstad"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9a/b4/25/6d/e3/d7/41/5f/b7/2a/93/52/80/92/90/6f/e8941796-6b28-4044-82ba-0774087c9a9d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9a/b4/25/6d/e3/d7/41/5f/b7/2a/93/52/80/92/90/6f/e8941796-6b28-4044-82ba-0774087c9a9d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1476B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1614B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0f17843a-b488-42e2-be2c-04b77e42c9d9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1614b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title) Profil of Doorsnee volgens de linie j.z. op de grond plaan Nr. 1 Van \u2019t Nieuw angeleggde Fort op de gefortificeerde Batterie Andries in de geoctroyeerde Colonie de Berbice.",
+        "dc:title": "Kaart van de verdedigingwerken rond de monding van de rivier Berbice",
+        "dc:description": "Titel Leupe: Plaan van het nieuw angelegde fort of de geprojecteerde Batterie Andries in de geoctroyeerde Colonie de Berbice.\nRond 1742 waren alle opeenvolgende plannen voor een fort of ten minste een redoute op het Krabbeneiland of op de oostelijke punt van de monding van de rivier definitief verworpen. Dit leidde in 1745-1746 tot een noodgreep ter verdediging van de toegang tot de kolonie. Een tijdelijke oplossing werd gevonden door de aanleg van een bescheiden batterij van tien stukken op de oostelijke oever pal tegenover het Krabbeneiland, dat op initiatief van de toenmalige gouverneur Johan Andries Lossner (ook: L\u00f6ssner, 1740-1749) de naam Fort Sint Andries kreeg.\nDit vogelvluchtperspectief behoort tot een serie gemaakt door de landmeter en ingenieur Philippus Marcus Osterlin (zie VEL1612 en VEL1614-1616) die het beperkte bereik en de efficientie van het  Fort Sint Andries weergeeft en projectvoorstellen aandient voor een verdere versterking ervan.\nEen van de problemen met het bestaande fortje was dat het aan de landzijde nauwelijks versterkt bleek; daar bevond zich alleen een dubbele aarden wal met smalle grachten, zonder bescherming van bastions en geschut, en het zou een eenmaal gelande Europese tegenstander in de praktijk dan ook weinig moeite kosten de bezetting van nog geen dertig man bij een stormloop van die kant te overrompelen. Naast het bieden van een overzicht van de verschillende onderdelen van dit fort, toont de kaart ook de voorgenoemde zwakheid.\nSchaalstok van 100 Voeten Rhijnlands = [ca. 1 : 145].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1614B",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "vogelvlucht / opstand"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "34 x 56,5 cm.",
+        "dcterms:date": "1745-1750",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1908/kaart-van-de-verdedigingwerken-rond-de-monding-van-de-rivier-berbice"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0b/a2/dc/de/c0/3a/4c/e8/a6/3f/cf/27/1a/03/5c/1a/a7bdba3e-5025-4b96-b6a2-0315b3cf4088.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0b/a2/dc/de/c0/3a/4c/e8/a6/3f/cf/27/1a/03/5c/1a/a7bdba3e-5025-4b96-b6a2-0315b3cf4088.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1614B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

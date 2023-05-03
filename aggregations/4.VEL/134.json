@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/134.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/250ba65e-b10f-40c8-b605-9905250033df",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_134.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Pascaert vande / Custen van / Angola / van Rio de Zaire tot C. Negro, alles op zyn ware Coers en ver- / heyt geleyt.",
+        "dc:title": "Kaart van West-Afrika, van Angola tot Cabo Negro",
+        "dc:description": "Titel catalogus Leupe (NA): Nieuwe Paskaart van de Custen van Angola van R. de Zaire tot Cabo Negro.\nMet stempeltje Marine.\nDe kaart is op blauw papier geplakt.\nNeem contact op met Nationaal ArchiefRijksmuseum Amsterdam voor hergebruik en auteursrechten.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0134",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "Persoon",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "fauna",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "56,5 x 65,5 cm",
+        "dcterms:date": "1675-1715",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6834/kaart-van-west-afrika-van-angola-tot-cabo-negro"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b4/be/88/f1/46/b0/4a/f2/9a/86/47/a1/17/fd/b4/a8/5daa0058-56a8-4f93-a7e1-4de7d32a06b0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b4/be/88/f1/46/b0/4a/f2/9a/86/47/a1/17/fd/b4/a8/5daa0058-56a8-4f93-a7e1-4de7d32a06b0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/134.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

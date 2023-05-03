@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1231A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ababd2b5-d04b-43d0-a270-362774ab8881",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1231a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van het generaalshuis van het kasteel te Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Gront en Stant-affteeckeningh van het nieuw gebouwde Generaelshyus binnen 't Casteel Batavia.\nIn potlood genummerd: 1231.\nRanden gerafeld en gescheurd.\nHoort ook bij OBP 1649 I; In catalogus Leupe is een verwijzing naar een catalogus van een tentoonstelling Amsterdam 1919 bijgeschreven.\nNotities verso: 602 ee / 151 [moet het folionummer in de band OBP zijn] / 1649 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1231A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "35 x 48,5 cm",
+        "dcterms:date": "ca. 1649",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/471/plattegrond-van-het-generaalshuis-van-het-kasteel-te-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1c/57/b5/dd/8b/aa/4e/3e/84/1c/78/34/06/17/10/d6/e2eabfcc-44b4-4a29-ac41-c43df03b6451.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1c/57/b5/dd/8b/aa/4e/3e/84/1c/78/34/06/17/10/d6/e2eabfcc-44b4-4a29-ac41-c43df03b6451.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1231A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

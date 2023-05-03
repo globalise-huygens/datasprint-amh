@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1091.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fbbbbff8-1d5a-432c-881e-02e1c6a808ae",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1091.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan de la Paliacatte",
+        "dc:title": "Plattegrond van Paleacatte",
+        "dc:description": "Titel catalogus Leupe (NA): Plan de Paliacatte et de ses Environs.\nNotities verso: No. 13 Plan van Pallicatte. Register 6, Deel 1, Folio 28, Portefeuille .. [geschreven op een blauw etiket] / 589a [met vette cijfers gestempeld op een etiketje] / tot no. 45 [klein geschreven, in rechterbovenhoek].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1091",
+        "dc:subject": [
+            "Persoon",
+            "schip / vaartuig",
+            "legenda",
+            "vesting",
+            "kunst(nijverheid) / object",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "75 x 49,5 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4021/plattegrond-van-paleacatte"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6a/23/ed/09/62/f2/42/75/ba/5a/58/5a/95/47/4b/97/5e451bfb-99b0-49ce-a712-896406e71e0b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6a/23/ed/09/62/f2/42/75/ba/5a/58/5a/95/47/4b/97/5e451bfb-99b0-49ce-a712-896406e71e0b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1091.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan de Paliacatte et de ses Environs."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

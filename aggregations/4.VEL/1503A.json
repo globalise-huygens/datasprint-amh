@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1503A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/36dcd757-8c1b-4a2c-b1bb-c30be110922f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1503a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaart van een gedeelten der Rivier en Zee= / kusten van Demerarij met de langs geleegen - / Plantagien,\nGetekend volgens de Kaart van den Landmeeter H: van Cooten van den Jaare 1792. En is op dezelve gebragt, de Aftekening van het nieuw te graaven Canaal; dienende tot eene Uijtwatering voor de Landen Formeerende eene derde groote off diepten aan de Plantagien, langs de Oostelijke Zeekust leggende, en alhier door Gestipte lienien aangeweezen, wordende verder door de Letter A de plaats alwaar de steene schutsluijs en door B de Houte loos off Uijtwaterende sluijs zal koomen te leggen Aangetoond.\nGedaan op Order van het Committ\u00e9 tot de Westindiesche Colonien door mij Ondergetekende Ordinairis Landmeeter: in deezen Jaare 1796. get: J. Sabrier. Naar het zelve gevolgd door A.A. Cz. en H. Ampt.",
+        "dc:title": "Plankaart van de monding van de Demerary",
+        "dc:description": "Titel Leupe:  Kaart van eenige plantages aan den mond der Rio Demerary\nGetekende kaart van de monding van de Demerary, met daarop een aantal bij naam vermelde plantages en (geplande?) forten\nDe legenda waarnaar letters A-E verwijzen ontbreekt.\nOnderdeel van een serie plannen voor de verdere ontwikkeling van de kolonie in de jaren \u201970 en \u201980 van de 18de eeuw.\nRechtsboven: _Plan V\nNr. 6._\nNagenoeg identiek aan VEL1503B (niet in AMH opgenomen)\nSchaalstok van 1000 Rijnlandse Roeden",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1503A",
+        "dc:subject": [
+            "landerij / plantage",
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "49 x 64 cm",
+        "dcterms:date": "1792",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9383/plankaart-van-de-monding-van-de-demerary"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bf/bd/5e/4e/c4/b5/4b/9c/b9/71/41/29/88/d3/58/bd/05d61b99-2c57-4fd3-82de-0ae3ca5fa143.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bf/bd/5e/4e/c4/b5/4b/9c/b9/71/41/29/88/d3/58/bd/05d61b99-2c57-4fd3-82de-0ae3ca5fa143.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1503A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

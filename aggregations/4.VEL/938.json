@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/938.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/afcc223b-3d70-44b7-8729-1e9cb186a6f2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0938.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "van de Kanneel Thuynen, Met Dies Hoofdweegen Geleegen in het Districht van Paneture en vervolgens langsde Weg na de Rivier van Kaliture",
+        "dc:title": "Kaart van kaneeltuinen te Paneture, Ceylon",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als vorengeleegen in het district van Paneture, en vervolgens langs de weg na de rivier van Kaliture, hiemee wordt verwezen naar de titel van VEL0936: Kaart van de Salpittie Korls Kanneeltuynen, met die Hoofdwegens, geleegen in het district van Kaliture, van de Alloet Korls.\nDe kaart is een kopie.\nNotities verso: Kaart van Caliture, No. 149, 514 [met vette cijfers gestempeld op een etiketje].\nDe kaneeltuinen hebben de nummering van 1-27.\nRechtsboven de schaalverdeling: R:Roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0938",
+        "dc:subject": [
+            "gebouw",
+            "huis / woonhuis",
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "landerij / plantage",
+            "plattegrond / kaart",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "148,5 x 50 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4348/kaart-van-kaneeltuinen-te-paneture-ceylon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/92/6f/f4/58/22/d6/45/25/bd/b5/f2/af/c4/3d/2e/b7/762f2508-6bdc-4672-8dba-8457376ea58a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/92/6f/f4/58/22/d6/45/25/bd/b5/f2/af/c4/3d/2e/b7/762f2508-6bdc-4672-8dba-8457376ea58a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/938.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Salpittie Korls Kaneeltuynen, geleegen in het district van Paneture, en vervolgens langs de weg na de rivier van Kaliture."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

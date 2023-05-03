@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1298.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Landkaart van de Noord-Eind van de Bogt van Boni; behelzende een gedeelte van het ryk van Boni en Sopeng, Loewoe en Sideenring; mitsgaders het land van Wadjo en het Oostelykste Zoete Meer; beneffens het vermaarde rivier van Tjinrana Boni."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1298"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1752"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/c0877983-be64-4e4f-8b82-8ccca9fab323\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1298.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1298.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6151,
+            "width": 8670,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1298.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1298.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/21/a3/19/90/8f/26/43/2a/8b/16/cb/f5/6f/19/a3/72/27c8eff6-dca8-438b-a3cc-cfebec0eae70.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6151,
+                                "width": 8670,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/21/a3/19/90/8f/26/43/2a/8b/16/cb/f5/6f/19/a3/72/27c8eff6-dca8-438b-a3cc-cfebec0eae70.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1298.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/268.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Afbeelding van de Zeeslag voor Panumping (op de Rivier van Cambodia) gehouden den 12den juni, op Sondach, van den dageraedt tot savonts ten 5 uren, in 't jaar 1644."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "268"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1644"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/59741df6-5df7-4a35-8480-43f2b4d5a1b2\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/268.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/268.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4768,
+            "width": 11616,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/268.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/268.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/44/3c/c9/61/90/4a/45/2b/87/75/a0/02/56/40/64/57/34402874-4459-445c-ad2f-2b62285d69aa.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4768,
+                                "width": 11616,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/44/3c/c9/61/90/4a/45/2b/87/75/a0/02/56/40/64/57/34402874-4459-445c-ad2f-2b62285d69aa.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/268.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1625.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f90c7c06-5555-45d0-85b4-b29e355ef198",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1625.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "continuation of the title (upper right):\nPlan Behoordende tot de Memorie aan de Wel Edele Achbare Heeren Directeuren deeser Colonie Betreffende \u2019t Fort Nassau in Rio de Barbice Gesonden met Kapt. Roelof Marprang den 27 Maart 1756. \n\na key to the letters A to X (upper left):\nRenvoy. \nA. Het Gouvernement, \u2019t welke blijft staan. \nB. Nieuw Geconcipieert Fort, met sijn Bedekte Weg. \nC. Logement voor de Officieren. \nD. Logement voor \u2019t Garnesoen. \nE. Kruid Magasijn. \nF. Corps de Garde. \nG. De Provoost. \nH. Sortie na de Gragt. \nI. De Capitale Wal. \nK. Drooge Gragt. \nL. Brug van Communicatie. \nM.M. Twee Caponnieres in de Gragt. \nN. Bedekte Weg. \nO Laage Batterijen. \nP.P. Twee Places d\u2019Armes. \nQ Traversen in de Bedekte Weg. \nR. Sluise om in cas van nood de Gragt te Inondeeren. \nS. Water met een Riool tot aan de Rivier. \nT. Het Huis Lust tot Rust. \nU. Broodhuis. \nV. Alhier soude men kunnen Plaatsen de Smidswinkel. \nW. Corps de Garde bij \u2019t Gouvernement. \nX. De Stelling.",
+        "dc:title": "Kaart van de geplande uitbreiding van het fort Nassau",
+        "dc:description": "Titel Leupe: Plan tot een concept op het fort Nassau.\nZelfs na de vernieuwing in de jaren kort voor 1740 bleef Fort Nassau een uiterst bescheiden verdedigingswerk, dat bovendien door de overwegende toepassing van hout en aarde als bouwmaterialen (alleen de gebouwen binnen waren deels van steen) spoedig opnieuw in verval raakte.\nDit is een ontwerp voor een volgende herinrichting en gedeeltelijke nieuwbouw van het fort. De kaart benadrukt de behoefte aan uitbreiding door een lange index links op de kaart.\nDit projectplan voor Fort Nassau bleeft onuitgevoerd, en op 8 maart 1763 was het ironisch genoeg mede op basis van Hattinga\u2019s rapportage over de deplorabele toestand van het fortje dat gouverneur Wolfert Simon van Hoogenheim (1760-1764) alsnog toegaf aan de dringende wens van de burgers en het garnizoen te Nieuw-Amsterdam om de plaats te ontruimen en de gehele bevolking liet overbrengen naar Fort Sint Andries.\nHet noorden is linksonder.\nSchaalstok van 300 Voeten Rhijnlants = [ca. 1 : 475].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1625",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "47 x 57 cm.",
+        "dcterms:date": "1756",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1927/kaart-van-de-geplande-uitbreiding-van-het-fort-nassau"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ff/78/77/75/f2/08/40/c8/a7/66/3d/64/8c/f9/84/78/22d52820-f234-4bcd-80d7-735a3d190a7d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ff/78/77/75/f2/08/40/c8/a7/66/3d/64/8c/f9/84/78/22d52820-f234-4bcd-80d7-735a3d190a7d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1625.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan tot een concept op het fort Nassau."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

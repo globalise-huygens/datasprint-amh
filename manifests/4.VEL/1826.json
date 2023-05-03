@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1826.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van een stuk grond, gelegen boven in Casuwinica Creeck, links in het opvaren, gelegen naast de Plantagie Onnobo, regts in het opvaren."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1826"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1732"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ff0b2df9-7c43-4721-b74b-e09a2efeb8b4\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1826.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1826.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6558,
+            "width": 5194,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1826.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1826.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/1e/76/9c/e7/14/10/42/d4/b8/0f/4f/f6/f0/d8/fc/3b/096d922f-f1d8-4d17-a5f9-682252c7753b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6558,
+                                "width": 5194,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/1e/76/9c/e7/14/10/42/d4/b8/0f/4f/f6/f0/d8/fc/3b/096d922f-f1d8-4d17-a5f9-682252c7753b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1826.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

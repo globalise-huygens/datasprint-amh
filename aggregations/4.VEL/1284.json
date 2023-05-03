@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1284.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/16a240f7-e910-4b6e-83c5-d9f7acc1f8b8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1284.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caarte van het Camp tot Wono Cramo, alsmede het vyandelyk Retranchement op Capoetran",
+        "dc:title": "Kaart van de zuidelijke omgeving van Sourabaja, van het Camp tot Wono Cramo en Capoetran",
+        "dc:description": "Titel catalogus Leupe (NA): Caarte van het Camp tot Wono Cramo, alsmede het vyandelyk Retranchement op Capoetran anno 1719.\nBijzonderheden: in de linkerbovenhoek van de kaart ontbreekt een stuk.\nNotities verso: caarte van het campement tot Wono Crame, als mede het vijandelijk Retranchement op Capoetran anno 1719 [twee keer] / No. 80. [op een etiketje] / No. 29 Kaart van het Camp te Wono Crano mitsgaders het vijandelijke retranchement. Register 2, Deel 1, Folio 8, Portefeuille .. [geschreven op een blauw etiket] / 647 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1284",
+        "dc:subject": [
+            "vesting",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "88,5 x 59,5 cm",
+        "dcterms:date": "1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4052/kaart-van-de-zuidelijke-omgeving-van-sourabaja-van-het-camp-tot-wono"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/10/f1/36/f7/82/3d/49/97/b9/ca/09/4b/07/ca/41/18/86e047ff-ba27-4ac9-8d4b-837618fae3fc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/10/f1/36/f7/82/3d/49/97/b9/ca/09/4b/07/ca/41/18/86e047ff-ba27-4ac9-8d4b-837618fae3fc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1284.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caarte van het Camp tot Wono Cramo, alsmede het vyandelyk Retranchement op Capoetran."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

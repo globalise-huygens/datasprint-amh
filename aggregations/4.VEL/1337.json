@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1337.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7d634ab4-ed0b-4c89-9793-94319d3b2f1c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1337.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "N:o 2 / Plan van 't kasteel Nieuw-Victoria gemeeten ter ordre van de weledelgestrenge Heeren Vaillant, Verhuel en Graevestein Commissarissen militair enz. enz.",
+        "dc:title": "Plattegrond van kasteel Victoria te Ambon",
+        "dc:description": "Titel catalogus Leupe (NA): Plan als voren, bedoeld wordt de titel van VEL1337: Plan van 't kasteel Nieuw-Victoria.\nGenummerd: No. 3.\nNotities verso: No. 3 / 657 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1337",
+        "dc:subject": [
+            "weeshuis",
+            "plattegrond / kaart",
+            "rede / haven / pier",
+            "raadhuis / stadhuis",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "58 x 53,5 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6976/plattegrond-van-kasteel-victoria-te-ambon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/60/4e/52/1a/5b/9e/43/36/bf/be/ef/8d/1f/6a/99/28/117214e7-06ca-458c-ab08-7de678b410b6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/60/4e/52/1a/5b/9e/43/36/bf/be/ef/8d/1f/6a/99/28/117214e7-06ca-458c-ab08-7de678b410b6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1337.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van 't kasteel Nieuw-Victoria, met eenige daaraan voorgestelde verbeeteringen enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

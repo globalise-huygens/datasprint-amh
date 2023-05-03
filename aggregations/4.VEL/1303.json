@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1303.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0b198100-def5-44f9-95f4-d09c9b6c6053",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1303.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caartie van het Eijnde der Tominise Bogt opgemaakt door ordre van den Agtb: Heer Gouverneur en Directeur deser Moluccos Jacob Christiaan Pielat op den 29: ber 1730 door [...] Matthijs Plazier caartemaeker",
+        "dc:title": "Kaart van de Bocht van Tomini, Noord Celebes",
+        "dc:description": "Titel catalogus Leupe (NA): Caartie van het eynde der Tominise Bogt (oostkust) en van de S.W. hoek van Tantoly tot de Baay van palo, aan de Westkust van Celebes.\nRechtsboven genummerd: 4294, waarschijnlijk het folionummer in de band\nNotities verso: 1731 N2 / 4294 [folionummer in de band ?] / 652 f / N/N 905 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1303",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "31,5 x 37,5 cm",
+        "dcterms:date": "1730",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5840/kaart-van-de-bocht-van-tomini-noord-celebes"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d8/b2/a7/f7/7b/d0/46/b9/93/94/05/93/7e/0c/34/11/dc0ee3fa-e738-460b-99ae-f7bf5d60680e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d8/b2/a7/f7/7b/d0/46/b9/93/94/05/93/7e/0c/34/11/dc0ee3fa-e738-460b-99ae-f7bf5d60680e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1303.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caartie van het eynde der Tominische bogt (Oostkust) en van de S.W. hoek van Tantoly tot de Baay van Palo, aan de Westkust van Celebes."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

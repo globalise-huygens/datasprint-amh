@@ -1,0 +1,56 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/750.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6958a12b-bf57-4690-b7a0-9ee221f3a3c5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_750.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van het Fort Holliandia tot Pocquissoe",
+        "dc:title": "Plattegrond van het fort Hollandia te Princes Town",
+        "dc:description": "Plattegrond van het fort Hollandia te Princes Town.\nTitel catalogus Leupe (NA): Plan van het Fort Hollandia tot Pocquesoe.\nPlan van het Fort Holliandia tot Pocquissoe .\nNotities verso: No. 13 Het Fort Hollandia. Register 8, Deel 1, Folio 33, Portefeuille .. [geschreven op een blauw etiket] / 451 [met vette cijfers gestempeld op een etiketje].\nLegenda: A. Ingang en Poort van 't Fort / B. De Wagt / C. Sergeante Woning / D. Verwulft Thans voor 's Slave gat gebruikt. / E. Toren waar in 't Kruit Magazijn is. / F. Verwulft, waar de Kalk en andere Materialen geborgen worden / G. Commandants Woningen, waar onder de Assitents Woning en Pakhuijsen / H. Oudt en Vervalle Gouvernement / I. Vervalle Woningen waar thans de Soldaten Woning en Combuijs is / K. Katteplaats.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0750",
+        "dc:subject": [
+            "vesting",
+            "legenda",
+            "gebouw",
+            "plattegrond / kaart",
+            "kruithuis / kruitmolen",
+            "huis / woonhuis",
+            "poort",
+            "pakhuis",
+            "toren"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50 x 66,5 cm",
+        "dcterms:date": "1786",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1300/plattegrond-van-het-fort-hollandia-te-princes-town"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bd/4a/ef/9d/f2/e1/42/28/80/a7/e9/5c/96/37/e2/70/ec7ad897-ad9e-491b-a337-4fd3ca75cde7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bd/4a/ef/9d/f2/e1/42/28/80/a7/e9/5c/96/37/e2/70/ec7ad897-ad9e-491b-a337-4fd3ca75cde7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/750.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het Fort Hollandia tot Pocquessoe."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

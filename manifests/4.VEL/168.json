@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/168.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Saldanha-, Tafel-, Houtbay en Bay Fals. Dassen, Robbeneiland."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "168"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1654"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f32ec918-39b3-45ac-ac81-57589833e950\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/168.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/168.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8940,
+            "width": 6260,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/168.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/168.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/20/4e/85/90/ca/10/4a/30/bf/47/a5/0b/aa/14/9e/bc/bfeb9cc0-ace3-4fa2-9c12-feee2cc1c35b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8940,
+                                "width": 6260,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/20/4e/85/90/ca/10/4a/30/bf/47/a5/0b/aa/14/9e/bc/bfeb9cc0-ace3-4fa2-9c12-feee2cc1c35b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/168.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1991.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0d86223b-0e14-419c-91f1-32565d4fcc4f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1991.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Boni-campagne",
+        "dc:description": "Titel Leupe: Carte de la Riviere Marawine et Districts etc..\nDeze grote kaart van de Marowijne en aangrenzende gebieden, vanaf de monding stroomopwaarts tot de samenvloeiing met de Tapanahoni, geeft een overzicht van het oostelijke grensgebied van Suriname.\nHij werd in oktober 1790 getekend door de van oorsprong Zwitserse eerste luitenant bij het Surinaamse Korps Jagers, Henri Barde.\nDoel van de kaart was verslag te doen van de militaire expeditie van 26 april tot 16 mei dat jaar tegen de Boni in hun woonoord Aroku (op de kaart gespeld als Aroku\u00e9) aan de oostelijke oever van de Marowijne, onder leiding van luitenant Johann Friedrich K\u00fcbeler.\nOp de kaart is de marsroute van de militairen aan de Franse zijde ingetekend en aangegeven met de letter q.\nDe Franstalige legenda vermeldt in grote lijnen wat voorafging, zoals het vinden van het spoor van de Boni aan de Marowijne in april 1789 (b), de vestiging van een eerste kampement door de militairen eind oktober 1789 (d), de aanleg van de militaire post Armina in februari 1790 (g), en verschillende tussentijdse gevechten.\nK\u00fcbelers detachement, bestaande uit manschappen van het Vrije Korps en het door Europese militairen gevormde Korps Jagers, slaagde erin Boni c.s. uit hun dorpen in Aroku (alle op de kaart aangeduid met de naam van het dorpshoofd) en de nabijgelegen eilanden te verdrijven.\nOp \u00e9\u00e9n van deze eilanden,\u2018Islet de Coyo Cormantin\u2019 (o), het huidige Langatabbetje, werd de nieuwe post Nassau gevestigd waar Barde zijn kaart tekende.\nIn de verklaring linksboven heeft Barde onder meer vermeld dat de nieuwe wijkplaatsen van de Boni ongeveer 40 kilometer stroomopwaarts van de post Nassau lagen, tevens ten zuiden (boven op de kaart) van de \u2018place jusqu\u2019\u00e0 pr\u00e9sent \u00e0 nous connue\u2019 (p).\nVEL1992 is een kopie van deze kaart.\nSchaalstok van deux petites lieue, de 6000 pas de deux pieds, ou 184 Chaines & 54 Pieds  [= ca. 1 : 160.000]",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1991",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "1.01 - 0.65 El.",
+        "dcterms:date": "1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10191/kaart-van-de-boni-campagne"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a9/5d/bd/c0/de/ff/4e/dd/94/1c/3f/3f/b8/ef/a3/15/84997b88-5092-4843-9cb6-af35a21cf63f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a9/5d/bd/c0/de/ff/4e/dd/94/1c/3f/3f/b8/ef/a3/15/84997b88-5092-4843-9cb6-af35a21cf63f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1991.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte de la Riviere Marawine et Districts etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

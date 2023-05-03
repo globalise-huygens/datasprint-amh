@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1389.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6032fa21-598b-481a-8066-8af8870b3d09",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1389.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Nova Scotia",
+        "dc:description": "Titel Leupe:  A New Map of Novo Scotia and Cape Breton Island, with the adjacent parts of New England and Canada etc.\nThomas Jefferys (1710-71) was de hofgeograaf van Koning George III en een uitgever van kaarten gevestigd in Londen. Hij is bekend om zijn kaarten van Noord-Amerika, die voor commerci\u00eble doeleinden gedrukt werden alsook om aan te tonen welke gebieden de Britten als hun territorium zagen. De hier getoonde kaart werd oorspronkelijk gemaakt in de periode na de Zevenjarige Oorlog en de \u201cgreat upheaval,\u201d toen de Britten zevenduizend Franse Acadianen wegdreven van hun boerderijen en huizen langs de kust van de Fundy Baai. De hier getoonde versie van de kaart is afkomstig uit The American Atlas, die na Jefferys dood door zijn voormalige partner werd gepubliceerd.\nSchaal van 70 Eng. M. = 59 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1389",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.47 - 0.615 El. (ca. 1:1,900,000.)",
+        "dcterms:date": "1786",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7201/kaart-van-nova-scotia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5d/f5/cd/18/5e/10/43/98/9e/71/33/40/00/55/09/63/23431c0e-9eb5-4956-aede-5737144aa3ec.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5d/f5/cd/18/5e/10/43/98/9e/71/33/40/00/55/09/63/23431c0e-9eb5-4956-aede-5737144aa3ec.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1389.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A New Map of Novo Scotia and Cape Breton Island, with the adjacent parts of New England and Canada etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

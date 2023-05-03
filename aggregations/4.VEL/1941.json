@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1941.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7ba8d73d-c049-4455-898a-45bedd073bd7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1941.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een kavel op de plantage Bellevue",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen tusschen de Plantagien Bellevue en Ephrata.\nDeze kaart toont een kavel van de Bellevue plantage (aangeduid met de letters A-E) toebehorend aan mevrouw Adriana Isabella de la Gaille en gelegen ten noorden van de Cottica Rivier (i.e. bovenkant kaart).\nDe meting is aangevraagd door de Gouverneur-Generaal nadat hij dit stuk land aan mevrouw de la Gaille toegewezen had.\nDe kavel blijkt 265 Surinaamse akkers (113,95 hectare) te meten.\nTen westen ligt de plantage Ephrata, ten oosten de rest van de plantage Bellevue en ten zuiden de plantage Hamburgh .\nDe kaart is door de landmeter ondertekend op 4 Mei 1732 en officieel erkend op 8 Mei 1732 te Paramaribo.\nSchaal van 100 Ketingen \u00e0 66 Rijnlandse voeten = 126 strepen.\nOorsprong: [OBP Suriname] 1732, [fols.] 1102-1103.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1941",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.39 - 0.30 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10046/kaart-van-een-kavel-op-de-plantage-bellevue"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d2/7c/ce/8c/8d/0d/4a/92/89/73/4b/a8/e1/9f/26/01/93171029-b9c5-4c7a-8dba-3a7c2b2f5145.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d2/7c/ce/8c/8d/0d/4a/92/89/73/4b/a8/e1/9f/26/01/93171029-b9c5-4c7a-8dba-3a7c2b2f5145.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1941.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen tusschen de Plantagien Bellevue en Ephrata."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

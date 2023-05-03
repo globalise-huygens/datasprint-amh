@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/283.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a3233257-00d8-481c-81a2-814f78b9bd9a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0283.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "China",
+        "dc:title": "Kaart van de Hoksieu rivier, China",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de reede en haven voor de Hocksiuwse rivier, leggende op 26-15 N.Br. enz.\nNotitie: Hierop is geteekend de Expeditie onder het bevel van den Admiraal Balthasar Bort in 1662, met belangrijke aanteckeningen.\nLegenda op kaart, A-O, Verklaringh der Letteren.\nDe kompaslijnen zijn gedrukt.\nNotities verso: hocksieus Rivier etcetera, No. 21. [twee keer], No. 38 (7) [in potlood].\nRechtsonder de schaalverdeling Duijtsche Mijlen Vijfthien voor den Graadt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0283",
+        "dc:subject": [
+            "gebouw",
+            "huis / woonhuis",
+            "kompas / windroos",
+            "schip / vaartuig",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "perkament",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "79 x 95,5 cm",
+        "dcterms:date": "1662",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6198/kaart-van-de-hoksieu-rivier-china"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/76/9e/e5/e7/f7/bd/41/15/b3/fb/e2/ea/17/a5/5b/3a/4393ba3f-ed6a-481e-941f-ed0c955630e1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/76/9e/e5/e7/f7/bd/41/15/b3/fb/e2/ea/17/a5/5b/3a/4393ba3f-ed6a-481e-941f-ed0c955630e1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/283.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de reede en haven voor de Hocksiuwse rivier, leggende op 26 - 15 N.Br. enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

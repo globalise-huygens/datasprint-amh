@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1292.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/17c42f86-5c7e-4f11-887e-1ca8e712e7d5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1292.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Afbeeltsel van de bergh Larentouque, hooft residentie plaetse der Portugesen in die quartieren van Solor ende Timor",
+        "dc:title": "Gezicht op de berg van Larantuka, hoofdresidentie der Portugezen in de kwartieren van Solor en Timor",
+        "dc:description": "Titel catalogus Leupe (NA): Afbeeltzel van den Bergh Larentouque, hoofd-residentie-plaetse der Portugezen in die quartieren van Solor ende Timor.\nHoort bij de beschrijving van Solor en Timor van Arnold de Vlaming van Oudtshoorn.\nNotities verso: 230 of 236 [folionummer in de band ?] / 652 h.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1292",
+        "dc:subject": [
+            "huis / woonhuis",
+            "schip / vaartuig",
+            "flora",
+            "tanck / waterplaats / put",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "32,5 x 41,5 cm",
+        "dcterms:date": "ca. 1656",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9175/gezicht-op-de-berg-van-larantuka-hoofdresidentie-der-portugezen-in-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/41/6c/84/91/11/c3/48/57/82/31/8c/90/60/52/53/b4/b8d7a195-1faa-47ca-bd78-1f919d78ebe1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/41/6c/84/91/11/c3/48/57/82/31/8c/90/60/52/53/b4/b8d7a195-1faa-47ca-bd78-1f919d78ebe1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1292.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeeltzel van den Berg van Larentouque, hoofd-residentieplaetse der Portugezen in de quartieren van Solor ende Timor."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

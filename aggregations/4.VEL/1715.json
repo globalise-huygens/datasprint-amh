@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1715.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ed8e797d-8b60-43de-a9a5-5cdb89d44d34",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1715.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [above] continuation of the title : \nOp order van de WelEd: Gestr: Heer Jan Nepveu, Gouverneur Generaal deezer Colonie &a &a &a.",
+        "dc:title": "Kaart van de nieuwe uitbreiding van Paramaribo",
+        "dc:description": "Titel Leupe: Plan van de verder nieuwe uitleg van Paramaribo, zynde een vervolg van de nieuwe Uytleg van 1769.\nDeze kaart geeft een van de verkavelingsontwerpen weer van de drie grote uitbreidingen van Paramaribo aan de zuid\nen westkant in de jaren rond 1770. Dit geeft de tweede fase weer, een uitleg tussen de Rust en Vredestraat, de Gravenstraat, de Wanicastraat (\u2018Nieuwe Weg\u2019) en de Weidestraat. Het werd in deze periode maar in heel beperkte mate gerealiseerd: de Wanicastraat (hier \u2018Fiottestraat\u2019) zou tot ver in de negentiende eeuw de westelijke stadsgrens blijven.\nHet noorden is rechtsboven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1715",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kolonie / dorp"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "48,5 x 60 cm.",
+        "dcterms:date": "1771",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7711/kaart-van-de-nieuwe-uitbreiding-van-paramaribo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/53/e9/c6/73/d2/7f/44/65/92/e9/21/97/de/38/09/9b/bc932614-68d5-4481-8acd-867551a6fe32.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/53/e9/c6/73/d2/7f/44/65/92/e9/21/97/de/38/09/9b/bc932614-68d5-4481-8acd-867551a6fe32.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1715.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de verder nieuwe uitleg van Paramaribo, zynde een vervolg van de nieuwe Uytleg van 1769."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

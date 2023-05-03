@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1391.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b276dd14-cb16-4c51-b75d-4c6764eb278a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1391.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het Champlainmeer",
+        "dc:description": "Titel Leupe: A Survey of Lake Champlain, including Lake George, Crown Point and St. John etc.\nDit is de eerste apart gepubliceerde kaart van het Champlainmeer en het Georgemeer. De landmeting van Brassier tussen 1758 en 1759 is als basis gebruikt. Verschillende namen waren sindsdien veranderd: Ticonderoga is hier Carillon, en een fort en meer vernoemd naar de Britse koning George in 1755 zijn hierbij ook genoemd (zie de inzetkaart rechtsonder). Een gestippelde lijn met referenties is toegevoegd om de strijd tussen de Britse en Amerikaanse vloot op 11 Oktober 1776 bij het Valcour eiland weer te geven, samen met hun tocht rivierafwaarts en een tweede strijd bij Crown Point op 13 Oktober 1776. Eveneens is de eerste Amerikaanse zeeslag door Generaal Benedict Arnold afgebeeld. De eerdere verkenning van dit gebied door de Nederlanders is ook kort genoemd in de beschrijving linksboven: \u201cHet Champlain meer dat door de Nederlanders de naam Corlaer geschonken was\u2026\u201d\nSchaal van 30 E.m. = 91 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1391",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.66 - 0.48 El.",
+        "dcterms:date": "1774",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7203/kaart-van-het-champlainmeer"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/83/de/3a/59/4e/02/45/3f/8b/b2/cb/9a/a0/4e/24/de/492db223-eb79-4a2a-8e03-c50a07dcaefa.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/83/de/3a/59/4e/02/45/3f/8b/b2/cb/9a/a0/4e/24/de/492db223-eb79-4a2a-8e03-c50a07dcaefa.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1391.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A Survey of Lake Champlain, including Lake George, Crown Point and St. John etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

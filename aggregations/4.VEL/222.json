@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/222.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4a34bd48-ed24-4858-9d92-6b8182f37e9f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0222.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Bay van Mascatta",
+        "dc:title": "Kaart van een gedeelte van de Persische Golf van Mascate tot Pt. Doggeby",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van een gedeelte van den Persischen Golf van Mascate tot Pt. Doggeby.\nDrie inzetkaarten met de baai van Mascatta;\nRechtsboven: De Bay van Mascatta.\nLinks: Een gedeelte van den Persischen Golf, van Dobby tot Cabo Monzandan.\nRechtsonder: Een gedeelte van het Eiland Kismis, Ormus en van Gamron tot Cabo de Jasque.\nNotities verso: A. A. nr. 13c en potlood nr. 21.\nTopografische namen op deze kaart vermeld: Cabo Monzandan, Boppose, Dobby, Cabo de Jasquis.\nHet betreft een kopie van een tekening die werd vervaardigd tijdens een expeditie van de Omaanse kusten in 1666.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0222",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "overzicht / aanzicht",
+            "vesting",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "520 x 745 mm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4354/kaart-van-een-gedeelte-van-de-persische-golf-van-mascate-tot-pt."
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bc/ef/08/af/b6/a9/44/83/af/a6/df/9a/24/8b/ce/be/56351c44-6fc5-485a-a280-b98fcf3a6101.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bc/ef/08/af/b6/a9/44/83/af/a6/df/9a/24/8b/ce/be/56351c44-6fc5-485a-a280-b98fcf3a6101.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/222.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van den Persischen Golf van Mascate tot Pt. Doggeby."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

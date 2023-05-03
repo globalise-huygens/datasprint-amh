@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/904.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5b505a8e-442d-4eae-80c9-82eadbbd9efb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0904.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan der stadt en fortres Cochim",
+        "dc:title": "Plattegrond van de stad en het fort van Cochin",
+        "dc:description": "Titel catalogus Leupe (NA): Plan als voren, hier wordt bedoeld de titel van VEL0901: Plan der Stadt en Fortres, sodanig als hetselve geleegen was in de Maand February 1767, benevens een gedeelte van Baypin, zoodanig als hetzelve ook geleegen was den 1 maart 1767, met deszelfs strekking op de ware distantie enz..\nLegenda: A-D\nPlattegrond van de Cochim betreffende de verkleining van de bestaande vestingwerken en de geplande aanleg van een nieuwe vesting (vijfhoek) aan de andere oever tegenover de stad aan de monding van de rivier op de hoek Baypin.\nTwee inzetkaarten met profieltekeningen van de vesting voor de verkleining en een papilotte van de gebouwen in de stad.\nNotities verso: nr. 45; [gedrukt etiket] nr. 505; [met inkt] nr. 241 [Blauw etiket] nr. Nr. 4 Plan van der stad en fortres Cochin [met als titel] Projecten van de verkleining der Stad Cochim.\nTopografische naam vermeld op deze kaart: bastion Gelderlant.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0904",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "doorsnede / profiel",
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "117 x 165 cm",
+        "dcterms:date": "28 maart 1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/950/plattegrond-van-de-stad-en-het-fort-van-cochin"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/92/9d/35/42/dc/35/4b/2e/8d/7b/ff/dc/54/cb/61/7a/40cfb89d-8174-4290-a24d-c8a8f6c04e3e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/92/9d/35/42/dc/35/4b/2e/8d/7b/ff/dc/54/cb/61/7a/40cfb89d-8174-4290-a24d-c8a8f6c04e3e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/904.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Gedeelte van den uytersten hoek van Baypin enz, dezelfde gelegenheid van tuynen, wildernis of ledig land en 't Zeestrand."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

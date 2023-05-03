@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/485.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e5bc3b3d-d4f6-4da7-8a65-97ca94ca9cb2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0485.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Seram en het gebied ten zuidoosten van Seram",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van het Eiland Ceram, Bouro, een gedeelte van de Westkust van Nova Guinea, de Arouw Eilanden, Timor-laut, het Oostelykste gedeelte van Tymor en de daartusschen gelegen Eilanden.\nRechtsboven genummerd: 19.\nDe achterkant is ter versteviging beplakt met een vel papier.\nNotities verso: De eijlanden Bouro, Ceram, Arou, Timorlaut en een gedeelte van Timor, ende de eijlanden tusschen de selve gelegen, mitsgaders de Zuijtkust van Nova guinea: [leesbaar in een uitsparing van het opgeplakte vel papier].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0485",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5325/kaart-van-seram-en-het-gebied-ten-zuidoosten-van-seram"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/85/bc/91/2e/39/30/42/0c/97/fb/28/35/b8/a2/9b/b5/19d4fd1b-e116-4956-8eda-f010e86d1fa1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/85/bc/91/2e/39/30/42/0c/97/fb/28/35/b8/a2/9b/b5/19d4fd1b-e116-4956-8eda-f010e86d1fa1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/485.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eiland Ceram, Bouro, een gedeelte van de Westkust van Nova Guinea, de Arouw Eilanden, Timor-laut, het Oostelykste gedeelte van Tymor en de daartusschen gelegen Eilanden."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

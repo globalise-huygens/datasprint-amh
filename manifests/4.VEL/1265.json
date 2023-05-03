@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1265.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan tot de constructie van de Batteryen aan den mond der Samarangsche en Torobaaysche rivieren, en het eind van de nieuwe doorgraving van de riviere van Samarang."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1265"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1787"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/4dbb6534-4693-4c8e-af8c-ba1405c4b0c9\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1265.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1265.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6813,
+            "width": 10097,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1265.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1265.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/31/64/ad/d7/77/b7/4d/50/a8/09/8f/c4/ac/f5/44/4d/306d8310-db9d-4032-97ed-d22c21dd9b69.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6813,
+                                "width": 10097,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/31/64/ad/d7/77/b7/4d/50/a8/09/8f/c4/ac/f5/44/4d/306d8310-db9d-4032-97ed-d22c21dd9b69.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1265.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

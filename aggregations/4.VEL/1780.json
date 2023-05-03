@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1780.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/01e15a94-b952-4543-87f9-6cf7f4c52b3b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1780.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een kavel gelegen aan de Surinamerivier",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen tusschen de Plantagien Boa vista en Descanc\u0327o.\nDe kaart toont de exacte ligging en omvang van een stuk land gelegen aan de rechteroever van de Suriname rivier (in 't afvaren).\nDe kavel is gelegen tussen de plantages Descanc\u0327o en Boavista.\nIn de kavel zijn de afmetingen in Kettingen aangegeven.\nDe kaart is voorzien van uitgebreide administratieve aantekeningen.\nOorsprong: [OBP] Suriname 1736 [fols.] 1335-1336.\nSchaal van 100 Kettingen a\u0300 66 Rijnlandse v. = 134 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1780",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "9.40 - 0.32 El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9769/kaart-van-een-kavel-gelegen-aan-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/67/d6/c2/ae/8a/20/49/38/a5/e4/ad/d8/3b/51/b9/3d/96bdb675-51cc-481c-87aa-f18d993d5bb9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/67/d6/c2/ae/8a/20/49/38/a5/e4/ad/d8/3b/51/b9/3d/96bdb675-51cc-481c-87aa-f18d993d5bb9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1780.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen tusschen de Plantagien Boa vista en Descan\u00e7o."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

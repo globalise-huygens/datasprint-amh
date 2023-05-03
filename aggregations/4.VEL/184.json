@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/184.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/da628dd2-c02b-4cfd-bb98-223ce9391f14",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0184.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Tafel Baaij",
+        "dc:title": "Kaart van de Tafelbaai",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Tafelbaay.\nIn het midden een windroos; middenonder een cartouche versierd met een Afrikaan en enkele dieren.\nNotities verso: 184 [in rood potlood].",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0184",
+        "dc:subject": [
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart",
+            "gebouw",
+            "fauna"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "54,5 x 75,5 cm",
+        "dcterms:date": "1784",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/399/kaart-van-de-tafelbaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0e/ee/fc/13/04/6d/4d/18/9c/68/91/25/97/a0/fc/eb/3064ab65-da30-4fff-82b8-e98c5407012c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0e/ee/fc/13/04/6d/4d/18/9c/68/91/25/97/a0/fc/eb/3064ab65-da30-4fff-82b8-e98c5407012c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/184.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Tafelbaay."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

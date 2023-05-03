@@ -1,0 +1,58 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/891.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f9cc59e8-5be4-417f-b4ce-707873842a27",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0891.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan en Profil van Cananoor met het Project van Reductie",
+        "dc:title": "Plan ter verkleining van het fort van Cananoor met enige veranderingen",
+        "dc:description": "Titel catalogus Leupe (NA): Plan en Project als voren, met eenige veranderingen, hier wordt bedoeld de titel van VEL0890: Plan en Project ter reductie van Cananoor, met eenige veranderingen.\nDeze kaart heeft in het midden een flap die omhoog kan, zie VEL0891flap.\nInzetkaart: Plan of papiotte van de oude situatie van fort voor de verbouwing tot sterreschans.\nPlankaarten van de bestaande en nieuwe ontworpen fortificatiewerken van Cananoor, door N. Paravicini en N. Guijard, gekopieerd door C.P. von Luepken en C.P. Keller.\nLegenda's: Plan aanleg sterreschans: A-W; 6-8.\nNotities verso: [Blauw ODG-etiket] nr. 11 Plan en Profil van Cananoor, reg. nr. 6, deel 1; folio 28; nr. 49; 230; [Gedrukt Etiket] nr. 501.\nTopografische namen vermeld op deze kaart: Bastioen Zelant, Bastioen Hollant.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0891",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "ziekenhuis / lazaret",
+            "tuin / siertuin",
+            "flora",
+            "pakhuis",
+            "rede / haven / pier",
+            "doorsnede / profiel",
+            "bazaar / markt",
+            "kruithuis / kruitmolen",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "56 x 85 cm",
+        "dcterms:date": "1 oktober 1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2553/plan-ter-verkleining-van-het-fort-van-cananoor-met-enige-veranderingen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ad/31/a4/46/86/0b/42/66/87/1b/48/3a/9c/e7/22/ca/8af05f9c-9e2b-4632-83f1-fed426a2cef1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ad/31/a4/46/86/0b/42/66/87/1b/48/3a/9c/e7/22/ca/8af05f9c-9e2b-4632-83f1-fed426a2cef1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/891.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan en Project ter reductie van Cananoor, met eenige veranderingen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

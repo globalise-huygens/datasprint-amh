@@ -1,0 +1,57 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/229.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/33d1b82e-668b-4054-9996-41a3ca01c54d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0229.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Waare afbeeldingh vande Laage landen der kuste Mallabar, Dewelke bestaan in verscheijde Koningrijken, en gedeelten van diep, beginnende bovende fortresse Cranganoor gelegen benoorden de hooft Stadt Cochim, en strekt tot verbij de fortresse Coilang zuijderwaarts. Soo als deselve onder 't gesag van den E.Heer oude Commandeur Isbrand Gotske door den Schipper Jan Tim perfectelijk is ondersogt en nagemeeten, Alle de revieren gepeijlt, en sodanige bevonden gelijk hier werdt vertoond. Sijnde dese caart, ter ordre van den E.E. Heer Hendrik Zwaardecroon, commissaris over de gem:te kuste Mallabaar, mitsgaders Canara en Wingurla etc. in' t jaar1697. Door den vaandrig en ingenieur Hans Georg Faarant vernieuwt.",
+        "dc:title": "De kust van Malabaar",
+        "dc:description": "Titel catalogus Leupe (NA): De waare afbeelding van de lage landen der Kust Malabaar enz., beginnende boven de fortresse Cranganoor en strekt tot verby de fortresse Coylang enz..\nOverige topografische namen vermeld op deze kaart: Apare, Patij, Allapaar, Aiwike.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0229",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kerk / pastorie",
+            "vesting",
+            "landerij / plantage",
+            "schip / vaartuig",
+            "pagode / tempel",
+            "bazaar / markt",
+            "kompas / windroos",
+            "speelhuis / soci\u00ebteit",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "730 x 3035",
+        "dcterms:date": "1697",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2829/de-kust-van-malabaar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/229.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "De ware afbeelding van de lage landen der Kust Malabaar enz., beginnende boven de fortresse Crangapoor en strekt tot verby de fortresse Coylang enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

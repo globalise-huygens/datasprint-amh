@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/144.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a7ff3a9e-8d1d-4443-9bf5-2bc6d52b6614",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_144.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Een Gedeelte van Loango en Angoij Aan de Kust van Gunea / van Cabo de Negro tot Maclomba door Capt. Pieter Hinke na sijn Eijgen Opservatie en Ondervindinge",
+        "dc:title": "Kaart van de West-Afrikaanse kust van Cabo de Negro tot Maclomba",
+        "dc:description": "Kaart van de West-Afrikaanse kust van Cabo de Negro tot Maclomba.\nTitel catalogus Leupe (NA): Kaart van een gedeelte van Loango en Angoy aan de Kust van Guinea van Cabo Negro tot Maslamba.\nEen Gedeelte van Loango en Angoij Aan de Kust van Gunea / van Cabo de Negro tot Malembo door Capt. Pieter Hinke na sijn Eijgen Opservatie en Ondervindinge.\nDe kaart is op blauw papier geplakt.\nNotities verso: No. 10 Angola van Caap Negro Lowango tot Malembo.\nOp de inzet een gedeelte van de Kust van Loango.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0144",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "63 x 104,5 cm",
+        "dcterms:date": "1716",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6844/kaart-van-de-west-afrikaanse-kust-van-cabo-de-negro-tot-maclomba"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/21/93/01/56/40/96/4b/1e/aa/e5/ee/5e/88/53/2d/bc/d4f8986d-83a7-490c-a104-e18ef96a8166.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/21/93/01/56/40/96/4b/1e/aa/e5/ee/5e/88/53/2d/bc/d4f8986d-83a7-490c-a104-e18ef96a8166.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/144.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van Loango en Angoy aan de Kust van Guinea, van Cabo de Negro tot Maslamba."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

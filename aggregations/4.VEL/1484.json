@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1484.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c99eaebe-dd40-4e86-be39-eeae4c0e4991",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1484.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Tekening van het nieuwe Gouvernementsgebouw te Willemstad",
+        "dc:description": "Titel Leupe: Tekeningen en plans van het Gouvernementsgebouw op Cura\u00e7ao in het fortres: Blad 11 Gesigt van 't Gebouw buijten 't Fortres..\nDeze tekening van het geplande gouvernementsgebouw toont de facade van het simpele langgerekte gebouw met een begane grond en zolder. Het gebouw werd later opnieuw ontworpen met twee verdiepingen.\nZie ook VEL1485, samen met dit ontwerp deel van een groterer serie tekeningen waarvan deze twee als enige zijn overgeleverd.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1484",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "1765-1766",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7254/tekening-van-het-nieuwe-gouvernementsgebouw-te-willemstad"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/32/40/30/3d/4e/37/42/12/94/f1/22/ac/7e/a1/f5/c6/1d9fc549-c0d6-4787-817c-253a7c171f69.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/32/40/30/3d/4e/37/42/12/94/f1/22/ac/7e/a1/f5/c6/1d9fc549-c0d6-4787-817c-253a7c171f69.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1484.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 11: Gesigt van 't Gebouw buijten 't Fortres."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

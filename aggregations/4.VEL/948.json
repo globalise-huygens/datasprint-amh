@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/948.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8d1be3cd-cb0d-4daa-ad78-0b558e0103eb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0948.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t Casteel Colombo soo als hetselve tegenwoordig is, en wat er nog aan ontbreeckt",
+        "dc:title": "Het kasteel van Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, zoo mede welke werken er sedert 12 Oct. 1697 tot 18 January 1698 zyn geeffectueert.\nLegenda: A-O; 1-4\nPlattegrond van de stad Colombo met aangegeven de vestingwerken en gebouwen aangelegd tussen oktober 1697 en januari 1698.\nNotities verso: nr. 519 [folio] en nr. 19.\nTopografische namen vermeld op deze kaart: Batenburg, den Briel, Enckhuysen, Middelburgh, Rotterdam, Hoorn, Amsterdam, Delvt, Leijden, Zeeburg, Klippenburgh.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0948",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "gebouw",
+            "kompas / windroos",
+            "legenda",
+            "tolhuis / wachthuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,7 x 73,9 cm",
+        "dcterms:date": "18 januari 1698",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/694/het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/22/da/02/7a/ed/b2/4d/43/8b/07/c1/f0/7f/e6/43/19/8bd74733-b0ce-4ec0-8b01-829c1560151d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/22/da/02/7a/ed/b2/4d/43/8b/07/c1/f0/7f/e6/43/19/8bd74733-b0ce-4ec0-8b01-829c1560151d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/948.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "'T Casteel Columbo en desselvs situatie, soodanig geweest is in 't begin van 't Jaar 1692, zoo mede welke werken er sedert 12 oktober. 1697 tot 18 januari 1698 zyn geeffectueert."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

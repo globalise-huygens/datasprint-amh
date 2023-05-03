@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2088.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cedaf7de-0bfc-4caf-b00a-b9447ac680c9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2088.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [centre left, lower left, inscriptions] a description : \nParnassus Berg. waar van een seeker gedeelte aan het boven Eijnde in\u2019t hange van de zelve bergh met kost is beplant. Deze parnassus bergh, daar van wert gesegt dat dezelve westwaarts Lang is omtrent een geheel Uur langh. \nDe parnassus leijt ontrent sestien Uuren van Parimaribo.",
+        "dc:title": "Kaart van de Suriname Rivier bij Parnassusberg",
+        "dc:description": "Titel Leupe: Figurative afteykening van een gedeelte der rivier Suriname, beginnende van de oude plantagie van van den Poel, tot boven de Parnasberg en daarop geplaatste brandwagt.\nIn 1713 werd een militaire post ingericht op de zogenoemde Parnassusberg bij de latere plantage Berg en Dal, een steile heuvel direct aan de Surinamerivier. Vijf jaar later werd hier ook naar goud gegraven onder leiding van de zelfbenoemde mijnbouwexpert Salomon Sanders.  Op deze kaart van de landmeter Jacob Hengevelt uit 1721, die een langgerekt stuk van de rivier omvat, is echter geen verwijzing naar deze werkzaamheden te vinden. In plaats daarvan richt het zich of zandbanken, kreken, eilanden en kliffen.\nHet noorden is rechts.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2088",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "32.5 x 42 cm.",
+        "dcterms:date": "1721",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9850/kaart-van-de-suriname-rivier-bij-parnassusberg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/99/01/06/70/4a/d1/4b/8e/9d/26/af/61/ae/9e/41/af/55d4f142-29ec-4747-b266-1d3f1b2f7f05.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/99/01/06/70/4a/d1/4b/8e/9d/26/af/61/ae/9e/41/af/55d4f142-29ec-4747-b266-1d3f1b2f7f05.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2088.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Figurative afteykening van een gedeelte der rivier Suriname, beginnende van de oude plantagie van van den Poel, tot boven de Parnasberg en daarop geplaatste brandwagt."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

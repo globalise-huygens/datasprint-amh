@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1935.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van een stuk land tussen de Nieuwe Levant tot aan de Paramarica Creeq, zynde het gedeelte onder No. 3 in inv.nr. 1933."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1935"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1734"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/db7be8cb-5b16-400f-a2ac-5413b6f1009d\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1935.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1935.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5117,
+            "width": 3287,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1935.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1935.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/2d/6b/cd/cf/04/4d/49/95/87/f3/b9/74/e1/5f/76/eb/2293d071-9df1-4a11-9d54-3df378e86b54.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5117,
+                                "width": 3287,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/2d/6b/cd/cf/04/4d/49/95/87/f3/b9/74/e1/5f/76/eb/2293d071-9df1-4a11-9d54-3df378e86b54.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1935.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

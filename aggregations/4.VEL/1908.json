@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1908.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1c8f6f38-0930-4738-a863-de72d276fa31",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1908.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Cortenduur",
+        "dc:description": "Titel Leupe:  Kaart van de plantagien, tusschen de Vrede en Meulwyk.\nDeze kaart toont de plantage Cortenduur (aangeduid met de letters A-L); gelegen aan de kreken Perica, de West en Oost Sappotoni, Pero, Moesisika, en Cawariano.\nDe meting is aangevraagd door Philip van Langen die de plantage geleidelijk heeft bemachtigd zoals staat uitgelegd in de tekst rechts op de kaart.\nDe plantage blijkt 3000 Surinaamse akkers (1290 hectare) te meten.\nTen oosten ervan de plantage Eendragt en de grond van de weduwe van Chaffo, ten zuiden de plantages  Vrede en Cappoerika, te noorden de plantages Belair, Poelwijk en Meulwijk.\nDe landmeter heeft eerdere kaarten van Cornelis Boogaert van hetzelfde gebied als basis gebruikt (uitgelegd op VEL1907).\nDe kaart is door de landmeter ondertekend op 8 Januari 1734 en officieel erkend op 15 Augustus 1736 te Paramaribo.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 98 strepen.\nOorsprong: [OBP Suriname] 1736, [fols.] 1353-1354.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1908",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.27 El.",
+        "dcterms:date": "1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10156/kaart-van-de-plantage-cortenduur"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5d/6c/81/66/54/84/4f/2c/ae/f2/1d/bf/ef/77/49/80/e02ea8f3-04d0-47f4-9e74-02cb41e28042.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5d/6c/81/66/54/84/4f/2c/ae/f2/1d/bf/ef/77/49/80/e02ea8f3-04d0-47f4-9e74-02cb41e28042.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1908.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de plantagien, tusschen de Vrede en Meulwyk."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

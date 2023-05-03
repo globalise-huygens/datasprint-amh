@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1564.21.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/39442981-8610-4495-8cb6-2a4a10b75dd0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1564_21.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor nieuwe gebouwen op het eiland Borselen",
+        "dc:description": "Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.\nBij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.\nOp deze plattegrond is Kanne's voorstel voor de kantoren van de commandeur en de beheerder van de magazijnen weergegeven, rechtsmidden een ontwerp voor de woning van de militair commandant, en onder voor de commandeurswoning.\nHet ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.\nSchaalstok van [40",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1564.21",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "35,5 x 49,5 cm.",
+        "dcterms:date": "ca. 1779",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7819/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/54/a4/08/a0/69/22/4a/c3/a1/2e/c6/c1/2f/5e/ef/41/749177a5-f276-4b0a-9247-d03f2df780f2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/54/a4/08/a0/69/22/4a/c3/a1/2e/c6/c1/2f/5e/ef/41/749177a5-f276-4b0a-9247-d03f2df780f2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.21.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 21"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/355.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e8afdeef-873f-42d5-9fe2-42feff33a2be",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0355.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Sumatra en de Straat van Malakka",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van een gedeelte van Straat Malacka, de Lingagroep, en van de Kust van Sumatra, van Straat Camper tot Batoe Carang en het Frederik Hendriks rif enz.\nBijzonderheden: de kaart is tijdens een restauratie op een vel papier geplakt; aan vier zijden steken nu stroken uit van 1,5 tot 3 cm.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0355",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "115 x 69,5 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3882/kaart-van-sumatra-en-de-straat-van-malakka"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fb/bf/cb/82/4b/1d/4a/2b/8a/7d/a0/82/f6/42/78/5c/4ce3bdb6-e401-4297-a87b-73667eac3e51.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fb/bf/cb/82/4b/1d/4a/2b/8a/7d/a0/82/f6/42/78/5c/4ce3bdb6-e401-4297-a87b-73667eac3e51.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/355.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van Straat Malacka de Lingagroepen van de Kust van Sumatra van Straat Camper tot Batoe Carang en het Frederik Hendriks rif enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

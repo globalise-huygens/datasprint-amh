@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1305.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/15d64b6f-ffdf-4eb3-83f2-640b5ed1d043",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1305.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Tondano",
+        "dc:title": "Kaart van de omgeving van Menado",
+        "dc:description": "Titel catalogus Leupe (NA): Kaartje van de Manahassa.\nBij Manado is een Nederlandse vlag getekend.\nHoort bij het dagregister van gouverneur Padtbrugge in VOC 1345.\nDe achterkant is ter versteviging helemaal beplakt; De randen zijn bruin, zo te zien staken die uit in de band OBP.\nNotities verso: N 910 [in potlood",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1305",
+        "dc:subject": [
+            "schip / vaartuig",
+            "overzicht / aanzicht",
+            "banderol / cartouche / versiering",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 42 cm",
+        "dcterms:date": "1679",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5784/kaart-van-de-omgeving-van-menado"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/70/dc/eb/6d/98/7a/4e/df/a0/6b/d1/a3/f5/74/2b/e2/eb4c96d4-016b-4530-bf57-56f74129dd5c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/70/dc/eb/6d/98/7a/4e/df/a0/6b/d1/a3/f5/74/2b/e2/eb4c96d4-016b-4530-bf57-56f74129dd5c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1305.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaartje van de Manahassa."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

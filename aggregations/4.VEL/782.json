@@ -1,0 +1,57 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/782.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5b471e22-44f2-417f-b504-ca39bd5ef3ae",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_782.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "t'fort: Nassauw, leggen: op de Cust van Africa n: n: oost van u 4 1/3 graedt",
+        "dc:title": "Aanzicht van het fort Nassau te Mouri",
+        "dc:description": "Aanzicht van het fort Nassau te Mouri.\nTitel catalogus Leupe (NA): T'Fort Nassauw, leggende op de Cust van Africa N. N. West van u, 4 1/3 graedt.\nt'fort: Nassauw, leggen: op de Cust van Africa n: n: oost van u 4 1/3 graedt.\nLinksonder en rechtsonder: 782 [in potlood].\nAan de randen is Japans papier geplakt.\nVoor de ophaalbrug staat een galg.\nOp de rede liggen enkele Oostindi\u00ebvaarders.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0782",
+        "dc:subject": [
+            "vesting",
+            "overzicht / aanzicht",
+            "gebouw",
+            "schip / vaartuig",
+            "rede / haven / pier",
+            "fabriek / werkplaats",
+            "bazaar / markt",
+            "toren",
+            "brug",
+            "poort"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "38,5 x 50,5 cm",
+        "dcterms:date": "1629",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1426/aanzicht-van-het-fort-nassau-te-mouri"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/59/2e/ea/0c/44/66/4f/45/84/13/78/d5/75/b7/d0/d0/ee16134f-6956-4e03-8f84-06c2ea83494e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/59/2e/ea/0c/44/66/4f/45/84/13/78/d5/75/b7/d0/d0/ee16134f-6956-4e03-8f84-06c2ea83494e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/782.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "T' Fort Nassaauw, leggende op de Cust van Afrika."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

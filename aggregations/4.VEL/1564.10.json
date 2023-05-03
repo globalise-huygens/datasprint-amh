@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1564.10.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/76ba49eb-0251-49c6-9a5b-127b36c15b51",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1564_10.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Continuation of the title and a key to the letters A to C, lower right): \nBestaande in een langwerpig Quadraat van 4 by 3 deelen.\nDe Casynen A zyn 4 \u00bd V:t br:t en 10 V:t hoog:\nA is verdeeld in 3 Ruiten br:t by 5 hoog.\nB [is verdeeld] in 3 [Ruiten br:t] by 3 [hoog].\nC [is verdeeld] in 3 [Ruiten br:t] by 2 [hoog].",
+        "dc:title": "Ontwerp voor een nieuw gebouw voor het Gouvernement aan de rivier Demerara",
+        "dc:description": "Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.\nDeze ontwerptekening met twee aanzichten en twee plattegronden heeft betrekking op een geprojecteerd nieuw gouvernementsgebouw in Stabroek. Het werd in 1802 vervaardigd in voorbereiding op de terugkeer van het Bataafse bestuur in Demerara door de directeur der werken en gebouwen in Amsterdam, Abraham van der Hart. Deze had twintig jaar eerder al een belangrijk aandeel gehad in de voorontwerpen voor de vernieuwing van de hoofdplaats in de buurkolonie Berbice, Nieuw-Amsterdam.\nVoor zover bekend is met de uitvoering van zijn plan voor het gouvernement in Demerara in de korte periode tussen 1802 en de blijvende Britse bezetting in 1804 geen begin meer gemaakt.\nHet noorden is links / onder.\nZie ook VEL1564.12\nSchaalstok van 70 Voeten Rhynl: Voetmaat = [ca. 1 : 170].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1564.10",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50.5 x 54.5 cm.",
+        "dcterms:date": "1802",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10211/ontwerp-voor-een-nieuw-gebouw-voor-het-gouvernement-aan-de-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/df/8d/4f/d6/16/33/43/81/bb/95/ed/d7/32/d6/2f/af/b2ed0d44-7b3d-41cb-a406-16cc2f35e155.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/df/8d/4f/d6/16/33/43/81/bb/95/ed/d7/32/d6/2f/af/b2ed0d44-7b3d-41cb-a406-16cc2f35e155.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.10.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 10"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

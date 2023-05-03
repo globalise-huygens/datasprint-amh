@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2126.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0fd51243-c842-4c65-9305-25e7aa0b805b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2126.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsboven] vervolg van de titel : \nExplanations: [upper right] continuation of the title : \nOp genoomen in het Maant January 1771 onder de Dierectie van de Wel Edele Gestrenge Heer J.C. D\u00f6rig, Capitijn in Dienst van haar Edele Groot Agtbaare Heeren Dierecteeren dezer Lande & door myn C. v. Henemann geteekend Vandrig in eeven dezelve Diensten.",
+        "dc:title": "Kaart van het dorp Botter-Baalie",
+        "dc:description": "Titel Leupe: Plan van 't nieuwe ontdekte doorp, genaamt Botter-Baalie enz.\nDe Marrons waren van oorsprong slaafgemaakten die de plantages hadden ontvlucht en in de Surinaamse binnenlanden nieuwe gemeenschappen vormden. Hun aantallen groeiden in de loop van de 18de eeuw, mede doordat ze overvallen op plantages pleegden en de daar werkzame slaven meenamen naar hun dorpen. Ze werden dan ook een steeds grotere bedreiging voor het plantagesysteem. Door vrede te sluiten met de Aukaners, Saramaccaners en Matawai hoopte de overheid in de jaren zestig van de achttiende eeuw de bedreiging te beteugelen. De Boni-oorlogen in de jaren '70 van de 18de eeuw maakten duidelijk dat deze hoop ijdel was. Door de verschillende expedities tegen de Marrons en de contacten met de groepen waarmee vrede was gesloten, brachten in deze periode de Nederlanders wel steeds grotere delen van het nog onbekende binnenland in kaart.\nTamelijk dichtbij Paramaribo, naar het westen en zuidwesten, bevonden zich nederzettingen van Marrons, uit wie naar wordt aangenomen de Kwinti-Marrons zijn voortgekomen. Het hier getoonde 'Botter-Baalie' (Heneman kende de eigenlijke naam van het dorp niet en noemde het naar de aangelegen kreeg) is hiervan een voorbeeld. Vanuit dorpen als deze werden reizigers overvallen en werden soms zelfs aanvallen op Paramaribo zelf ondernomen. Expedities om de dorpen te vinden en vernietigen waren niet onverdeeld succesvol. Geregeld werden dorpen ontdekt en vernietigd, maar de bewoners die ontkwamen stichtten elders in het gebied in de regel meteen weer nieuwe nederzettingen.\nHet dorp \u2018Botter-Baalie\u2019 werd overigens \u2018ontdekt\u2019 en de inwoners verjaagd door Musinga, een grootopperhoofd van een groep Marrons aan de Saramacca, de voorouders van de huidige Matawai. Hij beloofde het dorp aan te vallen, mits hij daarvoor enige beloning in de vorm van geweren en kruit kreeg. In december 1770 zond Musinga 22 krijgsgevangenen naar Paramaribo. Het verlaten dorp werd de volgende maand bezocht door de kaartenmaker Heneman. Volgens berichten zou het dorp ongeveer zestig bewoners hebben geteld. Afgezien van een twintigtal woningen en enige wachthuisjes stond in het dorp een \u2018Gado Huys\u2019 (heiligdom), vermoedelijk het gebouw dat door Heneman in zijn plattegrond met gestippelde lijnen is weergeven.\nZie voor een kaart die het dorp in zijn omgeving plaatst VEL2125.\nHet noorden is linksonder.\nSchaalstok van 40 Schritt = [ca. 1 : 300].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2126",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname",
+            "Aziaten",
+            "Afrikanen & Amerikanen"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "31 x 40,5 cm",
+        "dcterms:date": "1771",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10145/kaart-van-het-dorp-botter-baalie"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/88/61/15/ac/45/88/4e/7c/84/55/38/6e/de/51/bb/66/9f86d369-e7ec-4804-9b98-a695a33a98a4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/88/61/15/ac/45/88/4e/7c/84/55/38/6e/de/51/bb/66/9f86d369-e7ec-4804-9b98-a695a33a98a4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2126.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

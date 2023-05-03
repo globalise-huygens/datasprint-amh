@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/310.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3785af67-efee-4fb3-9936-369e2c7cee6a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0310.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Oosterdeel van Oost Indien door Arnold Colom",
+        "dc:title": "Kaart van Ceilon tot en met Japan",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Oosterdeel van Oost-Indie. Van Caap Comoryn tot Japan, en tot het bekende gedeelte van Nieuw-Holland om de Oost.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0310",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "65 x 56 cm",
+        "dcterms:date": "1624 - 1668",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2967/kaart-van-ceilon-tot-en-met-japan"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ee/ee/71/5a/33/90/47/d0/b7/e3/6d/a6/82/3a/cc/ed/e781b2e9-d603-4fb7-9c54-72c726a1b654.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ee/ee/71/5a/33/90/47/d0/b7/e3/6d/a6/82/3a/cc/ed/e781b2e9-d603-4fb7-9c54-72c726a1b654.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/310.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Oosterdeel van Oost-Indie. (Van Caap Comoryn tot Japan om de Noord, en tot het bekende gedeelte van Nieuw-Holland om de Oost)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

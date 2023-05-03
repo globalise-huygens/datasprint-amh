@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1093.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7bdf6f45-bab6-4e58-980e-bdc1634818cf",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1093.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van Paliacatte",
+        "dc:title": "Plattegrond van Paleacatte",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van Paliacatte.\nNotities verso: No. 12 Plan van Palicatte. Register 6, Deel 1, Folio 28, Portefeuille .. [geschreven op een blauw etiket] / 591 [met vette cijfers gestempeld op een etiketje] / tot no. 46 [klein geschreven, in een hoek].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1093",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "doorsnede / profiel",
+            "vesting",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50 x 71 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4022/plattegrond-van-paleacatte"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/26/c3/24/c6/fe/6f/4d/e4/bc/ff/65/29/65/9a/ba/b8/577da62e-a6a7-47a0-a91e-ccedb7f0a042.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/26/c3/24/c6/fe/6f/4d/e4/bc/ff/65/29/65/9a/ba/b8/577da62e-a6a7-47a0-a91e-ccedb7f0a042.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1093.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Paliacatte."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

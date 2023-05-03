@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1714.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d63b90b6-a214-457d-ad78-53672aa294ca",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1714.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Op ordre van de welEd Gestr Heer Jan Nepveu, Gouverneur General ad interim deezer Colonie &a &a &a.",
+        "dc:title": "Kaart van de nieuwe uitbreiding van Paramaribo",
+        "dc:description": "Titel Leupe: Plan van de nieuwe uitleg van Paramaribo.\nDeze kaart geeft een van de verkavelingsontwerpen weer van de drie grote uitbreidingen van Paramaribo aan de zuid\nen westkant in de jaren rond 1770. Hier zien we de eerste en belangrijkste fase, het gedeelte tussen de Steenbakkersgracht, de Saramaccastraat, de Drambrandersgracht, de Rust en Vredestraat en de Burenstraat.\nHet noorden is linksboven.\nSchaalstok van 20 Kett:n \u00e0 66 Rijnl:e v:te = [ca. 1 : 250].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1714",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kolonie / dorp"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53,5 x 76 cm.",
+        "dcterms:date": "1769",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7710/kaart-van-de-nieuwe-uitbreiding-van-paramaribo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/81/f5/2f/da/d6/8f/43/1b/b7/13/31/07/ca/aa/4b/fd/8eecc668-2196-4fce-9d79-3bf2688d50ef.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/81/f5/2f/da/d6/8f/43/1b/b7/13/31/07/ca/aa/4b/fd/8eecc668-2196-4fce-9d79-3bf2688d50ef.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1714.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

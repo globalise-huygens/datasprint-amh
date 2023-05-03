@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1558A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f534ffa4-f467-4abb-a08d-791f4e06011e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1558a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(An inscription, left):\nGedeelte van de Kaart van \u2019t Land der Brandwagt aande Rivier Demmerarij, door H: v: Cooten geteekent in Januarij 1779 met swarte Linien gecopieert en daar op aangetoont hoe het redout reets versonden, met eenige klijne veranderingen daar op kan gelegt worden, met roode Linien aangetoont. blyvende de Profilen het selve. NB. Terwijl geen Sorti aande Zuijd Zyden komt kan het gansche redout nog eene roeden meer Zuydwaarts koomen wanneer men gemakkelijk rond om de Baraque sal kunnen gaan. NB: dit onderhaalde is op de Duplicaten niet geschreeven, als zynde inde Teekeningen gecorrigeert.",
+        "dc:title": "Projectplan voor een redoute op het land van de Brandwacht aan de oostwal van de rivier Demerara",
+        "dc:description": "Titel Leupe: Plan van een redout voor de Brandwagt aan de rivier Demerary (Oostwal).\nDit is een kopie naar ontwerpen voor nieuwe versterkingen in Demerara die waarschijnlijk in 1779 werden gemaakt door de ingenieur en inspecteur der gebouwen Carl Christiaan Kanne.\nRode lijnen zijn aan de oorspronkelijke kaart toegevoegd om aan te duiden hoe de kaart tot werkelijkheid kan worden gebracht.\nSchaalstok van 40 Roeden = [ca. 1 : 1.000]",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1558A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.50 - 0.335 El. (38 x 30 cm.)",
+        "dcterms:date": "1773-1784",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7545/projectplan-voor-een-redoute-op-het-land-van-de-brandwacht-aan-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/94/0f/ef/f9/e6/00/41/7a/b7/a2/46/c5/82/b6/ff/d0/2f2d71fe-0277-4e9d-b392-2e13b6792c1a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/94/0f/ef/f9/e6/00/41/7a/b7/a2/46/c5/82/b6/ff/d0/2f2d71fe-0277-4e9d-b392-2e13b6792c1a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1558A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e variant"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

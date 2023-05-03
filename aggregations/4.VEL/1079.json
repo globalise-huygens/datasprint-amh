@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1079.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bab1693c-4d9e-451b-be0d-3542c105df72",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1079.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een deel van Cormandel: van Pondicherry tot Madras",
+        "dc:description": "Titel catalogus Leupe (NA): Kaartje van het land tusschen Poedecerij en Madras.\nOvergekomen van Batavia 1699.\nDe kaart laat gebieden zien waar katoen geweefd wordt en waar zich wevers bevinden.\nRechtsboven genummerd: 785, vermoedelijk het folionummer in de band.\nNotities verso: overgekomen 1699, Batavia 2e deel / 592 b / Cormandel Alemperwe off Zeijoer / No. 3.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1079",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "26,5 x 41,5 cm",
+        "dcterms:date": "ca. 1698",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5562/kaart-van-een-deel-van-cormandel-van-pondicherry-tot-madras"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f0/fb/4e/20/14/92/43/a2/9a/39/e2/ae/7e/06/ac/f1/a3ea3386-db94-4fff-ba51-b1852a1384e3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f0/fb/4e/20/14/92/43/a2/9a/39/e2/ae/7e/06/ac/f1/a3ea3386-db94-4fff-ba51-b1852a1384e3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1079.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaartje van het land tusschen Pondichery en Madras."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/482.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/82ba7fa5-1c11-413f-af55-4f30921645c9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0482.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Afbeelding van 'T Land En De Rheede Van Tambocco",
+        "dc:title": "Gezicht op de plaats Tambocco",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Afbeelding van 'T Land en de Rheede van Tambocco.\nNotities verso: caarte vant land ende rheede van tambacca / No. 61 [getal 61 is doorgestreept] / 59 [staat naast het doorgestreepte getal 61, volgnummer van het stuk in de band ?] / Moluccus [in potlood].\nLegenda: A-S",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0482",
+        "dc:subject": [
+            "rede / haven / pier",
+            "schip / vaartuig",
+            "huis / woonhuis",
+            "overzicht / aanzicht",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "41 x 54 cm",
+        "dcterms:date": "ca. 1650",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6524/gezicht-op-de-plaats-tambocco"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b0/1a/0c/77/ee/d6/4d/73/98/5c/ab/fa/bf/44/81/88/464576bb-d98a-4ba7-933e-f88f818d4109.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b0/1a/0c/77/ee/d6/4d/73/98/5c/ab/fa/bf/44/81/88/464576bb-d98a-4ba7-933e-f88f818d4109.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/482.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van 't Land en de Rheede van Tambocco."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

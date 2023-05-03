@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/422.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Stranden en gesamentlyke situatie der bewesten en beoosten 't Kasteel Batavia gelegene landen en tuynen, van den Mond der Rivier Ank\u00e9 af tot voorby den Mond der Rivier van Antsjol en Slingerland."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "422"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/d82eacb6-20dd-459d-a764-62d2ca64aa44\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/422.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/422.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8080,
+            "width": 27518,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/422.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/422.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/e7/60/b0/64/56/18/4a/17/b4/e9/04/2c/e6/dc/b6/a6/e8797e8a-aeb8-4241-adde-667f72f4c66a.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8080,
+                                "width": 27518,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/e7/60/b0/64/56/18/4a/17/b4/e9/04/2c/e6/dc/b6/a6/e8797e8a-aeb8-4241-adde-667f72f4c66a.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/422.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

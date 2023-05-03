@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/440.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/656229ac-dc2d-4334-b3e0-041533c4d0c9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0440.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de zuidkust van Java",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, van den mond der rivier den Donau tot de bay Tangale, hiermee wordt bedoeld de titel van VEL0436: Kaart van de zuidkust van Java....\nRechtsonder genummerd 243.\nAchter de kustlijn, Schilpadts Bay, zijn bergen Bergh Teggal, Bergh Keddoe, Gounong Narapi, Twee hooge bergen bij de Matarin genaamt Soudara en Soudarij off 2 Gebroeders en diverse districten getekend ' T District Watas onder den Sousoudoenang, 'T District Cadoewang onder den Sousoudounange, 'T District Pannaraga onder Sourapattij Anders Genaamt Radin Aria Wiranagara Geweest .\nLinks is de schaalverdeling Duijtsche Mijlen 15 voor een Graadt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0440",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "flora",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "74 x 203 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8329/kaart-van-de-zuidkust-van-java"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/30/72/26/46/dc/c6/4f/da/81/ae/88/29/61/21/02/d5/47ead376-83e4-4e97-ab92-22c5d202b0e7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/30/72/26/46/dc/c6/4f/da/81/ae/88/29/61/21/02/d5/47ead376-83e4-4e97-ab92-22c5d202b0e7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/440.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Zuidkust van Java, van den mond der rivier den Donau tot de bay Tangale."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

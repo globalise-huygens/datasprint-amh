@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/704.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dfc7bf91-1ae7-487c-b498-f2bab1526ae0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_704.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Atamaraca",
+        "dc:title": "Aanzicht van het eiland Itamaraca",
+        "dc:description": "Aanzicht van het eiland Itamaraca.\nTitel in Catalogus Leupe (NA): Kaart van het Eyland Atamaraca, gelegen omtrent 4 cleyne Duitsche Mylen benoorden Olinde ofte Parnambuco enz.\nAtamaraca.\nMet zeilaanwijzingen.\nLegenda A-E.\nMiddenboven: 1630.\nCf. Nationaal Archief, Den Haag, inv. nr. 4.VEL.705.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0704",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "kompas / windroos",
+            "vesting",
+            "legenda",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "39 x 25 cm",
+        "dcterms:date": "1630",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7115/aanzicht-van-het-eiland-itamaraca"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/44/d6/77/45/ff/00/43/5c/85/5d/5b/2b/36/a2/a8/c3/6a111a7a-4e38-4865-8e4a-cff13696bce2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/44/d6/77/45/ff/00/43/5c/85/5d/5b/2b/36/a2/a8/c3/6a111a7a-4e38-4865-8e4a-cff13696bce2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/704.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eyland Atamaraca, gelegen omtrent 4 cleyne Duitsche Mylen benoorden Olinde ofte Parnambuco enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

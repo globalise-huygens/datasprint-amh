@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/481.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f7a9e594-3ca4-4ad1-8c26-37decf61fdf4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0481.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "No 6 Plan van de Baay van Amboina;",
+        "dc:title": "Kaart van de baai van Ambon",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de Baay van Amboina.\nKopie naar een kaart van C.F. Reimer.\nTopografische namen op deze kaart vermeld: Leytimor, Hitoe, post Waijnitoe, Klein Hative, Waijhoe, Batu Corakora, Hoek van Halon.\nInzetkaart rechtsboven: Hoek van Laha, met vermelding van een post.\nNotities verso: C.F.A. Volborth kaartmaker bij de Marineschool Samarang: Na 1796. 2. Kopie naar een kaart van Reimer.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0481",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rede / haven / pier",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "495 X 580 mm",
+        "dcterms:date": "2e helft 18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2351/kaart-van-de-baai-van-ambon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/69/22/c5/19/63/92/4a/2b/8a/85/28/92/84/18/db/d3/225fa2bc-afdb-47fe-bfc3-13e32c271306.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/69/22/c5/19/63/92/4a/2b/8a/85/28/92/84/18/db/d3/225fa2bc-afdb-47fe-bfc3-13e32c271306.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/481.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Baay van Amboyna."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1193.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/036d39f1-509f-4b38-9331-d68f121d540c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1193.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aenwysinge van het Casteel Batavia, [enz]",
+        "dc:title": "Plattegrond van het kasteel van Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Aenwysinge van het Casteel Batavia, soo als het nu leyt volgens d'oude boukunde, en op wat wyse met het soude verbeteren na de hedendaagse vestingbouw enz..\nBehoort tot het kaartboek van de versterking van Batavia van Claudius Anthony van Luepken, 1706-1764.\nNotities verso: Behoort by de overgekomen papieren enz van Batavia 3e deel 1708 / 602 ij / N 1 / 1196 [moet het folionummer uit de band OBP zijn].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1193",
+        "dc:subject": [
+            "kompas / windroos",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "63,5 x 79,5 cm",
+        "dcterms:date": "ca. 1707",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/465/plattegrond-van-het-kasteel-van-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1d/7b/7e/fb/aa/ea/4c/a6/90/4a/55/d7/15/6f/f7/18/4d99f049-5cbe-453c-9a11-a11bf53ecee6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1d/7b/7e/fb/aa/ea/4c/a6/90/4a/55/d7/15/6f/f7/18/4d99f049-5cbe-453c-9a11-a11bf53ecee6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1193.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Aenwysinge van het Casteel Batavia soos als het nu leyt volgens d'oude boukunde, en op wat wyse met het soude verbeteren na de hedendaagse vestingbouw enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

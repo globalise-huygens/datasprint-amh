@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2105B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d8468419-524a-4850-86e5-e59b7ef05305",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2105b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Overzicht van het Cordon van Defensie Plan VIII, ontwerp van een post",
+        "dc:description": "Titel Leupe: Kaarten van het Cordon van Defentie. Plan VIII. Teekening van een post op het Cordon.\nVanaf het midden van de 18de eeuw groeiden de Marrons, ontsnapte slaafgemaakten die in de binnenlanden van Suriname nieuwe gemeenschappen vormden, uit tot steeds geduchtere tegenstanders. Nadat ze zich verenigd hadden onder leiding van de befaamde Boni, naar wie zij zich later ook gingen noemen, kwam het in 1771 uiteindelijk tot een grote oorlog, die bekend is geworden als de (eerste) Boni-oorlog. Deze eindigde in 1776 met de verdrijving van de Boni naar Frans-Guyana. Tussen 1774 en 1778 legde de koloniale overheid in de strijd tegen Boni het bijna 100 kilometer lange Cordon van Defensie of Cordonpad aan. De eerste ontwerpen en opmetingen voor deze doorgaande patrouilleweg met op geregelde afstanden militaire posten kwamen al in 1772 tot stand, maar op grotere schaal begonnen de voorbereidende werkzaamheden in het jaar daarop, met daarin een hoofdrol voor de militair ingenieurs Johan Christoph Heneman en Johann Friedrich Ferdinand Wollant.\nIn zijn oorspronkelijke opzet had Wollant aan de zeekust de eindpost De Uijtkijk geprojecteerd, waarvan dit ontwerp als Plan VIII het laatste blad van zijn serie van het Cordon als geheel vormt. Voor zover bekend is deze versterking naderhand niet meer aangelegd en eindigde de linie hier na ca. 1790 bij de post De Unie, met aan zee een eenvoudige piketpost.\nHet noorden is links (kaart 1) en boven (kaart 2).\nSchaalstokken van kaarten 5 Kettingen = [ca. 1 : 815] / [2] 25 Voet = [ca. 1 : 120] / [profielen] 10 Voet rhijnl. = [ca. 1 : 57].\nOnderdeel van VEL2105A-C.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2105B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "54 x 76 cm.",
+        "dcterms:date": "ca. 1774",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10090/overzicht-van-het-cordon-van-defensie-plan-viii-ontwerp-van-een-post"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/72/70/51/57/e2/b6/44/1b/aa/17/5d/3e/dc/21/87/83/25cf1f3e-c763-4a03-af4b-3ea9b4211d2c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/72/70/51/57/e2/b6/44/1b/aa/17/5d/3e/dc/21/87/83/25cf1f3e-c763-4a03-af4b-3ea9b4211d2c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2105B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exempplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/510.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/420432a8-b987-4c6d-b876-47cf20e35022",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0510.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart met een kustdeel van Australi\u00eb, met inzet van het eiland 't Rottenest",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart als voren, hiermee wordt bedoeld de titel van VEL0509: Kaart van 't Zuydland bezeilt door den schipper Willem de Vlamingh, in de maanden January en February, Anno 1697, met 't jacht de Geelvink, de hoecker de Nyptangh ende 't galjoot 't Weseltje enz..\nRechtsonder genummerd: 42.c.\nDe kaart is op linnen/katoen geplakt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0510",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier / linnen",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "74 x 52,5 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9165/kaart-met-een-kustdeel-van-australi%C3%AB-met-inzet-van-het-eiland-t"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2d/7b/2d/59/1a/2c/42/9d/96/8e/4f/cb/25/af/fb/0c/31c0519e-9ab4-45fa-94db-edf10a862842.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2d/7b/2d/59/1a/2c/42/9d/96/8e/4f/cb/25/af/fb/0c/31c0519e-9ab4-45fa-94db-edf10a862842.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/510.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eiland Rottenest."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

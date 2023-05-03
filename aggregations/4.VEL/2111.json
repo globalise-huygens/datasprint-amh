@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2111.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4f186b3b-a574-4f79-acec-046666425625",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2111.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het Cordon van Defensie",
+        "dc:description": "Titel Leupe: Kaart van 't Cordon van defensie en de situatie van 't terrein, getrocken om de Colonie van Surinaame, of een half uur gaans regts en links van de lyn tans in het werck synde enz.\nDeze kaart behoort tot de laatste overzichtwerken van het eerste cordon van defensie nabij de Commewijnerivier. Zoals genoemd in de aantekening links toont deze kaart hoe vermeden kan worden dat de vijand de Commewijnerivier oversteekt. Communicatiepaden en rivierroutes zijn daarbij van belang. Daarnaast is ook rechts met plattegronden en aanzichten aangegeven hoe de posten gebouwd dienen te worden. Alle posten zijn in een aparte kaart middenonder getoond.\nHet noorden is onder.\nSchaal van 200 Kettingen \u00e0 66 Rijnlandse voeten = 122 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2111",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.65 - 0.52 El.",
+        "dcterms:date": "1770-1779",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9953/kaart-van-het-cordon-van-defensie"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/af/ac/d3/46/39/43/4d/cf/84/8d/b6/bc/36/b7/24/e3/6bbe9456-a379-4938-9a95-d7d94f1e183f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/af/ac/d3/46/39/43/4d/cf/84/8d/b6/bc/36/b7/24/e3/6bbe9456-a379-4938-9a95-d7d94f1e183f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2111.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van 't Cordon van defensie en de situatie van 't terrein, getrocken om de Colonie van Surinaame, of een half uur gaans regts en links van de lyn tans in het werck synde enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

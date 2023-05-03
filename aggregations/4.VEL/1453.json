@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1453.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/53c79cd2-f875-4cbb-a961-92d25186a96e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1453.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Projectplan voor een nieuw fort bij Grote Berg",
+        "dc:description": "Titel Leupe: Project van Fortificatie op de groote berg van 't Eyland Cura\u00e7ao te leggen.\nDeze kaart is onderdeel van een serie gedetailleerde situatie\nen projectkaarten uit 1754 van de voornaamste bestaande verdedigingswerken op Cura\u00e7ao. Deze kaarten dienden toen als bijlagen bij de voortgangsrapportage van de directeur aan de bewindhebbers met betrekking tot de uitvoering van Van Burmania\u2019s plan, dat ook de versterkingen in de buitenbaaien omvatte. Dit hier getoonde plan was al drie jaar voor de verzending van Van Burmania\u2019s plan getekend.  Het bevat een plattegrond en profiel van een fort dat op de Grote Berg zou komen te liggen. Dit typische trace italienne fort lijkt echter nooit te zijn gebouwd aangezien geen achterblijfselen zijn gevonden op deze locatie.\nSchaal van 20 Rijnlandse Roeden = 70 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1453",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.44 - 0.33 El.",
+        "dcterms:date": "1751",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10381/projectplan-voor-een-nieuw-fort-bij-grote-berg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e3/b1/11/cf/6b/7e/49/bd/82/af/b7/eb/2b/25/95/c8/baa442fd-bdb8-4900-8700-830bd7541519.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e3/b1/11/cf/6b/7e/49/bd/82/af/b7/eb/2b/25/95/c8/baa442fd-bdb8-4900-8700-830bd7541519.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1453.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Project van Fortificatie op de groote berg van 't Eyland Cura\u00e7ao te leggen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

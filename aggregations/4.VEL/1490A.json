@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1490A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/342da29c-8dfc-4b86-bb9f-cb66d1665dbc",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1490a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Carte Generale et Particuliere de la Colonie d'Essequebe et Demerary, situ\u00e9e dans la Guiane en Amerique etc Redig\u00e9e & Dedi\u00e9e au Comit\u00e9 des Colonies & Possessions de La Republique Batave en Amerique, & A La C \u00f4te de Guin\u00e9e. Par le Major F. Von Bouchenroeder.",
+        "dc:title": "Kaart van de Nederlandse bezittingen in Guyana",
+        "dc:description": "Titel Leupe: Carte Generale et Particuliere de la Colonie d'Essequebe et Demerary, situ\u00e9e dans la Guiane en Amerique etc..\nDe kaart toont onder andere de algemene topografie, de plantagegebieden, de fortificaties, de (militaire) verbindingswegen en het agrarisch grondgebruik rond de monding van de Essequibo-rivier. Een inzet rechtsboven toont het hele Nederlandse gebied van Berbice tot de grens met de Spaanse gebieden bij de Orinoco-rivier, en alle daarbinnen gelegen forten en posten.\nLegenda: Caff\u00e9. Sucre. Cotton. Cacao. Forets. Terres abandon\u00e9es. Terres en friche. Briquetterie. Bois de Charpente & de Construction. Moulin a Scier. Culture de Ris. Culture de Tabac. Eglise. Cabanes et villages. d\u2019Indies. A t/m F: Lignes et Canaux projett\u00e9s tant pour la defense que pour la communication interieure. x. Points sur les quels on doit pos\u00e9 les postes, compos\u00e9s de milice Europeanne, et de milice noire. y. Cultures por l'entretien des Troupes. a. terrain reserv\u00e9. b. Batteries projett\u00e9s. c t/m e: Canaux projett\u00e9s.\nSchaalstok van 6000 Roeden van elk 12 Rijnlandse voeten.\nDit is de gepubliceerde versie van VEL1489. Zie ook VEL1488.\nBij deze kaart horen twee gedrukte lijsten met de woningen, eigenaren, hoeveelheid bebouwd gebied etc.: VEL1490B en VEL1490C.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1490A",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart",
+            "vesting",
+            "banderol / cartouche / versiering",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde gravure",
+        "dcterms:date": "1798",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1868/kaart-van-de-nederlandse-bezittingen-in-guyana"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bf/1d/c1/47/bd/c6/45/ce/b0/a9/07/4f/73/7e/73/84/81f25e33-cd99-475b-956c-f09d82b7ab46.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bf/1d/c1/47/bd/c6/45/ce/b0/a9/07/4f/73/7e/73/84/81f25e33-cd99-475b-956c-f09d82b7ab46.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar, gekleurd"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

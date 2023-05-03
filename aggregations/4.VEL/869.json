@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/869.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ff1f0c03-cb93-4aec-94c4-adb5fee56dc1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0869.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van de loge en woningen in de stad Souratte",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van 's Comps. Logies of gehuurde woningen binnen de Stad Souratte.\nLegenda: nee, wel cijfers en letters aangegeven op de kaart.\nPlattegrond van de verschillende gebouwen A t/m E gelegen binnen de VOC loge met cijfers ter aanduiding van de indeling van de vertrekken; Met de woning van de Harkarra achter de oude loge en de woning van Sr.Wm. Leenderszn. zalr. [=zaliger?]\nNotities verso: nrs. 235; 3 ; potloodnr. 499 g.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0869",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "gebouw",
+            "tuin / siertuin",
+            "pakhuis",
+            "menagerie / stal"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "74 x 53 cm",
+        "dcterms:date": "ca. 1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4062/plattegrond-van-de-loge-en-woningen-in-de-stad-souratte"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f5/5d/69/55/b4/f5/43/ab/b3/2e/b8/3d/fe/b9/15/36/89ecc300-a126-4163-8472-f411bc342428.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f5/5d/69/55/b4/f5/43/ab/b3/2e/b8/3d/fe/b9/15/36/89ecc300-a126-4163-8472-f411bc342428.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/869.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van 's Comp. Logies of gehuurde woningen binnen de Stad Souratte."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

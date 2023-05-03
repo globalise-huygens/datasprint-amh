@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/954.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van het fortresse, de oude Stad Kolombo, met de situatie van de omleggende landen, 't Lak, de binnen rheede met deszelfs banken en riffen, de voornaamste buyten gebouwen, thuynen, weegen en hoogtens enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "954"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1785"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/e78a1a54-1585-4b2f-863d-101efb1e5840\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/954.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/954.json#canvas/p1",
+            "type": "Canvas",
+            "height": 12421,
+            "width": 16208,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/954.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/954.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/61/52/7a/01/b1/67/44/fc/b7/b2/cc/38/cf/ac/b3/94/0747dbd6-b6a0-4355-bdaa-85338ee392fc.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 12421,
+                                "width": 16208,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/61/52/7a/01/b1/67/44/fc/b7/b2/cc/38/cf/ac/b3/94/0747dbd6-b6a0-4355-bdaa-85338ee392fc.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/954.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

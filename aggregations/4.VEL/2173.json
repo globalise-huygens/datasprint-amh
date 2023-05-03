@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2173.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/67d88861-7f43-46c7-b183-b89a5ad23db5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2173.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Chili",
+        "dc:title": "Kaart van Chili",
+        "dc:description": "Kaart van Chili.\nTitel Catalogus Leupe (NA):Kaart van Chili.\nChili.\nDe gegevens voor het samenstellen van deze kaart, zijn overgenomen uit Johannes de Laets (1583-1649) 'Beschrijvinghe van West-Indien' uit 1625. De kaart is later ook afgedrukt in Caspar Barlaeus' 'Rerum per octennium in Brasilia' in 1647 en de 'Atlas Maior' van Blaeu uit 1665.\nCf. Koninklijke Bibliotheek, Den Haag, inv. nr. 1049B13_089, Idem, inv. nr. 1043 B 14, na p. 262, Idem, inv. nr. 40 E 6 na p. 410 en Idem, inv. nr. 36 G 19 na p. 424.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2173",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "37 x 48 cm",
+        "dcterms:date": "1630 - 1650",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7487/kaart-van-chili"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/99/e3/cc/53/de/f0/40/65/b0/d1/be/c9/e6/da/10/40/d2e55d5f-328d-4e9f-a8e9-b55682f4c705.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/99/e3/cc/53/de/f0/40/65/b0/d1/be/c9/e6/da/10/40/d2e55d5f-328d-4e9f-a8e9-b55682f4c705.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2173.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Chili."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

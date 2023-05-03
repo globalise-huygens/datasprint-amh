@@ -1,0 +1,55 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/943.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d2022da8-893e-4b78-a2dd-5cea4fb809d1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0943.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aenwijsinge van dit Caertjen, Vertoonende Het Casteel ende Stadt Columbo, om daer op, volgens Ordre van de Ed: H:ren Gouverneur Generael en de Raaden van India, te verwachten [...] / De Stadt Columbo / 'T Casteel Columbo",
+        "dc:title": "Het kasteel en de stad Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Caertje vertoonende het Casteel en de Stadt Columbo, om daerop, volgens ordre van den Ed. heer Gouv.-Gen. en de Raden van Indien, te verwachten, de veranderingen en verbeeteringen die daeraen gelieven gedaen te hebben env..\nLegenda: A-V; A-O\nOpmerking NA: Plankaart van de vestingwerken van Colombo, betreffende de aanleg van vestingwal en inundatielinie aan de landzijde ter goedkeuring ingediend bij de gouverneur-generaal en Raad van Indien te Batavia.\nAantekening catalogus Leupe (NA): Met veele aanwyzingen, eigenhandig get. door Ryckloff van Goens en Adriaen van der Meyde; benevens het wapen der stad, zynde; een oliphant, op den rug staat het merk der Comp., (VOC-logo) waarvan een schild afhangt, waarop een boom, en in de boom een witte vogel (duif?), by de pooten van den oliphant twee bossen? Boven het wapen deze nota: Calamba is in 't Cingalees een mangesboom sonder vrucht, daervaen de naem Colombo zyn naam draeght.\nNotities verso: nr. 19 doorgehaald; nr. 40; nr. 542 c..\nVergelijk TG0645.\nTopografische namen vermeld op deze kaart: punct Enckhuysen, punct Middelburgh, punct Rotterdam, punct Hoorn, punct Delft, punt Leijden, punt Victoria, punt Candij, punct Amsterdam, Zeeburgh, klippenburgh, Raja Singa, Zoodenburgh, Altena.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0943",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "kerk / pastorie",
+            "vesting",
+            "scheeps- / timmerwerf",
+            "legenda",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51 x 73 cm",
+        "dcterms:date": "10 mei 1659",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/690/het-kasteel-en-de-stad-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/24/75/7c/08/ae/d7/45/2c/94/b8/d9/d8/90/dc/c2/95/250945fe-85c4-4d46-963e-58f8e56ea19e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/24/75/7c/08/ae/d7/45/2c/94/b8/d9/d8/90/dc/c2/95/250945fe-85c4-4d46-963e-58f8e56ea19e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/943.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caertje vertoonende het Casteel en de Stadt Columbo, om daerop, volgens ordre van den Ed. Heer Gouv.-Gen. en de Raden van Indien, te verwachten, de veranderingen en verbeeteringen die daeraen gelieven gedaen te hebben enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

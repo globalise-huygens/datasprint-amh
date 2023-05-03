@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1999.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a135dcfa-37f9-4bb1-bb45-fdc32a00cabf",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1999.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(continuation of the title and a description including a key, upper left):\nAlles met korte en accorate annotatie verzien. \nA en B. zijn de twee eenigste Bastions en de Twee Flancquen C.D. die tot Defentie konnen verstrekken. \nC.E.D. het agtergedeelte deeser Fortres is niet noodig herbouwt de worden en kan blijven leggen zoo als het is, maar stelt daar voor in Plaats tot meerdere Defencie de Linie F:G: die Pas 5 \u00e0 6 kettinge lang is, en van grooten Dienst kan zijn. \nC. in t Fort is \u2019t Polver Magazijn maar is Vervallen en staat daar gansch niet wel, brenge daar voor in Plaats Twee anderen als LM in de bedekte Weg.",
+        "dc:title": "Kaart van de vestingen bij de monding van de rivieren Suriname en Commewijne",
+        "dc:description": "Titel Leupe: Rouwplan van het fort Nieuw Amsterdam, met de nieuwe geprojecteerde linie, alsmede den mond der rivier Suriname en Bramspunt, enz.\nDe eerste stap in de verdere uitbreiding van de verdedigingswerken aan de monding van de Suriname en Commewijne volgde in de jaren 1748-1755 met de aanleg van de redoutes Purmerend en Leiden, respectievelijk op de westelijke en oostelijke oever tegenover Fort Nieuw Amsterdam.\nOp deze kaart, gemaakt in december 1767 \u2018met grooten haast om dat de scheepen vertrokken\u2019, is onder meer de toen in uitvoering zijnde uitbreiding van Nieuw Amsterdam met de batterij (F) tussen het fort zelf en de landingsplaats aan de Surinamerivier aangegeven, die na 1780 de naam Texierburg zou krijgen.\nTezamen met de bastions Hollandia (A) en Gelderland (B) en de buitenwal kon dit nieuwe werk volgens Dircks de hoofdverdedigingslinie gaan vormen, zodat de de intussen in verval geraakte landwaartse bastions Groningen (C), Utrecht (E) en Overijssel (D) niet meer hersteld hoefden te worden.\nZeer gewenst achtte hij een nieuw kruithuis in het fort en de geprojecteerde nieuwe batterij verder stroomafwaarts op de oostoever, al zag hij deze laatste blijkens de annotatie liever iets dichterbij de redoute Leiden dan op de aangewezen plaats.\nBij de aanleg van die batterij Friderici, overigens pas in 1794, kwam deze inderdaad een stuk verder zuidelijk te liggen.\nBij Leiden zelf staat vermeld dat deze redoute in november en december 1767 geheel vernieuwd was en de interessante annotatie bij het anker naast de vaargeul iets ten noorden daarvan geeft de plaats aan waar de \u2018opkomende scheepen zoo lange [wachten] tot haar pas vertoont is\u2019.\nSchaalstok van een Hollandse Uur gaans  [ = ca. 1 : 35.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1999",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.47 - 0.365 El. (51 x 40,5 cm)",
+        "dcterms:date": "1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1986/kaart-van-de-vestingen-bij-de-monding-van-de-rivieren-suriname-en"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/84/b9/94/41/b1/4d/46/3e/9c/cc/d2/3e/8d/01/77/24/5c6e7ac4-aa87-463f-bbcb-070d84cf6a4e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/84/b9/94/41/b1/4d/46/3e/9c/cc/d2/3e/8d/01/77/24/5c6e7ac4-aa87-463f-bbcb-070d84cf6a4e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1999.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Rouwplan van het fort Nieuw Amsterdam, met de nieuwe geprojecteerde linie, alsmede den mond der rivier Suriname en Bramspunt, enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

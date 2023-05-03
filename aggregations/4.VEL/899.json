@@ -1,0 +1,62 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/899.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/338d7bcb-ded7-4e72-8d0b-c3ea674fda52",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0899.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De waare Grondteijckening van de hooft stadt kochin, der Custe Mallabaer soo als door last van de E. A: Command: Isaak van Dielen door den sergeant H. J. Farant int jaar 1689 in den Maent April perfectelijk is naar gemeeten, [...]",
+        "dc:title": "Plattegrond van Cochin",
+        "dc:description": "Titel catalogus Leupe (NA): De waare Grondteyckening van de Hooftstadt Kochin, der Custe Mallabaer, soo als het perfectelyck is naargemeeten enz..\nLegenda: A-Z; A-Z; 1-20\nPlattegrond van de vesting en stad Cochin, met de ontworpen afsnijding van de vestingwal.\nTopografische namen vermeld op deze kaart: Mallabaer, punt Hollant, punt Zeelant, punt Uijtrecht, punt Vrijslant, punt Groningen, de Overijsel, punt Gelderlant.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0899",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "kerk / pastorie",
+            "gebouw",
+            "ziekenhuis / lazaret",
+            "school",
+            "tuin / siertuin",
+            "pakhuis",
+            "scheeps- / timmerwerf",
+            "gevangenis",
+            "menagerie / stal",
+            "kompas / windroos",
+            "legenda",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 74 cm",
+        "dcterms:date": "1696",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2818/plattegrond-van-cochin"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8c/22/cf/f6/23/63/4f/1e/a8/fb/43/b3/7a/2c/da/30/711b3540-e7f9-4e1b-9621-0c2c4ee54a57.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8c/22/cf/f6/23/63/4f/1e/a8/fb/43/b3/7a/2c/da/30/711b3540-e7f9-4e1b-9621-0c2c4ee54a57.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/899.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "De waare Grondteyckening van de Hooftstadt Kochin, der Cust Mallabaer, soo als het perfectelyck is naargemeeten enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

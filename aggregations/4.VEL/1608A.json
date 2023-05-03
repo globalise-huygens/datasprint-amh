@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1608A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9154a34c-bcef-4f85-a5f7-a54404a8a755",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1608a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title): Teijkeninge en Profil van de Sluyse, Littera B. C.D. Desmarets.",
+        "dc:title": "Profiel van de sluis voor het geplande fort op Krabbeneiland",
+        "dc:description": "Titel Leupe: Plan en profil van de nieuwe geprojecteerde redoute, op het Grabbe Yland aan de mond van Rio de Berbice.\nDit profiel is onderdeel van een plan voor een fort op het Krabbeneiland.\nVoor 1735 bestonden er al plannen voor een fort op dit eiland door P.M. Osterlin (zie VEL1611), maar die zijn nooit uitgevoerd. Op herhaald aandringen van de particuliere planters in Berbice richtten de directeuren zich in 1738 tot de Soci\u00ebteit van Suriname met het verzoek de Franse ingenieur Pierre-Dominique Desmaretz, die toen was belast met de bouw van Fort Nieuw Amsterdam, voor enige tijd te detacheren naar Berbice om daar een nieuw ontwerp voor de versterking van dit eiland te maken. Desmarestz kwam het jaar daarop over en ontwikkelde het hier getoonde plan.\nDit betreft twee profielen van de sluis die gebouwd hoort te worden aan de oostzijde van het fort.\nOndanks de kostenbesparing die dit ten opzichte van het voorgaande plan zou hebben opgeleverd, werd ook deze versie te duur bevonden en bleef het Krabbeneiland als voorheen onversterkt.\nSchaalstok van 50 Roeden Rhynlands = 126 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1608A",
+        "dc:subject": [
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.40 - 0.765 El.",
+        "dcterms:date": "1739",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10274/profiel-van-de-sluis-voor-het-geplande-fort-op-krabbeneiland"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/73/8f/2d/b6/28/92/44/4a/8e/12/76/ad/db/11/e9/b5/62297660-20e8-4ef5-a59c-ab0bf35c7569.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/73/8f/2d/b6/28/92/44/4a/8e/12/76/ad/db/11/e9/b5/62297660-20e8-4ef5-a59c-ab0bf35c7569.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1608A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

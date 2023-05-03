@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1627.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/58ad086e-485d-4c94-a564-07ee1284f477",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1627.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plan voor een redoute aan de monding van de rivier Berbice",
+        "dc:description": "Titel Leupe: Plaan en profil van het Eerste project, om een gefortificeerde batterie te bouwen in de geoctroyeerde Colonie de Berbice.\nDeze kaart toont een plan voor een redoute op een onbekende plek bij de monding van de rivier Berbice.\nHet plan stamt hoogstwaarschijnlijk uit de tijd van de reconstructievoorstellen van Fort Nassau Fort en de redoute Brandwagt of is daar zelfs onderdeel van. Het dateert daarom vermoedelijk uit de tweede helft van de achttiende eeuw.\nNaast een batterij van vier kannonen bevat de redoute een accomodatie voor troepen en officieren en een magazijn.\nOnderin is een profiel getekend.\nSchaal van 160 ? = 245 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1627",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.60 - 0.335 El.",
+        "dcterms:date": "1740-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10284/plan-voor-een-redoute-aan-de-monding-van-de-rivier-berbice"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ad/bb/38/d8/65/d6/48/68/b9/ad/6d/22/e5/33/25/c2/212f9a7e-ff02-4614-9d46-09f94df0218d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ad/bb/38/d8/65/d6/48/68/b9/ad/6d/22/e5/33/25/c2/212f9a7e-ff02-4614-9d46-09f94df0218d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1627.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan en profil van het Eerste project, om een gefortificeerde batterie te bouwen in de geoctroyeerde Colonie de Berbice."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

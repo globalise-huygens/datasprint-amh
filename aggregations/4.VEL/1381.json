@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1381.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4d0f80b3-2bbd-4b37-b446-0862d37c84bd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel_1381.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Carte des Possessions Angloises & Fran\u00e7oises du Continent de l'Am\u00e9rique Septentrionale",
+        "dc:title": "Kaart van de Engelse en Franse bezittingen in Noord Amerika",
+        "dc:description": "Kaart van de Engelse en Franse bezittingen in Noord Amerika.\nTitel Catalogus Leupe (NA): Carte des possessions Angloises et Francoises du continent de L'Amerique Septentrionale.\nCarte des Possessions Angloises & Fran\u00e7oises du Continent de l'Am\u00e9rique Septentrionale.\nRechtsonder, in potlood: 1381.\nCf. Nationaal Archief, Den Haag, inv. nr. 1381.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1381",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "77,7 x 57,3 cm",
+        "dcterms:date": "1755",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7171/kaart-van-de-engelse-en-franse-bezittingen-in-noord-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7e/c6/e3/19/d2/9f/40/6d/a6/97/7e/45/d9/e6/d1/c3/7a5b522a-fa4f-4e4f-9ecb-f3b52e22a75c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7e/c6/e3/19/d2/9f/40/6d/a6/97/7e/45/d9/e6/d1/c3/7a5b522a-fa4f-4e4f-9ecb-f3b52e22a75c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1381.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

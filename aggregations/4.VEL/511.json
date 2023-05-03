@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/511.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9720e949-394e-4c38-a64f-36326ac2fd04",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0511.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Westkust van het land van de Eendragt of Hollandia Nova",
+        "dc:title": "Kaart van een deel van Australi\u00eb",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van het Westkelykste gedeelte van 't land van de Eendragt of Hollandia Nova, strekkende van het Eyland Rottenest tot voorby de Willems-Rivier.\nDe kaart is op blauw papier geplakt.\nLinksboven genummerd: 13\nNotities verso: XXXVIII.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0511",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "62,5 x 103 cm",
+        "dcterms:date": "1756-1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9190/kaart-van-een-deel-van-australi%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0a/a7/78/d5/54/7f/43/7a/bf/60/d6/6a/6a/01/93/29/8ee1ad11-6294-4ed5-bf8c-a00ea4e18f16.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0a/a7/78/d5/54/7f/43/7a/bf/60/d6/6a/6a/01/93/29/8ee1ad11-6294-4ed5-bf8c-a00ea4e18f16.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/511.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

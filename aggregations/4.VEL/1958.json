@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1958.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5b462864-e3f3-454d-832f-c1de01461e33",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1958.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kavels rond de Motkreek",
+        "dc:description": "Titel Leupe: Generale Projectkaart van de Motkreek, houdende tien stuks landerijen, gelegen aan beide oevers, beginnende aan de overzyde van de Overtoom tot aan Zee.\nDe kaart geeft een deel van het gebied tussen de zeekust en de Cottica ten oosten van het Tapoeripakanaal weer, dat in hoofdzaak pas na ca. 1785 werd ontgonnen.\nHet projectplan van Adrianus Hendricus Helledaij toont de nieuw uit te geven gronden langs de Motkreek, die hier nog niet direct met het Tapoeripakanaal is verbonden.\nTien geplande kavels zijn weergegeven, allen van rond de 500 Surinaamse akkers (215 hectare).\nTen zuiden (boven op de kaart) van de kavels liggen de plantages de Clemensburg en Zeewijk, ten noorden (onder op de kaart) de post Brandwagt.\nHet plan is nadien nagenoeg volgens het hier afgebeelde plan uitgevoerd.\nDe kaart is ondertekend op 20 Oktober 1785.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 106 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1958",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.38 - 0.53 El.",
+        "dcterms:date": "1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2254/kaart-van-kavels-rond-de-motkreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/be/2e/6f/87/58/e9/41/45/92/a9/f6/48/a6/c8/e8/c0/91e95be7-ee52-473a-b98e-0e3532719c1d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/be/2e/6f/87/58/e9/41/45/92/a9/f6/48/a6/c8/e8/c0/91e95be7-ee52-473a-b98e-0e3532719c1d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1958.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Generale Projectkaart van de Motkreek, houdende tien stuks landerijen, gelegen aan beide oevers, beginnende aan de overzyde van de Overtoom tot aan Zee."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

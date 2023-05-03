@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1194.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Aenwysinge van het Casteel Batavia soos als het nu leyt volgens d'oude boukunde, en op wat wyse met het soude verbeteren na de hedendaagse vestingbouw enz, volgens het plan van C.M. Anhalt."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1194"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1700/1800"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/d7e56649-a028-4811-97dd-70a4e38ae073\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1194.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1194.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7806,
+            "width": 8330,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1194.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1194.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/d6/03/f8/5c/56/c5/40/1c/a2/d2/1e/af/50/44/33/56/fd9f71b2-b94e-4172-b3e4-a8fc0e06e511.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7806,
+                                "width": 8330,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/d6/03/f8/5c/56/c5/40/1c/a2/d2/1e/af/50/44/33/56/fd9f71b2-b94e-4172-b3e4-a8fc0e06e511.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1194.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

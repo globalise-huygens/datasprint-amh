@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1683.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/737dee24-f7c4-425b-855e-2d50da28d6c2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1683.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [above centre] continuation of the title: \nAanweisende het Project Canaal van de Redout Purmerend tot aan de Rivier Saramacca, de Landen, welke langs de Kust van de Rivier Copename tot aan de Rivier Nickerie, langs deesen Rivier en een gedeelte van de Landen welke langs den Oostelyken Oever van de Rivier Corentin begeeven Zijn.",
+        "dc:title": "Kaart van de Surinamerivier tot aan de Corentijnerivier",
+        "dc:description": "Titel Leupe: Kaart van de rivier Surinaamen tot aan de rivier Corentin, aanweisende het project Canaal van de redout Purmerent tot aan de rivier Saramacca, de landen welke langs de kust van de rivier Copename tot aan de rivier Nickerie, langs deeze rivier en een gedeelte van de landen welke langs den Oostelijken oever van de rivier Corentin begeeven zijn.\nDeze grote kaart geeft een overzicht van de westelijke kustlanden tussen de Surinamerivier en de Corantijne. De  plantagegronden in dit \u2018Nieuwe Suriname\u2019 werden in hoofdzaak pas na 1790 uitgegeven, het eerst langs de Saramacca en vanaf ca. 1800 onder Brits bewind ook aan de verder westelijk gelegen kusten, de Nickerie en aan de oostoever van de Corantijn. De kaart werd hoogstwaarschijnlijk in of rond 1803 gemaakt, toen Suriname na de Vrede van Amiens gedurende ruim anderhalf jaar weer Nederlands bezit was.\nIngetekend zijn verder onder meer het vijfhoekige fortje Groningen op de westoever van de Saramacca, en de iets latere versterkte post Braak stroomafwaarts aan de rivier. Bij Fort Groningen wordt over de aangrenzende gronden vermeld dat \u2018Deeze landen Dienen tot aanlegging der Stad Columbia\u2019, een plan voor een nieuwe stad dat wegens geldgebrek aan financi\u00eble middelen nooit is gerealiseerd. Met het \u2018Etablissement Voorzorg\u2019 tegenover het fortje wordt de leprozerie bedoeld die daar in 1791 werd ingericht en tot 1824 heeft bestaan.\nAl deze elementen komen op vrijwel identieke wijze eveneens voor op Mosebergs gedrukte kaart, zij het dat de post Braak daar nog Marquette heet (zie VEL1679A-D). Die naam wordt ook zo vermeld op de projectkaart voor nieuwe plantages aan de Saramacca uit 1794 door de militair ingenieur Johann Gottfried Rabanus B\u00f6hm (zie VEL1687), en het is op grond daarvan en andere overeenkomsten zeker denkbaar dat deze tevens de maker was, of in elk geval betrokken is geweest bij de vervaardiging, van de hier getoonde manuscriptkaart.\nHet noorden is onder.\nSchaalstok van 1400 Kettingen a 66 Voeten Rhynlands = [ca. 1 : 104.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1683",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "76 x 255 cm. (0.75 - 0.51 El. )",
+        "dcterms:date": "ca. 1803",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9820/kaart-van-de-surinamerivier-tot-aan-de-corentijnerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d1/ee/1f/4f/ca/38/44/4c/ab/8f/a7/6b/d5/d0/ee/c0/6a8c647b-db8d-4e15-a197-50081a580688.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d1/ee/1f/4f/ca/38/44/4c/ab/8f/a7/6b/d5/d0/ee/c0/6a8c647b-db8d-4e15-a197-50081a580688.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1683.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de rivier Surinaamen tot aan de rivier Corentin, aanweisende het project Canaal van de redout Purmerent tot aan de rivier Saramacca, de landen welke langs de kust van de rivier Copename tot aan de rivier Nickerie, langs deeze rivier en een gedeelte van de landen welke langs den Oostelijken oever van de rivier Corentin begeeven zijn."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

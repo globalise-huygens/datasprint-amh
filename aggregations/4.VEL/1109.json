@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1109.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/994116ac-829d-4ebf-8098-4b82ab67ce31",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1109.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verthoningh hoeveel de voet des kercks S. Paolo op den bergh binnen Malacca gelegen hooger als de gront daer 't bolwerck van de vijffhoekige affsnijding ... [etc.]",
+        "dc:title": "De kerk te Malakka ten opzichte van het bolwerk aldaar",
+        "dc:description": "Titel catalogus Leupe (NA): Verthoningh hoe veel de voet des Kercks St. Paolo, op den bergh binnen Malacca gelegen hooger verheven sy dan den voet van 't bolwerck enz..\nAan de randen is een strook Japans papier geplakt, het formaat van de eigenlijke kaart is 49 x 32 cm.\nNotities verso: Malacca 1657, uit portefeuille 1657 no. III / 161 [folionummer in de band ?] / No. 41 [volgnummer van het stuk in de band ?] / 598 b.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1109",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "vesting",
+            "kerk / pastorie"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "56,5 x 38,5 cm",
+        "dcterms:date": "3 januari 1657",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3870/de-kerk-te-malakka-ten-opzichte-van-het-bolwerk-aldaar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/62/31/b2/31/2e/eb/42/dd/ab/14/a3/44/39/b3/6f/65/1d35aad4-43e8-40fb-a25f-01611d98dd4a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/62/31/b2/31/2e/eb/42/dd/ab/14/a3/44/39/b3/6f/65/1d35aad4-43e8-40fb-a25f-01611d98dd4a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1109.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Vertoningh hoe veel de voet des Kercks St. Paulo, op den bergh binnen Malacca gelegen, hooger verheven sy dan den voet van 't bolwerck enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

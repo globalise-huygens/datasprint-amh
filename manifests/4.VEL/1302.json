@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1302.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caarte van het Landschap Bonthyn, beginnende van de Rivier Teno Oostwaarts tot aen de rivier Callamssan, en vervolgens landwaarts tot op den top van den grooten bergh Bawocrain, anders berg van Bonthyn genaamt."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1302"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1715"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/302432b6-06a2-4074-bdc9-54b7026c843b\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1302.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1302.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6248,
+            "width": 12129,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1302.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1302.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/95/9c/fd/bf/20/dc/49/b8/8c/c1/08/10/22/1a/60/20/9370265b-0a1b-4a56-9fa2-a9b77bf3b1f0.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6248,
+                                "width": 12129,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/95/9c/fd/bf/20/dc/49/b8/8c/c1/08/10/22/1a/60/20/9370265b-0a1b-4a56-9fa2-a9b77bf3b1f0.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1302.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

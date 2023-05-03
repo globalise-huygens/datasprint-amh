@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1204R.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3236b668-6eae-413f-99ac-1ca092b92ead",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1204r.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "No. XXVIII, plan van 't bolwerk Groningen.",
+        "dc:title": "Plan van het bolwerk Groningen te Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.\nNo. XXVIII het bolwerk Groningen.\nNotities verso: 8. Z / 620 [in potlood].\nSerie VEL1204A t/m VEL1204V.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1204R",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "doorsnede / profiel",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "49 x 56 cm",
+        "dcterms:date": "ca. 1762",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/524/plan-van-het-bolwerk-groningen-te-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4a/fb/c9/41/60/82/4c/60/b3/27/67/3c/66/47/a1/dc/519b766f-dd52-47e3-88e7-947868b49342.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4a/fb/c9/41/60/82/4c/60/b3/27/67/3c/66/47/a1/dc/519b766f-dd52-47e3-88e7-947868b49342.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204R.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 18"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

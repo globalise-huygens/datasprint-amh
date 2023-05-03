@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1940.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5e02298d-1736-42e8-8306-33f89e975e3a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1940.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een kavel van de plantage Nacracabo",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, zynde een gedeelte van de Plantagie Nacracabo.\nDeze kaart toont een kavel van de plantage Nacracabo (aangeduid met de letters A-D) toebehorend aan de heer van Leeuwaarden en gelegen ten noorden (boven op de kaart) van de Cottica Rivier.\nDe kaart is aangevraagd door J. G. Van Leeuwaarden zelf na het stuk land te hebben ontvangen van d\u2019Heer Raad Jacobus Lemmers.\nDe kavel blijkt 285 Surinaamse akkers (122,55 hectare) te meten.\nDe kaart is door de landmeter ondertekend op 28 Februari 1735 en officieel erkend op 25 Juli 1736 te Paramaribo.\nSchaal van 100 Ketingen \u00e0 66 Rijnlandse voeten = 130 strepen.\nOorsprong: [OBP Suriname] 1736, [fols.] 1323-1324.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1940",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "9.32 - 0.21 El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10045/kaart-van-een-kavel-van-de-plantage-nacracabo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/af/50/a8/9e/43/c9/4e/c1/90/90/5e/97/b1/cd/ba/b0/c12eb8b1-da66-4b59-b250-f29ca8755777.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/af/50/a8/9e/43/c9/4e/c1/90/90/5e/97/b1/cd/ba/b0/c12eb8b1-da66-4b59-b250-f29ca8755777.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1940.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, zynde een gedeelte van de Plantagie Nacracabo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

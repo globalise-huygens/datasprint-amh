@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/486.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b3761f55-322d-447b-b34b-74ff9d8d7097",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0486.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaart van een gedeelte der Zuidooster Eilanden",
+        "dc:title": "Kaart van de Zuid-Ooster eilanden",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van een gedeelte der Zuidooster Eilanden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0486",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "67,5 x 99 cm",
+        "dcterms:date": "1836",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5326/kaart-van-de-zuid-ooster-eilanden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/88/d5/02/5c/f5/ad/47/0a/a8/8e/be/4e/51/0f/ac/9b/67fb477f-ddaa-4e5f-b423-adfa21b11446.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/88/d5/02/5c/f5/ad/47/0a/a8/8e/be/4e/51/0f/ac/9b/67fb477f-ddaa-4e5f-b423-adfa21b11446.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/486.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte der Zuid-Ooster Eilanden."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

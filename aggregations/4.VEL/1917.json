@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1917.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d7b8981c-8602-4687-b46c-38a63ea0713c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1917.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een gedeelte de plantage Meulewijk",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, tusschen de Plantagie Corsane en de Wayamoe Creeq.\nDeze kaart toont een gedeelte van de plantage Meulewijk (aangeduid met de letters A-D) gelegen ten oosten  (bovenaan de kaart) van de kreken Perica en Wayamoe.\nDe meting is aangevraagd door de eigenaren.\nDe omvang van het stuk grond is 200,9 Surinaamse akkers (86,387 hectare).\nTen zuiden (rechts op de kaart) ligt de plantage Corsane.\nDe kaart is door de landmeter ondertekend op 24 Oktober 1735 en officieel erkend op 28 Januari 1737 te Paramaribo.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 229 strepen.\nOorsprong: [OBP Suriname] 1736, [fols.] 1251-1252.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1917",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.28 - 0.215 El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10164/kaart-van-een-gedeelte-de-plantage-meulewijk"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9a/ce/3b/54/9b/48/4c/3c/be/7f/ad/f8/c0/67/bc/f0/7d077e08-3d26-48da-873c-46bb3b8818f9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9a/ce/3b/54/9b/48/4c/3c/be/7f/ad/f8/c0/67/bc/f0/7d077e08-3d26-48da-873c-46bb3b8818f9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1917.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, tusschen de Plantagie Corsane en de Wayamoe Creeq."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

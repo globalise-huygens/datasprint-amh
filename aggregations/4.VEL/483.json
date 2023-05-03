@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/483.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/791cd214-eaf4-444c-83f8-a4f7bf921b5d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0483.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'T West-eynde van Bouro. / Het Oostelijkste van Ceram / De Pagger op het Eyland Bouro. / Het Westelykste van Ceram",
+        "dc:title": "Kaart van het oostelijke gedeelte van Seram",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van het Oostelykste gedeelte van Ceram.\nLinksboven: 'T West-eynde van Bouro.; met schaalaanduiding: 1 duitse mijl = 114 strepen; omgerekende schaal [ca. 1:64.977], formaat (26 x 37 cm).\nRechtsboven: Het Oostelykste van Ceram; met schaalaanduiding: 1 duitse mijl = 6,4 cm; omgerekende schaal [ ca. 1:115.740]; legenda aanwezig.\nLinksonder: De Pagger op het Eyland Bouro; met schaalaanduiding: 12 Rijnl. roeden = 115 strepen; omgerekende schaal [ca. 1:393].\nRechtsonder: Het Westelykste van Ceram; met schaalaanduiding: 1 duitse mijl = 11,5 cm; omgerekende schaal [ca. 1:64.412]; legenda aanwezig.\nTopografische namen op deze kaarten vermeld: _Ceram Laut, Lissidi, out Alangh, Assahoedi, Hataumalo, Niborn, Hatumalu).",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0483",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "legenda",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "526 x 742 mm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4306/kaart-van-het-oostelijke-gedeelte-van-seram"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/55/3e/a4/01/50/99/4f/eb/b2/b1/03/90/4d/5d/b2/1d/9b147e57-8040-4721-be2a-4feaacde1f36.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/55/3e/a4/01/50/99/4f/eb/b2/b1/03/90/4d/5d/b2/1d/9b147e57-8040-4721-be2a-4feaacde1f36.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/483.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Oostelykste gedeelte van Ceram."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

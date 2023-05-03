@@ -1,0 +1,58 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/784.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a75dd305-55ad-4091-882b-7bab2bac4251",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_784.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan-Prospect / Van het Fort nassau tot Mour\u00e9",
+        "dc:title": "Plattegrond van het fort Nassau te Mouri",
+        "dc:description": "Plattegrond van het fort Nassau te Mouri.\nTitel catalogus Leupe (NA): Plan en Prospect van het fort Nassau tot Mour\u00e9.\nPlan-Prospect / Van het Fort nassau tot Mour\u00e9.\nHet formaat van de aan het plan vastgeplakte toelichting is 28 x 25,5 cm.\nNotities verso: No. 28 Het Fort Nassau. Register 8, Deel 1, Folio 34, Portefeuille .. [geschreven op een blauw etiket] / 478 [met vette cijfers gestempeld op een etiketje] / no. 1 M.\nLinksboven en rechtsonder op de kaart, rechts op de toelichting: 784 [in potlood].\nRechtsonder: Plan XI:.\nLegenda: Renvoij / A. Plaats waar de Canoos Landen. / B. Poort & Soldaaten wagt. / C. Ingang naar 't plyn & wooningen / D. Polvergat. / E. Commandants Woningen. / F. Assistends of Doctors Logie,, ,,Waar onder den pakhuizen / G Afgebrooken Orange Zaal waar onder thans des Soldaten Logies.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0784",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "legenda",
+            "kompas / windroos",
+            "gebouw",
+            "kruithuis / kruitmolen",
+            "huis / woonhuis",
+            "poort",
+            "pakhuis",
+            "rede / haven / pier",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "47,5 x 37,5 cm",
+        "dcterms:date": "1786",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1427/plattegrond-van-het-fort-nassau-te-mouri"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c0/de/77/d6/f1/83/4e/b5/a8/57/03/73/5e/ce/7f/0d/434ea393-4b5e-4945-af9c-5a9004cdf5c0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c0/de/77/d6/f1/83/4e/b5/a8/57/03/73/5e/ce/7f/0d/434ea393-4b5e-4945-af9c-5a9004cdf5c0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/784.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan en Prospect van het fort Nassau tot Mour\u00e9."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

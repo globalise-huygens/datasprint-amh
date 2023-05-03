@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1784.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/efe0dbaf-5cd4-4381-a295-da84adff1175",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1784.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van gronden aan de rivier Suriname tussen de Paulus en Surinouw Kreek",
+        "dc:description": "Titel Leupe: Kaart van de gronden in de rivier Suriname tusschen de Paulus en Surinauws Kreek.\nDe kaart toont de ligging van de gronden gelegen tussen de Paulus en de Surinouw Kreken, aan de rechteroever van de Suriname rivier (in 't afvaren).\nOp de kaart is het verloop van beide kreken nauwkeurig ingetekend.\nEr zijn verschillende woonhuizen op de kaart te zien, voorzien van eigennamen.\nOorspong: OBP Suriname 1723 blz. 42-45\nSchaal van 110 Kettingen a\u0300 5 1/2 Rijnlandse roeden = 132 strepen.\nZie ook de kaarten VEL 1783.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1784",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.42 - 0.53 El.",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9773/kaart-van-gronden-aan-de-rivier-suriname-tussen-de-paulus-en-surinouw"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/be/82/c5/6b/1d/07/42/3a/92/c7/2f/7b/6f/0e/b3/98/8aaf1756-065a-4587-9ecb-e641fa9b3555.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/be/82/c5/6b/1d/07/42/3a/92/c7/2f/7b/6f/0e/b3/98/8aaf1756-065a-4587-9ecb-e641fa9b3555.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1784.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de gronden in de rivier Suriname tusschen de Paulus en Surinauws Kreek."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

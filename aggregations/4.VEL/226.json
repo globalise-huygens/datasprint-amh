@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/226.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/093da5cb-618b-41d7-abdc-d3691f566201",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0226.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de westkust van India",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van Gouzaratte, Cucan of Visiapoer, van R. Pilatus tot Dabul.\nRechtsboven genummerd: 15.\nNotities verso: 226 [in rood potlood] / Ryks-Archief 's Gravenhage [stempeltje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0226",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "52,5 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2530/kaart-van-de-westkust-van-india"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f8/1b/41/4c/3b/83/49/8f/97/08/33/44/73/8c/58/04/0da051ec-4f2d-4603-a990-d99be2eb0350.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f8/1b/41/4c/3b/83/49/8f/97/08/33/44/73/8c/58/04/0da051ec-4f2d-4603-a990-d99be2eb0350.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/226.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Gouzaratte, Cucan of Visiapoer, van R. Pilatus tot Dabul."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

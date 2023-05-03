@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Zuidwestkust van Nova - Guinea, waarop de trek der voyagie van Johannes Keyts, en die van Augustyn Dirks met de Pisang. In 1678 en 1679."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "494"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/bac4b1cd-c9cb-48c6-aadc-83306a1d62da\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/494.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6370,
+            "width": 8965,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/4d/0d/d1/e5/bc/3d/4c/85/b1/24/48/42/f9/17/b3/1c/8e4f807b-2d58-4154-af12-041330dabbe6.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6370,
+                                "width": 8965,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/4d/0d/d1/e5/bc/3d/4c/85/b1/24/48/42/f9/17/b3/1c/8e4f807b-2d58-4154-af12-041330dabbe6.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

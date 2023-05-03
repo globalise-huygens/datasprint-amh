@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/313.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Indische Zee, van de Kaap de Goede Hoop tot het Eiland Java om de Noord, en een gedeelte van Nieuw-Holland om de Oost."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "313"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1728"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ebf3d3b4-be09-43df-a5e8-57c27e4abac0\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/313.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/313.json#canvas/p1",
+            "type": "Canvas",
+            "height": 9362,
+            "width": 11485,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/313.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/313.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/18/a1/b8/02/da/8f/45/ac/a8/24/4f/62/78/fd/e4/d7/888c6710-6c9d-44d9-9364-8c489dc707f5.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 9362,
+                                "width": 11485,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/18/a1/b8/02/da/8f/45/ac/a8/24/4f/62/78/fd/e4/d7/888c6710-6c9d-44d9-9364-8c489dc707f5.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/313.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

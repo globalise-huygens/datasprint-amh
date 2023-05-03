@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2084.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/62f7345b-f92e-4ae6-a0d4-d634893e53db",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2084.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsboven] een legenda bij de nummers 1 t/m 12 :\nExplanations: [upper right] a key to the numbers 1 to 12 : \nExplicatie der Post Marrowijne hoe deselve sig thans bevind, excl: der Vier Bastions. Julij 1775. \nN:o 1. Officiers Quartier. \n2. Sergeanten Quartier. \n3. Soldaeten Quartier. \n4. Magazijn. \n5. Kookrum voor het Volk. \n6. D:o voor de officier. \n7. Bakkooven. \n8. Wagt. \n9. Chirurgh Quart:. \n10. Zieken quart:. \n11. Bronnen off Putt. \n12. Vlaggen Stok.",
+        "dc:title": "Kaart van de post Marowijne",
+        "dc:description": "Titel Leupe: De Post Marowyne, hoe deselve sig thans bevind, excl. der vier Bastions.\nDeze kaart toont de Nederlandse militaire post die halverwege de achttiende eeuw was gevestigd op de westelijke oever van de monding van de Marowijne. Vanaf de tweede helft van dat decennium, toen de Fransen hun claim op het gebied tussen de Sinnamary en de Marowijne nadrukkelijker deden gelden, werd de post periodiek versterkt. Het belang ervan nam aanzienlijk toe nadat de Fransen in 1766 in dit door hen verder nog niet in cultuur gebrachte gebied een fortje of redoute op de oostoever van de Marowijne hadden opgericht. Dit leidde tot toenemende desertie van de Surinaamse militairen, wat tot dan toe door de onherbergzaamheid van de grensstreek lastiger was geweest.\nIn de oorspronkelijke vorm ging het om een kleine houten versterking op een vierkant grondplan met zijden van ongeveer 35 meter, zoals deze kaart uit 1775 weergeeft. Verder waren basiskwartieren, een bakoven en een put in het fort opgenomen. Bij de vernieuwing van de post in 1793 door de militair ingenieur Bernhardi kreeg deze de vorm van een veel grotere driehoek bestaande uit drie afzonderlijk te verdedigen hoekfortjes of bastions verbonden door een palissade.\nHet noorden is rechtsboven.\nSchaalstok van 180 Voet = [ca. 1 : 780].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2084",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "33,5 x 41,5 cm.",
+        "dcterms:date": "1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10198/kaart-van-de-post-marowijne"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/81/6c/a2/e7/40/72/4e/69/a1/90/4d/7e/02/91/3e/00/159e892f-7b59-47cf-8c0f-a2ff8beb0bf4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/81/6c/a2/e7/40/72/4e/69/a1/90/4d/7e/02/91/3e/00/159e892f-7b59-47cf-8c0f-a2ff8beb0bf4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2084.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "De Post Marowyne, hoe deselve sig thans bevind, excl. der vier Bastions."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

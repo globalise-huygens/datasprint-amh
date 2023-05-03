@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/914.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0c8207ba-5bbc-44b2-9b56-702ca55e10be",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0914.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van een geprojecteerde Logie binne Coylan",
+        "dc:title": "Plattegrond van een loge in Coylan",
+        "dc:description": "Titel catalogus Leupe (NA]: Plan van een geprojecteerde Logie binne Coylan.\nLegenda: A-H\nPlattegrond van de aanleg van nieuwe vestingwerken (courtine) en nieuwe loge-gebouwen (pakhuis en poort en hoofdwacht) in de oude het fort aan de baai van Coijlan.\nNotities verso: 1767 nr. 2; nr. 11; 499 w; 345.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0914",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "pakhuis",
+            "poort",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "33 x 41 cm",
+        "dcterms:date": "9 maart 1766",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4672/plattegrond-van-een-loge-in-coylan"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/19/09/d1/2b/6f/97/47/31/a3/27/9b/a8/99/13/24/ea/651ec9cc-1c1f-4377-9729-ebefcc811316.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/19/09/d1/2b/6f/97/47/31/a3/27/9b/a8/99/13/24/ea/651ec9cc-1c1f-4377-9729-ebefcc811316.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/914.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van een geprojecteerde Logie binne Coylan."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

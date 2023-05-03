@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2131.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plaan van de Marschroute naede dorpen of verblyfplaetsen der Bevredigten Boschneeger, agter Auka, soo door de Sara Creecq nae de post Kruyspadt als over Tempati nae gen. Post, ook verder van de situatie van gen. Boschneeger Dorpen."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2131"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/a956b5d8-18e7-4b22-a101-17c3b4aba9c7\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2131.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2131.json#canvas/p1",
+            "type": "Canvas",
+            "height": 25272,
+            "width": 12911,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2131.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2131.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/bf/27/f8/d8/6c/7a/4d/6c/ae/d0/70/87/d0/d4/be/58/01047569-9a21-4bfb-ad01-6008d0942244.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 25272,
+                                "width": 12911,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/bf/27/f8/d8/6c/7a/4d/6c/ae/d0/70/87/d0/d4/be/58/01047569-9a21-4bfb-ad01-6008d0942244.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2131.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

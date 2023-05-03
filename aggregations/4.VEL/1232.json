@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1232.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a0134f8a-08a7-4311-aa81-1480cb94c5de",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1232.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Schaal van 40 Rijnlandse Roeden diendende tot de Wooninge van de Opperkoopluijden van 't Casteel",
+        "dc:title": "Plan voor twee woningen voor de opperkooplui van Kasteel Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Plan voor twee gebouwen tot de woningen van de opperkooplyden van het Casteel.\nAtlas Amsterdam\nNotities verso: Woningen int Casteel tot Batavia / afteekening van twee wooningen in 't kasteel Batavia, overgekomen 1699, 2 deel / 787 [folionummer in de band ?] / No. 6 [volgnummer van het stuk in de band ?] / 602 hh.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1232",
+        "dc:subject": [
+            "huis / woonhuis",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41,5 x 55 cm",
+        "dcterms:date": "ca. 1698",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/531/plan-voor-twee-woningen-voor-de-opperkooplui-van-kasteel-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c6/9c/d3/9d/81/27/49/c5/90/32/06/67/1c/6e/6c/fb/f9b909bf-36b4-434a-a7a0-e385244e52e1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c6/9c/d3/9d/81/27/49/c5/90/32/06/67/1c/6e/6c/fb/f9b909bf-36b4-434a-a7a0-e385244e52e1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1232.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan voor twee gebouwen tot de woningen van de opperkoopluyden van het Casteel."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

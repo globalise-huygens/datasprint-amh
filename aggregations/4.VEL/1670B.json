@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1670B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1c575ff8-0be0-4965-9df1-7ac1f01de786",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1670b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantages aan de rivieren Commewijne en Suriname",
+        "dc:description": "Titel Leupe: Caerte van de rivieren van Suriname en Commowine met derselver uytstroomende Creecken met alle de landen soo verre deselve bewoonde worden. Verschillende mijlschalen.\nDeze kaart toont de ongeveer honderd plantages aan de Commewijne rivier en de Cottica kreek en verscheidene plantages aan de Surinamerivier. De nummers die de kavels aanduiden geven waarschijnlijk de eigenaar aan aangezien ze soms meerdere keren voorkomen.  De gedeelde kleuren voor kavels met dezelfde nummers versterkt deze indruk. Gezien de versierde banderol en de algemene aanduidingen lijkt deze kaart voor een breder publiek ontworpen. Gelet op de plantages rond de bron van de Commewijne rivier, is de kaart waarschijnlijk na 1730 getekend. Rond die tijd werden deze stukken land grotendeels ontgonnen.\nEen gekleurde en zwart-wit druk zijn beschikbaar.\nHet noorden is onder.\nSchaal van 200 Kettingen = 5 1/2 Rijnlandse r. = 23 strepen.",
+        "dc:type": "drukwerk",
+        "dc:identifier": "VEL1670B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.50 - 0.69 El.",
+        "dcterms:date": "1730-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9783/kaart-van-de-plantages-aan-de-rivieren-commewijne-en-suriname"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a1/c6/b6/ef/92/33/4e/67/b9/d8/1f/f2/e9/d0/6d/79/cf06cf63-f231-44bb-8164-3a4659b6bf9c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a1/c6/b6/ef/92/33/4e/67/b9/d8/1f/f2/e9/d0/6d/79/cf06cf63-f231-44bb-8164-3a4659b6bf9c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1670B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar, gekleurd"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

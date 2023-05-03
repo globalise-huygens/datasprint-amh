@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1383.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/20e5b40b-0ee1-405c-aa44-acf13cc0a4ed",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1383.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Britse koloni\u00ebn in Noord-Amerika",
+        "dc:description": "Titel Leupe: A New and accurate Map of the British Dominicus in America, according to the Treaty of 1763 etc.\nEen  kaart van de Britse koloni\u00ebn in Noord-Amerika, van de Mississippivallei tot delen van Texas en de lage Missourivallei. Het valt op dat Zuid-Florida als archipel is afgebeeld. De kaart toont weinig geografische kenmerken maar oude forten en nederzettingen, alsmede gebieden van de 'indianen' zijn wel genoteerd. De grenzen zijn getekend naar het verdrag dat op 10 Februari 1763 in Parijs werd getekend.\nSchaal van 60 Eng, en Fr. Zeemijlen = 51 strepen.",
+        "dc:type": "drukwerk",
+        "dc:identifier": "VEL1383",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "25 x 21 inches 25 x 21 inches",
+        "dcterms:date": "1765",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7197/kaart-van-de-britse-koloni%C3%ABn-in-noord-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ed/48/6e/2c/2f/34/46/a3/91/3c/f2/1f/70/42/18/e9/1e5167dc-ba38-4af8-b3d6-13193f381bdd.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ed/48/6e/2c/2f/34/46/a3/91/3c/f2/1f/70/42/18/e9/1e5167dc-ba38-4af8-b3d6-13193f381bdd.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1383.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A New and accurate Map of the British Dominicus in America, according to the Treaty of 1763 etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

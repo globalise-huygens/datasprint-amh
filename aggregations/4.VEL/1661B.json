@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1661B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3d38b6c9-3ae2-4b04-98c3-1124b4f5fe3f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1661b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "[right] a key to the letters A to U and a note : \nExplicatie. \nA. De stelling aan de Rivierkant, met een steenen pad. \nB. De groote Poort. \nC. Constabels Camer. \nD. Meesters Camer. \nE. Trompetters Gatt of de Gefangenis. \nF. Bouttelliers Camer. \nG. Thaans leedige Camer. \nH. Kogel Hok. \nI. Timmermans Winkel. \nK. Kruyt Gatt. \nL. Muur van \u2019t Secreet booven. \nM. Ambaghts Volks Camer. \nN. Corps de Guarde. \nO. Provisie Magazyns. \nP. Scherp Gatt verwulft. \nQ. Magazyn voor Kalk en Cement. \nR. Pakhuysen van de Wel Edele Gestrenge Heer Gouverneur. \nS. De Paalen van \u2019t Secreet van booven. \nT. De Kleene port. \nU. Schied Gaaten. \nNB: wat geel geillumineert is van Hout, en wat rood is Steen.",
+        "dc:title": "Plattegrond van de benedenverdieping van fort Nassau",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen in het fort Nassau.\nDeze ongesigneerde, maar op grond van de kompasroos, de schaalstok en het handschrift met zekerheid aan de ingenieur en landmeter Jan Daniel Knapp toe te schrijven plattegrond van Fort Nassau geeft een goed beeld van de situatie tijdens of kort na de algehele vernieuwing in de periode 1735-1740. Hier is de begane grond getekend. De kaart is naar de Republiek overgezonden in November 1739.\nDe kaart nagenoeg overeen met het anonieme plan op VEL1628, dat eveneens in 1739 is overgekomen, maar geeft bovendien aan welke delen in hout (geel) en in baksteen (rood) werden uitgevoerd. Het gebruik van dit laatste materiaal bleef in hoofdzaak beperkt tot de gebouwen op het binnenterrein; de wallen van het fort waren van aarde met aan de buitenzijde een bekleding van zwaren houten palen. Ook bij de hoofdpoort (B op het plan) is geen gebruik van steen aangegeven, zoals wel gesuggereerd op de tekeningen genummerd VEL1628 en 1663A-D.\nHet noorden is rechtsonder.\nSchaalstok van 5 Rhynlandse Roeden = [ca. 1 : 125].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1661B",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 74 cm.",
+        "dcterms:date": "1738-1739",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1949/plattegrond-van-de-benedenverdieping-van-fort-nassau"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/30/a5/37/81/ff/90/43/74/bb/e9/6a/42/94/28/35/d8/5a1200ce-42df-4cae-822a-242d754369c8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/30/a5/37/81/ff/90/43/74/bb/e9/6a/42/94/28/35/d8/5a1200ce-42df-4cae-822a-242d754369c8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1661B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

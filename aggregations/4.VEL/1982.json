@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1982.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e366e0f0-5b92-413b-9f83-723e0085461a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1982.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de landen nabij de Paramarica Kreek",
+        "dc:description": "Titel Leupe: Kaart van de plantagien, gelegen tusschen de kreken Paramarica en Matappica.\nDeze kaart toont verschillende kavels tussen de Rattapica en Paramarica Kreken.\nDe heer C.L.N. B\u00f6gel heeft deze kopie van een eerder uitgevoerde meting aangevraagd.\nDe meeste kavels bevatten eigenamen, en twee zijn met een enkele letter aangeduid.\nGeen afmetingen zijn gegeven.\nDe oorspronkelijke kaart is ondertekend op 19 April 1761.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 80 strepen.\nOorsprong: OBP Suriname 1767 [fol.] 56.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1982",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.18 - 0.155 El.",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10187/kaart-van-de-landen-nabij-de-paramarica-kreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fd/29/52/7d/ce/7c/4e/cb/88/de/11/80/33/7b/c2/58/a58c9d25-e047-447c-bc60-15eeec2e7897.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fd/29/52/7d/ce/7c/4e/cb/88/de/11/80/33/7b/c2/58/a58c9d25-e047-447c-bc60-15eeec2e7897.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1982.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de plantagien, gelegen tusschen de kreken Paramarica en Matappica."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1249.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/abfd696e-5438-4c6c-86c3-e0eafce2ce5f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1249.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het Plan van het Eyland Edam",
+        "dc:title": "Plattegrond van het eiland Edam bij Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Het Plan van het Eyland Edam, gelegen omtrent vier uuren Noordwaarts van de stad Batavia.\nLegenda: A-Z; 1-17\nDe randen en naden zijn ter versterking met stroken beplakt, maar in de kaart zitten wel verschillende gaten.\nNotities verso: Behoort by de overgekomen Brieven en papieren van Batavia 1735 4 deel [de vijf van het jaar is onduidelijk, maar gezien de datering wel waarschijnlijk] / 1950 [moet het folionummer in de band OBP zijn] / No. 30 [waarschijnlijk het volgnummer van het stuk in de band OBP] / 624 b.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1249",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "76,5 x 159 cm",
+        "dcterms:date": "1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5398/plattegrond-van-het-eiland-edam-bij-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/75/f6/46/b3/ed/ab/46/36/8c/b3/c8/32/99/21/21/83/16d01f1e-1c90-48ff-95fc-76b23fa18f76.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/75/f6/46/b3/ed/ab/46/36/8c/b3/c8/32/99/21/21/83/16d01f1e-1c90-48ff-95fc-76b23fa18f76.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1249.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het plan van het Eyland Edam, gelegen omtrent vier uuren Noordwaarts van de stad Batavia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2140.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/39e9c207-f0d6-4867-91e6-a471eb72ff1d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2140.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Tekening van een kanon en affuit",
+        "dc:description": "Titel Leupe: Teekening van een Canon op zyn affuyt.\nDeze anonieme tekening geeft goed weer hoe het onderstel van kanonnen werd ingericht om vanuit verschillende hoeken te vuren en snel te laden. Een gleuf bij de achterwielen van het onderstel liet het toe het kanon zo\u2019n 140 graden te draaien. De hendel van het onderstel werd naast het draaien ook gebruikt om het de kar van het kanon naar voren te rollen nadat de kogels geladen waren. De wieltjes van de kar zijn rechts afgebeeld. Oorspronkelijk werd deze techniek in schepen gebruikt maar op deze kaart lijkt het voor een fort bestemd. De ontwerper en het jaartal zijn onbekend.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2140",
+        "dc:subject": [
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.475 - 0.69 El.",
+        "dcterms:date": "1700-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10493/tekening-van-een-kanon-en-affuit"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/64/bf/56/12/20/21/48/6c/9f/ef/48/93/86/99/d5/88/9a02a038-bba4-42b9-bf5c-3b9ca4a6794f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/64/bf/56/12/20/21/48/6c/9f/ef/48/93/86/99/d5/88/9a02a038-bba4-42b9-bf5c-3b9ca4a6794f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2140.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Teekening van een Canon op een kust affuyt."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

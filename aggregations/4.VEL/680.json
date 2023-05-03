@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/680.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f80baeec-f1b3-4b71-96eb-a24906d762a1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_680.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Pascaerte van Brazil en Nieu Nederlandt van Curvo en Flores tot de Barbados",
+        "dc:title": "Kaart van de kusten van Noord en Zuid Amerika, van Brazili\u00eb tot Canada",
+        "dc:description": "Kaart van de kusten van Noord en Zuid Amerika, van Brazili\u00eb tot Canada.\nTitel in Catalogus Leupe (NA): Pas Caerte van Brazil en Nieu Nederlandt, van C\u00faorvo en Flores tot de Barbados.\nPascaerte van Brazil en Nieu Nederlandt van Curvo en Flores tot de Barbados.\nRechts op de kaart een stempel met 'S RYKS ARCHIEF.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0680",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "Persoon"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde gravure",
+        "dcterms:extent": "63,5 x 56 cm",
+        "dcterms:date": "17e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7191/kaart-van-de-kusten-van-noord-en-zuid-amerika-van-brazili%C3%AB-tot-canada"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/59/d6/90/fa/2a/b8/42/a3/b4/f6/7e/a8/5c/49/b2/5e/ef41eb11-1a30-4784-84e1-5ca49c5f019c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/59/d6/90/fa/2a/b8/42/a3/b4/f6/7e/a8/5c/49/b2/5e/ef41eb11-1a30-4784-84e1-5ca49c5f019c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/680.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Pas Caerte van Brazil en Nieu Nederlandt, van C\u00faorvo en Flores tot de Barbados."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

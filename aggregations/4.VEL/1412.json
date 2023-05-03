@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1412.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/214621ee-a8ed-4969-96cb-e1646d4e36de",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1412.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Martinique en de Bovenwindse Eilanden",
+        "dc:description": "Titel Leupe: Tabula Novissima atque accuratissima Caraibicarum insularum sive Cannibalum etc.\nKaart van de Bovenwindse Eilanden oftewel de Kleine Antillen, met havens een indicaties van gebergtes en bossen. De gedetailleerde inzetkaart van Martinique rechtsboven toont ook individuele huizen en kerken tezamen met meren, rivieren, bossen en bergen. Met drie kruis\nen stersymbolen geeft de kaart aan welke denominaties waar wonen. Daarboven trekt het een grens door het midden van het eiland om aan te duiden waar de 'barbaren' verblijven (rode stuk) en waar de Christenen (gele stuk).\nHet noorden is boven.\nSchaal van 20 D. M. = 152 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1412",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kerk / pastorie",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.85 - 0.495 El. (22.5 x 19.5 inches)",
+        "dcterms:date": "1745",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10342/kaart-van-martinique-en-de-bovenwindse-eilanden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e8/12/60/ff/45/98/4a/f0/aa/62/7e/15/86/1c/60/a3/193ff32a-9903-42d9-96b9-c8a5c4306eef.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e8/12/60/ff/45/98/4a/f0/aa/62/7e/15/86/1c/60/a3/193ff32a-9903-42d9-96b9-c8a5c4306eef.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1412.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Tabula Novissima atque accuratissima Caraibicarum insularum sive Cannibalum etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

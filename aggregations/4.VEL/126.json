@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/126.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e2a99970-1409-4c9a-ba1d-a1f6fdf8ae91",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_126.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Een / gedeelte van de / Kusten van / Arguyn Genehoa en / Gambia / van Caap Cack tot C: / Verde",
+        "dc:title": "Kaart van de westkust van Afrika, Senegal",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van een gedeelte van de Kust van Arguin, Genehoa en Gambia, van Caap Caek tot Caap Verde.\nUitgegeven door Gerard van Keulen.\nDe kompaslijnen zijn gedrukt; de kaart is op blauw papier geplakt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0126",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "63 x 104 cm",
+        "dcterms:date": "1720-1725",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6782/kaart-van-de-westkust-van-afrika-senegal"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1d/b3/7c/39/99/9e/44/94/85/4b/ba/ed/10/67/d1/70/4beee0cb-9f7a-4695-841a-7457406f4fda.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1d/b3/7c/39/99/9e/44/94/85/4b/ba/ed/10/67/d1/70/4beee0cb-9f7a-4695-841a-7457406f4fda.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/126.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de Kust van Arguin, Genohoa en Gambia, van Caap Cack tot Caap Verde."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

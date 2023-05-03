@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/343.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bc38b2ed-4db8-449f-bd3c-c76a26d4e638",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0343.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Sumatra tot de Molukken",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van den Indischen Archipel, een gedeelte der Chinesche Zee enz..",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0343",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "perkament",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "83 x 97,5 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9182/kaart-van-sumatra-tot-de-molukken"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ff/ba/38/71/f8/8a/4c/e8/9e/6e/4a/f3/e4/6e/26/cf/a0ad7c50-ec00-4f4a-8996-72834f83b20f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ff/ba/38/71/f8/8a/4c/e8/9e/6e/4a/f3/e4/6e/26/cf/a0ad7c50-ec00-4f4a-8996-72834f83b20f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/343.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van den Indischen Archipel, een gedeelte der Chinesche Zee. enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

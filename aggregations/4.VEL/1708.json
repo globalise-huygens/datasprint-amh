@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1708.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/822e743c-5690-47d5-aa39-dc4470ec379e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1708.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van perceel van Talbot aan de Surinamerivier",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen tusschen de Torarica en Platia Kreek.\nDeze meting van een perceel aan de Surinamerivier is aangevraagd door de eigenaar ervan, Hendrik Talbot. Inclusief recente concessie blijkt de omvang 1558 Surinaamse akkers (c. 670 hectare). De kaart is ondertekend op 16 Maart 1719 en erkend op 20 Maart 1719.\nHet noorden is rechts.\nSchaal van 110 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 92 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1708",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.42 - 0.32 El.",
+        "dcterms:date": "1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9835/kaart-van-perceel-van-talbot-aan-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f0/37/9d/57/ab/0c/44/f8/a0/37/65/73/4f/1c/1a/44/64447fec-66c3-432e-9e30-fd53f57ddb3a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f0/37/9d/57/ab/0c/44/f8/a0/37/65/73/4f/1c/1a/44/64447fec-66c3-432e-9e30-fd53f57ddb3a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1708.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen tusschen de Torarica en Platia Kreek."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/991.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Afbeeldinge van 't Fort Manaer, soodanigh 't selve by d'onse verovert en namaels verbetert is."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "991"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/65a9e1f3-9aaf-4bf0-a207-38c11abb8ae6\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/991.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/991.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8385,
+            "width": 11925,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/991.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/991.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/5c/4f/6a/33/0d/a6/4e/67/9b/b3/aa/39/4e/fb/ae/6d/fa834774-9aa1-48f6-81e8-9b2bdd1ecfb0.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8385,
+                                "width": 11925,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/5c/4f/6a/33/0d/a6/4e/67/9b/b3/aa/39/4e/fb/ae/6d/fa834774-9aa1-48f6-81e8-9b2bdd1ecfb0.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/991.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

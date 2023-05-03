@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1612.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plaan van een gedeelte van het Zee-Raack in Rio de Berbice, mitsgaders het Crabben Eyland en den mond van Rio Canje, toonende medeens an de defensie door het Canon van 't nieuwe aangelegde fort St. Andries."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1612"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/8e2d406c-7852-4b30-a7e9-622d34c0f59d\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1612.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1612.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6863,
+            "width": 8201,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1612.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1612.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/b4/e1/88/44/a7/4e/49/69/be/e2/04/82/e2/e4/81/fc/6e6924ea-604b-472f-b6af-9bcf89c00401.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6863,
+                                "width": 8201,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/b4/e1/88/44/a7/4e/49/69/be/e2/04/82/e2/e4/81/fc/6e6924ea-604b-472f-b6af-9bcf89c00401.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1612.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

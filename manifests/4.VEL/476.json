@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/476.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Moluksche Eilanden, een gedeelte van Ceram, op de Noordkust tot Batauw, op de Zuidkust tot Amahay."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "476"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1739"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/df55a9fa-a20a-467b-a5fa-fb1b6af92726\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/476.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/476.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8477,
+            "width": 11989,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/476.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/476.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/47/9c/c3/8b/79/70/45/09/9c/2b/bb/a5/59/c8/a9/1c/4962b626-f577-45cd-abf0-5376b480ec5b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8477,
+                                "width": 11989,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/47/9c/c3/8b/79/70/45/09/9c/2b/bb/a5/59/c8/a9/1c/4962b626-f577-45cd-abf0-5376b480ec5b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/476.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

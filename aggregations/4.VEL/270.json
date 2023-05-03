@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/270.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/af3839ce-ae1c-4adc-81d1-152e1fe17ec6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0270.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Rivier Tonquin",
+        "dc:title": "Kaart van de rivier van Tonquin, tot aan de Hollandse loge",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart  van de Rivier van Toncquin, van de Mond tot aan de Hollandsche Logie.\nRechtsboven genummerd: 33.b.\nNotities verso: De rivier van Toncquin. / Ryks-Archief 's Gravenhage [stempeltje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0270",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5764/kaart-van-de-rivier-van-tonquin-tot-aan-de-hollandse-loge"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/48/5b/eb/f7/d1/96/47/c4/8c/7c/51/c6/4d/1d/d8/85/70a9266f-f06d-4dd8-a38c-002d9ad4badb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/48/5b/eb/f7/d1/96/47/c4/8c/7c/51/c6/4d/1d/d8/85/70a9266f-f06d-4dd8-a38c-002d9ad4badb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/270.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Rivier van Toncquin, van de Mond tot aan de Hollandsche Logie."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

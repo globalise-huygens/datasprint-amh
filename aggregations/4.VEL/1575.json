@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1575.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8cef2bcf-135d-4ec5-875f-afa2b311ace2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1575.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Continuation of the title, above centre)\nZynde de laatstgemelde Rivier de Limiet scheiding tusschen de Colonien de Berbice en Suriname, volgens conventie tusschen de wederzydsche Gouvernementen van Suriname, en de Berbice, geslooten den 20 Januarij 1800.",
+        "dc:title": "Kaart van de benedenloop van de rivieren Berbice en Corantijn",
+        "dc:description": "Titel Leupe: Kaart van de rivieren de Berbice en de Corantyn, zynde laatst gemelde rivier de limietscheiding tusschen de Colonien Berbice en Suriname, volgens conventie tusschen de wederzydsche gouvernementen van Suriname en Berbice, gesloten den 20 januari 1800.\nMet de geleidelijke verschuiving van het economische zwaartepunt naar de benedenloop en aangrenzende zeekusten van de Berbice rivier in de late achttiende eeuw, was het op termijn onontkoombaar dat ook de bestuurszetel zou worden verlegd naar het mondingsgebied, zoals in 1785 door de directie van de Soci\u00ebteit inderdaad werd besloten. De uitvoering volgde na 1790, zoals te zien op deze kaart.\nDie nieuwe hoofdplaats ligt bij de samenvloeiing van de Berbice en de Canje, die naar de vorige bij Fort Nassau weer de naam Nieuw-Amsterdam kreeg. In de tussenliggende jaren was het plantage-areaal benedenstrooms en aan de kusten vooral na 1796 onder Brits bestuur opnieuw spectaculair uitgebreid, waarvan de kaart eveneens een goede indruk geeft.\nNa de Britse bezetting van Suriname in 1799 werd de limietscheiding tussen de koloni\u00ebn Suriname en Berbice in januari 1800 definitief bepaald op de Corantijn, zoals hier ook is vermeld.\nAls westelijke grens van Berbice gold nadien als voorheen de zogenoemde Duivelskreek, tegenwoordig bekend als de rivier Abari.\nHet noorden is rechtsonder.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1575",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.58 - 132 El. (65 x 140 cm.)",
+        "dcterms:date": "1801",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1921/kaart-van-de-benedenloop-van-de-rivieren-berbice-en-corantijn"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4f/44/02/52/f5/e7/45/ca/91/f5/25/8a/0f/80/29/3d/5e30082e-7e29-49fb-b261-febe743969cc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4f/44/02/52/f5/e7/45/ca/91/f5/25/8a/0f/80/29/3d/5e30082e-7e29-49fb-b261-febe743969cc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1575.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de rivieren de Berbice en de Corantyn, zynde laatst gemelde rivier de limietscheiding tusschen de Colonien Berbice en Suriname, volgens conventie tusschen de wederzydsche gouvernementen van Suriname en Berbice, gesloten den 20 januari 1800."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

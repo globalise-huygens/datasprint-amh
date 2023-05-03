@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/804.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van het Fort de Goede Hoop en de daaromheen gelegen landen, tusschen de Tafelbaai en Baai Fals."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "804"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ceb1e42b-1f3d-4ea1-a5f8-ece1e6c5284a\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/804.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/804.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4735,
+            "width": 6302,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/804.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/804.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/bc/0a/bb/ac/0e/c2/40/12/99/01/55/7c/02/d0/75/cf/93617efb-43c8-4477-b3e1-60b68d7f8df9.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4735,
+                                "width": 6302,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/bc/0a/bb/ac/0e/c2/40/12/99/01/55/7c/02/d0/75/cf/93617efb-43c8-4477-b3e1-60b68d7f8df9.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/804.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

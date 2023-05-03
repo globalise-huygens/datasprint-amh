@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/990.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/20cbf5de-3c6a-4882-bdc8-38daf6b0661b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0990.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caartje van 't fort Nigombo, soodanigh 't selve na de jongste reparatie en palissaderen is gelegen, zynde een irriguliere Vyfhoek met vier bolwerken voorsien dewelcke alhier gelijk oock d'andere Binnenwercken met letters en Nrs werden verthoont, als volgt.",
+        "dc:title": "Kaart van het fort Nigombo",
+        "dc:description": "Titel catalogus Leupe (NA): Caartje van 't fort Nigombo, soodanigh 't selve na de jongste reparatie en palissaderen is gelegen, zynde een irriguliere Vyfhoek met vier bolwerken voorsien enz..\nNotities verso: Kaart van het fort Negombo, 1720. [Blauw etiket] nr. 8 Plan van Negombo. [Etiket gedrukt] nr. 543.\nLegenda: A-G; 1-18",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0990",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51 x 73 cm",
+        "dcterms:date": "30 oktober 1720",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3973/kaart-van-het-fort-nigombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/56/99/29/89/bf/c8/47/17/be/55/e6/27/96/bb/5a/da/662b1235-2886-4122-96b0-dc6e6bb79da3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/56/99/29/89/bf/c8/47/17/be/55/e6/27/96/bb/5a/da/662b1235-2886-4122-96b0-dc6e6bb79da3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/990.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caartje van 't fort Nigombo, soodanigh 't selve na de jongste reparatie en palissaderen is gelegen, zynde een irriguliere Vyfhoek met vier bolwerken voorsien enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2094.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van opneming der situatien, agter de rivieren Perika en Booven Comewine, van de rits van Poelwyk af tot aan de Peninika Kreek, en van daar te zeggen, regt oover de mond van deze genoemde Kreek, naa de Iode Savaane of het Roode Dorp. Aan de rivier Suriname enz., ter ontdekking waar en hoe best een cordon te formeren. Met de Nummers der Posten I-XLV."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2094"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1776"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ec612904-477d-42c3-a473-d7b89f5f821e\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2094.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2094.json#canvas/p1",
+            "type": "Canvas",
+            "height": 11249,
+            "width": 7793,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2094.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2094.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/93/49/12/2a/57/d9/40/5a/99/93/6c/3a/63/18/2e/27/471ccbf3-c4db-4d32-b5fa-602c4e8e1aa2.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 11249,
+                                "width": 7793,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/93/49/12/2a/57/d9/40/5a/99/93/6c/3a/63/18/2e/27/471ccbf3-c4db-4d32-b5fa-602c4e8e1aa2.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2094.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

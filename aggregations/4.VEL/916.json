@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/916.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/32e22d3e-7ac0-41d6-8fc6-4cdc67639962",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0916.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "de pagger van Edatouritty",
+        "dc:title": "Plattegrond van de pagger van Edatouritti",
+        "dc:description": "Titel catalogus Leupe (NA]: Plan als voren, van Edatouritti, hier wordt bedoeld de titel van VEL915: Plan van de Pagger van Padricotta Parri.\nSchetsplattegrond van de pagger van Edatouritti, aangegeven zijn de kampementen van de troepen aan de rivier naar Eettuma.\nRechts boven: 236.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0916",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "landerij / plantage",
+            "kampement / legerplaats",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "31 x 38 cm",
+        "dcterms:date": "ca. 1718",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6291/plattegrond-van-de-pagger-van-edatouritti"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5b/b6/59/71/76/20/44/74/93/58/b6/17/ab/7f/dd/4d/1fde56b2-3317-4a68-9fc5-ca26f5cef0f7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5b/b6/59/71/76/20/44/74/93/58/b6/17/ab/7f/dd/4d/1fde56b2-3317-4a68-9fc5-ca26f5cef0f7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/916.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Pagger op Padricotta Parri, van Edatouritti."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1004.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e7ba4a01-c1df-49cb-a65f-669867cc5337",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1004.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Platte grond van de geprojecteerde Gebouwen op het plein buyten het kasteel van Jaffanapatnam",
+        "dc:title": "Plattegrond van enkele gebouwen te Jaffnapatnam",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van de geprojecteerde gebouwen op het plein buyten het kasteel van Jaffanapatnam.\nNotities verso: No. 3 Plattegrond van de geprojecteerde gebouwen bij het kasteel van Jaffanapatnam Register 5, Deel 1, Folio 25, Portefeuille ..",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1004",
+        "dc:subject": [
+            "legenda",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "34,5 x 47,5 cm",
+        "dcterms:date": "1675-1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3178/plattegrond-van-enkele-gebouwen-te-jaffnapatnam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a5/e2/43/06/66/bc/42/af/94/8d/c4/c0/b5/b9/f5/ef/01917da1-c5a6-41ba-b3de-f8ac5d3f6bcb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a5/e2/43/06/66/bc/42/af/94/8d/c4/c0/b5/b9/f5/ef/01917da1-c5a6-41ba-b3de-f8ac5d3f6bcb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1004.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van de geprojecteerde gebouwen op het plein buyten het Kasteel van Jaffanapatnam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

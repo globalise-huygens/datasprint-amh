@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/957.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8e7710f0-f606-4cb1-b5fe-d2f3acde524a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0957.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Profilen door de Vestingswerken rond Kolombo met desselfs straten. En het Kaffersveld. Mitsgaders De Oude Stad, Behorende aan de SituatieKaart",
+        "dc:title": "Profielen van de vestingwerken van Colombo",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Profilen door de vestingswerken rond Kolombo, met desselfs straten en het kafferveld, mitsgaders de oude Stad, behorende aan de situatie-kaart.\nMet stempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nLinksonder genummerd: No. 3.\nNotities verso: No. 7 Profilen door de Vestingwerken om Colombo. Register 4, Deel 1, Folio 10, Portefeuille .. [geschreven op een blauw etiket] / 529 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0957",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "doorsnede / profiel",
+            "gebouw",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "100 x 363,5 cm",
+        "dcterms:date": "1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/807/profielen-van-de-vestingwerken-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f8/01/28/d0/af/8e/49/fa/a7/c3/f3/72/b2/40/f1/75/0ae24e40-4e83-4a31-a029-6bc28860d111.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f8/01/28/d0/af/8e/49/fa/a7/c3/f3/72/b2/40/f1/75/0ae24e40-4e83-4a31-a029-6bc28860d111.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/957.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Profilen door de vestingswerken rond Kolombo, met desselfs straten en het Kaffersveld, mitsgaders de oude Stad, behorende aan de situatie-kaart."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

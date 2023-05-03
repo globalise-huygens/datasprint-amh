@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/336.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fec43b2f-26b7-43ac-923a-6e00ea14ba37",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0336.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Fac-Simile eener teekening van Anthonie van Diemen voorkomende in het Journaal zijner reize naar Indi\u00eb 1632-1633",
+        "dc:title": "Kaart (facsimile) van de eilanden St. Paul en Amsterdam",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Fac-simile van de Eilanden St. Paulo en Nieuw Amsterdam, uit het Journaal van den Directeur Generaal en Eerste Raad van Indie, Anthonio van Diemen, van zyne reis naar Indie.\nGepubliceerd in de Letterbode van 1854, no. 20.\nOp een vel papier geplakt, het formaat van de prent zelf is 29 x 21.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0336",
+        "dc:subject": [
+            "schip / vaartuig",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "litho",
+        "dcterms:extent": "47,5 x 34 cm",
+        "dcterms:date": "1854",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6674/kaart-facsimile-van-de-eilanden-st.-paul-en-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/68/be/57/c9/41/d4/40/25/96/70/3f/43/82/13/70/b1/0799694b-246d-4c63-af23-535b213f0958.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/68/be/57/c9/41/d4/40/25/96/70/3f/43/82/13/70/b1/0799694b-246d-4c63-af23-535b213f0958.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/336.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Fac-Simile van de Eilanden St. Paulo en Nieuw Amsterdam uit het Journaal van den Directeur Generaal en Eerste Raad van Indie, Anthonio van Diemen, van zyne reis naar Indie."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

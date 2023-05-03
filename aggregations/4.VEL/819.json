@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/819.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b6df2a4b-057f-427c-a68c-3f2b7e9fd818",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0819.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Opstand van fort de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Plan als voren, en opstand, hier wordt bedoeld de titel van VEL0818: Plan van het Fort de Goede Hoop.\nNotities verso: fort de goede Hoop, van de Kaap 1656 4 deel nr. 498 f; nr. 299.\nLinks een vlaggenmast.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0819",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "302 x 416 mm",
+        "dcterms:date": "ca. 1656",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/369/opstand-van-fort-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d4/69/23/b6/2f/a7/4e/89/92/6b/55/e1/da/a1/c5/4f/8572a29d-3b9e-46d0-a495-9e7b68101903.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d4/69/23/b6/2f/a7/4e/89/92/6b/55/e1/da/a1/c5/4f/8572a29d-3b9e-46d0-a495-9e7b68101903.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/819.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het Fort de Goede Hoop in opstand."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

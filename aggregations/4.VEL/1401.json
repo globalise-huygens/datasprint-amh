@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1401.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/46762b5a-18bc-4a7e-914d-373842485f36",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1401.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Virginia en Florida",
+        "dc:description": "Titel Leupe: Virginiae item et Floridae, Americae Provinciarum Nova Descriptio.\nHondius combineerde voor dit werk John White's kaart van Virginia en Jacques Le Moyne\u2019s kaart van Florida. Het overzicht dat hij daarmee cre\u00eberde bleef een standaardwerk totdat Ogilby-Moxon zijn \"Discription of Carolina\" tekende in 1672.  Hondius paste Le Moyne's werk gedeeltelijk aan. Het meer boven de twee afgebeelde Indianen, bijvoorbeeld, was oorspronkelijk in een zuidwestelijke richting van de monding van de May rivier geplaatst. Dit veroorzaakte bijna 150 jaar lang verwarring onder Europese verkenners.  Drie zeemonsters zwemmen in de zee waar ook twee Europese schepen en een lokaal bootje rondvaren. Op land zijn een kalkoen en twee herten te zien. In de cartouches naast de titel zijn twee inheemse dorpen afgebeeld.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1401",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kolonie / dorp"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "19 x 13.5 inches 19 x 13.5 inches",
+        "dcterms:date": "1623",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10325/kaart-van-virginia-en-florida"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6b/05/89/47/4c/06/4f/af/b8/73/31/0e/f8/11/7f/91/699b695f-1931-4e3b-9d79-5f3a7fb8adfc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6b/05/89/47/4c/06/4f/af/b8/73/31/0e/f8/11/7f/91/699b695f-1931-4e3b-9d79-5f3a7fb8adfc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1401.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                            Virginiae item et Floridae, Americae Provinciarum Nova Descriptio."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

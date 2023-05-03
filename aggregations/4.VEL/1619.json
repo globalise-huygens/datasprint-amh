@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1619.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5d82d465-4938-4a9b-84c7-e19142593080",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1619.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(A key to the letters a to f, lower right):\nRenvoy.\na. Woninge van den officier.\nb. Hooft Wagt.\nc. Woninge der gemenen.\nd. Kruyt Magasyntie.\ne Sluys.\nf. Brug oover de gracht.",
+        "dc:title": "Plan voor de herinrichting van fort Sint Andries",
+        "dc:description": "Titel Leupe: Caarte figuratif van een gedeelte van de rivier de Berbice, benevens het nieuwe gemaakte project van het fort St. Andries.\nDe militair ingenieur Jan Carel Willem Herlin kreeg, in zijn functie als opzichter over de bouwwerken in de kolonie, in 1780 van de directeuren van de Societeit van Berbice opdracht het fort Sint Andries opnieuw te herstellen en te versterken. Deze anonieme situatiekaart inclusief plan uit dat jaar geeft het resultaat van Herlins inspanningen weer, met de aantekening dat het nieuwe fort op de situatiekaart veel te groot is afgebeeld. Een andere merkwaardige en wellicht daarmee samenhangende fout is de schaalaanduiding bij de plattegrond, volgens welke de grootte van het nieuwe Sint Andries meer dan 500 meter in het vierkant zou zijn geweest.\nDe kaart werd in 1867 door P.A. Leupe toegeschreven aan Herlin zelf, maar het is onwaarschijnlijk dat deze zulke grove misrekeningen zou hebben begaan. Daarbij komt ook het handschrift niet overeen met dat van Herlin. Mogelijk betreft het hier een kaart die later in de Republiek is gemaakt op basis van overgezonden gegevens of gekopieerd naar een door Herlin getekend voorbeeld, waarbij wellicht de onbekendheid van de maker of kopiist met de situatie ter plaatse tot de fouten heeft geleid.\nSchaalstok [plattegrond] van 120 Roeden = [ca. 1 : 3.380].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1619",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.39 - 0.455 El. (41.5 x 48 cm.)",
+        "dcterms:date": "1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1914/plan-voor-de-herinrichting-van-fort-sint-andries"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/87/c8/d5/2b/13/fc/48/b3/b6/3f/f7/78/97/ce/82/4d/d5de91bd-d43b-49d4-b338-1b147d86a2ce.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/87/c8/d5/2b/13/fc/48/b3/b6/3f/f7/78/97/ce/82/4d/d5de91bd-d43b-49d4-b338-1b147d86a2ce.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1619.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caarte figuratif van een gedeelte van de rivier de Berbice, benevens het nieuwe gemaakte project van het fort St. Andries."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

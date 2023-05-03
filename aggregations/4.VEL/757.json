@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/757.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a62327df-16ac-4840-bf2f-215af850dfbb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_757.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan vande platte grond des niew te bouwene Fortres tot Taccorarij op Guinea in Afrika",
+        "dc:title": "Plattegrond van het nieuw te bouwen fort te Tacorary",
+        "dc:description": "Plattegrond van het nieuw te bouwen fort te Tacorary.\nPlan vande platte grond des niew te bouwene Fortres tot Taccorarij op Guinea in Afrika.\nTitel catalogus Leupe (NA): Plan vande platte grond des niew te bouwene Fortres tot Taccorary op Guinea in Afrika.\nRechtsboven: Dit Renvoij is gecopieert na 't origineel. / Duplicaat C:C:.\nLegenda: [1 tot en met 26].\nNotities verso: No. 39 Platte grond van een te bouwen Fortres op de kust van Guinea te Taccorarij. Register 8, Deel 1, Folio 36, Portefeuille .. [geschreven op een blauw etiket] / 457 [in potlood] / Duplicaaten C:C:\nRechtsonder: No: 6.\nOp verschillende plekken op de kaart: 757 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0757",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "legenda",
+            "gebouw",
+            "poort"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "45 x 50,5 cm",
+        "dcterms:date": "1774",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6745/plattegrond-van-het-nieuw-te-bouwen-fort-te-tacorary"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d1/51/17/3e/d0/81/47/e1/a0/6f/0e/58/6b/c7/87/fe/7a6be67d-29fd-44f0-956d-85439c1f64e1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d1/51/17/3e/d0/81/47/e1/a0/6f/0e/58/6b/c7/87/fe/7a6be67d-29fd-44f0-956d-85439c1f64e1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/757.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

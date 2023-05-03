@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2156.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e1207741-240f-4d4d-985f-cd18c29b43ae",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2156_nieuw.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Afteijckeninge Van het Fort Schoonenborc-De baij Mucuriba en den berg IJtarema gelegen in Siara",
+        "dc:title": "Plattegrond van het fort Schoonenborch en van de baai Mucuriba",
+        "dc:description": "Plattegrond van het fort Schoonenborch en van de baai Mucuriba.\nAfteijckeninge Van het Fort Schoonenborc-De baij Mucuriba en den berg IJtarema gelegen in Siara.\nLegenda links: A-E.\nLegenda rechts: 1-30.\nRechtsonder, in potlood: 2156.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2156",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "doorsnede / profiel",
+            "legenda",
+            "vesting",
+            "gebouw",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "42 x 56 cm",
+        "dcterms:date": "28 april 1649",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7133/plattegrond-van-het-fort-schoonenborch-en-van-de-baai-mucuriba"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f0/54/67/2e/96/77/41/11/9e/07/e7/55/bb/73/da/3a/9ba42ec7-59f4-47eb-8b44-c9d907f8f46e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f0/54/67/2e/96/77/41/11/9e/07/e7/55/bb/73/da/3a/9ba42ec7-59f4-47eb-8b44-c9d907f8f46e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2156.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Capitania Siara."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

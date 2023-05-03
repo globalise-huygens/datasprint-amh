@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1422.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/517ed2d0-6051-4a93-a99d-e9393ebbc6b1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1422.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van Philipsburg",
+        "dc:description": "Titel Leupe: Plan projete du Salin de Philisbourg a St. Martin (Antilles).\nDeze Franse plattegrond van Philisburg is gemaakt met chromolithografie. Het gebruik van deze druktechniek plaatst de vervaardigingsdatum van de kaart na 1837, het jaar dat het Franse patent van deze techniek werd gepubliceerd. De kaart geeft daarom vermoedelijk de situatie van de vroege 19de eeuw weer, met een uitgebreide index van de muren, kanalen, en wegen alsook dieptemetingen in het meer nabij de stad. Een nieuwe stadsmuur is hier afgebeeld, met drie kleuren die de priotiteit van de voltooiing van de verschillende secties aangeven. Omliggende velden zijn omschreven en de omvang van fort Willem en andere nabijgelegen gebouwen zijn op een simpele wijze getekend.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1422",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "litho",
+        "dcterms:extent": "0.25 - 0.36 El.",
+        "dcterms:date": "ca. 1837",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7305/plattegrond-van-philipsburg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/de/12/58/56/4a/7e/46/04/ad/ba/c8/88/3d/27/a1/9d/7c98fd60-aab4-4071-b43a-b1ab4f97f1d3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/de/12/58/56/4a/7e/46/04/ad/ba/c8/88/3d/27/a1/9d/7c98fd60-aab4-4071-b43a-b1ab4f97f1d3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1422.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan projete du Salin de Philisbourg a St. Martin (Antilles)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

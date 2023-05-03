@@ -1,0 +1,42 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1490C.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9b84c534-d44a-4d26-ba3a-b0984682557c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1490c.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Liste des Habitations, leurs Numeros, Noms des Proprietaires, Nombre des Carreaux en Culture, et Qualit\u00e9 des Productions Principales de la Colonie Essequebe et Demerarie",
+        "dc:title": "Lijst behorend bij kaart van Nederlandse bezittingen in Guyana",
+        "dc:description": "Titel Leupe: Liste des Habitations, leurs Numeros, Noms des Proprietaires, Nombre des Carreaux en Culture, et Qualit\u00e9 des Productions Principales de la Colonie Essequebe et Demerarie, eerste blad.\nHoort bij VEL1490A. Zie ook VEL1490B.",
+        "dc:type": "drukwerk",
+        "dc:identifier": "VEL1490C",
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9378/lijst-behorend-bij-kaart-van-nederlandse-bezittingen-in-guyana"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5a/b5/b8/29/34/df/4e/57/a5/8d/fb/3c/e7/04/6b/3b/bf8e30dc-cc57-443f-8bdb-9d95b62a92c6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5a/b5/b8/29/34/df/4e/57/a5/8d/fb/3c/e7/04/6b/3b/bf8e30dc-cc57-443f-8bdb-9d95b62a92c6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490C.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

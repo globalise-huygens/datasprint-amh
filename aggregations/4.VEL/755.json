@@ -1,0 +1,56 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/755.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1f927341-b9c3-467c-b31a-21f3916108fa",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_755.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het Fortress Badenstein tot Boutry",
+        "dc:title": "Plattegrond van het fort Batenstein te Butri",
+        "dc:description": "Plattegrond van het fort Batenstein te Boutri.\nTitel catalogus Leupe (NA): Het Fortress Badenstein tot Boutry.\nHet Fortress Badenstein tot Boutry.\nNotities verso: No. 18 reg. 8. / 455 [met vette cijfers gestempeld op een etiketje].\nMiddenboven: 17e LVII.\nRechtsonder: No: 1.\nLinksonder en rechtsonder: 755 [in potlood].\nLegenda: Declaratie / 1. Trap van de Berg in 't fort / 2. kleyn Pleinje voor de Schildwagt voor de poort / 3. klokken Huys, boven de Wagt / 4. De Wagt, waeraan westlijk het polver Magazijn / 5. Regen-bak / 6. Zaal van de Commandant, waeronder de Soldaeten logies / 7. Doorgang van deselve nae de battery / 8. Spintje / 9. Provisie Spintje / 10. Keuken / 11. Slaapkaamer, waeronder 't Slaeve Gat / 12. Een Zaal vand' Hr: I. Woortman gebouwt Anno 1777. waeronder de Woningen van de Sergeant, Corporaal en Constabel. / 13. Een kleyne Kaamer, waeronder de Milhio logie / 14. Een kaamer .... waeronder 't Pakhuys / 15. adsistenten Woning waeronder 't Pakhuys / 16. & 17. twee Schilder huysjes / 18. De Vlagge Stok.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0755",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "kompas / windroos",
+            "kruithuis / kruitmolen",
+            "vesting",
+            "gebouw",
+            "pakhuis",
+            "tanck / waterplaats / put",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "48,5 x 65,5 cm",
+        "dcterms:date": "12 February 1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1398/plattegrond-van-het-fort-batenstein-te-butri"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e0/be/df/59/72/89/41/90/ab/95/08/50/d0/e7/36/44/4b78a819-ccb7-4989-98eb-7a75c235bc26.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e0/be/df/59/72/89/41/90/ab/95/08/50/d0/e7/36/44/4b78a819-ccb7-4989-98eb-7a75c235bc26.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/755.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Fortress Badenstein tot Boutry."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

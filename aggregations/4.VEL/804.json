@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/804.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ceb1e42b-1f3d-4ea1-a5f8-ece1e6c5284a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0804.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het fort de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Als voren, hier wordt de titel bedoeld van VEL0803 Kaart van het Fort de Goede Hoop en de daaromheen gelegen landen, tusschen de Tafelbaai en Baai Fals.\nKaart van de aanleg van drie wachthuizen tussen de redouten Duin en Coorenhoop voor de defensie van de korenvelden en het wagenpad van de Tafelbaai landinwaarts.\nNotities verso: Voor Amsterdam, Kaap 1656/57 no 5; 488 a; 527 of 327.\nBij de schaalaanduiding staat tevens vermeld: Scale de Roemaat.\nLegenda: a-l\nTopografische namen aangeduid op deze kaart: tafelbaij, Leeuwenbergh, tafelbergh, zoutpan.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0804",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "overzicht / aanzicht",
+            "vesting",
+            "tolhuis / wachthuis",
+            "kompas / windroos",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "390 x 530 mm",
+        "dcterms:date": "ca. 1656",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/363/kaart-van-het-fort-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bc/0a/bb/ac/0e/c2/40/12/99/01/55/7c/02/d0/75/cf/93617efb-43c8-4477-b3e1-60b68d7f8df9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bc/0a/bb/ac/0e/c2/40/12/99/01/55/7c/02/d0/75/cf/93617efb-43c8-4477-b3e1-60b68d7f8df9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/804.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Fort de Goede Hoop en de daaromheen gelegen landen, tusschen de Tafelbaai en Baai Fals."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1271.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b63dc2ba-ba1b-4c1d-b675-bad18af2284c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1271.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaarte van 't Fort en stad Japara",
+        "dc:title": "Kaart van de stad en het fort van Japara",
+        "dc:description": "Titel catalogus Leupe (NA): Kaarte van 't Fort en stad Japara, mitsgaders de aanwysing der posten, so als deselve op ordre van de heer Cornelis Speelman in den Jare 1677 beset geweest zyn.\nDatering van de situatie betreft 1677.\nOp de middenvouw zijn beide helften aan elkaar geplakt geweest, maar weer losgeraakt zodat de kaart uit twee stukken bestaat.\nRechtsboven genummerd: 5.e.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1271",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3796/kaart-van-de-stad-en-het-fort-van-japara"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6f/e3/a3/94/b9/93/47/53/b5/ec/c1/0f/0d/fe/b3/98/183ef075-5867-4eed-8bcb-4f40d96e52f9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6f/e3/a3/94/b9/93/47/53/b5/ec/c1/0f/0d/fe/b3/98/183ef075-5867-4eed-8bcb-4f40d96e52f9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1271.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van 't Fort en stad Japara, mitsgaders de aanwysing der posten, soals deselve op ordre van den Heer Cornelis Speelman in den Jare 1677 beset geweest zyn."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

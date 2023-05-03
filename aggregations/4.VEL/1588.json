@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1588.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/14e3387a-6174-46f5-bc8f-6846720e0961",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1588.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title): KAART VAN DE, 5, GRONDEN, AAN DE, BRANDWAGTS SYDE \u00bd UUR BENEDEN TOEBEHORENDE Nr. 1, DE WEDUWE SYBLY. Nr. 2, HAARE EDELE EN WELAGTBAARE DE HEEREN DIRECTEUREN NR. 3 EN 4, L. ABENSETS NR. 5 DE KINDEREN VAN WYLEN I.C. GEORGE >",
+        "dc:title": "Kaart van plantages ten oosten van de rivier Berbice",
+        "dc:description": "Titel Leupe: Kaart van de gronden aan de Brandwagtszyde, Schepmoed, Germania, Mara en Teddie.\nDeze kaart toont de omvang van twee reeds bestaande en drie nieuw aan te leggen plantages ten oosten van de rivier Berbice.\nDe genoemde plantages zijn de Schepmoed, de grond van kapitein Schougard, Germania, Mara, en Teddie.\nIn de aantekeningen rechts worden per perceel een omschrijving, de naam van de plantage, het doel van de meting, de eigenaar, de omvang en specificering van de maten van de belendingen gegeven.\nMet 'acte van meetinge'.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1588",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.54 - 0.75 El.",
+        "dcterms:date": "1766",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10251/kaart-van-plantages-ten-oosten-van-de-rivier-berbice"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b8/67/f4/29/79/33/42/35/82/a6/c3/e2/4e/2f/2c/23/9583e6cb-1771-400a-bfc5-9969927bd761.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b8/67/f4/29/79/33/42/35/82/a6/c3/e2/4e/2f/2c/23/9583e6cb-1771-400a-bfc5-9969927bd761.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1588.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de gronden aan de Brandwagtszyde, Schepmoed? Germania, Mara en Teddie."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

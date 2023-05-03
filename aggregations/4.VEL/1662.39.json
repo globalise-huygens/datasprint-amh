@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.39.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3313c472-7b06-443d-9bb4-5cf56bd323b1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_39.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor nieuw gouvernement in Nieuw-Amsterdam",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nNa Herlin en Van der Hart in 1785 deed in 1791 ook Jan van Schoonenbeek een voorstel voor het nieuwe gouvernement in Berbice, waarvan het aanzicht en het profiel in de breedte hier zijn afgebeeld. Volgend op de goedkeuring door de directeuren werd dit uiteindelijk het ontwerp op basis waarvan de ambtswoning van de gouverneur in de jaren 1792-1794 daadwerkelijk tot stand kwam.\nSchaalstok van 100 [voet] = [ca. 1 : 65].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.39",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "61 x 48,5 cm.",
+        "dcterms:date": "1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7620/ontwerp-voor-nieuw-gouvernement-in-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2f/03/f8/a9/29/36/4f/1a/bd/37/27/e5/09/f9/8e/e3/2c875327-2335-48d4-aaca-53ec8d593ccd.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2f/03/f8/a9/29/36/4f/1a/bd/37/27/e5/09/f9/8e/e3/2c875327-2335-48d4-aaca-53ec8d593ccd.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.39.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 39"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1686.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/764001a9-a35c-41ee-a869-239806f104c1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1686.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [lower left] a key to the letters A to N : \nA. Landt opgenoomen voor de Unitas Fratrum of vereynigte Broeders. \nB.C. 200 Kett. \nC.D. 130 K. \nE.F. 70 Kett. \nF.G. 200 kett. \nG.H. 100 K. \nI.B. 100 Kett. \nK. Aritonarabo Creecq. \nL. Savane. \nM. Goed Landt.\nN. Saramacka Revier.",
+        "dc:title": "Kaart van het perceel van de Moravische Broeders aan de Saramaccarivier",
+        "dc:description": "Titel Leupe: Kaart van een gedeelte van de rivier Saramacca, waarvan afgestoken het land voor de Unitas fratrum of Vereynigte Broeders (Hernhutters).\nDeze kaart van (of althans ondertekend door) de militair ingenieur Johan Hendrik Carel Spiering stamt uit 1757, en toont de opneming van de gronden aan de bovenloop van de Saramacca die in dat jaar werden toegewezen aan de Hernhutters voor de vestiging van hun zendingspost Saron met een dorp gekerstende Arowak-indianen van de post Pilgerhut in Berbice. Deze post werd gesticht door Hernhutter zendelingen van de vestiging Pilgerhut in Berbice, maar begin 1761 ging de nederzetting in vlammen op bij een aanval door Marrons. Enkele maanden later werd het dorp iets verder stroomopwaarts herbouwd, in de nabijheid van de militaire post die het gouvernement hier in hetzelfde jaar oprichtte. Op termijn bleek Saron al evenmin als eerdere nederzettingen een levensvatbaar project; in 1778 werd de vestiging voorgoed verlaten\nHet noorden is links.\nSchaalstok van 200 Ketting Surinaams jeede a 66 Voet Reynl. = [ca. 1 : 23.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1686",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kerk / pastorie"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "38 x 49,5 cm",
+        "dcterms:date": "1757",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10133/kaart-van-het-perceel-van-de-moravische-broeders-aan-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ec/c5/12/92/53/1c/45/ca/91/f6/72/6d/b1/d1/93/16/07b02d54-6dbd-43c5-affb-3c5f054aff0f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ec/c5/12/92/53/1c/45/ca/91/f6/72/6d/b1/d1/93/16/07b02d54-6dbd-43c5-affb-3c5f054aff0f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1686.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de rivier Saramacca, waarvan afgestoken het land voor de Unitas fratrum of Vereynigte Broeders (Hernhutters)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

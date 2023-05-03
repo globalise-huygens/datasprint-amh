@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2104.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6f19fc76-34e0-465c-bbe8-230ae7728087",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2104.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Overzicht van het Cordon van Defensie",
+        "dc:description": "Titel Leupe: Kaarten van het Cordon van Defentie. Verzamelingskaart van de plans van het Cordon.\nVanaf het midden van de 18de eeuw groeiden de Marrons, ontsnapte slaafgemaakten die in de binnenlanden van Suriname nieuwe gemeenschappen vormden, uit tot steeds geduchtere tegenstanders. Nadat ze zich verenigd hadden onder leiding van de befaamde Boni, naar wie zij zich later ook gingen noemen, kwam het in 1771 uiteindelijk tot een grote oorlog, die bekend is geworden als de (eerste) Boni-oorlog. Deze eindigde in 1776 met de verdrijving van de Boni naar Frans-Guyana. Tussen 1774 en 1778 legde de koloniale overheid in de strijd tegen Boni het bijna 100 kilometer lange Cordon van Defensie of Cordonpad aan. De eerste ontwerpen en opmetingen voor deze doorgaande patrouilleweg met op geregelde afstanden militaire posten kwamen al in 1772 tot stand, maar op grotere schaal begonnen de voorbereidende werkzaamheden in het jaar daarop, met daarin een hoofdrol voor de militair ingenieurs Johan Christoph Heneman en Johann Friedrich Ferdinand Wollant.\nDit overzichtsblad is zo goed als zeker door Wollant vervaardig. Het laatste deel van het trac\u00e9 naar de kust toont een derde variant, waarbij de afbuiging naar het westen tot de Oranjekreek niet de Cottica volgt maar eerst noordwaarts doorloopt tot de post De Unie en vandaar over een zandrits iets ten noorden van de rivier naar Vredenburg gaat. De deelkaarten (VEL2097-2103) waren aan dit blad bijgevoegd.\nHet noorden is onder.\nSchaalstokken van 1200 kettingen van 66 voet Rhynl: / 6 Uur: / 3 Myl: = [ca. 1 : 140.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2104",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.79 - 0.50 El.",
+        "dcterms:date": "ca. 1774",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9855/overzicht-van-het-cordon-van-defensie"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ef/7f/61/49/f1/79/40/59/85/dd/75/aa/d2/0f/1e/e3/aadcb0d0-f0ec-44b2-906e-955ea2e89fa7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ef/7f/61/49/f1/79/40/59/85/dd/75/aa/d2/0f/1e/e3/aadcb0d0-f0ec-44b2-906e-955ea2e89fa7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2104.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

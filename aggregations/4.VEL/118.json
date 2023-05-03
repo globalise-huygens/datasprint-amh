@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/118.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f513994f-4ee6-4fb0-b482-b47b2c116366",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_118.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Wassende Zeekaart van de Kusten van Afrika, van Kaap Spartel tot aan Kaap Bojador, met de bijgelegen eilanden; gevolgd naar de kaart van den Ridder D. Joseph Varela y Ulloa",
+        "dc:title": "Kaart van west Afrika",
+        "dc:description": "Titel catalogus Leupe (NA): _Wassende Zeekaart van de Kusten van Afrika, van Kaap Spartel tot aan Kaap Bojador, met de bijgelegen eilanden; gevolgd naar de kaart van den Ridder D. Joseph Varela y Ulloa.\nUitgegeven door G. Hulst van Keulen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0118",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "66 x 102 cm",
+        "dcterms:date": "1794",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9354/kaart-van-west-afrika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5d/bb/b6/c5/3b/41/42/2d/b2/46/12/92/ea/06/83/cd/a67c4f91-4c95-4d81-bfb2-d70ad6be375a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5d/bb/b6/c5/3b/41/42/2d/b2/46/12/92/ea/06/83/cd/a67c4f91-4c95-4d81-bfb2-d70ad6be375a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/118.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

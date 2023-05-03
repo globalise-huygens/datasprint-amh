@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/854.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3fbb922a-8d2a-414a-9d28-e95fa182d94f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0854.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aftekening van Comps. Post aen Rio D' Lagoa afgepeylt en opgemaekt door Jacob de Bucquoij 1721",
+        "dc:title": "Post van de compagnie aan Rio d'Lagoa",
+        "dc:description": "Titel catalogus Leupe (NA): Aftekeninge van 's Comps. Post aen Rio d'Lagoa, afgepeylt en opgemaekt door: Jacob de Bucquoij 1721.\nPlattegrond van de VOC-post aan Rio de la Goa, met aangegeven de indeling van de gebouwen voor het opperhoofd, de tweede assistent, opperhoofd van de militie, de bottelier, militairen en ambachtslieden.\nAantekening linksboven: L:a B..\nNotities verso: 1721-24 nr. 3 van Rio de la Goa; nrs. 498ii en 172.\nLegenda: 1-2",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0854",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "pakhuis",
+            "legenda",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50 x 61 cm",
+        "dcterms:date": "1721",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4701/post-van-de-compagnie-aan-rio-d-lagoa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/df/29/ea/76/93/3e/4c/54/b9/c3/e2/fd/3c/3d/23/ad/2eb061af-0925-4a37-9323-3e80564c8ad8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/df/29/ea/76/93/3e/4c/54/b9/c3/e2/fd/3c/3d/23/ad/2eb061af-0925-4a37-9323-3e80564c8ad8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/854.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Eerste exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

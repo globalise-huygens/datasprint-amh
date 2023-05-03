@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1226.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b040b360-eb7e-4e5c-b780-9450e13d299a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1226.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Uniformen voor VOC soldaten",
+        "dc:description": "Titel catalogus Leupe (NA): Afteekening van de Uniform voor de Militairen in Indi\u00eb.\nRechtsboven genummerd: 475\nNotities verso: Behoort tot de overgekomen Brieven en papieren van Batavia 1784, 2 deel",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1226",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "Europeanen"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "18,5 x 30,5 cm",
+        "dcterms:date": "1783",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9174/uniformen-voor-voc-soldaten"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c3/e4/d9/50/18/91/4b/92/93/9c/bf/91/62/7c/95/95/f97c9206-204c-40d8-9041-4cdc44eb4f09.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c3/e4/d9/50/18/91/4b/92/93/9c/bf/91/62/7c/95/95/f97c9206-204c-40d8-9041-4cdc44eb4f09.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1226.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteekening van Uniformen voor de Militairen in Indi\u00eb."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

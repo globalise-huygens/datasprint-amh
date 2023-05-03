@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1915.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/59c7fc2e-a351-4054-90d7-a7fa3857dd78",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1915.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een gedeelte de grond van de familie Lemmers",
+        "dc:description": "Titel Leupe: _Kaart van drie stukken land, gelegen tusschen de Wayamoe-Kreek en de Plantage de Eendragt.\nDeze kaart toont de grond van Gerrit Lemmers, Andries Wossink en Nicolaas Lemmers (aangeduid met de letters A-D); gelegen ten noorden (boven op de kaart) van de kreken Perica en Watamoe.\nDe meting is aangevraagd door Nicolaas Lemmers (wiens grond is aangeduid met de letters E-H) om het land te kunnen verdelen.\nDe omvang van de grond van Nicolaas Lemmers is 202 Surinaamse akkers (86,86 hectare).\nTen westen (links op de kaart) ligt de plantage Eendragt.\nDe eerdere transacties van dit stuk grond staan vermeld in de uitleg rechts van de kaart.\nDe kaart is door de landmeter ondertekend op 11 Juni 1732 en officieel erkend op 21 Juli 1732 te Paramaribo.\nSchaal van 60 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 165 strepen.\nTwee kopie\u00ebn van deze kaart, VEL1915A en B, zijn niet apart in de Atlas of Mutual Heritage opgenomen.\nOorsprong:[OBP Suriname] 1732, [fols.] 1050-1051.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1915",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.33 - 0.22 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10162/kaart-van-een-gedeelte-de-grond-van-de-familie-lemmers"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/70/b2/f6/c0/58/59/4a/ce/88/d4/9d/d8/93/ad/b5/bd/cf3ff358-6e56-4639-b2c4-d11ca1a2dd74.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/70/b2/f6/c0/58/59/4a/ce/88/d4/9d/d8/93/ad/b5/bd/cf3ff358-6e56-4639-b2c4-d11ca1a2dd74.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1915.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

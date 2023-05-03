@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1082.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cd5a6dc5-949c-4bc3-ad5d-dde0718cc629",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1082.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Nagapatnam",
+        "dc:title": "Plattegrond van Nagapatnam",
+        "dc:description": "Titel catalogus Leupe (NA): Grondplan van Nagapatnam.\nLegenda: A-N; 1-50\nGerestaureerd en duidelijk dubbel gevouwen geweest.\nRechts boven genummerd: 25.b.\nNotities verso: 50 [met potlood, slecht leesbaar] / 587.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1082",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53,5 x 75 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4948/plattegrond-van-nagapatnam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a2/61/b8/97/63/ba/43/59/8b/de/92/ec/8c/a2/c3/2a/cc7140e7-b52d-4580-a8ca-c942345c2084.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a2/61/b8/97/63/ba/43/59/8b/de/92/ec/8c/a2/c3/2a/cc7140e7-b52d-4580-a8ca-c942345c2084.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1082.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Grondplan van Nagapatnam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

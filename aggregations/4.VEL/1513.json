@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1513.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b4ebf66c-119b-41a7-9919-0ff46fa35022",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1513.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Acte van Meetinge\nIk onderschrevene by den Edele agtbare hove geadmitteert en den eed afgelegd hebbende om in plaats van den geswore landmeeter deeser colonie J. F. de Saffon de begevene landen te meeten verklaare bij dese dat ik het vergunde land tusschen de revieren Essequebo en Demerary langs de kust gemeeten hebbe groot zynde de heelen in hout tien duisent hondert vijf en twentig akkers, hebbende een pat gelaate van sestig roeden tusschen ider plantagie de fassade lopende oost en west, en de diepte ten zuijd hebbende ter behoorlijke plaatse en volgens aanschrijvinge van den Edele Agtbare Hove de limiet paalen daar van geplant.\nCutum[?] Rio Demerary den 30 Juny 1767, P.L. de Saffon",
+        "dc:title": "Kaart met nieuwe plantages tussen de Essequibo en Demerary",
+        "dc:description": "Titel Leupe: Kaart van eenige stukken land, gelegen aan de Oostwal van de rivier Demerary. N.B. dit komt niet overeen met de inscriptie.\nKaart met nieuw toegewezen percelen voor plantages, volgens inscriptie gelegen tussen de Demerary en Essequibo. Met genummerde lijst met de namen van de eigenaars.\nGemaakt in opdracht van het Hof van Demerary.\nSchaalstok van 100 kettingen van 60 Rijnlandse voeten.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1513",
+        "dc:subject": [
+            "landerij / plantage",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9392/kaart-met-nieuwe-plantages-tussen-de-essequibo-en-demerary"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/34/93/01/de/d0/e6/44/68/81/6b/a7/2f/c7/79/23/d1/122e3a7e-ed47-425c-b91e-48cd6de53b4e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/34/93/01/de/d0/e6/44/68/81/6b/a7/2f/c7/79/23/d1/122e3a7e-ed47-425c-b91e-48cd6de53b4e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1513.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige stukken land, gelegen aan de Oostwal van de rivier Demerary."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1560.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/13cb8137-a249-413e-a94b-ca957dee3a93",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1560.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(A key to the letters a to x, upper left):\na. Water Kant zonder fortificatie.\nb. Hoofd Wagt.\nc. Gouvernement.\nd. Commendement.\ne. Huis voor den Intentent.\nf. Magazyn.\ng. Huis voor een Comiess.\nh. Wooningen voor Officiers.\ni. Oude Cassernen, teegenwoordig de Bakkery.\nk. Nieuwe Cassernen.\nl. Waag en Combuis voor de Bediendens van \u2019t Magazyn.\nm. Logement voor de Oppassers van \u2019t Magazyn.\nn. Woonhuis voor een Commiess.\no. Timmer Loos.\np. Groote Reegenbak.\nq. Reegenbak.\nr. Gemetzelte Combuisen met Bakoofens.\ns. Combuis voor de officiers.\nt. Combuis voor de Cassernen.\nu. Tronk en Neeger Hutten.\nv. Uitgegeevene Gronden aan de Borgers.\nw. Vlagge stok.\nx. Klokke.\n(A key to the letters a to f, upper right): \na. Hospital.\nb. Regenbak.\nc. Combuis.\nd. Logement voor de Meesters.\ne. Neeger huis.\nf. Neegery van de thuin Neegers.",
+        "dc:title": "Kaart van de Brandwacht",
+        "dc:description": "Titel Leupe: Plan van de Brandwagt te Rio Demerary.\nDe Nederlandse nederzetting Brandwacht kreeg na Franse overname de naam Longchamps, misschien wel evenzeer uit heimwee naar het Parijse leven als vanwege de langgerekte, smalle vorm van het perceel.\nDeze kaart van Carl Christiaan Kanne toont de situatie aldaar in februari 1784, aan de vooravond van het vertrek van de Fransen uit de kolonie.\nZoals te zien in de aantekeningen had de nederzetting allles van een ziekenhuis tot timmerloods.\nOnder het teruggekeerde Nederlandse bestuur werd de hoofdplaats in wording in hetzelfde jaar hernoemd tot Stabroek, naar Nicolaas Geelvinck, heer van Stabroek, die in 1780 de permanente vertegenwoordiger van stadhouder Willem V in het opperbestuur van de WIC was geworden.\nTot groei van betekenis kwam de plaats evenwel pas na ca. 1790, toen Demerara na de opheffing van de WIC onder de Raad der Koloni\u00ebn werd geplaatst, en veel meer nog vanaf 1796, onder Brits bewind.\nHet noorden is boven.\nSchaalstok van 40 Roeden Rynl: = [ca. 1 : 1.140].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1560",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.27 - 0.935 El. (29.5 x 97 cm.)",
+        "dcterms:date": "1784",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7548/kaart-van-de-brandwacht"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cd/9b/35/3e/21/23/45/5a/a0/c9/91/fe/44/12/5d/8a/8cda0426-b1ea-4ecb-b4e8-edbb02f49372.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cd/9b/35/3e/21/23/45/5a/a0/c9/91/fe/44/12/5d/8a/8cda0426-b1ea-4ecb-b4e8-edbb02f49372.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1560.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Brandwagt te Rio Demerary."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

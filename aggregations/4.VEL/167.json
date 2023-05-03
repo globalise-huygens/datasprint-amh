@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/167.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/12eb7616-7734-4d31-a6d8-413d1a1cf74d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0167.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Pas Caart van de Baay De Lagoa gelegen op de Cust van de Cafres tusschen 25 en 26 gr. Zuider Breedte",
+        "dc:title": "Kaart van de zuidkust van Afrika, van de Saldanhabaay tot Baai Natal",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Zuidkust van Afrika, van de Saldanhabaay tot Baay Natal enz..\nDe kaart is op blauw papier geplakt.\nNotities verso: XXVII.\nMet inzetkaarten van Baay De Lagoa en De Mosselbaay waarbij het VOC logo is geplaatst.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0167",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "64 x 105 cm",
+        "dcterms:date": "ca. 1753",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2705/kaart-van-de-zuidkust-van-afrika-van-de-saldanhabaay-tot-baai-natal"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5a/d9/2b/04/58/cf/4d/62/ad/ae/31/b8/07/e8/94/27/b2ebfb42-66a9-4063-baf6-a79127e6c71d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5a/d9/2b/04/58/cf/4d/62/ad/ae/31/b8/07/e8/94/27/b2ebfb42-66a9-4063-baf6-a79127e6c71d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/167.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Zuidkust van Afrika, van de Saldanhabaay tot Baay Natal enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

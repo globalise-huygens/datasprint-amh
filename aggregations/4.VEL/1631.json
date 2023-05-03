@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1631.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3771270b-6b4e-43bc-8425-f11e69682943",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1631.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "a key to the letters A to G :(upper left):\nA De fyn smits winkel. \nB. de kuypers en grofsmits winkel. \nC De timmermans loos. \nD het ouwe Fort. \nE vrymans Pakhuys. \nF op siender generaals wooning. \nG het nieuwe Fort.",
+        "dc:title": "Plan voor een nieuwe versterking bij Nieuw-Amsterdam",
+        "dc:description": "Titel Leupe: Stand van het oude fort en daarby staande gebouwen, alsmede de pleck alwaar de nieuwe diend geplaatst te worden.\nDe militair ingenieur Jean-Guillaume d\u2019Arnaud werd in 1770 uitgezonden als opzichter over de voorgenomen herbouw van Fort Nassau en Nieuw-Amsterdam. Hij vervaardigde in 1771, overeenkomstig de definitieve keuze van de directie voor de oude locatie, een ontwerp in meerdere versies voor een nieuwe versterking op de plaats van het in 1763 verwoeste fortje.\nVan de vier projecttekeningen die daarvan bewaard zijn gebleven, zijn er twee gesigneerd (zie VEL 1632A-B), maar de overige, waaronder deze, kunnen met zekerheid eveneens aan d\u2019Arnaud worden toegeschreven.\nOp deze kaart zijn de ligging van het geprojecteerde fort (G) ten opzichte van het oude (D), de smits\nen timmermanswerkplaatsen (A-C) en het zogenoemde vrijmanspakhuis (E) aangegeven; met het pand (F), de \u2018op siender generaals wooning\u2019, bedoelt d\u2019Arnaud zijn eigen onderkomen.\nHet ontwerp met een vierkant grondplan en twee diagonaal tegenover elkaar geplaatst hoekbastions greep terug op een model dat in de Europese en koloniale vestingbouw toen al minstens anderhalve eeuw gangbaar was voor kleine hulpforten en veldschansen, maar minder geschikt was voor een versterking van de afmetingen zoals d\u2019Arnaud had voorzien; met zijn zijden van meer dan 80 meter zou het nieuwe Fort Nassau in oppervlakte vier maal zo groot zijn geworden als het oude.\nDit plan kreeg niet de goedkeuring van de directeuren van de Soci\u00ebteit.\nHet noorden is linksonder.\nSchaalstokken van 10 Roeden = [ca. 1 : 1.030].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1631",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "21 x 33 cm.",
+        "dcterms:date": "ca. 1771",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1930/plan-voor-een-nieuwe-versterking-bij-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/aa/89/81/55/d6/3c/46/96/a9/e4/20/aa/b6/a6/5e/a1/e640c641-fd05-4ea9-9db4-f4e91a4fd362.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/aa/89/81/55/d6/3c/46/96/a9/e4/20/aa/b6/a6/5e/a1/e640c641-fd05-4ea9-9db4-f4e91a4fd362.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1631.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Stand van het oude fort en daarby staande gebouwen, alsmede de pleck alwaar de nieuwe diend geplaatst te worden."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

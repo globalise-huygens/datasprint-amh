@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1613.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4fec65a5-94ff-4492-a03c-c148050a8525",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1613.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(A key to the letters A to m: Renvoij, lower left).\nA: poort met casemattes voor Cruijtmagazijns.\nB: archenale.\nC: Laboratorium.\nD: Gouvernement.\nE: regenback met een Canal in de grafft.\nf: kerck en Domines wooning.\ng: Magazijn voor vivres.\nh: officiers en artillerije logementen meede backerije.\nj: casermes voor soldaten.\nm: negers hutten.",
+        "dc:title": "Kaart van geplande fortificaties op Krabbeneiland",
+        "dc:description": "Titel Leupe: Project tegens de invaart van (de) mond des rivier de Berbices.\nDit omvangrijke, waarschijnlijk in de Republiek opgestelde plan voor de verdediging van de monding van de Berbice kregen de directeuren van de Societeit van Berbice in mei 1741 gepresenteerd. Over de ondergetekenden van de overzichtskaart met verklaring, N. Sluijs en O. Prams, is helaas niets bekend. Hun plan omvatte een fort met afmetingen van ruim 800 bij 450 meter pal aan zee op de punt van de oostelijke oever van de riviermonding, met daarbij nog eens drie hulpbatterijen op dezelfde oever en drie andere op Krabbeneiland.\nDe schootslijnen vanuit het hoofdfort geven aan dat dit vooral bedoeld was om het vijandelijke schepen bij voorbaat onmogelijk te maken de hoofdvaargeul door de oostelijke passage langs Krabbeneiland te naderen. Mochten ze er desondanks in slagen het fort te passeren, dan konden vier van de zes hulpbatterijen hun kruisvuur op de schepen uitbrengen.\nDe westelijke passage werd te ondiep geacht voor zeeschepen van gemiddelde grootte, zodat de ontwerpers meenden daar met een enkele batterij te kunnen volstaan. Zoals echter in de annotatie bij de kaart van Fran\u00e7ois Samuel de Veije (zie VEL1571) is te lezen, was het de vijf schepen van de expeditie onder kolonel De Salve die daar bij aankomst eind december 1763 aan lager wal waren geraakt, later bij springvloed toch gelukt via het westergat hogerop de rivier te komen, \u2018niet teegenstaande een derselver, namentlijk de George Hendrik sestien voeten diep ging\u2019.\nVanzelfsprekend ging dit plan de middelen van de Soci\u00ebteit ver te boven en het is dan ook nooit serieus in overweging genomen.\nOpvallend is de verwijzing onder (m) naar \u2018negers hutten\u2019, waarmee de slavenverblijven zijn bedoeld\nook het militair bedrijf in de koloni\u00ebn kon niet zonder slavenarbeid.\nHet noorden is rechts.\nSchaalstok van 150 Roeden Rhijnlans = [ca. 1 : 8.840].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1613",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "46,5 x 38 cm.",
+        "dcterms:date": "1740-1741",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10283/kaart-van-geplande-fortificaties-op-krabbeneiland"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/36/30/21/39/85/84/43/6a/a4/cb/98/13/f0/74/ae/a3/7db85a1e-f443-4dc7-9935-54258c00bfed.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/36/30/21/39/85/84/43/6a/a4/cb/98/13/f0/74/ae/a3/7db85a1e-f443-4dc7-9935-54258c00bfed.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1613.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Project tegens de invaart van (de) mond des rivier de Berbices."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

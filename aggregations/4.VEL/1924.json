@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1924.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/597c0ed6-4a79-4189-a869-2212f46a9443",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1924.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van stuk grond van Anna-Marie Zwart",
+        "dc:description": "Titel Leupe: Kaart van eenige landen, gelegen tusschen Perica en Cottica.\nDeze kaart toont een stuk land (aangeduid met de letters A-D) van de weduwe Zwart gelegen ten zuiden van de Cottica-rivier\nDe meting is aangevraagd door de mevrouw Anna-Marie Zwart om het land gelegen achter haar plantage te meten.\nHaar man heeft dit stuk land eerder toegewezen gekregen en mevrouw Zwart probeert haar claim als erfgename te doen gelden.\nDe oppervlakte van de grond blijkt 2081 Surinaamse akkers (894,83 hectare).\nTen noorden (rechts op de kaart) van deze grond ligt de Hamburgh plantage, ten westen (boven op de kaart), ligt grond van de heer Pedij en Gerbrant van Sandijk alsook de Sardam plantage, en ten oosten (onder op de kaart) ligt de grond van de weduwe van Saffo.\nEen uitleg van eerdere transacties van dit stuk grond is gegeven in de aantekeningen in het midden van de kaart.\nDe kaart is door de landmeter ondertekend op 17 November 1731 en officieel erkend op 18 Februari 1732 te Paramaribo.\nSchaal van 100 Kettingen = 138 strepen.\nOorsprong: [OBP Suriname] 1732 [fols.] 1088-1089.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1924",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.41 -0.325 El.",
+        "dcterms:date": "1731",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10031/kaart-van-stuk-grond-van-anna-marie-zwart"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fc/3c/98/1a/3f/35/4d/9e/a3/ff/9b/36/ee/b4/f1/97/35d996a5-06a2-481c-a64b-c4107b227015.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fc/3c/98/1a/3f/35/4d/9e/a3/ff/9b/36/ee/b4/f1/97/35d996a5-06a2-481c-a64b-c4107b227015.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1924.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen, gelegen tusschen Perica en Cottica."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

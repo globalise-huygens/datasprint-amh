@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/994.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/27555659-b6b6-49ed-8cac-3da32fbd4108",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0994.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan du Fort de Manaar",
+        "dc:title": "Plattegrond van het fort te Manaar",
+        "dc:description": "Titel catalogus Leupe (NA): Plan du fort Manaar, relatif au projet de 1787.\nLegenda: A-R\nNotities verso: Plan du Fort de Manaar Relatif aux Projets de 1787 / Feuille 7 / 544 [met vette cijfers gestempeld op een etiketje] / ..4 75 [in potlood, 75 onder het andere getal geschreven] / No. 164.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0994",
+        "dc:subject": [
+            "vesting",
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "36,5 x 53 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4962/plattegrond-van-het-fort-te-manaar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6a/c5/62/dd/95/94/43/87/84/76/e3/76/5a/7f/3a/a4/2d383790-7692-4380-9ea1-e1cf5c7c519c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6a/c5/62/dd/95/94/43/87/84/76/e3/76/5a/7f/3a/a4/2d383790-7692-4380-9ea1-e1cf5c7c519c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/994.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

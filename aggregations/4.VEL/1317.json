@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1317.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/05e7c5a6-c9eb-47ad-9442-0f180fb65847",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1317.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "No 4. Tweede ontwerp eener verbeeterde Versterking van 't Kasteel Oranje, ter ordre van de Weledelgestrenge Heeren Vaillant, Verhuel en Graevestein",
+        "dc:title": "Kaart van het fort Oranje te Ternate",
+        "dc:description": "Titel catalogus Leupe (NA): Tweede ontwerp eener verbeeterde Versterking van 't Kasteel Oranje.\nNotities verso: No. 4 / 667 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1317",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "62,5 x 90,5 cm",
+        "dcterms:date": "ca. 1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7071/kaart-van-het-fort-oranje-te-ternate"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/29/b4/f2/c6/bd/28/47/56/81/05/d2/73/01/02/86/bd/d8cbb645-e7d3-4110-8695-dece58546b42.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/29/b4/f2/c6/bd/28/47/56/81/05/d2/73/01/02/86/bd/d8cbb645-e7d3-4110-8695-dece58546b42.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1317.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Tweede ontwerp eener verbeeterde versterking van 't Kasteel Oranje enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

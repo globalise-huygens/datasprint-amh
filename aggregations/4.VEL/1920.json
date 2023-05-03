@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1920.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/31e0117b-2984-4675-84e4-8c298a80617d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1920.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Langenhoop plantage",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen tusschen de Plantagien Langenhoop en Amsterdam.\nDeze kaart toont de Langenhoop plantage van de heer van Langen (aangeduid met de letters A-F) gelegen ten noordoosten (rechtsboven op de kaart) van de kreken Perica, Heelkavink en Wayamoe.\nDe meting is aangevraagd door Philip van Langen zelf, hoofdzakelijk om zijn eigendom over de poldergrond nabij de kreken vast te leggen.\nDe omvang van het stuk grond is 405 Surinaamse akkers (174,15 hectare), 15,5 akkers minder dan tijdens de overgave op 31 Januari 1733 was overeengekomen, maar de toelichting op de kaart vermeldt dat Van Langen 'tevreden' is zolang de betreffende polder maar officieel binnen zijn bezit valt.\nTen noorden (rechts van op de kaart) ligt de plantage Schepmoet plantage, ten westen (onder op de kaart) de plantages Wayamoe, Sulenburgh en Severu en ten oosten (boven op de kaart) de plantage Meulwijk.\nDe kaart is door de landmeter ondertekend op 8 Oktober 1733 en officieel erkend op 30 Oktober 1733 te Paramaribo.\nSchaal van 100 Rijnlandse roeden = 180 strepen.\nOorsprong: [OBP Suriname] 1736 [fols.] 1214-1215.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1920",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.435 - 0.28 El.",
+        "dcterms:date": "1733",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10167/kaart-van-de-langenhoop-plantage"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/69/37/59/65/88/66/4d/fc/8b/43/04/5a/3a/68/7e/e0/804f1655-db44-431a-ab0a-a8b7f399ea8b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/69/37/59/65/88/66/4d/fc/8b/43/04/5a/3a/68/7e/e0/804f1655-db44-431a-ab0a-a8b7f399ea8b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1920.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen tusschen de Plantagien Langenhoop en Amsterdam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

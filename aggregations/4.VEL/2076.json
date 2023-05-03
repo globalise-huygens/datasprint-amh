@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2076.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/635d63ae-ff01-4420-b9f9-6684c4c0d35f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2076.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsonder] vervolg van de titel : \nExplanations: [lower right] continuation of the title : \nZoo als dezelve zijn gemaakt, en hersteld op ordre van den Wel Edelen Gestrengen Heer B. Texier Gouverneur Generaal der Colonie Surinamen Rivieren en Districten van dien &:a = &:a = &:a; onder \u2019t opzight van mij ondergetekende. \n[rechtsonder] een legenda bij de letters A t/m S : \n[lower right] a key to the letters A to S : \nZijnde hier ook nog afgebeeld. \nA. Lands Magazijnen. \nB. [Lands] Korenmolen. \nC. [Lands] Waag. \nD. [Lands] Bakkerei.\nE. Woning van den Verw, & Timmer Baas. \nF. Loges voor de Militie. \nG. Adjudants Wooning. \nH. Wagthuis. \nJ. Artillerie's Werkhuis. \nI. Timmerloots. \nK. Cipiers Wooning. \nL. Grov Smeederij. \nM. Schuuren voor Gereedschap &:a. \nN. Kruidhuis. \nO. Gebouwen, dienende van onder tot Gevangenisse &:a, van boven tot Woninge &:a. \nP. Kokens. \nQ. Lootsje voor Artillerie Gereedschap. \nR. Klein Smeederij. \nS. Gemak huisje.",
+        "dc:title": "Plattegrond van de buitenwerken om het fort Zeelandia",
+        "dc:description": "Titel Leupe: Platte grond van de Buytenwerken om het fortress Zeelandia, zoo als dezelve zyn gemaakt en hersteld enz.\nIn de decennia na 1710 werden vele verschillende suggesties gedaan voor de verbetering van het ontwerp van fort Zeelandia. Alle aanbevelingen voor een veel groter fort of een echte citadel bij Paramaribo ten spijt, bleef de opzet van het fort, afgezien van herstelwerkzaamheden en uitbreiding van de gebouwen binnen het fort, tot omstreeks 1780 in hoofdzaak ongewijzigd. Pas in 1781 volgde de aanleg van een nieuwe batterij van elf stukken aan de zuidoostelijke flank van het buitenfort, die een betere bescherming moest bieden tegen een aanval van vijandelijke schepen op de rivier. De situatie na voltooiing is te zien op deze kaart uit juni 1781 door de geadmitteerd landmeter van Holland, Zeeland en West-Friesland Dirck van der Meij van Oosterhout, die van 1781 tot 1783 in Suriname was aangesteld en volgens de annotatie ook het toezicht had over deze werkzaamheden aan het fort.\nHet noorden is rechtsboven.\nSchaalstok van Twintig en nog Een Rhijnlandse Roeden, van 12 Voeten ieder = [ca. 1 : 450].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2076",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "43 x 75,5 cm.",
+        "dcterms:date": "1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2122/plattegrond-van-de-buitenwerken-om-het-fort-zeelandia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ed/cd/89/8b/5f/f3/4f/20/a3/3d/5d/36/b5/e0/2f/52/f1cdc5fa-7ab8-4ca7-b1c2-72f4788568cc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ed/cd/89/8b/5f/f3/4f/20/a3/3d/5d/36/b5/e0/2f/52/f1cdc5fa-7ab8-4ca7-b1c2-72f4788568cc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2076.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van de Buytenwerken om het fortress Zeelandia, zoo als dezelve zyn gemaakt en hersteld enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1379.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7ffc53c9-ed29-4058-9471-9becaea6df77",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1379.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het Britse Rijk in Amerika",
+        "dc:description": "Titel Leupe: A Map of the British Empire in America, with the French, Spanish and Dutch Settlements adjacent there. Etc. Vier bladen.\nHoewel Henry Popple deze kaart oorspronkelijk tekende onder het zeggenschap van de Britse lasthebbers der handel en planterij om grenzen te trekken tussen de Britse, Spaanse en Franse kolonies, werd de kaart al snel bekent als een van de meest gedetailleerde weergaves van Noord en Centraal Amerika alsook de Cara\u00efben. Dit is niet verwonderlijk omdat Popples taak hem deed besluiten cartografische standaardwerken van beide de Franse en Britse kant te combineren. Hij baseerde zijn kaart op Colonel Barnwells werk; De L'Isles \"Carte de la Louisiane\"; en Cadwallader Coldens kaart van de Iroquois rijkjes. Zodoende was Popples kaart ook van waarde in de Nederlandse Republiek en kwam zijn tweede en meest populaire druk rond 1742 tot stand in Amsterdam in plaats van Londen. De oorspronkelijke Popple kaart was onhandig als overzicht aangezien alle afzonderlijke bladen tezamen meer dan \u00be meter bereikte. De Nederlandse drukker Covens en Mortier kregen het voor elkaar de draagbaarheid van de kaart te verbeteren met behoud van alle inhoudelijke informatie, zij het de heuvels en nederzettingen of de zeestrijd die Wager in 1707 voerde tegen de Spanjaarden in Caragena. De kaart veranderde nauwelijks, al kon de drukker het niet laten de term \u201cHollandish\" te wijzigen naar \u201cThe Dutch\u201d in de cartouche.",
+        "dc:type": "drukwerk",
+        "dc:identifier": "VEL1379",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.555 - 0.51 El.",
+        "dcterms:date": "ca. 1742",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7195/kaart-van-het-britse-rijk-in-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/65/77/99/b9/97/54/4e/dd/95/c9/88/04/b4/58/be/f5/2320690f-8490-4aea-993a-ce88480168f4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/65/77/99/b9/97/54/4e/dd/95/c9/88/04/b4/58/be/f5/2320690f-8490-4aea-993a-ce88480168f4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1379.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A.Map of the British Empire in America, with the French, Spanish and Dutch Settlements adjacent there. Etc. Vier bladen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

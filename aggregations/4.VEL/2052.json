@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2052.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/90c582b4-2f38-46e1-8abd-432d43b12341",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2052.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechts] vervolg van de titel en een legenda bij de letters a t/m f : \nExplanations: [right] continuation of the title and a key to the letters a to f : \nStrekkende tot defensie van die Rivier gelyk ook voor de Rivier Surinaemen vermits de inkoomende Scheepen om de ondieptens te vermeyden, int bereyk van\u2019t Canon deeser Batterie moeten passeeren. \na. Batterie voor 12 Stukken Canon. \nb. Places d\u2019Armes aan weerskanten voor defensie met klyn geweer, indien den Vyant voet aan Land zet, om zig van de Batterie te vermeesteren. \nc. Corps de gardes met een Galerie van voore. \nd. klyne Arsenaals tot berging der Laad Gereetschappen, met een klyn Magazyn ter Zyde voor 2 \u00e0 3 Tonnen kruyt. \ne. kruyt Magazyn. \nf. Baraque voor de Canoniers.",
+        "dc:title": "Plattegrond van de redoute Leiden",
+        "dc:description": "Titel Leupe: Plan van de geprojecteerde Batterie beneeden Commewyne, strekkende tot defentie van die rivier enz.\nDe werkzaamheden aan de redoute Leiden op de oostelijke oever tegenover Fort Nieuw Amsterdam begonnen in 1755, na de voltooiing van de redoute Purmerend. Waarschijnlijk had Andries Lodewijk Calvi, die de redoute Purmerend had ontworpen, ook voor deze versterking al een ontwerp gemaakt, maar de uitvoering vond plaats onder zijn in 1754 aangetreden opvolger, Matheus Christoph Bernhardy. Dit is een min of meer schetsmatig projectplan van diens hand met net als in het geval van Purmerend een gracht rondom. Een vergelijking met Bernhardy\u2019s nader uitgewerkte, definitieve plattegrond van Leiden bij het begin van de aanleg in oktober 1755 op VEL2053 laat zien dat het plan in hoofdzaak ook op deze wijze is uitgevoerd.\nHet noorden is rechtsonder.\nSchaalstok van 150 Voeten Rhynl = [ca. 1 : 430].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2052",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "30 x 48 cm",
+        "dcterms:date": "1754-1755",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2209/plattegrond-van-de-redoute-leiden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ef/b3/80/90/2a/2f/48/51/bf/ae/d1/80/c3/5c/61/fd/229bceb4-cdc6-4769-9498-9bee0c71be74.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ef/b3/80/90/2a/2f/48/51/bf/ae/d1/80/c3/5c/61/fd/229bceb4-cdc6-4769-9498-9bee0c71be74.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2052.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de geprojecteerde Batterie beneeden Commewyne, strekkende tot defentie van die rivier enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

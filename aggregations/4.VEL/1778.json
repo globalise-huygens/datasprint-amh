@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1778.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2ad0f7b4-2177-4016-94a7-0cd0c030da05",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1778.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage La Confiance aan de Surinamerivier",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie La Confiance by de Boekweyt Creeq.\nDe kaart toont de exacte ligging en omvang van een plantage gelegen aan de rechteroever van de Suriname rivier ('in 't afvaren').\nDe plantage is gelegen bij de Boekwijt kreek.\nLengte en breedte zijn in Kettingen aangegeven.\nOorsprong: [OBP] Suriname 1736 [fols.] 1283-1284.\nSchaal van 100 Kettingen a\u0300 66 Rijnlandse v. = 134 strepen.\nZie ook de kaarten VEL1777 en VEL1779.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1778",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.40 - 0.31 El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9767/kaart-van-de-plantage-la-confiance-aan-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/14/3c/bc/47/37/0e/40/68/bf/24/fd/09/f2/44/f2/e1/38eee0e7-c4a6-4cc9-addf-ed56d99e2040.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/14/3c/bc/47/37/0e/40/68/bf/24/fd/09/f2/44/f2/e1/38eee0e7-c4a6-4cc9-addf-ed56d99e2040.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1778.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagie La Confiance by de Boekweyt Creeq."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

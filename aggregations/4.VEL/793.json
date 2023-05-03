@@ -1,0 +1,56 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/793.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3ec3c330-cef5-4516-9cb0-469e2559fb00",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_793.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het Fortress De Goede Hoop tot Bercoe",
+        "dc:title": "Plattegrond van fort Goede Hoop te Berku",
+        "dc:description": "Plattegrond van fort Goede Hoop te Berku.\nTitel catalogus Leupe (NA): Het Fortress De Goede Hoop tot Bercoe.\nHet Fortress De Goede Hoop tot Bercoe.\nLegenda: 1-19.\nRechtsonder: No: 11.\nMiddenboven: No: LXI.\nRechtsboven, middenboven [op een sticker], linksboven: 793 [in potlood].\nNotities verso: No. 37 reg. 8 / 485 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0793",
+        "dc:subject": [
+            "vesting",
+            "kompas / windroos",
+            "legenda",
+            "gebouw",
+            "plattegrond / kaart",
+            "tolhuis / wachthuis",
+            "poort",
+            "tanck / waterplaats / put",
+            "pakhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "44 x 55 cm",
+        "dcterms:date": "1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1344/plattegrond-van-fort-goede-hoop-te-berku"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6b/bd/f3/f4/3b/6f/42/df/83/ed/69/9c/8a/87/8b/af/c1ccd786-bef0-4bbb-96d8-4a0131cc9eac.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6b/bd/f3/f4/3b/6f/42/df/83/ed/69/9c/8a/87/8b/af/c1ccd786-bef0-4bbb-96d8-4a0131cc9eac.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/793.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Fortress de Goede Hoop tot Bercou."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/997.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Afbeeldinge van 't Casteel ende de Stad Jaffanapatnam, representerende 't Coninckryck in correcte aenwysing, hoedanich deselve belegert en voor de Generaele Nederl. Geoctr. Oost-Ind. Comp. onderdanich gemaekt is."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "997"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/825328c0-941c-488d-b1b7-aea10942457d\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/997.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/997.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5957,
+            "width": 8599,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/997.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/997.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/0e/7d/1f/89/4f/f6/46/85/9a/4c/61/25/c3/18/01/ae/498bf335-e835-4cb7-9fb8-e4b448a6f513.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5957,
+                                "width": 8599,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/0e/7d/1f/89/4f/f6/46/85/9a/4c/61/25/c3/18/01/ae/498bf335-e835-4cb7-9fb8-e4b448a6f513.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/997.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

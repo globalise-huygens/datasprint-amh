@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/272.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ce7ec34f-d98d-45ac-9331-076f3eff0b6d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0272.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van China en Formosa",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart als voren, van Punta Lampacao tot de Overveens Eylanden, het Eiland Formosa enz., met 'kaart als voren' wordt bedoeld de titel van VEL0271: Kaart van een gedeelte der Chinesche Zee en Kust....\nRechtsboven genummerd: 34.a..\nRanden geplakt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0272",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4374/kaart-van-china-en-formosa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b3/ce/fc/9c/c8/65/4e/38/ba/d7/c9/c8/77/21/b3/ce/2ff1c931-826d-4725-96f3-d5dff59f344e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b3/ce/fc/9c/c8/65/4e/38/ba/d7/c9/c8/77/21/b3/ce/2ff1c931-826d-4725-96f3-d5dff59f344e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/272.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte der Chinesche Zee en Kust, van Punta Lampa cao tot de Overveens Eilanden, het Eiland Formosa enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

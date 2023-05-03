@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1539.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b315e46a-840e-4c01-b226-63b6b77f3e2d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1539.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(An inscription and a key to the numbers 1 to 6, lower right); \nActe van Meetinge. Ik ondergeschreevene by den Edele agtbare hove Geadmittert, en den Eed afgelegt hebende om in plaats van den Geswoore Landmeeter deser Colonie J.F. de Saffon de Begevene Landen te Meeten Verklaare by deese dat ik het Eyland Wakkenam, genaamt in de zee Carten Margeriten Eyland gemeeten hebbe Groot Zynde 10300 akkers, hebbende het Leguaan Eyland ten oosten, het trouli- en arobabini-Eylanden ten Westen, hebbende de verdeeling gemaakt, volgens Koop; En Landbrieven naader in margine van de Caerte te sien met de naam van de Heeren participanten, Gestipuleert volgens numbre.\nNo. 1. De gebroeders pipersberg ... 1717 \u00bd akkers.\n2. W. Croydon ... 1740 5/12 akkers.\n3. de Erven vander Cruyssen ... 3400 \u2153 akkers.\n4. ant. thierens ... 856 \u00bd akkers.\n5. Kacks en Berckkey ... 867 \u00be akkers\n6. ... 1717 \u00bd akkers.",
+        "dc:title": "Kaart van plantages op het eiland Wakenaam",
+        "dc:description": "Titel Leupe: Kaart van het Eiland Wakename, in de zeekaarten genaamd Margeriten Eyland.\nNet als in Suriname en de andere koloni\u00ebn op de Wilde Kust, verschoof in de loop van de achttiende eeuw het plantagegebied aan de Essequibo geleidelijk aan naar de beter toegankelijke gronden aan de benedenloop van de rivier, de aangrenzende zeekusten en op de eilanden in de monding.\nDeze kadastrale kaart c.q. meetbrief van bestaande en geplande ontginningen toont zes plantages op het eiland \u2018Wakkenam\u2019 (Wakenaam Island). De resultaten van de meting zijn onder getranscribeerd.\nOorspronkelijk zou J.F. de Saffon deze meting verrichten maar zijn familielid P.L. de Saffon heeft de taak overgenomen.\nDe kaart is ondertekend op 9 Januari 1767.\nOnderdeel van een kleine verzameling kadastrale kaarten (VEL1537 t/m VEL1542).\nSchaalstok van honderd kettingen a 60 voeten Rhijnlands = [ca. 1 : 18.400].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1539",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.46 - 1.01 El. (49 x 105 cm.)",
+        "dcterms:date": "1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10233/kaart-van-plantages-op-het-eiland-wakenaam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/13/91/a8/67/e1/dd/42/36/98/c6/57/f9/35/37/c2/1d/6771a871-ab8c-4760-8691-71a059f68b44.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/13/91/a8/67/e1/dd/42/36/98/c6/57/f9/35/37/c2/1d/6771a871-ab8c-4760-8691-71a059f68b44.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1539.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eiland Wakename, in de zeekaarten genaamd Margeriten Eyland."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

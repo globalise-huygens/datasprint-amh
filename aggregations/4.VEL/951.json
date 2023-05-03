@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/951.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fcaa2c0a-c7f2-4671-a6a8-ede924cd2763",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0951.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaartje van 't Casteel Colombo",
+        "dc:title": "Plattegrond van het kasteel van Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Kaartje van 't Casteel Colombo; waarin werden verthoont, de kruytkelders die tusschen de bolwerken en onder den walgank zyn.\nNotities verso: Behoort by de overgekomen Brieven en papieren van Ceylon 1723 3 deel,     1570 [folionummer in de band?] , No. 65 [volgnummer van het stuk in de band ?] , 542 h, De kruytmolens lagen in het ravelyn, tusschen Bastions Hoorn en Rotterdam.\nTopografische namen vermeld, zoals Leijden, Delft, Hoorn, Rotterdam, Middelburg, Klippenburg, Denbriel, Amsterdam.\nLinks legenda met de volgende aanduidingen: N=1. de kruijtkelder van Delft.; 2. ,, Rotterdam.; 3. ,, Middelburg.; 4. een onbep: ,, Enkhuijsen.; 5. een g project in 't Bolwerk Den Briel.; 6. De kelder... van Batenburg.; 7. ,, Van 't waterpas.; 8. de kruijtmolen.; 9. Weeghuijs.; 10. Specij.; 11. korrel.; 12. kooljok.; 13. koelhuijs.; 14. Salpeter.; 15. de Smitwinckel..\nRechtsonder de schaalverdeling in Roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0951",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart",
+            "vesting",
+            "flora",
+            "brug"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "32,5 x 46 cm",
+        "dcterms:date": "1722",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/785/plattegrond-van-het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cf/4c/c1/f4/95/a0/49/8f/b1/65/b6/cf/7d/74/4d/4d/2af4816e-91c1-4cb7-a221-e048d562395a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cf/4c/c1/f4/95/a0/49/8f/b1/65/b6/cf/7d/74/4d/4d/2af4816e-91c1-4cb7-a221-e048d562395a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/951.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaartje van 't Casteel Colombo; waarin werden verthoont, de kruytkelders die tusschen de bolwerken en onder den walgank zyn."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

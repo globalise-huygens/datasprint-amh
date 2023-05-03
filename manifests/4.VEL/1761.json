@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1761.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Plantagien Tourtonne en Ma Retraite, benevens de landen tusschen de Sommeldyks Creeq en de redoute Purmerent."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1761"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1773"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/6cc3d1ed-4214-4918-aef4-322f5b0ba59b\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1761.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1761.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8913,
+            "width": 12209,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1761.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1761.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f8/8b/f9/00/86/89/44/3c/96/2a/9e/97/ec/12/d1/cd/9f1af233-fb1a-43db-bb3e-8ba6909437dc.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8913,
+                                "width": 12209,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f8/8b/f9/00/86/89/44/3c/96/2a/9e/97/ec/12/d1/cd/9f1af233-fb1a-43db-bb3e-8ba6909437dc.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1761.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

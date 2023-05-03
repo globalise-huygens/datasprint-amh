@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/254.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f6828347-5b19-4174-b3b2-486f268c2893",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0254.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kust van Coromandel / Kust van Orixa",
+        "dc:title": "Kaart van de kusten van Coromandel en Orissa",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Cust van Coromandel, van Tondy tot Punt Godde Warre.\nBijzonderheden: de kaart is op blauw papier geplakt.\nNotities verso: XXXII..",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0254",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "103 x 81 cm",
+        "dcterms:date": "1756-1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4023/kaart-van-de-kusten-van-coromandel-en-orissa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/26/d9/69/65/37/67/4f/3c/bd/a4/c9/8b/0c/8d/36/b7/784b2b53-11a4-4aa5-989f-d6fbe70535fc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/26/d9/69/65/37/67/4f/3c/bd/a4/c9/8b/0c/8d/36/b7/784b2b53-11a4-4aa5-989f-d6fbe70535fc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/254.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

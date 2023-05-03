@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/716.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Tocht door den Admirael Pieter Pietersen Hein voor de 2de mael in de Baya de Todos os Santos den 10 juni 1627."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "716"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1627"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ee157963-7b09-4c42-9dba-f04ca031414c\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/716.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/716.json#canvas/p1",
+            "type": "Canvas",
+            "height": 3893,
+            "width": 8577,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/716.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/716.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/03/5d/94/2a/4a/72/4c/d0/ad/ed/5e/f3/81/f8/e1/72/fb59e7de-b51f-4926-ae15-b166fb58f358.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3893,
+                                "width": 8577,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/03/5d/94/2a/4a/72/4c/d0/ad/ed/5e/f3/81/f8/e1/72/fb59e7de-b51f-4926-ae15-b166fb58f358.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/716.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

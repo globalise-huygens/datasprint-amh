@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1176.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c6611ee3-e901-429a-b84d-d12a42d15108",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1176.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "[...] van 't fort & omleggende landt Jacatra",
+        "dc:title": "Plattegrond van het fort Jacatra",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van 't fort & omleggende landt Jacatra.\nRechts boven genummerd: 131 [moet het folionummer zijn].\nLegenda: a-j\nAan de rechterrand is een strook geplakt; In potlood genummerd 1176, het nummer van de kaart. In de catalogus Leupe is een verwijzing naar een catalogus van een tentoonstelling Amsterdam 1919 bijgeschreven.\nNotities verso: No. 24 [vermoedelijk het volgnummer van het stuk] / 130 [moet het folionummer zijn] / 602 x / Portef. I Uit de Memorien en Beschryvingen van algemeen Batavia 1619 [in potlood] / uit overgekomen stukken Q II 1620 brief 7 oct 1619 de Jonge IV p [onleesbaar] 1 [in potlood] / schaal 25 R op 1 duim rond 1 : 3600_ [in potlood, modern handschrift].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1176",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "34,5 x 43 cm",
+        "dcterms:date": "ca. 1619",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3418/plattegrond-van-het-fort-jacatra"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/df/2d/d8/e5/80/9a/40/4e/88/63/6c/75/ff/89/e6/27/e3dbe70f-b8f9-4ca1-97b2-539cc07f72e5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/df/2d/d8/e5/80/9a/40/4e/88/63/6c/75/ff/89/e6/27/e3dbe70f-b8f9-4ca1-97b2-539cc07f72e5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1176.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van 't forten omleggende land Jacatra."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

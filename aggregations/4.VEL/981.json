@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/981.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6cd75411-1e8f-4205-8d09-fd59ecf5d89a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0981.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Situatie Plan van het Dorp Kotta. anderhalve uren gaans van Colombo gelegen. Deeze heele Situatie Kotta 200 wet als Romdom, geleegen Dorpen, is ten eenemaal met Vrugt en Wilde Boomen en Ruigte begroeit.",
+        "dc:title": "Kaart van het dorp Kotta bij Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Situatie-plan van het Dorp Kotta, anderhalf uur gaans van Colombo gelegen.\nBijzonderheden: het betreft een kopie, linksboven genummerd No. 4.\nNotities verso: No. 4 Colombo, No. 4, 541 [met vette cijfers gestempeld op een etiketje].\nOp de afbeelding wordt Kotta weergegeven met  school, S Comp Ruisthuys, uitgedroogde vijver, Plaats van 't geweesene Konings paleis, Kaneel thuin.\nKotta wordt omringd met land, rivieren en rijstvelden 't Dorp Watellemoelle, Rystvelden, deeze Spruiten zig verenigen de vallen ten laatsten naast het pas nagekgame in 't kalenye, gange, weg komende van Colombo, 't Dorp Navelle, Pettye Kotta of Voorstad van Kotta, Weg gaande na galkisse en voorts verder na de Salpettykortte.\nRechtsonder de schaalverdeling in Rhijns Roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0981",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart",
+            "vesting",
+            "school",
+            "flora",
+            "huis / woonhuis",
+            "brug"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "49,5 x 70 cm",
+        "dcterms:date": "1790 ?",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9276/kaart-van-het-dorp-kotta-bij-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ff/00/ce/ad/5f/bc/43/c0/af/1d/14/3e/19/59/71/bd/03d1e7b6-db05-4154-9eba-d3302d94fd6e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ff/00/ce/ad/5f/bc/43/c0/af/1d/14/3e/19/59/71/bd/03d1e7b6-db05-4154-9eba-d3302d94fd6e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/981.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

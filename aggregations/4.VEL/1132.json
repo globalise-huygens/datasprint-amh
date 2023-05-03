@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1132.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/68c0cb26-8c5d-4155-a7cd-1ef6b6f4a149",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1132.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Landschap op Mauritius, genoemd 'De vuyle bocht'",
+        "dc:description": "Titel catalogus Leupe (NA): Affteeckeningh van 't bouwlant in de Vuyle bocht.\nNotities verso: No. 22. affteeckeningh van't bouwlant in de Vuijle bocht / uit brieven en papieren van de Kaap overgek. in 1671, no. 20 [misschien hoort no. 20 niet bij deze notitie, maar is het een aparte vermelding] / 566 [folionummer in de band ?] / op't eiland Mauritius / 498 pp.\nOp kaart VEL0332 is goed te zien dat de Vuyle Bhaij, ofwel de Vuyle bocht, dichtbij het Nederlandse fort gelegen is.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1132",
+        "dc:subject": [
+            "flora",
+            "fauna",
+            "Europeanen",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "36,5 x 51,5 cm",
+        "dcterms:date": "ca. 1671",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5859/landschap-op-mauritius-genoemd-de-vuyle-bocht"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2c/fc/9a/c2/42/b4/43/a3/87/99/34/50/9e/f8/ae/00/3c8f3486-3b62-431b-b3a4-39d0beb8f169.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2c/fc/9a/c2/42/b4/43/a3/87/99/34/50/9e/f8/ae/00/3c8f3486-3b62-431b-b3a4-39d0beb8f169.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1132.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Affteeckeningh van 't bouwlant in de Vuyle bocht."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/992.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0268cf49-4b08-4e8b-952f-e2ef2bd1a3ba",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0992.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Manaar, gelegen op de Z. oosthoek, van 't Eyland Manaar / De Steene Schans Aripo, leyt aan de zeekant, tegenover de Peerlbanken van Manaar. / Calpentyn, leyt op de N. oosthoek van het Eyland Calpentyn.",
+        "dc:title": "Plattegrond van de forten van Manaar, Aripo en Calpentijn",
+        "dc:description": "Titel catalogus Leupe (NA): Het fort Manaar, gelegen op de Zuidoosthoek, van 't  Eyland Manaar.\nGekopieerd naar een origineel, niet bewaard, uit 1678.\nNotities verso: A. A. nr. 23t verso 543 c; [potlood] nrs. 3; 46.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0992",
+        "dc:subject": [
+            "kompas / windroos",
+            "vesting",
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "ca. 1672",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4960/plattegrond-van-de-forten-van-manaar-aripo-en-calpentijn"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f5/75/3b/7b/3c/c7/46/ab/87/1d/30/3d/6f/89/16/56/fda647c2-c395-4b62-af48-65c0f391f321.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f5/75/3b/7b/3c/c7/46/ab/87/1d/30/3d/6f/89/16/56/fda647c2-c395-4b62-af48-65c0f391f321.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/992.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het fort Manaar, gelegen op de Zuidoosthoek van 't Eyland Manaar."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

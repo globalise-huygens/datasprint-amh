@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1748.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f482f937-125b-4c51-8861-6c6c049e79e6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1748.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een perceel aan de Para-, Mawecabo- en Macajubokreek",
+        "dc:description": "Titel Leupe: Schetskaart van het District tusschen Para en Saramakka enz.\nDeze Franse kaart trekt de grenzen van een plantage aan de Para-, Mawecabo\nen Macajubokreken. Het grootste deel van het getoonde land bestaat uit savanne.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1748",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.315 - 0.20 El.",
+        "dcterms:date": "1700-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10428/kaart-van-een-perceel-aan-de-para--mawecabo--en-macajubokreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/15/14/43/85/ab/06/42/b0/ae/eb/cc/20/4d/9a/89/28/cb4e5ceb-8fa0-461b-9e34-c79c719048f8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/15/14/43/85/ab/06/42/b0/ae/eb/cc/20/4d/9a/89/28/cb4e5ceb-8fa0-461b-9e34-c79c719048f8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1748.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schetskaart van een gedeelte der Para, Macajubo en Mawecabo Creeqen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

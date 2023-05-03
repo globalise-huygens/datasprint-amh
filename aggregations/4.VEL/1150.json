@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1150.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3ffb5189-4917-42a3-bd71-63b41d4e5661",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1150.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'s Comp:s Logie in Achgien",
+        "dc:title": "Plattegrond van het kantoor te Atjeh",
+        "dc:description": "Titel catalogus Leupe (NA): Afteekening van 's Comps Logie in Atchien.\nRanden rondom beplakt met stroken rijstpapier.\nRechts boven genummerd: 553 [kan het folionummer uit de oorspronkelijke band zijn].\nNotities verso: Behoort by het Relaes door Arnold de Vlamingh van Outshoorn over Atsjeh d. dato 1e dec. 1644 in portefeuille 1644 no. II / 599 k.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1150",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "gebouw",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "tanck / waterplaats / put",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "36 x 45 cm",
+        "dcterms:date": "1 december 1644",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6240/plattegrond-van-het-kantoor-te-atjeh"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3f/57/a6/a9/fb/08/45/ad/a0/9a/bd/e5/d4/c3/c3/98/f1cb5193-4abf-4e03-82cb-33c65700f4e2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3f/57/a6/a9/fb/08/45/ad/a0/9a/bd/e5/d4/c3/c3/98/f1cb5193-4abf-4e03-82cb-33c65700f4e2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1150.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteekening van 's Comps. Logie in Atchien."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

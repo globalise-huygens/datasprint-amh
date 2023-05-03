@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1164.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Aftekeningh van de Mars van den Commandeur Couper, met het leger van de Ed. Comp. door de Provincien Mataram, Bagil, Leer en Loeretenga, in het Zuidoostelyke gedeelte van Java."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1164"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/52d529ae-4a79-4684-945a-7ceafb9af5cd\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1164.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1164.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6294,
+            "width": 8822,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1164.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1164.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ba/10/80/b7/a4/10/48/ca/ae/65/f3/3e/32/1a/6c/ef/6c574282-6435-4a8e-b66d-eaa397dafa82.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6294,
+                                "width": 8822,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ba/10/80/b7/a4/10/48/ca/ae/65/f3/3e/32/1a/6c/ef/6c574282-6435-4a8e-b66d-eaa397dafa82.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1164.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

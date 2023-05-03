@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1483.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/07d504f1-6067-4d4f-8844-8979d1852398",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1483.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een spietoren voor de uitbreiding van Willemstad",
+        "dc:description": "Titel Leupe: Afteekening van een zeshoekig gemetseld schilderhuis, der embrasuurgaten enz.\nDeze tekeningen voor een spietoren maken onderdeel uit van een plan voor de uitbreiding van Willemstad. De toren is een prototype dat zal gebruikt worden bij de drie bastions en de batterij die vergoot of gebouwd zullen worden rond de stad. Daarnaast is onder een plattegrond en profiel gegeven van de barricades rond the batterij. Deze ontwerpen kronen de eerdere plannen uit 1746 van Willem Meijer om de vestingwal van de stad veel verder ten oosten van fort Amsterdam te bouwen dan oospronkelijk het idee was. De afstand van het fort maakte het noodzakelijk de stad goed verdedigbaar te maken.\nSchaalstok van 48 voeten Rijnlandsch = 126 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1483",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1754",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7253/ontwerp-voor-een-spietoren-voor-de-uitbreiding-van-willemstad"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c6/e3/ad/d9/58/de/48/6b/86/bb/34/36/ad/03/31/8f/e34f554c-318e-4f71-bdfc-7a08472635b5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c6/e3/ad/d9/58/de/48/6b/86/bb/34/36/ad/03/31/8f/e34f554c-318e-4f71-bdfc-7a08472635b5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1483.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteekening van een zeshoekig gemetseld schilderhuis, der embrasuurgaten enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

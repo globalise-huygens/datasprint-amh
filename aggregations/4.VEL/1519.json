@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1519.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1f6554ca-4674-4317-bef5-7b5100fdcb76",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1519.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaate figuratif van Mahaikony Kreek geelegen in de oost kust van Rio Demerary",
+        "dc:title": "Kaart van de Mahaiconi-kreek",
+        "dc:description": "Titel Leupe: Kaart figuratif van Mahaykony Kreek gelegen in de Oostkust van Rio Demerary\nDe kaart toont de loop van de Mahaiconikreek. Zie ook VEL1518.\nSchaalstok van 600 roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1519",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "ca 1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9398/kaart-van-de-mahaiconi-kreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ce/c8/c8/ac/85/81/4b/ab/a4/85/ee/6d/f8/7b/43/d6/8235053a-eca5-4dff-a6ae-e089dd2a3aca.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ce/c8/c8/ac/85/81/4b/ab/a4/85/ee/6d/f8/7b/43/d6/8235053a-eca5-4dff-a6ae-e089dd2a3aca.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1519.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart figuratif van Mahaykony Kreek gelegen in de Oostkust van Rio Demerary."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

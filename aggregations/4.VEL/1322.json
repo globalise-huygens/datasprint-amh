@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1322.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/87203a22-2ee0-42a2-b28c-b7bb41032a05",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1322.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Tafasoho. Macquian. Pars",
+        "dc:title": "Aanzicht in vogelvlucht van het fort Tafasoho te Macquian",
+        "dc:description": "Titel catalogus Leupe (NA): Tafasoho. Macquian. Pars.\nAantekening catalogus Leupe: Behoort bij het rapport van Arnold de Vlamingh van Outshoorn.\nRechts boven genummerd: 115.\nDe randen zijn gerafeld en gescheurd.\nNotities verso: 115 [moet het folionummer in de band OBP zijn] / 668 h.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1322",
+        "dc:subject": [
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "banderol / cartouche / versiering",
+            "vesting",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "32,5 x 41,5 cm",
+        "dcterms:date": "ca. 1651",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/856/aanzicht-in-vogelvlucht-van-het-fort-tafasoho-te-macquian"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a9/a2/8b/1c/32/d9/4b/79/b8/bb/71/79/4c/53/f2/f2/aea65a3b-7e2b-4774-8d18-36967f2f901d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a9/a2/8b/1c/32/d9/4b/79/b8/bb/71/79/4c/53/f2/f2/aea65a3b-7e2b-4774-8d18-36967f2f901d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1322.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                              Tafasoho. Macquian. Pars."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

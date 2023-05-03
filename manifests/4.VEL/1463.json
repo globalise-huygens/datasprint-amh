@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1463.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan van een Horisontale of Lage battery, dienende tot versterking van de Piscaderis, St. Michiel, Porte Marie en St. Cruz Bayen op het Eiland Cura\u00e7ao."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1463"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1744"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/cac74c0a-90bc-43a7-9a89-c9e9a4f7ce55\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1463.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1463.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5413,
+            "width": 6374,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1463.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1463.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/4f/6a/e2/93/5a/e2/4c/8b/9d/72/f5/59/d5/60/64/69/27f2a250-4f83-4229-9246-82430e73c897.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5413,
+                                "width": 6374,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/4f/6a/e2/93/5a/e2/4c/8b/9d/72/f5/59/d5/60/64/69/27f2a250-4f83-4229-9246-82430e73c897.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1463.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

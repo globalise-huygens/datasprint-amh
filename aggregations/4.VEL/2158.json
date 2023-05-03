@@ -1,0 +1,58 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2158.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9880e13e-4877-471d-a8b5-c2dd32799a64",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2158.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Stadt, Nostre Signora de Conception",
+        "dc:title": "Plattegrond in vogelvlucht van Nostre Signora de Conseption",
+        "dc:description": "Plattegrond in vogelvlucht van Nostre Signora de Conseption.\nTitel in Catalogus Leupe (NA): Afbeelding van de stad Nostre Signora de Conception.\nStadt, Nostre Signora de Conception.\nOp de kaart zijn de schansen van de Nederlanders aangegeven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2158",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "gebouw",
+            "vesting",
+            "kerk / pastorie",
+            "tanck / waterplaats / put",
+            "landerij / plantage",
+            "huis / woonhuis",
+            "kampement / legerplaats",
+            "veldslag / oorlog (strijd) / inname"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "45 x 34 cm",
+        "dcterms:date": "1633",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2167/plattegrond-in-vogelvlucht-van-nostre-signora-de-conseption"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c3/d1/c2/8d/ae/20/43/e9/b8/ad/53/90/cf/70/5b/72/621a410e-abad-444d-af52-f735e4e0805e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c3/d1/c2/8d/ae/20/43/e9/b8/ad/53/90/cf/70/5b/72/621a410e-abad-444d-af52-f735e4e0805e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2158.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van de stad Nostre Signora de Conception."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

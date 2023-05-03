@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1005.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c86a3ce2-8f03-4b0f-b0a1-ba4a3f0e522d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1005.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Platte grond der Graanpakhuysen te Jaffanapatnam",
+        "dc:title": "Plattegrond van de graanpakhuizen te Jaffnapatnam",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond der Graanpakhuysen te Jaffanapatnam.\nLegenda: A-E; A-L\nPlattegrond en doorsnede van de verbouwing van twee graanpakhuizen tegen de walgang van het fort Jaffanapatnam.\nNotities verso: Afteekening [...] graanpakhuizen te Jaffnapatnam. Behorende bij Overgekomen brieven en papieren van Ceylon, 1722 3de deel. Nr. 87; 586c; 1325.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1005",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart",
+            "pakhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "34 x 54 cm",
+        "dcterms:date": "ca. 1722",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3174/plattegrond-van-de-graanpakhuizen-te-jaffnapatnam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/38/bd/b4/0f/1d/c3/4e/96/a0/80/83/59/c2/e9/f5/fb/7a5dfcc6-c3ee-4a05-8d4e-c79515d01812.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/38/bd/b4/0f/1d/c3/4e/96/a0/80/83/59/c2/e9/f5/fb/7a5dfcc6-c3ee-4a05-8d4e-c79515d01812.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1005.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond der Graanpakhuysen te Jaffanapatnam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

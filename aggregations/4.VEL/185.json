@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/185.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/09a59b35-d1ba-479b-a770-248ce7afb1d9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0185.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Tafel Baay aan de Caap de Goede-Hoop op Ordre van Haar Edele Groot-agbaarheeden de Heeren Bewindhebbers [...] opgenomen en gecarteerd onder directie van de gouverneur Van de Graaff in den jaar 1787 door den ingenieur Barbier.",
+        "dc:title": "Plattegrond van de Tafelbaai",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de Tafelbaay aan de Kaap de Goede Hoop.\nNotities verso: C 11; Nr. C.B.E / Blauw etiket [Depot-Gen.] Nr. 6 Plan van de Tafelbaij, register 10; deel 1; folio nr. 39 / Plan van de Tafel-baaij met de peilingen door den Capit. Dumoni 1787.\nRechts onder het bijschrift: [...] geformeerd door den onderschreven gouverneur in den jare 1787. C.S van de Graaff.\nGenoemden topografische namen: Den Blauwen Berg, Tafel Baay, F=knokke, Batterij Amsterdam, B=Chavones, nieuwe B. [batterij] het Paerden eyland, Den Leeuwenberg.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0185",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "1180 x 935 mm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/361/plattegrond-van-de-tafelbaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3d/6c/46/19/13/bc/48/2b/b7/3a/36/c9/c6/f3/7c/26/c02900f5-b981-4386-9ec3-9a2607898ee1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3d/6c/46/19/13/bc/48/2b/b7/3a/36/c9/c6/f3/7c/26/c02900f5-b981-4386-9ec3-9a2607898ee1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/185.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Tafelbaay aan de Kaap de Goede Hoop."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

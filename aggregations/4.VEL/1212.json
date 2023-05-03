@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1212.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/51c22a64-6672-45cc-8110-9cc014a139c0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1212.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van Batavia's Water-Casteel, geleegen aan de mond van de Groote Rivier",
+        "dc:title": "Plattegrond van het waterkasteel van Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van Batavia's Water-Casteel, geleegen aan de mond van de Groote Rivier.\nOp de kaart staat: 2e Copie.\nNotities verso: No. 1.b. [staat zowel linksboven als rechtsboven].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1212",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "legenda",
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "37 x 76,5 cm",
+        "dcterms:date": "ca. 1674",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3411/plattegrond-van-het-waterkasteel-van-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0c/c9/d6/62/ba/94/43/fa/88/4c/98/30/1d/fb/07/c4/e9ca1339-d29d-4b1b-95aa-29d86dfb88a0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0c/c9/d6/62/ba/94/43/fa/88/4c/98/30/1d/fb/07/c4/e9ca1339-d29d-4b1b-95aa-29d86dfb88a0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1212.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Batavia's Water-Casteel, geleegen aan den mond van de Groote Rivier."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

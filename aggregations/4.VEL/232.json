@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/232.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5f3e4f5a-1c4b-4a5e-abd9-c8032dbe3226",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0232.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Land van den Vorst van Treevancoer",
+        "dc:title": "Kaart van gebiedsdelen behorend tot de vorst van Trevancore",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Modderbank op de Kust van het land van den Vorst van Trevancore.\nNotities verso: N 2 / 1780 [jaartal van vervaardiging ?] / 30 / La B / 232 [in rood potlood].",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0232",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde gravure",
+        "dcterms:extent": "51,5 x 74 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6670/kaart-van-gebiedsdelen-behorend-tot-de-vorst-van-trevancore"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/28/41/dc/31/0b/ae/41/29/aa/27/41/b4/06/9b/c1/8c/9ade9e3b-ba86-4c46-a5f1-da98b1e02dc5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/28/41/dc/31/0b/ae/41/29/aa/27/41/b4/06/9b/c1/8c/9ade9e3b-ba86-4c46-a5f1-da98b1e02dc5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/232.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Modderbank op de Kust van het land van den Vorst van Trevancore."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

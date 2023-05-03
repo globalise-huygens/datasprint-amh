@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/736.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Ware afbeelding van de gelegentheyt en gedaente der Stadt Baldivia, gelegen in Zuyd-Zee. 52 Mylen bezuyden het Eylant La Mocha, op de breedte van 40 garden 40 minuten des Pools garden 46 minuten des Pools Antarticus."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "736"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1627"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/76beff2b-7655-4a47-bbea-28a8a4b9b373\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/736.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/736.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4977,
+            "width": 5926,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/736.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/736.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/32/75/8a/e8/e0/e3/4c/6e/94/eb/06/99/6e/a5/5e/6b/0f035577-d8c4-4ccc-8f6f-32452b652442.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4977,
+                                "width": 5926,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/32/75/8a/e8/e0/e3/4c/6e/94/eb/06/99/6e/a5/5e/6b/0f035577-d8c4-4ccc-8f6f-32452b652442.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/736.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

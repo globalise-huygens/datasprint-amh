@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaarte van 't Eyland Ceylon, benevens een gedeelte der Kusten Malabar en Cormandel, geheel Madure en Inchiado enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "923"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/0b56ca3a-f015-46b0-b82c-78b8d1759f75\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/923.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7836,
+            "width": 8414,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f8/fe/6d/22/b0/a9/4f/0c/ac/d0/1d/d9/88/3d/ad/c1/5e5c875a-5352-488d-a7d5-e039eab2ab06.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7836,
+                                "width": 8414,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f8/fe/6d/22/b0/a9/4f/0c/ac/d0/1d/d9/88/3d/ad/c1/5e5c875a-5352-488d-a7d5-e039eab2ab06.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

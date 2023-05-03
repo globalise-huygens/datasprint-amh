@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1252.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1a176cab-dc73-46b2-88e3-bce5cd427ff2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1252.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plaan van het Fort en omleggende Cituatie van Cirbon",
+        "dc:title": "Plattegrond van Cheribon",
+        "dc:description": "Titel catalogus Leupe (NA): Plaan van het Fort en omleggende Cituatie van Cirbon.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nDe middenvouw is aan de onderkant 8 cm ingescheurd.\nNotities verso: Plaan van het fort en omleggende cituatie van Cheribon Ao 1719 [staat zowel aan de boven\nals aan de onderkant] / No. 24 [waarschijnlijk het volgnummer van het stuk in de band OBP] / No. 23 Fort en Situatie van Cheribon Register 2 Deel 1 Folio 8 Por-tefeul [geschreven op een blauw etiket] / 625 [met vette cijfers gestempeld op een etiketje] / 198.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1252",
+        "dc:subject": [
+            "landerij / plantage",
+            "banderol / cartouche / versiering",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41 x 53 cm",
+        "dcterms:date": "ca. 1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4268/plattegrond-van-cheribon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/eb/cf/67/9c/95/86/4c/a0/8c/22/a8/47/fb/2c/44/ad/f9c95069-7cb6-483a-bc02-39ce44f680d3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/eb/cf/67/9c/95/86/4c/a0/8c/22/a8/47/fb/2c/44/ad/f9c95069-7cb6-483a-bc02-39ce44f680d3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1252.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van het Fort en omleggende cituatie van Cirbon."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

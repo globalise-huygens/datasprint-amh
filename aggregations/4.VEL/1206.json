@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1206.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8f2b5273-59f0-405f-bf50-60380992a760",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1206.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Zeepost Maronda buyten Batavia / De Zeepost Bacassie buyten Batavia / 'T Fort Nieuwendam buyten Batavia / Redout Zoutelande buyten Batavia",
+        "dc:title": "Plattegronden van de forten Maronda, Bacassie, Nieuwendam en Zoutelande",
+        "dc:description": "Titel catalogus Leupe (NA): Plattegrond van de Zeepost Maronda;\nVEL 1206a: Plattegrond van de Zeepost Bacassie;\nVEL 1206a: Plattegrond van het Fort Nieuwendam;\nVEL 1206a: Plattegrond van de Redout Zoutelande.\nRanden erg gerafeld.\nRechts boven genummerd: 3.g.\nNotities verso: 569 [in potlood] /  602 z / b. 18e eeuw [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1206",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53,5 x 75 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/890/plattegronden-van-de-forten-maronda-bacassie-nieuwendam-en-zoutelande"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4b/08/06/c8/6e/34/43/11/8b/bc/76/44/dc/cc/ff/9d/38313251-e178-4d7a-8db1-236ea27f6988.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4b/08/06/c8/6e/34/43/11/8b/bc/76/44/dc/cc/ff/9d/38313251-e178-4d7a-8db1-236ea27f6988.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1206.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van de Zeepost Maronda."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

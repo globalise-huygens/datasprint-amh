@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1404.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/41436e0d-6de3-4296-bf95-b2364216e3a4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1404.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de westzijde van Virginia, Pennsylvania, Maryland en North Carolina",
+        "dc:description": "Titel Leupe: A New Map of the Western Parts of Virginia, Pennsylvania, Maryland and North Carolina; comprehending the river Ohio, and all the rivers which fall into it etc.\nKaart van de Midwest vol Franstalige aantekeningen die gebruikt werden door Franse en Nederlandse kartels om in vastgoed en land te investeren. De kaart bevat onder andere informatie over tractaten, verkoop en verhuur door de verschillende vastgoedbedrijven, grenzen die in verdragen zijn vastgesteld, nederzettingen alsook infrastructuur.\nSchaal van 100 Eng. M. = 152 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1404",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kolonie / dorp",
+            "kompas / windroos",
+            "Pennsylvania",
+            "Virginia",
+            "Verenigde Staten"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.44 - 0.55 El.",
+        "dcterms:date": "1778",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10329/kaart-van-de-westzijde-van-virginia-pennsylvania-maryland-en-north"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c9/a7/bb/bf/eb/2a/4a/b7/bd/c1/ca/49/e1/c4/51/de/9b2cbe36-8a4b-468e-af3e-828e08356406.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c9/a7/bb/bf/eb/2a/4a/b7/bd/c1/ca/49/e1/c4/51/de/9b2cbe36-8a4b-468e-af3e-828e08356406.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1404.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A New Map of the Western Parts of Virginia, Pennsylvania, Maryland and North Carolina; comprehending the river Ohio, and all the rivers which fall into it etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

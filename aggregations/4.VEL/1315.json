@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1315.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f9cc35b7-b70e-4dfe-85fe-8a83f2efca33",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1315.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Hoofdplan van 't Fort Oranje, volgens desselfs tegenwoordigen staat, benevens een gedeelte der naastby gelegene gebouwen en den Post Voorburg ter ordre van de weledelgestrenge Heeren Vaillant, Verhuel en Graevestein Commissarissen militair.",
+        "dc:title": "Plattegrond van het fort Orangie op Ternaten",
+        "dc:description": "Titel catalogus Leupe (NA): Hoofdplan van 't Fort Oranje, volgens desselfs tegenwoordigen staat, benevens een gedeelte der naastby gelegene gebouwen en den Post Voorburg enz..\nGenummerd: No. 1.\nNotities verso: No. 1 / 665 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1315",
+        "dc:subject": [
+            "rede / haven / pier",
+            "vesting",
+            "kerk / pastorie",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "73,5 x 106 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7068/plattegrond-van-het-fort-orangie-op-ternaten"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a0/22/cd/fb/60/1e/4e/53/81/4c/9c/7d/98/58/6a/ee/849d1dae-ecc1-4214-9054-cab160bb5cb3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a0/22/cd/fb/60/1e/4e/53/81/4c/9c/7d/98/58/6a/ee/849d1dae-ecc1-4214-9054-cab160bb5cb3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1315.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Hoofdplan van 't Fort Oranje, volgens desselfs tegenwoordigen staat, benevens een gedeelte der naastby gelegene gebouwen en den Post Voorburg enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

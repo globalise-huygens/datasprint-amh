@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1648B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2c578d9a-9cfe-412f-863a-2bc6a144552e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1648b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "[upper right] continuation of the title and a key to the letters A to C : \nIn plaats van de provisioneele aangelegde aarde redout. \nA. platte grond der redoutte a machicoulis. \nB. Proffil genomen volgens de Linie a, b. \nC. Houtten Tambour waar in vyf stukken Canon geplaats zijn.",
+        "dc:title": "Ontwerp voor een redoute tussen de rivier Berbice en de kreek Wironje",
+        "dc:description": "Titel Leupe: Project plan en proffil op wat wyze de post by de gereformeerde Kerk in Rio Berbice kan of diende gesecureerd te worden in plaats van de provisioneele aangelegde aarde redout.\nDe laatste versterking stroomopwaarts van Fort Nassau is te zien op dit plan van Fran\u00e7ois Samuel de Veije met diens projectie van een binnen de bestaande wal te plaatsen toren \u2018\u00e0 machicoulis\u2019 van een vergelijkbaar ontwerp als voorzien voor Nieuw-Savonette, de Wikkikreek en aan de Canje.\nNoord is linksboven\nSchaalstok van 72 Rynlandse Voeten = [ca. 1 : 145].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1648B",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "redoute",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "23,5 x 36,5 cm.",
+        "dcterms:date": "1764",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10289/ontwerp-voor-een-redoute-tussen-de-rivier-berbice-en-de-kreek-wironje"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/51/35/44/16/d8/fc/42/05/b4/08/c1/89/26/93/a0/e5/86743797-99e1-48bc-a645-0d9d35bfaeae.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/51/35/44/16/d8/fc/42/05/b4/08/c1/89/26/93/a0/e5/86743797-99e1-48bc-a645-0d9d35bfaeae.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1648B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Project plan en proffil op wat wyze de post by de gereformeerde Kerk in Rio Berbice kan of diende gesecureerd te worden in plaats van de provisioneele aangelegde aarde redout."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,55 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/956.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1f84f272-7f02-4992-a51d-d8bc0d847e4d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0956.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van het kasteel van Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van het Kasteel en de buitewerken te Colombo.\nMet stempeltje Depot des Cart. Pl. et Journ. de la Marine, rechtsonder genummerd No: 14, aan de rechterkant zit een uitstekende strook van 45 x 11,5 cm.\nNotities verso: No 5 Plan van Kolombo. Register 4, Deel 1, Folio 10, Portefeuille .. [geschreven op een blauw etiket], No. 29. [op een etiketje], 528 [met vette cijfers gestempeld op een etiketje].\nPlan van kasteel van Colombo.\nSchaalverdeling Schaal van Rhynlandsche Roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0956",
+        "dc:subject": [
+            "gebouw",
+            "vesting",
+            "ziekenhuis / lazaret",
+            "poort",
+            "banderol / cartouche / versiering",
+            "brug",
+            "doorsnede / profiel",
+            "huis / woonhuis",
+            "tuin / siertuin"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "139 x 131,5 cm",
+        "dcterms:date": "1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/786/plattegrond-van-het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/10/04/6a/5c/69/dd/4b/35/a5/1b/f0/01/d2/5e/a5/75/9dc6d87a-8735-4dc4-826a-6fac086928db.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/10/04/6a/5c/69/dd/4b/35/a5/1b/f0/01/d2/5e/a5/75/9dc6d87a-8735-4dc4-826a-6fac086928db.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/956.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het Kasteel en de buitenwerken te Colombo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

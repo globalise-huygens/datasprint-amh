@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1190.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a819d6df-45c2-4242-9f96-df8d2666d2c1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1190.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plattegrond van de Stad en Casteel Batavia, [...]",
+        "dc:title": "Plattegrond van het kasteel en de stad Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Plattegrond enz., als voren, hier wordt bedoeld de titel van VEL1189: Plattegrond van de stad en Casteel Batavia, met de daarnaast gelegene situatie; gemeten en in kaart gebracht door C.F. Reimer.\nDe naam van de kopieerder Johannes Gerlach is bijgeschreven.\nLegenda aanwezig.\nOp de kaart is bijgeschreven: No. 25 vide het Register voor Amsterdam de dato 10 december 1788.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nNotities verso: 618 [met vette cijfers gestempeld op een etiketje] / No. 5 Stad en Kasteel Batavia Register 2 [de rest is onleesbaar, geschreven op een blauw etiket] / No. 67_ [zeer groot geschreven op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1190",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart",
+            "rede / haven / pier",
+            "banderol / cartouche / versiering",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "136 x 64,5 cm",
+        "dcterms:date": "ca. 1788",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/468/plattegrond-van-het-kasteel-en-de-stad-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f8/6a/fc/08/4c/6b/49/90/81/ff/b4/71/15/81/0f/9c/1d7e1881-a9ec-41e2-94bb-0b66c77ef0ba.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f8/6a/fc/08/4c/6b/49/90/81/ff/b4/71/15/81/0f/9c/1d7e1881-a9ec-41e2-94bb-0b66c77ef0ba.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1190.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van de stad en Casteel Batavia, met de daarmaast gelegene situatie; gemeten en in kaart gebragt door:"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

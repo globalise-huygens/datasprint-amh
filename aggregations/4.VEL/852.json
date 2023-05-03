@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/852.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b0e37156-ec94-4ed5-a437-58a46779ecdd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0852.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Korte schets van de Marsch gehouden op de togt in den Jaare 1752 ter ordre van den Wel Edelen gestr. heer Gouverneur Rijk Tulbagh, ondernoomen ter ontdekkinge der hier aan Cabo de Goede Hoop binnenwaarts leggende landen en daarinne woonende volkeren",
+        "dc:title": "Kaart met de route ter ontdekking van het gebied ten oosten van Kaap de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Korte schets van de Marsch gehouden op de togt in den Jaare 1752 ter ordre van den Wel Edelen gestr. heer Gouverneur Rijk Tulbagh, ondernoomen ter ontdekkinge der hier aan Cabo de Goede Hoop binnenwaarts leggende landen en daarinne woonende volkeren.\nNotities verso: 1752 gedaan ter ontdekking van de binnenlanden van de Caap de Goede Hoop, Register 9, Deel 1, Folio 37, Portefeuille .. [geschreven op een blauw etiket] / No. 55..",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0852",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "expeditie",
+            "banderol / cartouche / versiering",
+            "Persoon",
+            "Aziaten",
+            "Afrikanen & Amerikanen"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "paneel",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "102 x 244,5 cm",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2774/kaart-met-de-route-ter-ontdekking-van-het-gebied-ten-oosten-van-kaap"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f3/87/f4/c2/4b/0e/47/9b/8f/12/90/7e/fc/f6/ef/50/af022875-5e99-4e5f-a118-976272a94555.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f3/87/f4/c2/4b/0e/47/9b/8f/12/90/7e/fc/f6/ef/50/af022875-5e99-4e5f-a118-976272a94555.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/852.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Korte Schets van de Marsch, gehouden op de togt in den jare 1752, ter ordre van den Wel Edelen Gestrengen Heer Gouverneur Rijk Tulbagh, ondernoomen ter ontdekking der hier aan Cabo de Goede Hoop binnenwaarts leggende landen en daarinne woonende volkeren."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2159.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c2557b73-e1cd-4a3e-967d-2da9fee5dbf7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2159_nieuw.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van de vestingswerken van de stad Olinda",
+        "dc:description": "Plattegrond van de vestingswerken van de stad Olinda.\nTitel Catalogus Leupe (NA): Grondteekening van de vestingwerken van de Stad Olinda.\nOp de kaart staan legendanummers, maar deze worden niet verklaard.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2159",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "gebouw",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "86 x 58 cm",
+        "dcterms:date": "1631",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7401/plattegrond-van-de-vestingswerken-van-de-stad-olinda"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9c/1c/85/76/bf/bb/41/ef/bd/12/b2/1f/f3/48/9a/ee/1a0096bc-57d8-405b-b11b-b907c501dde7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9c/1c/85/76/bf/bb/41/ef/bd/12/b2/1f/f3/48/9a/ee/1a0096bc-57d8-405b-b11b-b907c501dde7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2159.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

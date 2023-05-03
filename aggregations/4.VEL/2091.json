@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2091.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7e62ccb7-babb-4d31-87b9-a4219739ffe9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2091.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plan voor een modeldorp bij het grensgebied tussen Guyana en Suriname",
+        "dc:description": "Titel Leupe: Plan d' une Village, Eglise, Presbyt\u00e8re, Magasin, Corps de garde etc, et Plantage de 100 ackres pour une famille.\nDit projectplan voor een dorp met een kerk, depot, wacht en velden van 43 hectare elk, is verwant aan de plannen van Bermond om een nieuw wegennet aan te leggen in het gebied aan de Commewijne, Cottica, Saramacca, Para en Surinamerivier. De prent moet dan ook gezien worden als model voor de dorpen die Bermond langs deze wegen verwachtte te bouwen nadat de Marrons en deserteurs uit deze regio waren verjaagd.  Het is onbekend of dit wegennet en de bijbehorende dorpen ook daadwerkelijk aangelegd zijn.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2091",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.425 - 0.525 El.",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9853/plan-voor-een-modeldorp-bij-het-grensgebied-tussen-guyana-en-suriname"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/17/b3/65/2a/37/ca/41/1a/a3/0c/69/35/72/e2/4f/56/3caa2896-2bea-4994-94b2-45ddc5d871e0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/17/b3/65/2a/37/ca/41/1a/a3/0c/69/35/72/e2/4f/56/3caa2896-2bea-4994-94b2-45ddc5d871e0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2091.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

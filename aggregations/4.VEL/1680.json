@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1680.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/41c0e683-174d-421e-a8e1-22268483bd22",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1680.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de grens tussen Nederlands Suriname en Brits Guyana",
+        "dc:description": "Titel Leupe: Generale Kaart der Kolonie Suriname, hoofdzakelijk voorstellende de\ntegenwoordige bebouwing dier Kolonie, vervaardigd naar vroegere en eigene opmetingen tot het jaar 1832 door: Westelyk gedeelte der Kolonie Suriname.\nDeze kaart toont het nieuwe grensgebied tussen Nederlands Suriname en Brits Guyana. Al hadden de Nederlanders hun kolonies in Essequibo, Berbice en Demerara al in 1814 officieel van de hand gedaan, toch duurde het tot 1831 voordat Engeland deze samenvoegde tot de kolonie Guyana. Het landschap vol savannes en bossen tussen het gebied van deze twee concurenten werd tot 1832 onderzocht door de landmeter genaamd Mab\u00e9. Zijn bevindingen zijn hier samengebracht en voorzien van handgeschreven aantekeningen over de tocht van de heer Leers naar de Boven-Coppename rivier. De oorspronkelijke scheiding tussen Berbice en Suriname is nog met een stippellijn aangegeven.\nHet noorden is onder.\nSchaal van 40,000 Ned. Ellen = 105 strepen",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1680",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.48 - 0.585 El.",
+        "dcterms:date": "1832-1850",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10131/kaart-van-de-grens-tussen-nederlands-suriname-en-brits-guyana"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/14/ab/c4/a2/6e/e1/4e/27/81/4b/0e/01/41/cd/ba/00/8f9d558c-642d-4594-9766-7b2dd8113ed5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/14/ab/c4/a2/6e/e1/4e/27/81/4b/0e/01/41/cd/ba/00/8f9d558c-642d-4594-9766-7b2dd8113ed5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1680.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Generale Kaart der Kolonie Suriname, hoofdzakelijk voorstellende de tegenwoordige bebouwing dier Kolonie, vervaardigd naar vroegere en eigene opmetingen tot het jaar 1832 door: Westelyk gedeelte der Kolonie Suriname."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

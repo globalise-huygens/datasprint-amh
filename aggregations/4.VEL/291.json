@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/291.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0c1fa6a6-7c20-489c-b821-e715e53e43db",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0291.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een gedeelte van de Chinese en Vietnamese kust en zuidelijk Formosa",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van een gedeelte der Chinesche Zee en Kust, van de Boxhoornen tot Texelsbay, een gedeelte der Philippynsche Eilanden en van het Eiland Formosa.\nDe kaart heeft bruine vochtplekken en is ooit gedeeltelijk gerestaureerd.\nBestaat uit drie bladen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0291",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "67,5 x 138 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4385/kaart-van-een-gedeelte-van-de-chinese-en-vietnamese-kust-en-zuidelijk"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/35/aa/56/83/22/46/42/e0/bd/89/d3/9a/e1/c9/34/33/4e99b36e-3d75-43ec-8cbe-fd86ec8b6283.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/35/aa/56/83/22/46/42/e0/bd/89/d3/9a/e1/c9/34/33/4e99b36e-3d75-43ec-8cbe-fd86ec8b6283.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/291.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte der Chinesche Zee en Kust, van de Boxhoornen tot Texelsbay, een gedeelte der Philippynsche Eilanden en van het Eiland Formosa."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

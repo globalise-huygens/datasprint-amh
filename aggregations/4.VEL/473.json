@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/473.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/446cf682-c49e-4cc6-97c3-ff27d5710021",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0473.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Ternataanse eilanden",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Ternataansche Eilanden, Ternate, Tidor, Halmaheira of Batachina, Macquian, Batchan enz..\nDatering: In de inventaris is het jaartal 1711 bijgeschreven.\nRechtsboven genummerd: 28.\nNotities verso: Halemahera / N 1.3 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0473",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 73,5 cm",
+        "dcterms:date": "ca. 1711",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/857/kaart-van-de-ternataanse-eilanden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/91/1b/ed/1b/53/9b/47/97/a2/a8/0a/2b/30/5c/4f/a8/b5588627-a83e-44b1-b41e-fc3645488db4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/91/1b/ed/1b/53/9b/47/97/a2/a8/0a/2b/30/5c/4f/a8/b5588627-a83e-44b1-b41e-fc3645488db4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/473.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Ternataansche Eilanden, Ternate, Tidor, Halmaheira of Batachina, Macquian, Batchain enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

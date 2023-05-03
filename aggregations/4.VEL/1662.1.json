@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.1.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6328f401-5777-48fc-be7e-9f72db356c89",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_1.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een huis op de plantage Sandvoort",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nDe militair ingenieur Jan Carel Willem Herlin die begin 1780 aankwam in Berbice als opvolger van d\u2019Arnaud, tekende meteen in dat jaar een ontwerp voor een nieuwe hoofdwacht in Fort Nassau (dus nog altijd de provisorische versterking van 1764) al kwam deze pas in 1785 aan in de Republiek. In antwoord op zijn voorstel voor de hoofdwacht lieten de directeuren hem weten dat dit project en eventuele volgende voor Nieuw-Amsterdam overbodig waren geworden, omdat zij intussen Abraham van der Hart hadden gevraagd geheel nieuwe plannen voor de hoofdplaats op te stellen.\nHerlin diende zijn aandacht nu vooral te richten op de versterking van Fort Sint Andries en de andere posten aan de benedenloop van de Berbice, teneinde de kolonie beter weerbaar te maken tegen een aanval vanuit zee (zie VEL1619). Tegelijkertijd moest hij erop toezien dat Nieuw-Amsterdam in een zodanige staat van verdediging bleef dat de plaats in geval van een slavenopstand niet meer ontruimd hoefde te worden, zoals in 1763.\nDit plan voor een woonhuis op de Sandvoort plantage is onderdeel van deze plannen. Het bevat twee plattegronden, twee technische tekeningen van de balkconstructies en drie profielen.\nSchaalstok van 36 Rijnlandse voeten = 12 strepen.\nOorsprong: missive van Herlin aan de Directeur van 15 September 1785.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.1",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "ca. 1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10297/ontwerp-voor-een-huis-op-de-plantage-sandvoort"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ef/bd/e4/25/3c/ec/48/14/80/77/0c/5c/21/b2/2d/40/b8a31ed5-e5e8-4d66-9192-08581f3d75f6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ef/bd/e4/25/3c/ec/48/14/80/77/0c/5c/21/b2/2d/40/b8a31ed5-e5e8-4d66-9192-08581f3d75f6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.1.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

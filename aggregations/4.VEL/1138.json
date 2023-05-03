@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1138.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e4f8980d-11e6-478f-8278-a1247e2f24bd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1138.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Stad Palimbangh, door Jan van der Laen, als Commandeur verovert en verdestrueert.",
+        "dc:title": "Gezicht op de stad Palembang",
+        "dc:description": "Titel catalogus Leupe (NA): Afbeelding van de stad Palimbangh, door Jan van der Laen, als Commandeur verovert en verdestrueert.\nMet potlood is op de kaart bijgeschreven 1660 ? en daaronder iets onleesbaars, waarschijnlijk een initiaal.\nNotities verso: 599 b.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1138",
+        "dc:subject": [
+            "gebouw",
+            "vesting",
+            "overzicht / aanzicht",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "pagode / tempel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53,5 x 74,5 cm",
+        "dcterms:date": "ca. 1660",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4004/gezicht-op-de-stad-palembang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6e/96/aa/d4/2c/ef/41/79/90/9c/e6/34/43/69/fb/89/f21ec58c-395e-4215-a1c5-4c4a05332885.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6e/96/aa/d4/2c/ef/41/79/90/9c/e6/34/43/69/fb/89/f21ec58c-395e-4215-a1c5-4c4a05332885.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1138.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van de stad Palimbangh, door Jan van der Laen, als commandeur verovert en verdestrueert. 1659."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

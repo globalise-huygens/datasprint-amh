@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1499B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/35e914a4-035c-48cb-937b-ac92131e1351",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1499b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaart van de Rivier en Zee Kusten van DEMERARY\nde Rivier strekt tot de hoogte van t vierde Eiland\nde Oostelyke Zeekust tot de Kreek Abary\nen die ten Westen tot de kreek Boerafirie\ndoor mij ondergeschreeve\nvoor den E. Hove Prov. van Utrecht geswoore Landmeeter\nzo volgens kaarten van andere Landmeeters als van my zelve\naldus Opgemaakt\nDemerary den 1 Mey 1792, H.v.Cooten\n\nDEN WEL EDEL GESTRENGEN HEERE en Mr.\nBERNHARD ALBINUS\nword deze Kaart als voornaamste Ontwerper derzelve\nmet alle Hoogagting Opgedragen door\nzyn Wel Ed. Getr. Onderdanige Dienaar\nH.v.Cooten",
+        "dc:title": "Kaart van de kusten van Demerary",
+        "dc:description": "Titel Leupe:  Kaart van de rivier en zeekusten van Demerary; de rivier strekt tot de hoogte van 't vierde eiland; de Oostelijke zeekust tot de Kreek Mary en die ten Westen tot de\nKreek Boerasirie\nDe kaart toont de ligging van de plantages langs de kusten en rivieren, de legenda bevat een genummerde lijst van de eigenaren.\nDe kaart is opgedragen aan Bernardh Albinus\nSchaalstok van 3000 roeden.\nVEL1499A is een versneden versie van deze kaart, met slechts de legenda.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1499B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "gravure",
+        "dcterms:extent": "0,94 El (= c. 65 cm)",
+        "dcterms:date": "1792",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7528/kaart-van-de-kusten-van-demerary"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8c/40/fe/f6/be/bd/4e/b2/88/cc/3a/1e/01/3c/a2/3b/59588986-b57f-4aa8-b597-80e93e4d4909.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8c/40/fe/f6/be/bd/4e/b2/88/cc/3a/1e/01/3c/a2/3b/59588986-b57f-4aa8-b597-80e93e4d4909.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1499B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

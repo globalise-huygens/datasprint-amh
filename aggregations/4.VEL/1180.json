@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1180.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bc499024-f531-4721-b7d0-823caf8ab536",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1180.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "16 - Batavia - 50",
+        "dc:title": "Gezicht op het kasteel en de stad Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Gezigt van de Reede op het Casteel en de stad Batavia.\nAantekening catalogus Leupe: Behoort tot het rapport van A. de Vlam. van Outshoorn.\nNotities verso: 602 u / 40 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1180",
+        "dc:subject": [
+            "schip / vaartuig",
+            "banderol / cartouche / versiering",
+            "kerk / pastorie",
+            "kompas / windroos",
+            "vesting",
+            "overzicht / aanzicht",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "31 x 40,5 cm",
+        "dcterms:date": "1650",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/470/gezicht-op-het-kasteel-en-de-stad-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3b/69/2b/73/00/ac/4b/dd/94/21/f4/72/6c/8f/7d/34/c77f1e2e-cd45-415e-a205-9ab01a716754.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3b/69/2b/73/00/ac/4b/dd/94/21/f4/72/6c/8f/7d/34/c77f1e2e-cd45-415e-a205-9ab01a716754.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1180.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Gezigt van de Reede op het Casteel en de stad Batavia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

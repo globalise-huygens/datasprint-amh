@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1438.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b31550b2-350b-4d15-bd3f-c93e41e02cb0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1438.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [below] a key to the numbers 1 to 23 : \n1. het hoofdfortres Amsterdam, hetwelk de Willemstad insluit. \n2. het zoogenaamd autra-bande: of dat gedeelte van de Stad, aan de westzyde der haven. \n3. het fortres te krakesbaai genaamt bekenburg. \n4. het fortres aan de Oost zyde van de baai St. Michiel, en een kleine speel batterij aan de N:W: zijde op een berg. \n5. het fortres in de baai van Piscadera, alwaar de Engelsche in Januarij 1804 geland zijn. \n6. een batterij a barbete genaamt de kromme lijn. \n7. het fort Republiek. \n8. een speel batterij op een tamelyke hooge berg. \n9. een d:o, beide aangelegd na feb.y 1804 onder de directie van Kap.t Schmidt. \n10. het fortres Waakzaamheid op de berg van Charo. - dit fortres mede als beide voorgaande, na het vertrek der Engelsche in 1804 aangelegd, is de zelvde plaats daar de Engelsche hunne batterije hadden, en van waar zij zeer gemakkelyk de stad in de laagte leggende beschoten. \n11. de Speel batterij Wreeker, op eene hooge berg. \n12. de plaats der batterij in de baai van Porto Maria. - deeze is door de Engelsche in 1805 vernield. \n13. de plaats der batterij aan de fuijk, als boven gedemoilleerd.\n14. de plaats alwaar het Fregat Kenau Hasselaar was leggende in de attacque, en gedurende het beleg van 1804. \n15. de Hoeker Mariane, zoo als dezelve altijd met het eerste alarm schot of sein in de mond der haven word geplaatst. \n16. de plaats alwaar de schooner vliegende visch tot dekking de water plaatsen in tyd van alarm is leggende. \n17. de plaats van het Campement in het west district, alwaar het zelve bestond in Junij 1805 onder commando van den Comand.t C:G: Evertsz. \n18. de positie van het Ooster camp, onder Commando van den Commd.t P:L: Schwartz. \n19. twee speel batterijen in de paardebaaij van Aruba. gedemoilleerd door den Capt. J: v: Nes op last van \u2019t Gouvern:t in Nov: 1805. \n20. een batterij in de Commandeurs baai te bon aire. \n21. de plaats daar het Transport Schip Amsterdam is gestrand, den 26.e decemb 1802. \u2019s morgens tusschen 5 & 6 uuren. \n22. 23. twee water forten om het inkomen der haven te beletten, dezelve kunnen tegelyk met 1, 6, 7, & 14 werken.",
+        "dc:title": "Kaart van strijd bij Cura\u00e7ao in 1804",
+        "dc:description": "Titel Leupe: Schets van het Eiland Cura\u00e7ao.\nDeze anonieme schetskaart van Cura\u00e7ao van 1805 of 1806 is vervaardigd in samenhang met een verslag van de gebeurtenissen van begin 1804, toen een Brits eskader een vergeefse poging deed het eiland te bezetten.\nHet noorden is linksboven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1438",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.38 - 0.54 El. (38 x 54 cm.)",
+        "dcterms:date": "1805-1806",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7281/kaart-van-strijd-bij-cura%C3%A7ao-in-1804"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a7/86/b0/e2/98/72/4d/1b/9d/38/d0/41/bd/51/84/2c/6498cdf7-7e0c-41c8-b032-3febe3c6fb86.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a7/86/b0/e2/98/72/4d/1b/9d/38/d0/41/bd/51/84/2c/6498cdf7-7e0c-41c8-b032-3febe3c6fb86.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1438.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schets van het Eiland Cura\u00e7ao."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

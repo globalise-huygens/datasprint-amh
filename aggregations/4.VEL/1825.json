@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1825.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cb21c8d4-f28d-4753-8389-2134876f3cfb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1825.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een stuk grond, gelegen boven in Cassewinica Kreek",
+        "dc:description": "Titel Leupe: Kaart van een stuk grond, gelegen boven in Casuwinica Creeck, links in het opvaren.._\nDeze kaart toont de ligging van een kavel aan de oever van de Cassewinica Kreek.\nMet acte van meetinge.\nOorsprong: [OBP Suriname] 1732 [fols.] 78-79.\nSchaal van 60 Kettingen = 130 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1825",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.42 - 0.33 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9960/kaart-van-een-stuk-grond-gelegen-boven-in-cassewinica-kreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/22/5e/db/9e/78/8e/44/6e/ba/a5/f4/47/11/a6/7d/e5/4a736e09-07d8-48e7-af66-ae7e9beb25cc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/22/5e/db/9e/78/8e/44/6e/ba/a5/f4/47/11/a6/7d/e5/4a736e09-07d8-48e7-af66-ae7e9beb25cc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1825.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk grond, gelegen boven in Casuwinica Creeck, links in het opvaren."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

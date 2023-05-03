@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/905.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/47fc707d-1011-4bef-9bb5-1b47185162c8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0905.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Vesting Cochim, opgenomen door de landmeter Carl von Krauv",
+        "dc:title": "Plattegrond van de vesting Cochin",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de Vesting Cochim, opgenomen door den landmeter Carl von Krause, 1782.\nBehoort bij de rapporten van de militaire commissie naar de Oost 1789-1792, o.l.v. J.O. Vaillant, C.A. Verhuell en J.F.L. van Gravenstein. Zie NA Staatssecretarie inv. nr. 1910-1932; Collectie Verhuell nrs. 7-45.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0905",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "legenda",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "49 x 76 cm",
+        "dcterms:date": "1782",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2828/plattegrond-van-de-vesting-cochin"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/18/c0/6a/21/7f/64/4b/0a/b1/f2/57/d8/76/73/8a/11/78371324-a29e-4fc7-87ff-6a22140b8f6d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/18/c0/6a/21/7f/64/4b/0a/b1/f2/57/d8/76/73/8a/11/78371324-a29e-4fc7-87ff-6a22140b8f6d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/905.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Vesting Cochim, opgenomen door den Landmeter Carl von Krause, 1782."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

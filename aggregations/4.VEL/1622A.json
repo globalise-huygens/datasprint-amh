@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1622A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0c2965e8-716d-4771-a974-47c8e4bcca85",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1622a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "a key to the letters a to f (lower right):\na. de Brandwaght. \nb. het provisie Magazyn. \nc. het Kruyd Magazyn. \nd. Plein, rondom de Brandwaght. \ne. drooge Graght daerom. \nf. Brugge over de Graght.",
+        "dc:title": "Kaart van de geplande uitbreiding van de redoute Brandwagt",
+        "dc:description": "Titel Leupe: Plaan van de nieuw geprojecteerde Brandwaght aan de mond van Rio Berbice op de Ooster vaste wal.\nDe redoute Brandwacht, op de oostelijke oever van de rivier Berbice ongeveer halverwege Fort Nassau en de monding van de Canje, bestond als alarmpost waarschijnlijk al sinds de zeventiende eeuw, maar werd kort voor 1740 versterkt tot een beter te verdedigen redoute, die de naam Fort Samson kreeg.\nDit projectplan voor een nieuwe redoute Brandwacht \u2018aan de Mond van Rio Berbice\u2019 door Jan Daniel Knapp uit 1741, dat overigens pas twee jaar later in de Republiek aankwam, geeft enige verwarring.  Onduidelijk is of Knapp deze locatieaanduiding inderdaad zo bedoelde, in welk geval het dus eerder om een projectplan voor een versterking ter plaatse van het iets later gebouwde fortje Sint Andries zou gaan en de naam \u2018Brandwaght\u2019 hier moet worden opgevat in de algemene betekenis van een vooruitgeschoven alarmpost.\nOp de plaats van de \u2018echte\u2019 Brandwacht of Fort Samson is dit ontwerp in elk geval nooit gerealiseerd, evenmin trouwens als aan de monding van de Berbice.\nEen tweede kaart is beschikbaar, VEL1622B, die de tweede verdieping van dit gebouw lijkt te tonen.\nHet noorden is rechtsboven.\nDeze kaart is op 10 jan 1743 in Texel gearriveerd.\nSchaalstok van 120 Voed Rhijnl: = [ca. 1 : 235].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1622A",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.44 - 0.655 El. (48 x 69 cm.)",
+        "dcterms:date": "1741",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1917/kaart-van-de-geplande-uitbreiding-van-de-redoute-brandwagt"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d8/65/73/3b/39/f1/45/f5/85/83/61/12/d7/ec/1a/e9/376881a8-b23b-4a55-8da4-57656d0359df.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d8/65/73/3b/39/f1/45/f5/85/83/61/12/d7/ec/1a/e9/376881a8-b23b-4a55-8da4-57656d0359df.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1622A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/462.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/95e5e2e2-93ba-4725-ab90-412123524812",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0462.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de noordkust van Celebes",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart als voren, hiermee wordt bedoeld de titel van VEL0461: Kaart van de Noord en een gedeelte van de Oostkust van Celebes.\nRechtsboven genummerd: 30.\nNotities verso: D'eijlanden tusschen Mindanao ende Celebes.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0462",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 74,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5782/kaart-van-de-noordkust-van-celebes"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0d/35/5d/ca/0f/6d/40/c4/8b/db/9b/cd/e7/f6/34/05/fffbbba2-3c62-442f-b1b5-3a8644f8b927.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0d/35/5d/ca/0f/6d/40/c4/8b/db/9b/cd/e7/f6/34/05/fffbbba2-3c62-442f-b1b5-3a8644f8b927.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/462.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Noord- en een gedeelte van de Oostkust van Celebes, de Sangi- en Talautsche Eilanden, de Zuidkust van Magindanao, Ternate, Tidor enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

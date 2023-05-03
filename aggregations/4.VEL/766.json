@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/766.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bc5c4425-a31f-4ca7-b53d-d75f36fb9e89",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_766.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Het Fortress St: Sebastiaan tot Chama",
+        "dc:title": "Plattegrond van het fort St. Sebastian te Chama",
+        "dc:description": "Plattegrond van het fort St. Sebastian te Chama.\nTitel catalogus Leupe (NA): Het Fortress St: Sebastiaan tot Chama.\nHet Fortress St: Sebastiaan tot Chama.\nNotities verso: No. 25 reg. 8. / 462 [met vette cijfers gestempeld op een etiketje].\nLegenda [nummers 1 tot en met 22].\nRechtsonder: No: 12 [doorgestreept].\nLinksboven en linksonder: 766 [in potlood].\nMiddenboven: No LIII.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0766",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "legenda",
+            "vesting",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "65,5 x 48,5 cm",
+        "dcterms:date": "1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1360/plattegrond-van-het-fort-st.-sebastian-te-chama"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/46/38/0f/b6/62/35/4b/84/aa/e7/f3/ac/cc/66/79/1b/8dca96e6-1aee-490b-adbb-741df9b19b4a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/46/38/0f/b6/62/35/4b/84/aa/e7/f3/ac/cc/66/79/1b/8dca96e6-1aee-490b-adbb-741df9b19b4a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/766.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Fortress S. Sebastiaan tot Chama."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

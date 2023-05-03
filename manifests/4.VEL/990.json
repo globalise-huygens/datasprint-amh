@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/990.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caartje van 't fort Nigombo, soodanigh 't selve na de jongste reparatie en palissaderen is gelegen, zynde een irriguliere Vyfhoek met vier bolwerken voorsien enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "990"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1720"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/20cbf5de-3c6a-4882-bdc8-38daf6b0661b\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/990.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/990.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6075,
+            "width": 8712,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/990.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/990.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/56/99/29/89/bf/c8/47/17/be/55/e6/27/96/bb/5a/da/662b1235-2886-4122-96b0-dc6e6bb79da3.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6075,
+                                "width": 8712,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/56/99/29/89/bf/c8/47/17/be/55/e6/27/96/bb/5a/da/662b1235-2886-4122-96b0-dc6e6bb79da3.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/990.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

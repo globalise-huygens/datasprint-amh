@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1086.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/70171bd2-bd8c-46e4-9d33-3e72bcd5a528",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1086.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van een door Fransen ontworpen fort te Karikal",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van een fort, door de Fransen te carcal ontworpen.\nNotities verso: Plan van een fort door de franschen te Carcal ontworpen / Behoort by de Brieven en Papieren van Cormandel ontv: 1740 / 525 [folionummer in de band ?] / No. 26 [volgnummer van het stuk in de band ?] / 588 b.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1086",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "32 x 41,5 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6365/plattegrond-van-een-door-fransen-ontworpen-fort-te-karikal"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/df/a8/af/35/70/55/4d/1e/a2/d7/54/4f/f7/d5/a7/8d/f2997b71-7572-400a-9d19-7fea57abac4d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/df/a8/af/35/70/55/4d/1e/a2/d7/54/4f/f7/d5/a7/8d/f2997b71-7572-400a-9d19-7fea57abac4d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1086.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van een fort, door de Franschen te Carcal ontworpen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

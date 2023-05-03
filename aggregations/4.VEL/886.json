@@ -1,0 +1,58 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/886.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bf0272d6-9260-4f38-8861-2bddd8c9146a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0886.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Logie op Barselor, so als deselve sig aan de Landsyde vertoondt / Platte Grond van de Hollantsche Logie op Barselor A:o 1678 / De rivier van Barselor",
+        "dc:title": "Loge van Barselor",
+        "dc:description": "Titel catalogus Leupe (NA): Logie op Barselor, so als deselve sig aan de Landsyde vertoondt.\nDeze kaart betreft een weergave van de situatie in 1678 en is getekend door Isaac de Graaf na 1690, voor de Atlas Amsterdam.\nInzetkaarten: 886a en b afzonderlijk op dezelfde kaart;\n886a Platte grond van de Hollandsche Logie op Barselor A:o 1678; (18 x 33,5 cm).\n886b De rivier van Barselor van de mond tot aan de Stad. (29 x 67 cm)\nKaart van de rivier met aangegeven de stad en de Loge aan de riviermonding van de Barselor, het vervallen fort, negorij en batterij en een moors wachthuis en fort, pagode en watertank.\nRechts boven: 19\nNotities verso: 499 i [met potlood] 23.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0886",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "overzicht / aanzicht",
+            "kerk / pastorie",
+            "vesting",
+            "gebouw",
+            "schip / vaartuig",
+            "tuin / siertuin",
+            "rede / haven / pier",
+            "pagode / tempel",
+            "tanck / waterplaats / put",
+            "tolhuis / wachthuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "49 x 72 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5416/loge-van-barselor"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d9/a5/c8/f5/c7/85/44/bb/88/ad/1b/24/48/c6/33/ab/6cf3316e-8041-46a5-91d1-11beab6e33bb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d9/a5/c8/f5/c7/85/44/bb/88/ad/1b/24/48/c6/33/ab/6cf3316e-8041-46a5-91d1-11beab6e33bb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/886.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Logie op Barselor, so als deselve sig aan de Landsyde vertoondt."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

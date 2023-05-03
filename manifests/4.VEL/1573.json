@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1573.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Generaale Caart van de Geoctr. Colonie de Berbice, rivieren en districten met al de daarin gelegene plantagies, gronden en vaarbare kreken enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1573"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1772"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ccea9bfb-6ea8-4c9c-81a5-4867eedf3629\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1573.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1573.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7723,
+            "width": 13658,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1573.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1573.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/2d/b5/8d/8d/48/12/48/7e/a4/f8/3c/64/97/4c/0a/fc/4e948c5c-eb91-4fe4-90fc-0528f4fd9862.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7723,
+                                "width": 13658,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/2d/b5/8d/8d/48/12/48/7e/a4/f8/3c/64/97/4c/0a/fc/4e948c5c-eb91-4fe4-90fc-0528f4fd9862.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1573.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

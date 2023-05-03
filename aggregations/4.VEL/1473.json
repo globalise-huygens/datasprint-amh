@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1473.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9f4ef948-def0-4526-bff3-741b3b552925",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1473.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een bastion aan de kust van Santa Cruz",
+        "dc:description": "Titel Leupe: Fortificatiewerk voor de Zuidbay van St. Cruz.\nDeze schets toont een van de plannen tot versterking van de kuststrook van Cura\u00e7ao. Het hier afgebeelde bastion is een prototype dat op verschillende plaatsen kon worden gebouwd, hoewel duidelijk is dat het ontwerp specifiek werd gemaakt met het oog op de verdediging van de baaien Piscaderis, Sint Michiels en Santa Cruz.. De twee getoonde plattegronden verschillen nauwelijks met het ontwerp van een jaar terug (zie VEL1461A en D).\nSchaal van 10 Rijnlandse Roeden = 95 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1473",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.32 - 0.24 El.",
+        "dcterms:date": "1743",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1495/ontwerp-voor-een-bastion-aan-de-kust-van-santa-cruz"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/44/39/d6/3c/2b/8c/4b/94/86/2e/5b/e2/00/53/49/2c/ff72dd5d-adf8-4987-89d9-1642f96b97de.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/44/39/d6/3c/2b/8c/4b/94/86/2e/5b/e2/00/53/49/2c/ff72dd5d-adf8-4987-89d9-1642f96b97de.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1473.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Fortificatiewerk voor de Zuidbay van St. Cruz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

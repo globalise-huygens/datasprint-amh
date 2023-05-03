@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/797.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/db51f6c7-c379-4c29-a4a3-d0c96006c2de",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_797.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de kust van Angola tussen Rio Dande en Rio Coan\u00e7a",
+        "dc:description": "Kaart van de kust van Angola tussen Rio Dande en Rio Coan\u00e7a.\nTitel catalogus Leupe (NA) : Kaart van de Kust van Angola, tusschen Rio Dande en Rio Coan\u00e7a.\nMiddenboven: 797 [in potlood].\nMiddenonder: No: 18.\nNotities verso: Africa W.K. de kust van Angola 8 graden 30 tot 9 graden 30 Z Br [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0797",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "24 x 36 cm",
+        "dcterms:date": "1600-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7158/kaart-van-de-kust-van-angola-tussen-rio-dande-en-rio-coan%C3%A7a"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/14/dc/6e/74/67/5b/4e/8a/be/04/42/39/61/f4/91/6b/940e3d67-0c9a-428f-b26b-3764bcc74ecb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/14/dc/6e/74/67/5b/4e/8a/be/04/42/39/61/f4/91/6b/940e3d67-0c9a-428f-b26b-3764bcc74ecb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/797.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Kust van Angola, tusschen Rio Dande en Rio Coan\u00e7a."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

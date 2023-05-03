@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.13.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ed2bec51-cebe-40e1-b7f2-393838be4353",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_13.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een balkconstructie",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nDe militair ingenieur Jan Carel Willem Herlin die begin 1780 aankwam in Berbice als opvolger van d\u2019Arnaud, tekende meteen in dat jaar een ontwerp voor een nieuwe hoofdwacht in Fort Nassau (dus nog altijd de provisorische versterking van 1764). Dit bereikte echter pas in 1785 de Republiek. Dit ontwerp voor een balkconstructie is waarschijnlijk onderdeel van het pakket dat Herlin naar de Republiek stuurde, aangezien het de schrijfstijl en het kleurgebruik van de cartograaf heeft. Helaas is onbekend voor welk gebouw dit ontwerp gemaakt is, maar het lijkt voor de hoofdwacht zelf bestemd. In antwoord op zijn voorstel voor de hoofdwacht lieten de directeuren hem weten dat dit project en eventuele volgende voor Nieuw-Amsterdam overbodig waren geworden, omdat zij intussen Abraham van der Hart hadden gevraagd geheel nieuwe plannen voor de hoofdplaats op te stellen.\nZie ook: missive van Herlin aan de Directeur van 15 September 1785.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.13",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "ca. 1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1954/ontwerp-voor-een-balkconstructie"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9d/9c/d5/5f/19/c2/43/4b/92/7e/7d/47/c2/fb/18/d0/79045c57-f46c-4978-a262-948ec0501550.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9d/9c/d5/5f/19/c2/43/4b/92/7e/7d/47/c2/fb/18/d0/79045c57-f46c-4978-a262-948ec0501550.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.13.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 13"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

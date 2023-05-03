@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1287.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d6f310f0-2c92-4a7f-b778-d6de0c867081",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1287.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plaan van het Fort en omleggende Cituatie van Bankallingh op Madura",
+        "dc:title": "Plattegrond van het fort en omstreken te Bankalling",
+        "dc:description": "Titel catalogus Leupe (NA): Plaan van het Fort en omleggende cituatie van Bankallingh op Madura.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nRanden zijn rondom helemaal geplakt.\nNotities verso: Plaan van het fort en omleggende cituatie van Bankalling op Madura Ao 1719 [staat zowel aan de linker\nals aan de rechterkant] / No. 87 [vrij groot geschreven op een etiketje] / 649 [met vette cijfers gestempeld op een etiketje] / No. 21 Fort Bankalingh op Madura Register 2 Deel 1 Folio 8 Porte-feul [geschreven op een blauw etiket].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1287",
+        "dc:subject": [
+            "landerij / plantage",
+            "plattegrond / kaart",
+            "vesting",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41 x 49,5 cm",
+        "dcterms:date": "ca. 1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7150/plattegrond-van-het-fort-en-omstreken-te-bankalling"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/86/ea/df/00/19/cb/43/9a/a1/9d/b2/b0/46/b7/d4/95/e05f2d46-2172-445a-a33b-5b1e973cdcc1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/86/ea/df/00/19/cb/43/9a/a1/9d/b2/b0/46/b7/d4/95/e05f2d46-2172-445a-a33b-5b1e973cdcc1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1287.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van het Fort en omleggende cituatie van Bankallingh op Madura."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

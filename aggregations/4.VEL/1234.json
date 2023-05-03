@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1234.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/089b80a8-64d5-4d01-84b2-2fb9709e5894",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1234.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De bovenstaande aftekening vertoont van het opstal van de Capel by den Ed. Heer van Diemen zal:r geprojecteert, staende binnen het Casteel Batavia, [enz.]",
+        "dc:title": "De kapel binnen kasteel Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Aftekeningh van het opstal van de Capel by den Ed. Heer van Diemen zal: geprojecteert, staende binnen het Casteel enz.\nIn de catalogus Leupe is bijgeschreven: onder v. Diemen niet hoger dan kroonlijst. 100 j. gebleven daarna toren dak en een verwijzing naar een catalogus van een tentoonstelling Amsterdam 1919.\nNotities verso: Behoort by de Papieren van algemeen Bestuur 1658 fol. 172 Portef: 1658 I / 173 [moet het folionummer in de band OBP zijn] / 602 ff / 40. / 1658 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1234",
+        "dc:subject": [
+            "kerk / pastorie",
+            "overzicht / aanzicht",
+            "vesting",
+            "ornament (van gebouw)"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "58,5 x 32,5 cm",
+        "dcterms:date": "ca. 1658",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/474/de-kapel-binnen-kasteel-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4e/33/73/46/fc/71/43/bf/89/7c/1a/f0/9d/1f/f5/81/68f20134-a037-401e-9a7f-58dd34fd9c49.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4e/33/73/46/fc/71/43/bf/89/7c/1a/f0/9d/1f/f5/81/68f20134-a037-401e-9a7f-58dd34fd9c49.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1234.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Aftekeningh van het opstal van de Capel by den Ed. Heer van Diemen zaliger geprojecteert, staende binnen het Casteel enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

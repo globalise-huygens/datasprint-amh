@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1968.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1593d390-65b0-4340-8b91-d4813aa82413",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1968.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de grond van de heer Lemmers",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien Queekhoven, gelegen tusschen Norandibo en de lage\ngrond behorende tot de Sandtritz Norandibo (links in 't opvaren)..\nDeze kaart toont twee kavels van de plantage Java, eigendom van de heer Lemmers (A-H), lid van de raad van politie en de Civile Justitie, ten westen (boven op de kaart) van de Mot-kreek.\nDe heer A.B. Lemmers heeft de meting aangevraagd nadat hij de koffieplantage Queekhoven  (A-D) en de plantage Sanderits Norandibo (E-H) heeft verworven tussen de jaren 1684 en 1721.\nDe kavels blijken 1000 Surinaamse akkers (430 hectare) te meten.\nTen zuiden (links van op de kaart) ligt het bos van de weduwe Villepontou.\nDe kaart betreft een kopie uit 1748 die gemaakt is om aan te tonen dat de landmeter Lavaux nooit de plantage Santris Norandibo ten zuiden van de plantage (links van op de kaart) heeft gemeten en slechts vermeldde dat deze eigenlijk tot de plantage Java behoort, ook al ligt hij feitelijk buiten de grenzen ervan.\nDe oorspronkelijke kaart is ondertekend op 3 Januari 1731.\nSchaal van 40 Kettingen \u00e0 66 Rijnlandse voeten = 83 strepen.\nOorsprong: [OBP Suriname] 1749 La B.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1968",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.27 El.",
+        "dcterms:date": "1748",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10064/kaart-van-de-grond-van-de-heer-lemmers"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a2/f3/09/00/33/1e/4c/d8/b5/ca/57/33/91/6c/c8/ff/7ecdd893-d7ce-41b9-bf37-a513e8e45230.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a2/f3/09/00/33/1e/4c/d8/b5/ca/57/33/91/6c/c8/ff/7ecdd893-d7ce-41b9-bf37-a513e8e45230.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1968.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien Queekhoven, gelegen tusschen Norandibo en de lage grond behorende tot de Sandtritz Norandibo (links in 't opvaren)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

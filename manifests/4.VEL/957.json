@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/957.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Profilen door de vestingswerken rond Kolombo, met desselfs straten en het Kaffersveld, mitsgaders de oude Stad, behorende aan de situatie-kaart."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "957"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1785"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/8e7710f0-f606-4cb1-b5fe-d2f3acde524a\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/957.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/957.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8091,
+            "width": 28759,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/957.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/957.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f8/01/28/d0/af/8e/49/fa/a7/c3/f3/72/b2/40/f1/75/0ae24e40-4e83-4a31-a029-6bc28860d111.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8091,
+                                "width": 28759,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f8/01/28/d0/af/8e/49/fa/a7/c3/f3/72/b2/40/f1/75/0ae24e40-4e83-4a31-a029-6bc28860d111.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/957.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1669.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c9c4ad5f-306b-4efc-85e9-6df80b9f099c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1669.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantages tussen de rivieren Berbice en Sinamari",
+        "dc:description": "Titel Leupe: \u201cKaart van de Kust tusschen Berbice en Cayenne.\u201d\nDe hoofdkaart toont de kust tussen de rivieren Sinamari en Berbice, de inzetkaart linksboven dient als indicatie van dit gebied en de inzetkaart daaronder toont de stad Paramaribo. De laatsgenoemde kaart noemt alle straten en hoofdgebouwen. De hoofdkaart geeft de namen van zo\u2019n 350 bestaande plantages en zo\u2019n 50 aan te leggen plantages rond de monding van de Commewijne rivier. Aan de zijkanten is een zeer omvangrijke namenlijst van de eigenaren te vinden. Van omliggende nog niet bewerkte gebieden zijn slechts het relief, de namen van savannes en een klein aantal dorpen aangegeven. Naast een onderkomen van 'Indianen'  vallen de 'wegloopers dorpen van rebelle slaaven' op die als een paar huisjes met rookwolken aan het eind van de Cottica kreek zijn getekend, vlak onder de inlegkaart van Paramaribo.\nEr is zowel een gekleurd als ongekleurd exemplaar beschikbaar.\nHet noorden is onder.\nSchaal van 1500 Kettingen \u00e0 66 Rijnlandse voeten = 130 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1669",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.59 - 0.72 El.",
+        "dcterms:date": "1737",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9781/kaart-van-de-plantages-tussen-de-rivieren-berbice-en-sinamari"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7d/fa/ed/b2/bd/06/47/46/a4/71/68/2e/9a/ef/c6/7e/7a563f5a-bce3-445e-9ab1-c4816a5f5f59.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7d/fa/ed/b2/bd/06/47/46/a4/71/68/2e/9a/ef/c6/7e/7a563f5a-bce3-445e-9ab1-c4816a5f5f59.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1669.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Gekleurd exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

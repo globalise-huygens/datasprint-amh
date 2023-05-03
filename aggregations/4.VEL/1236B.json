@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1236B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/355dc524-238a-4a0f-9231-4b71a4ecc5ca",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1236b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plannen voor de bebouwing van een gedeelte ten westen van de Grote Rivier te Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Plannen ter bebouwing van een gedeelte bewesten de Groote rivier.\nLinks onder met potlood genummerd: 59.\nDe randen zijn op verschillende plaatsen gescheurd.\nNotities verso: N3 1744 / 1433 [moet het folionummer in de band OBP zijn] / 602 dd / 1744 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1236B",
+        "dc:subject": [
+            "gebouw",
+            "overzicht / aanzicht",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "72 x 139 cm",
+        "dcterms:date": "ca. 1744",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3429/plannen-voor-de-bebouwing-van-een-gedeelte-ten-westen-van-de-grote"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/de/14/dc/e2/53/6f/45/fd/8f/29/e9/70/fd/50/c5/db/b9fe2a52-dbee-41bc-a3dc-99f0510a5286.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/de/14/dc/e2/53/6f/45/fd/8f/29/e9/70/fd/50/c5/db/b9fe2a52-dbee-41bc-a3dc-99f0510a5286.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1236B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

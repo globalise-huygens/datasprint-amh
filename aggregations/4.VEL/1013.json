@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1013.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0f7edeeb-b3f2-4b5f-8fd9-16b8a17af955",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1013.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Project tot betere bevestiging van 't fort Trinconomal\u00e9 en de daaragter geleegene Pagoodsberg / zoo verre dit plan strekt ten mindsten, dienen ook alle daar nog staande Huysen en Tuynen geslecht en opgeruimt te werden, om aan 't Canon der plaatse eene Esplanade van ruim 200 Roeden te bezorgen.",
+        "dc:title": "Plattegrond van het fort te Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Project tot beter Bevestiging van 't fort Trinconomal\u00e9 en de daaragter geleegene Pagoodsberg.\nPlattegrond van de nieuwe vestingwerken ter verbetering van het fort Trinconomale tussen de stad en de noorder en zuiderbaai.\nAantekening catalogus Leupe: Behoort bij het rapport van de militaire staatscommissie naar de Oost o.l.v. J.O. Vaillant, C.A. Ver Huell en J.F. van Gravenstein. Zie voor rapport: NA Stadhouderlijke secretarie, inv. nrs. 1910-1932, Collectei Verhuell inv. nrs, 7-45.\nNotities verso: [Blauw etiket ODG] nr.: 35 Verbetering van Trinconomale. Etiket nr. 553.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1013",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "bazaar / markt",
+            "scheeps- / timmerwerf"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "35 x 53 cm",
+        "dcterms:date": "1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4781/plattegrond-van-het-fort-te-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fe/47/6c/10/01/50/4e/fc/ac/b1/02/1c/dc/21/5e/4b/d8205aa8-f61a-400b-a5a5-b2a951950859.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fe/47/6c/10/01/50/4e/fc/ac/b1/02/1c/dc/21/5e/4b/d8205aa8-f61a-400b-a5a5-b2a951950859.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1013.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Project tot betere bevestiging van 't fort Trinconomale en de daaragter geleegene Pagoodsberg."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1821.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f3c6b970-adcc-45f2-aafa-a0a31b2d34c2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1821.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van (on-)bewerkte landen rond het fort Nieuw Amsterdam",
+        "dc:description": "Titel Leupe: Kaart van de onbewerkte landen van het fortres N. Amsterdam, besloten tusschen de Plantages Soelen, Voorburg enz.\nDeze kaart toont de ligging van bewerkte en onbewerkte stukken land rond het fort Nieuw Amsterdam.\nIn het stuk land ten Noordoosten van het fort staat geschreven:\u2019t Bosch, waar de schijff voor \u2019t Excerceeren met Canonnen, geplatz is.\nDe kaart is voorzien van aantekeningen.\nSchaal van 40 Kettingen a\u0300 5 1/2 Rijnlandse roeden = 133 strepen.\nZie ook kaart VEL 1822.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1821",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.55 - 0.53 El.",
+        "dcterms:date": "1789",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1973/kaart-van-on--bewerkte-landen-rond-het-fort-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1b/4d/bc/55/a1/82/40/6b/93/da/a5/a1/22/51/7c/60/6e27a44c-16fd-4588-beb7-434517b3e844.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1b/4d/bc/55/a1/82/40/6b/93/da/a5/a1/22/51/7c/60/6e27a44c-16fd-4588-beb7-434517b3e844.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1821.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

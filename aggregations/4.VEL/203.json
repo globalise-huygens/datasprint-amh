@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/203.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0c15131e-6c99-4f33-93b7-e9582e99881b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0203.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caert van s' Comps. nieuw aengekogte Land an Rio de LaGoa",
+        "dc:title": "Kaart van nieuw aangekochte landen aan Rio de la Goa",
+        "dc:description": "Titel catalogus Leupe (NA): Caert van s' Comps. nieuw aangekochte Landen aen Rio de la Goa.\nKaart van Rio de la Goa waarop de nieuw aangekochte gronden van de VOC met rood zijn aangegeven.\nNotities verso: per de Zeepost 28 Jan:y 1727 'Ca[...] het aengekocgte land voor de Vereenigde Neederlandse oostindisch Maetschappy, omme en by haer edel hoogh en grood aghtbaerheeden Fortresse ae: R:o de Lagoa No 16'.\nLegenda: 1-3",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0203",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "landerij / plantage",
+            "kompas / windroos",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "655 x 965 mm",
+        "dcterms:date": "december 1726",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4709/kaart-van-nieuw-aangekochte-landen-aan-rio-de-la-goa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cb/68/c7/8e/d4/3e/45/74/af/7f/83/3e/ee/e4/5d/f1/1e71ba55-dbd0-44b8-8a35-2975ccec6b44.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cb/68/c7/8e/d4/3e/45/74/af/7f/83/3e/ee/e4/5d/f1/1e71ba55-dbd0-44b8-8a35-2975ccec6b44.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/203.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caert van 's Compagnie's , nieuw aangekochte Landen aen Rio de la Goa."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

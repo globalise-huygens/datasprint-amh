@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2085.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a7194bc8-d449-4c61-91cd-da742950cae2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2086-432899988.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [linksonder] een legenda bij de letters a en b : \nExplanations: [lower left] a key to the letters a and b : \na & b Geobserveerde Plaatsen, waar de Surinaamsche paquet, ten Anker leggende nog onder het Geschut van de Post is.",
+        "dc:title": "Kaart van de post Marowijne",
+        "dc:description": "Titel Leupe: Situatie der Post Prins Willem Frederic, aan de zyde van de rivier Marowyne, aangelegd door H.L.C.Bernhardy.\nDeze kaart toont de Nederlandse militaire post die halverwege de achttiende eeuw was gevestigd op de westelijke oever van de monding van de Marowijne. Vanaf de tweede helft van dat decennium, toen de Fransen hun claim op het gebied tussen de Sinnamary en de Marowijne nadrukkelijker deden gelden, werd de post periodiek versterkt. Het belang ervan nam aanzienlijk toe nadat de Fransen in 1766 in dit door hen verder nog niet in cultuur gebrachte gebied een fortje of redoute op de oostoever van de Marowijne hadden opgericht. Dit leidde tot toenemende desertie van de Surinaamse militairen, wat tot dan toe door de onherbergzaamheid van de grensstreek lastiger was geweest. Bij de vernieuwing van de post in 1793 door de militair ingenieur Bernhardi kreeg deze de vorm van een veel grotere driehoek bestaande uit drie afzonderlijk te verdedigen hoekfortjes of bastions verbonden door een palissade.\nDeze kaart,een kopie door J.F. Roux naar originelen van Bernhardi, toont de nieuwe opzet, en maakt oorspronkelijk klaarblijkelijk deel uit van een serie met betrekking tot de versterking van meerdere kustposten uit 1793. De kaart toont de positie van het fort ten opzichte van de rivier bij eb en vloed. De post Marowijne was voor 1793 hernoemd tot Prins Willem Frederik, naar de in 1772 geboren oudste zoon en erfopvolger van stadhouder Willem V, de latere koning Willem I.\nHet noorden is rechtsboven.\nSchaalstok van 15 Kettingen a 66 Voeten Rhijnl: = [ca. 1 : 1.530].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2085",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "31,5 x 41,5 cm.",
+        "dcterms:date": "1793",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10199/kaart-van-de-post-marowijne"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/18/72/05/d2/92/b3/4f/66/a1/7f/69/75/d3/07/ca/3a/164c3a9c-c5e9-442b-83e2-a8bd9f376c28.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/18/72/05/d2/92/b3/4f/66/a1/7f/69/75/d3/07/ca/3a/164c3a9c-c5e9-442b-83e2-a8bd9f376c28.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2085.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Situatie der Post Prins Willem Frederic, aan de zyde van de rivier Marowyne, aangelegd door H.L.C.Bernhardy, 1793."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1301.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/214f7ec2-eea2-40c8-9b28-180230311ba7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1301.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De bogt van Boni",
+        "dc:title": "Kaart van het gebied rondom Tanete en Bone op Celebes met de expeditie van Smout tegen Towadjo",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van een gedeelte van de Westkust, tusschen R. Labakang en de Baay van Para Para, en aan de Oostkust tusschen R. Kayoe en de Hoek Tjipoe.\nNotities verso: 906 g [in potlood].\nIn de omgeving van Tjinrana Boni zijn kampementen en veldslagen weergegeven. Het betreft de expeditie van gouverneur A.H. Smout tegen de Towadjo in 1741.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1301",
+        "dc:subject": [
+            "kampement / legerplaats",
+            "expeditie",
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "63,5 x 70,5 cm",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6728/kaart-van-het-gebied-rondom-tanete-en-bone-op-celebes-met-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1f/49/b8/a7/e1/6e/40/77/a6/5b/8d/e1/31/ee/0e/6b/1414906d-fb96-4123-8fcb-15c6db165278.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1f/49/b8/a7/e1/6e/40/77/a6/5b/8d/e1/31/ee/0e/6b/1414906d-fb96-4123-8fcb-15c6db165278.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1301.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de Westkust tusschen R. Labakang en de Baay van Para Para, en aan de Oostkust tusschen R. Kayoe en de Hoek Tjipoe."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2127.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van 't district van Boven-Cottica tot aan Rio Marowyne, met de positive legging van 't verovert Boschnegerdorp, genoemt Boekoe, en van verscheydene weegen en paeden daer naer toe, van diverse plaetsen lydende."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2127"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1773"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/9dade046-e4fb-4ae2-953c-15cba396c053\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2127.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2127.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7987,
+            "width": 9024,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2127.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2127.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/98/b0/e7/44/5e/df/4b/5b/90/b9/ac/5a/53/81/df/eb/3d51cf44-3be5-4155-b334-e19f5939db9e.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7987,
+                                "width": 9024,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/98/b0/e7/44/5e/df/4b/5b/90/b9/ac/5a/53/81/df/eb/3d51cf44-3be5-4155-b334-e19f5939db9e.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2127.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

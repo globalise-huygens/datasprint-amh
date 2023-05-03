@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/396.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ecfad0f7-6fd2-4152-9c84-70245b02ecc2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0396.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart met peilingen in de rivier van Batavia",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart als voren, hiermee wordt bedoeld de kaart van VEL0388: Kaarten van gedane peilingen op de bank voor de Rivier.\nPeildatum: 12 oktober.\nNotities verso: Kaart vande peijling vande Zandbank voor de Bataviase groote Rivier den 12e october 1719 [deze tekst vrijwel identiek twee keer, zowel links als rechts] /     Behoort by de overgekomen Brieven en Papieren van Batavia 1720 2 deel / 998 [folionummer in de band ?] / No. 33 [volgnummer van het stuk in de band ?] / 268 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0396",
+        "dc:subject": [
+            "gebouw",
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 74,5 cm",
+        "dcterms:date": "1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3584/kaart-met-peilingen-in-de-rivier-van-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2a/71/ad/21/bf/38/4e/09/a9/dd/34/9c/ee/24/95/16/1dbe7c53-9797-44c0-80c2-731509dab3f7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2a/71/ad/21/bf/38/4e/09/a9/dd/34/9c/ee/24/95/16/1dbe7c53-9797-44c0-80c2-731509dab3f7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/396.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaarten van de gedane peilingen op de bank voor de Rivier, 1719 oktober 12.\n                            "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

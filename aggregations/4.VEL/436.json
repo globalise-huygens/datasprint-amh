@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/436.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/61ebceea-54c8-480b-a349-bfa7457f6a0b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0436.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de zuidkust van Java",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Zuidkust van Java, van 't West Eynde off de Eerste hoeck van Java tot de hoeck van Wynkoopsbergen.\nLinksboven is een rond aflopende strook aangeplakt van 26 x 16 cm op het breedste punt.\nNotities verso: 5 caarten van de Suijdhoek van het Eijland Noessa Cambangan tot inde Straat Sunda, no. 37.\nDe afbeelding toont een plattegrond van de zuikust van Java met de volgende aanduidingen: T. west Eijnde off de Eerste Hoek van Java, Hier Langs Heen, Hoogh. Steyl Gebergt aan de Zeekant, Berg Jajantij.\nOnder de schaalverdeling Duijtsche Mijlen 15 Voor Den Graadt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0436",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "gebouw",
+            "kompas / windroos",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "104,5 x 251 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8320/kaart-van-de-zuidkust-van-java"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/41/b3/17/65/d4/07/40/4f/bf/f8/3c/63/41/7c/6f/46/9511494c-7909-4bf7-b740-419e8b6bb090.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/41/b3/17/65/d4/07/40/4f/bf/f8/3c/63/41/7c/6f/46/9511494c-7909-4bf7-b740-419e8b6bb090.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/436.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Zuidkust van Java, van 't West Eynde off de Eerste hoeck van Java tot de hoeck van Wynkoopsbergen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

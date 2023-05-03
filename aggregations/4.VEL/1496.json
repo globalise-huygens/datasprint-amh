@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1496.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/96aeb941-798f-4b01-bdaf-29020e3aa440",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1496.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "- Rios Essequebe et Demerary - Tot hier koomen de handelaars van Essequebe.- Lac van Parima meest uyt verdonken Landen bestaande.- Weg der Spanjaarden A:o 1747 ter ontdekking.",
+        "dc:title": "Gebied tussen Essequibo en Demerara",
+        "dc:description": "Titel Leupe:  Rios Essequebe et Demerary\nSchetskaart van het gebied tussen de Orinoco en de Marowijne, gemaakt op basis van een kaart van een Spaanse verkenning uit 1747. De kaart toont het terrein, de route van de Spaanse expeditie, Nederlandse vestigingen en Spaanse missieposten.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1496",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "perkament",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "26 x 22 cm",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7521/gebied-tussen-essequibo-en-demerara"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3f/08/d5/7a/4e/4b/49/b7/bc/73/b3/ea/39/97/fc/a4/7334814b-aa0a-4754-8f12-10cbce085fc1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3f/08/d5/7a/4e/4b/49/b7/bc/73/b3/ea/39/97/fc/a4/7334814b-aa0a-4754-8f12-10cbce085fc1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1496.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                              Rios Essequebe et Demerary."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

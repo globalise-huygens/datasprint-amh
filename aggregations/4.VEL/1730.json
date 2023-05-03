@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1730.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3e6fbfe2-5f15-4049-a520-c51a83d2844c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1730.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een perceel aan de Parakreek",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen in de Para Creeq, links in het opvaren.\nDeze meting van een perceel rondom de Parakreek is uitgevoerd in opdracht van de eigenaar ervan: Jan Adams. De omvang van het stuk grond blijkt 1286 Surinaamse akkers te zijn, oftwel 552,98 hectare. Verder zijn de verschillende soorten bossen en een savanne op het perceel aangegeven. De kaart is ondertekend op 12 Januari 1719 en erkend op 2 April 1719.\nHet noorden is linksboven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1730",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.42 - 0.325 El.",
+        "dcterms:date": "1719",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10412/kaart-van-een-perceel-aan-de-parakreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a7/6f/fb/7e/7e/83/42/3d/bd/cb/22/e7/f9/31/08/c4/2e9be915-2009-4ad9-aa3e-694485b53014.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a7/6f/fb/7e/7e/83/42/3d/bd/cb/22/e7/f9/31/08/c4/2e9be915-2009-4ad9-aa3e-694485b53014.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1730.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen in de Para Creeq, links in het opvaren."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/471.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e1b2d907-33f5-4974-a336-411ab6bb2c0c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0471.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Oubyse eiland en omgeving",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van Oubyse Eylanden, Ouby Major, Ouby Laten, het Eyland Maga, met alle daeromleggende reven enz..\nNotities verso: No. 27.\nDe kaart toont  de eilanden T Eylant Maga, Oubij Laten, Oubij Majoor en kleine omringende eilanden.\nLinks de schaalverdeling Duijtsche Mijlen 15 Voor Een Graadt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0471",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "94 x 140,5 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5791/kaart-van-oubyse-eiland-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3d/dd/75/f8/0c/00/42/04/9d/a8/d2/eb/7f/0e/1e/dd/288e7508-c0f9-461b-bab8-c5b91d520ace.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3d/dd/75/f8/0c/00/42/04/9d/a8/d2/eb/7f/0e/1e/dd/288e7508-c0f9-461b-bab8-c5b91d520ace.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/471.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Oubyse Eylanden, Ouby Major, Ouby Laten, het Eyland Maga, met alle daeromleggende reven enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

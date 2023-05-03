@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1229.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/df88a64d-41a2-4a84-846e-fdc0f662f223",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1229.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Plan off Grond Teekening van 's Comps. Binnen Hospitaal te Batavia, alsmeede de Wooningen en verdere aanhoorige Gebouwen zo als dezelve met de Merkletter en hunne Benaaming werden aangtoond, [...]",
+        "dc:title": "Plattegrond van het hospitaal te Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): De Plan off Grondteekening van 's Comps. Binnen-Hospitaal te Batavia, alsmede de wooningen en aanhoorige gebouwen enz..\nNotities verso: Teekening van 't binnen hospitaal te Batavia, doorsnijding, behoord tot het berigt vanden fabriek Beijvanck of no. 56 / No. 1 Binnen Hospitaal te Batavia. Register 3, Deel 1, Folio 9, Portefeuille .. [geschreven op een blauw etiket] / 1776 [in potlood, misschien het jaartal ?] / 857a [in potlood, letter onduidelijk].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1229",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "gebouw",
+            "ziekenhuis / lazaret",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "69,5 x 86,5 cm",
+        "dcterms:date": "1700-1750",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3661/plattegrond-van-het-hospitaal-te-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9e/b0/30/56/1d/f3/45/24/9f/8e/c2/55/18/cc/a0/4c/037bbfd1-5577-46d1-b79c-5abc39dffacc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9e/b0/30/56/1d/f3/45/24/9f/8e/c2/55/18/cc/a0/4c/037bbfd1-5577-46d1-b79c-5abc39dffacc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1229.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "De Plan off Grondteekening van 's Comp.s Binnen-Hospitaal te Batavia, alsmede de wooningen en aanhoorige gebouwen enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

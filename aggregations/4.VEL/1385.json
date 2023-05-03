@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1385.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f6740786-88ce-43a1-ad9f-531140d1fa7d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1385.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de noordelijke Britse koloni\u00ebn in Noord-Amerika",
+        "dc:description": "Titel Leupe: A Chorographical Map of the Northern department of North America etc.\nDeze kaart van landaanspraken en -aankoop in noordoostelijk New York en erkende gemeentes in Vermont en gedeeltes van New Hampshire en Massachusetts, is gedrukt in Amsterdam aan het eind van de Amerikaanse Revolutie. De kadasterregisters transformeerden langzaam gedurende de revolutie en het belang van Amsterdamse drukkers nam toe naarmate de politieke invloed van Engeland verminderde.\nHet noorden is links.\nSchaal van ca. 1: 768,000.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1385",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "51 x 62 cm",
+        "dcterms:date": "1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7198/kaart-van-de-noordelijke-britse-koloni%C3%ABn-in-noord-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/30/d1/04/25/9b/13/49/8e/bc/15/ba/37/a5/dc/18/f0/33f48faa-5894-4f00-8cc1-322905f68f09.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/30/d1/04/25/9b/13/49/8e/bc/15/ba/37/a5/dc/18/f0/33f48faa-5894-4f00-8cc1-322905f68f09.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1385.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A Chorographical Map of the Northern department of North America etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

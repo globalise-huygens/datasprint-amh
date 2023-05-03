@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1162.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0844986a-12f7-4c78-9c3f-bbe401477fe2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1162.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Lantkaart van Cherebon tot Golongrong en Madura gemaakt Anno 1684 in de maanden September en October",
+        "dc:title": "Kaart van een deel van de noordkust van Java, omgeving Cirebon",
+        "dc:description": "Titel catalogus Leupe (NA): Landkaart van Cheribon tot Golongrong en de negory Madoera.\nRechtsboven genummerd: 4.b.\nAan de vier randen is een strook papier geplakt van 3 tot 3,5 cm.\nAfkomstig uit de Atlas Amsterdam.\nNotities verso: Land-kaart van Cheribon tot Golongono en Matoero. / 602 h.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1162",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "1684",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4276/kaart-van-een-deel-van-de-noordkust-van-java-omgeving-cirebon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4f/36/4a/3a/83/4a/43/a2/bf/e5/0a/1f/2a/81/15/ef/f779d057-124a-4168-a52f-fa64f05eaa60.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4f/36/4a/3a/83/4a/43/a2/bf/e5/0a/1f/2a/81/15/ef/f779d057-124a-4168-a52f-fa64f05eaa60.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1162.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Landkaart van Cheribon tot Golongong en de negory Madoera."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

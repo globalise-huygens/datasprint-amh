@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1423.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cf38e59f-d07c-4c37-8b4a-76d244bc35e5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1423.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van Franse zoutwinning op Saint-Martin",
+        "dc:description": "Titel Leupe: Plan des Salins de Saint Martin (partie Francaise).\nDeze Franse plattegrond van twee nederzettingen op het Franse deel van het eiland Saint-Martin is gemaakt met chromolithografie, wat de datering van de kaart waarschijnlijk plaatst na 1837, het jaar dat deze druktechniek in Frankrijk werd gepatenteerd. De kaart geeft daarom vermoedelijk de situatie weer in de vroege negentiende eeuw, en bevat een uitgebreide index van verschillende takken van de zoutwinning die centraal stond in dit gebied.\nSchaal aangegeven als 1:8000.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1423",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "litho",
+        "dcterms:extent": "0.28 - 0.35 El.",
+        "dcterms:date": "1837-1872",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10366/plattegrond-van-franse-zoutwinning-op-saint-martin"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e7/0e/53/a0/d3/61/4e/ec/91/b6/7a/18/f8/4a/3a/10/16fb7252-78a7-4674-b56b-4108ec73e186.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e7/0e/53/a0/d3/61/4e/ec/91/b6/7a/18/f8/4a/3a/10/16fb7252-78a7-4674-b56b-4108ec73e186.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1423.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan des Salins de Saint Martin (partie Francaise)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

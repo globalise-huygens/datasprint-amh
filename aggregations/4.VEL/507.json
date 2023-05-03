@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/507.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7af069f4-49ee-4fe0-94d7-17bc93088e09",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0507.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t Lant van Eendracht oft Afbeeldinge van 't Zuydlandt ontdeckt door den schipper Samuel Volckerts in de Maendt Februario En Maart Ao 1658, met de Wakende Boey",
+        "dc:title": "Kaart met een kustdeel van Australi\u00eb",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart als voren, hiermee wordt bedoeld de titel van VEL0506: Kaart van 't Lant van Eendracht off Afbeeldinge van 't Zuydlandt ontdeckt door den schipper Samuel Volckertsz. in de Maendt Februario En Maart Ao 1658, met de Wakende Boey.\nDe achterkant van de kaart  is ter versteviging met een vel papier beplakt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0507",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51 x 72,5 cm",
+        "dcterms:date": "Februari/Maart 1658",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9163/kaart-met-een-kustdeel-van-australi%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e2/fe/18/ff/66/a9/44/50/af/c2/0f/85/13/1e/71/01/06965316-e427-4f66-9aa3-b64f7e23901d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e2/fe/18/ff/66/a9/44/50/af/c2/0f/85/13/1e/71/01/06965316-e427-4f66-9aa3-b64f7e23901d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/507.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van 't Lant van Eendracht, off afbeeldinge van 't Zuytlandt. Ontdeckt door den schipper Samuel Volckertz, in de maendt Februarie en Maart, A' 1658, met de Wakende Boey."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

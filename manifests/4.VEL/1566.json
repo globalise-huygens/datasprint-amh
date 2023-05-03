@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1566.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Accurate plan van de staat en loop van Rio Berbice, leggende in de geoctroyeerde Colonie de Berbice, opgenomen en geteekent door Jan Daniel Knapp"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1566"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1740"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/8c5194eb-6c99-4bf7-91b1-22e359e62bfa\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1566.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1566.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8332,
+            "width": 27595,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1566.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1566.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/98/07/6b/85/2e/94/41/bd/bf/59/62/36/1c/58/0b/2e/fb06836c-a92c-4bcb-960b-6851ad45f16a.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8332,
+                                "width": 27595,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/98/07/6b/85/2e/94/41/bd/bf/59/62/36/1c/58/0b/2e/fb06836c-a92c-4bcb-960b-6851ad45f16a.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1566.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

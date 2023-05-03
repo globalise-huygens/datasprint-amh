@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2090.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/123df953-35d7-41cf-bfff-303c8d14b541",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2090.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plan voor paden tussen de Commewijne en de Surinamerivier",
+        "dc:description": "Titel Leupe: Carte Ideale du grand Chemin \u00e0 faire, pareil \u00e0 celui d'Orange, pour communiquer en droite ligne de la riviere de Suriname et Comewine, pour y \u00e9tablir des postes et des villages afin de couvrir tous les plantages de Comewine et Cottica etc.\nDit is een projectplan voor een wegennet tussen plantages en dorpen gelegen in het gebied aan de Commewijne, Cottica en Surinamerivier. Het wegennet zou het mogelijk maken de bossen en savannes tussen de Suriname en Saramacca rivier te trotseren. Gezien het aantal Marrons en deserteurs dat zich in deze regio zou ophouden was het doorgronden van dit gebied belangrijk om de veiligheid van de op de kaart genoemden plantages en dorpen te garanderen. Daarvoor was ook een kleine legermacht vereist, die op de kaart staat vernoemd. Het is echter onbekend of dit wegennet ook daadwerkelijk aangelegd is.\nHet noorden is onder.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2090",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rivier"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.38 - 0.24 El.",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9852/plan-voor-paden-tussen-de-commewijne-en-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/48/98/85/41/6c/cf/49/14/87/15/39/59/be/e3/15/e0/758125bc-acf6-434f-8e9b-90f90f758683.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/48/98/85/41/6c/cf/49/14/87/15/39/59/be/e3/15/e0/758125bc-acf6-434f-8e9b-90f90f758683.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2090.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

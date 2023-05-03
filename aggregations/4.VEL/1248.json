@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1248.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dc7bbcd8-976d-4f4d-aabb-fe942414198c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1248.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Afteekening van het Nieuwe Steene Sieke-Huys op 't yland Onrust",
+        "dc:title": "Ziekenhuis op Onrust",
+        "dc:description": "Titel catalogus Leupe (NA): Afteekening van het Nieuwe Steene Sieke-Huys op 't yland Onrust.\nLegenda: A-I\nIn de rechter bovenhoek staat: behoord tot no. 22 [...] vide het Register voor Amsterdam de dato 10 december 1788.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nIn de legenda is met potlood het jaar 1788 bijgeschreven.\nNotities verso: No. 2. A Zieke Huis op het Eiland Onrust Register 3 Deel 1 Folio 9 Portefeul [geschreven op een blauw etiket]  / N 2 11 [in potlood bijgeschreven op het blauwe etiket, slecht leesbaar].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1248",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart",
+            "ziekenhuis / lazaret",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50,5 x 72,5 cm",
+        "dcterms:date": "ca. 1788",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4850/ziekenhuis-op-onrust"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/54/00/70/46/3f/85/40/67/92/98/ae/64/66/ca/6a/58/7e7d04d5-dff2-436d-980c-ffc6a93d771d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/54/00/70/46/3f/85/40/67/92/98/ae/64/66/ca/6a/58/7e7d04d5-dff2-436d-980c-ffc6a93d771d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1248.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteekening van het Nieuwe Steene Sieke-Huys op 't yland Onrust."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

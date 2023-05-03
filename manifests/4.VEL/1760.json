@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1760.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Figurative verbeelding van een waterpassing gedaan van een strook land, gelegen tusschen de rivier Suriname en de Creeq Para, alsmede het profil van een aldaar te maken doorsnyding enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1760"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1741"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/050e6b18-26a9-4ffa-98aa-6a07f5ba6055\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1760.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1760.json#canvas/p1",
+            "type": "Canvas",
+            "height": 2728,
+            "width": 4634,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1760.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1760.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ff/0c/76/25/b9/06/48/46/81/c6/25/9c/d0/8c/a8/95/f5d27915-1e80-4dc5-b998-b8dcd2c9727f.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 2728,
+                                "width": 4634,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ff/0c/76/25/b9/06/48/46/81/c6/25/9c/d0/8c/a8/95/f5d27915-1e80-4dc5-b998-b8dcd2c9727f.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1760.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

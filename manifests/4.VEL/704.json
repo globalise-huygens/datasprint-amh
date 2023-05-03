@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/704.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van het Eyland Atamaraca, gelegen omtrent 4 cleyne Duitsche Mylen benoorden Olinde ofte Parnambuco enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "704"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1630"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/dfc7bf91-1ae7-487c-b498-f2bab1526ae0\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/704.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/704.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4768,
+            "width": 3292,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/704.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/704.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/44/d6/77/45/ff/00/43/5c/85/5d/5b/2b/36/a2/a8/c3/6a111a7a-4e38-4865-8e4a-cff13696bce2.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4768,
+                                "width": 3292,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/44/d6/77/45/ff/00/43/5c/85/5d/5b/2b/36/a2/a8/c3/6a111a7a-4e38-4865-8e4a-cff13696bce2.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/704.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

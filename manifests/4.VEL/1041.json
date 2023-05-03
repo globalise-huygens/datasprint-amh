@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1041.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Algemeen plan der verbeeteringen aan de vestingwerken van Oostenburg, door de H.H. Vaillant, Ver-Huell en Graevesteyn, Commissarissen-Militair enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1041"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1700/1800"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/d27e9e85-acf4-4aa1-9dd3-dbd65f2187c5\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1041.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1041.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5763,
+            "width": 7558,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1041.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1041.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/84/c6/6a/ac/83/36/47/e8/b6/4a/6a/67/e9/6e/d0/6d/be1ce741-3138-449f-b8d7-3693103c477c.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5763,
+                                "width": 7558,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/84/c6/6a/ac/83/36/47/e8/b6/4a/6a/67/e9/6e/d0/6d/be1ce741-3138-449f-b8d7-3693103c477c.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1041.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1303.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caartie van het eynde der Tominische bogt (Oostkust) en van de S.W. hoek van Tantoly tot de Baay van Palo, aan de Westkust van Celebes."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1303"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1730"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/0b198100-def5-44f9-95f4-d09c9b6c6053\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1303.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1303.json#canvas/p1",
+            "type": "Canvas",
+            "height": 3816,
+            "width": 4680,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1303.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1303.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/d8/b2/a7/f7/7b/d0/46/b9/93/94/05/93/7e/0c/34/11/dc0ee3fa-e738-460b-99ae-f7bf5d60680e.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3816,
+                                "width": 4680,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/d8/b2/a7/f7/7b/d0/46/b9/93/94/05/93/7e/0c/34/11/dc0ee3fa-e738-460b-99ae-f7bf5d60680e.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1303.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

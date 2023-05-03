@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/148.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/16401990-7d31-440c-940d-90640fe0d594",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_148.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Goudt-Cust, van, Guinea",
+        "dc:title": "Kaart van de Goudkust, tussen Rio de Sueiro de Costa en Pompena",
+        "dc:description": "Kaart van de Goudkust, tussen Rio de Sueiro de Costa en Pompena.\nTitel catalogus Leupe (NA): Kaart van de Goudt-Cust van Guinea, tusschen Rio de Sueiro de Costa en Pompena.\nDe Goudt-Cust, van, Guinea.\nVoor de kust varen enkele Oostindi\u00ebvaarders en kleinere vaartuigen.\nRechtsboven, rechtsonder, middenonder, linksonder: 148 [in potlood].\nMiddenonder een stempel: 'S Ryks Archief.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0148",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "schip / vaartuig",
+            "Persoon",
+            "banderol / cartouche / versiering",
+            "vesting",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "42,5 x 88,5 cm",
+        "dcterms:date": "17e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/984/kaart-van-de-goudkust-tussen-rio-de-sueiro-de-costa-en-pompena"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1d/77/42/ae/3c/c1/40/15/a5/c6/dc/b3/1c/99/30/ca/eb8600bb-060c-49ac-bb82-75b278f63909.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1d/77/42/ae/3c/c1/40/15/a5/c6/dc/b3/1c/99/30/ca/eb8600bb-060c-49ac-bb82-75b278f63909.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/148.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Goudt-Cust van Guinea, tusschen Rio de Sueiro de Costa en Pompena."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

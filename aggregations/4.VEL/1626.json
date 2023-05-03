@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1626.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/72b04c3a-6c0a-4a26-a650-3f2a6f396aec",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1626.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "a key to the letters A to R (below):\nRenvoy. \nA. Steene Gebouw van \u2019t fort Nassauw, synde het Gouvernement en nog in redelyke staat. \nB. Platteforme of Batterij voor \u2019t front der Riviere, temaken van 12 stukken Canon. \nC. Vyf stukken in de Flancq. \nD. 6 stukken tot Defensie der Straat en Pad. \nE. Gragt voor deselve, bepalisadeert, breed circa 24 Voet. \nF. Nieuw te maken Logementen voor de Militie, kunnende altijd vergroot worden van Hout of steen. \nG. Nieuw Pakhuijs voor de Colonie. \nH. Nieuw Vrijmans Pakhuijs. \nI. Droogerijtie voor de Colonie. \nK. Broodhuijs van de Colonie. \nL. Wooning van den Opsigter Generaal. \nM. Gallerij en Strap van \u2019t Gouvernement, van onder voor Corps de Garde der Militie. \nO. Parade Plaats. \nP. Combuijs der Militie. \nQ. Palisadering tot Sluijting. \nR. Barrieres.",
+        "dc:title": "Kaart van de geplande uitbreiding van het Nassau fort",
+        "dc:description": "Titel Leupe: Plan tot een concept op het fort Nassau.\nZelfs na de vernieuwing in de jaren kort voor 1740 bleef Fort Nassau een uiterst bescheiden verdedigingswerk, dat bovendien door de overwegende toepassing van hout en aarde als bouwmaterialen (alleen de gebouwen binnen waren deels van steen) spoedig opnieuw in verval raakte.\nDit is een ontwerp voor een volgende herinrichting en gedeeltelijke nieuwbouw van het fort. De kaart benadrukt de behoefte aan uitbreiding door een lange index onder op de kaart.\nDit projectplan voor Fort Nassau bleef onuitgevoerd, en op 8 maart 1763 was het ironisch genoeg mede op basis van Hattinga\u2019s rapportage over de deplorabele toestand van het fortje dat gouverneur Wolfert Simon van Hoogenheim (1760-1764) alsnog toegaf aan de dringende wens van de burgers en het garnizoen te Nieuw-Amsterdam om de plaats te ontruimen en de gehele bevolking liet overbrengen naar Fort Sint Andries.\nHet noorden is linksonder.\nSchaalstok van 300 Voeten Rhijnlants = [ca. 1 : 475].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1626",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.37 - 0.30 El. (41 x 43 cm.)",
+        "dcterms:date": "1762",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1928/kaart-van-de-geplande-uitbreiding-van-het-nassau-fort"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/11/82/08/6c/97/32/41/e9/ae/6e/9e/c7/82/a8/fe/49/5c8da9c4-386a-46a9-86be-0f98be0911c1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/11/82/08/6c/97/32/41/e9/ae/6e/9e/c7/82/a8/fe/49/5c8da9c4-386a-46a9-86be-0f98be0911c1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1626.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Nieuw Concept plan tot verbetering van het fort Nassau."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1932.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/29b61a69-1aa1-4309-ab24-6b683c6cc906",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1932.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kavels langs de Cottica-rivier",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien, gelegen tusschen Ephrata en Paramarica Kreek.\nDeze kaart toont meerdere kavels langs de Cottica-rivier.\nDe meting betreft in de eerste plaats het achterland van de plantage Beekvliedt, dat nog niet is uitgegeven en gecultiveerd, en bij deze plantage gevoegd mag gaan worden.\nHet achterland van de Beekvliedt plantage (aangegeven met de letters J, K, O, P, Q, S en Z) blijkt 94 \u00bd Surinaamse akkers (40,6 hectare).\nDe kaart toont tevens ongebruikte gronden rond de plantage Onverwagdt.\nZie ook VEL1926, die nagenoeg identiek is maar alleen de kavels aan de noordkant van de rivier toont.\nDe kaart is door de landmeter ondertekend op 25 April 1798.\nSchaal van 140 Kettingen \u00e0 66 Rijnlandse voeten = 172 strepen.\nOorsprong: [OBP Suriname] 1732, [fol.] 1077.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1932",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.365 El.",
+        "dcterms:date": "1798",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10037/kaart-van-kavels-langs-de-cottica-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/59/c4/b8/74/aa/7f/4d/7d/82/12/f7/c4/0a/a0/d9/a6/ee39cc89-0169-4c8b-ac9e-0328a966a977.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/59/c4/b8/74/aa/7f/4d/7d/82/12/f7/c4/0a/a0/d9/a6/ee39cc89-0169-4c8b-ac9e-0328a966a977.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1932.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien, gelegen tusschen Ephrata en Paramarica Kreek."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

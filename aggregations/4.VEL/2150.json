@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2150.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/88c6fd38-6e95-4275-bd5c-d5d2f90f4366",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2150.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Cayenne",
+        "dc:description": "Titel Leupe: Plan of the town of Cayenne and Fort St. Michael.\nDeze kaart maakte deel uit van Jefferys' overzichtwerk van alle Franse nederzettingen in Noord\nen Zuid Amerika. De stad en het fort St. Louis worden in detail weergegeven met straatnamen en indicaties van gebouwen. Daarnaast worden ook omliggende wegen, een mangrove en een koffieplantage getoond.\nSchaal van 150 Roeden = 101 strep.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2150",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "gravure",
+        "dcterms:extent": "31.8 cm x 35.4 cm.",
+        "dcterms:date": "1760",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2147/kaart-van-cayenne"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bb/89/06/fe/af/29/4f/98/90/03/35/21/ef/f2/47/8b/5428db4d-5fc7-45db-adea-2979d0c6cd44.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bb/89/06/fe/af/29/4f/98/90/03/35/21/ef/f2/47/8b/5428db4d-5fc7-45db-adea-2979d0c6cd44.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2150.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan of the town of Cayenne and Fort St. Michael."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

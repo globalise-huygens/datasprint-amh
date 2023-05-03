@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1078.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caerte van de voyagie door den Ed. Pieter Smith, Opper-Koopman enz., van Paliakatta over Matsylipatnam naar Golkonda, als in zyn wederkering van daer over het land van Karnatik gedaan."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1078"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/81b4d617-07b5-4429-b832-fc9ed9d55d83\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1078.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1078.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6344,
+            "width": 8906,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1078.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1078.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/36/89/79/8a/4e/8f/41/63/96/a2/04/2e/0f/78/58/aa/97c0337b-97bd-4539-81ed-2b6fb43fa8c4.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6344,
+                                "width": 8906,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/36/89/79/8a/4e/8f/41/63/96/a2/04/2e/0f/78/58/aa/97c0337b-97bd-4539-81ed-2b6fb43fa8c4.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1078.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

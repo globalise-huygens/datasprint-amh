@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2175.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/27cc9342-428a-4c04-8924-c1f977741db2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2175.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Terra Firma / et / Novum Regnum / Granatense / et / Popayan",
+        "dc:title": "Kaart van een deel van Zuid Amerika",
+        "dc:description": "Kaart van een deel van Zuid Amerika.\nTitel in Catalogus Leupe (NA): Terra Firma et Novam Regnum Granatense et Popayan.\nTerra Firma / et / Novum Regnum / Granatense / et / Popayan.\nRechtsonder: No. 19.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2175",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "38 x 49 cm",
+        "dcterms:date": "ca. 1640",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8050/kaart-van-een-deel-van-zuid-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/60/c3/7c/62/01/20/49/d4/93/95/da/4e/3b/f6/6c/0c/9d1e4568-0a38-4508-823b-a5a947a86779.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/60/c3/7c/62/01/20/49/d4/93/95/da/4e/3b/f6/6c/0c/9d1e4568-0a38-4508-823b-a5a947a86779.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2175.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Terra Firma et Novam Regnum Granatense et Popayan."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

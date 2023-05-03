@@ -1,0 +1,62 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/380.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/68302425-e673-478c-8b7e-095d474eb5c5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0380.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Vloodt / Vyands Vaartuygen",
+        "dc:title": "Kaart van een gedeelte van de kust bij Bantam",
+        "dc:description": "Titel in catalogus Leupe (NA): Kaart van een gedeelte van de Kust by Bantam.\nKaart in vogelvlucht van de veldslag op de rede van Bantam tussen de VOC en de inheemse legers van de Bantammers; de Slag om Tirtiassa, 1682.\nInzetkaart van de post van kapitein Joncker en het fort de Uitkijk; De VOC-vloot o.l.v. kapitein Joncker en veldoverste Tack.\nNotities verso: nr. 41 ronde sticker [veiling nr.?]; nr. 32 Bantam inkt. 'T Schip Expiriment, rechts van de vloot.\nLandmeter midden onder getekend.\nTopografische namen vermeld op deze kaart: Tartiassa, Tancora, Tangerangh Poerbaya, [de naam van een persoon? Staat bij een ruiter met pajong en slaaf geschreven].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0380",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "vesting",
+            "huis / woonhuis",
+            "gebouw",
+            "veldslag / oorlog (strijd) / inname",
+            "schip / vaartuig",
+            "flora",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "Europeanen",
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "blokkade / zeeslag"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "965 x 1410 mm",
+        "dcterms:date": "1682-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2433/kaart-van-een-gedeelte-van-de-kust-bij-bantam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c3/a5/23/79/0d/74/46/2d/a0/61/91/4b/da/5c/a3/4f/07c76fc7-c9e3-4c06-b5d2-386d847219ad.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c3/a5/23/79/0d/74/46/2d/a0/61/91/4b/da/5c/a3/4f/07c76fc7-c9e3-4c06-b5d2-386d847219ad.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/380.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de Kust by Bantam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

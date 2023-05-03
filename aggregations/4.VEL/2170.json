@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2170.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c391fe8d-7dc7-4a99-b483-6cb501e62d74",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2170.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Tabula / Magellanica, / qua Tierrae del Fuego, / Cum / celeberrimis fretis a F. Magellano / et I. Le Maire detectis / Novi\u00dfima et accurati\u00dfima descriptio exhibetur",
+        "dc:title": "Kaart van Straat Le Maire en Straat Magelhaen",
+        "dc:description": "Kaart van Straat Le Maire en Straat Magelhaen.\nTitel Catalogus Leupe (NA): Tabula Magellanica qua sierrae de Fuego, cum Celeberrimis fretes a F. Magellano et J. Le Maire detectis etc.\nTabula / Magellanica, / qua Tierrae del Fuego, / Cum / celeberrimis fretis a F. Magellano / et I. Le Maire detectis / Novi\u00dfima et accurati\u00dfima descriptio exhibetur.\nLegenda a-l; R-V.In 1615-1617 ontdekten Jacob le Maire (1585-1616) en Willem Cornelisz. Schouten (ca. 1567-1625) ten zuiden de Straat van Magellanes een nieuwe zeeweg tussen de Atlantische en Grote Oceaan: de Straat Le Maire. Via deze nieuwe zeevaartweg kwam een alternatieve route voor de vaart op Indi\u00eb beschikbaar, waarbij het monopolie van de Verenigde Oost-Indische Compagnie op het bezeilen van de Straat van Magellanes kon worden omzeild. Hierbij ontdekten ze de Straat Le Maire en Kaap Hoorn, die ze noemden naar de woonplaats van Schouten. Ondanks hun ontdekkingen was hun reis niet erg succesvol: eenmaal in Batavia werden ze niet geloofd en het overgebleven schip, de Eendracht, werd met lading in beslag genomen.\nCf. Koninklijke Bibliotheek, Den Haag, inv. nr. 1049B13_090.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2170",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "Persoon",
+            "schip / vaartuig",
+            "Noord- en Zuid-Amerikanen",
+            "fauna",
+            "Europeanen"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:date": "1630 - 1664",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8043/kaart-van-straat-le-maire-en-straat-magelhaen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cc/79/26/4f/c2/89/4d/ff/ba/ff/36/d6/1f/c7/98/24/ceca8956-3fa7-488c-bf6f-e7b5bf530609.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cc/79/26/4f/c2/89/4d/ff/ba/ff/36/d6/1f/c7/98/24/ceca8956-3fa7-488c-bf6f-e7b5bf530609.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2170.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                            Tabula Magellanica qua sierrae de Fuego, cum Celeberrimis fretes a F. Magellano et J. Le Maire detectis etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

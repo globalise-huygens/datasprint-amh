@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1759.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1aa5b7f8-919b-4e48-8b0a-77a93d653703",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1759.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [upper right] a key to the letters A to H : \nA:B: Gronden toebehorende aen Jacob de Pina, nu David uz [= Uziel] D\u2019Avilar. \nC:D: Gronden van david uz D\u2019Avilar. \nE:F: Gronden van Erven Salomon Jos: Levij. \nG:H: Gronden van de Wed: Rodrigo nu Corn:s Fock.",
+        "dc:title": "Kaart van een verbinding van de Parakreek met de Surinamerivier",
+        "dc:description": "Titel Leupe: Caart van de doorsnyding van Para Creeq tot de rivier Suriname, tusschen de gronden hierby ge\u00ebxpliceert.\nKort voor 1740 werden door het Surinaamse gouvernement plannen opgevat voor de aanleg van een waterverbinding tussen de Surinamerivier en de Parakreek, die enkele jaren later inderdaad tot stand kwam. Doel van deze doorsnijding was in de eerste plaats het verbeteren van de afvoer uit de Parakreek, waar de plantages vaak te maken hadden met wateroverlast. Daarnaast konden de planters hogerop aan de kreek langs deze weg gemakkelijker hun producten naar Paramaribo vervoeren. Deze projectkaart geeft het beoogde trac\u00e9 van de doorsnijding aan, met ernaast de relatieve hoogteverschillen in voeten en duimen. De maker was de hoofdingenieur Pierre-Dominique Desmarestz (ook: Desmaretz, Desmaretsz), die gedurende de jaren 1734-1743 belast was met de bouw van het fort Nieuw Amsterdam en in deze periode incidenteel ook kaarten en ontwerpen voor andere werken leverde.\nHet noorden is links.\nSchaalstok van Sestigh kettingen Rijnlandse, ijder kett:E 66: Voeten = [ca. 1 : 8.300].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1759",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "64 x 22,5 cm.",
+        "dcterms:date": "1740-1743",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9847/kaart-van-een-verbinding-van-de-parakreek-met-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c6/19/7b/4b/13/98/4d/d9/89/db/ae/3e/fa/94/78/5f/191822d7-f5ae-4059-b9b8-cf4c6853c3fe.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c6/19/7b/4b/13/98/4d/d9/89/db/ae/3e/fa/94/78/5f/191822d7-f5ae-4059-b9b8-cf4c6853c3fe.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1759.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caart van de doorsnyding van Para Creeq tot de rivier Suriname, tusschen de gronden hierby ge\u00ebxpliceert."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

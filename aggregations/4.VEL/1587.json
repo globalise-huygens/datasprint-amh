@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1587.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2bfb1b00-e113-4c0b-b937-719fde249950",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1587.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van plantages rond de kreek Wikke",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien Hardebroek, Doornloof, Doornspruit en Meirbeek.\nDeze kaart noemt verschillende plantages rond de kreek Wikke aan de rivier Berbice.\nDe genoemde plantages zijn die van Hardebroek, Doornspruyt, Meirbeek, en Doornloof.\nStroomrichtingen zijn aangeduid.\nSchaal: 150 Rijnlandse roeden = 185 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1587",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10250/kaart-van-plantages-rond-de-kreek-wikke"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1f/a1/0f/e8/4c/24/42/10/ae/6e/c2/23/42/3c/b3/b0/8637f487-a670-4197-83c4-09eb78e401ed.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1f/a1/0f/e8/4c/24/42/10/ae/6e/c2/23/42/3c/b3/b0/8637f487-a670-4197-83c4-09eb78e401ed.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1587.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien Hardebroek, Doornloof, Doornspruit en Meirbeek."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

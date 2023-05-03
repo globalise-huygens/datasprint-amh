@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/453.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van Timor en de Kleine Soendasche Eilanden, als: Rotth\u00e9, Sandelbosch, het oostelykste gedeelte van Sumbawa, Rottenest, Floris of Eynde, Solor enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "453"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/4aa6507b-e18f-4f57-ba78-607c13f7887e\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/453.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/453.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6235,
+            "width": 8838,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/453.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/453.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f4/00/b2/0d/12/39/4b/35/84/f7/ba/f6/cf/4c/2d/e1/80b2a987-a30e-463f-acea-8190a8be4128.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6235,
+                                "width": 8838,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f4/00/b2/0d/12/39/4b/35/84/f7/ba/f6/cf/4c/2d/e1/80b2a987-a30e-463f-acea-8190a8be4128.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/453.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

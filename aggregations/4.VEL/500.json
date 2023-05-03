@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/500.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/085b8505-b64d-43b1-9707-5ab35becd985",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0500.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Hollandia-Nova",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van Hollandia-Nova, nader ontdeckt, Anno 1705, door het fluitschip Vossenbosch, de chialooup Wajer en de Phanttialling Nova-Hollandia, den 2 Maart van Timor vertrocken.\nRechtsboven genummerd: 43.\nNotities verso: [2 stempeltjes van het Rijksarchief].\nOpmerking catalogus Leupe: Deze schepen stonden onder de bevelen van den schipper Maerten van Delft. Over deze reis bestaat een verslag, opgemaakt door de Raden van Indie, Zwaerdecroon en Chasteleyn, uit de journalen getrokken.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0500",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "51,5 x 73,5 cm",
+        "dcterms:date": "1705",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5336/kaart-van-hollandia-nova"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/40/02/ee/88/76/65/4f/1d/a4/38/f1/fa/e4/d1/3c/77/659a6b31-b812-4c83-88e3-8d3c984a7ba0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/40/02/ee/88/76/65/4f/1d/a4/38/f1/fa/e4/d1/3c/77/659a6b31-b812-4c83-88e3-8d3c984a7ba0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/500.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Hollandia - Nova, nader ontdeckt, Anno 1705, door het fluitschip Vossenbosch, de chialoup Wajer en de Phantialling Nova - Hollandia, den 2 Maart van Timor vertrocken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

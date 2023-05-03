@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1902.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b6971a18-5588-4980-8362-59437897bd61",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1902.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de grond van de heer van Laar",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen in de Cottica, linkerhand in het afvaren.\nDeze kaart toont een stuk grond van de heer Van Laar aan de zuidoever (bovenaan de kaart) van de Cotticarivier.\nDit stuk grond is in bezit van Hendrik van Laar gekomen nadat Thomas Pijl dit stuk land op 30 Januari 1709 heeft verworven, en het vervolgens op 3 Augustus 1712 aan Maria van Overschelde heeft overgedaan als onderdeel van een ruil.\nDe landmeter heeft een fout van een eerdere meting gecorrigeerd, zoals staat uitgelegd op de rechterhelft van de pagina.\nTen westen van het perceel ligt de grond van de de weduwe Cuijlenborgh alsook een stuk Blaka-Beri bos dat gedeeltelijk is afgebrand, en ten zuiden ligt de grond van de heer Willem Betloo.\nDe kaart is door de landmeter ondetekend op 29 December 1731 en officieel erkend op 18 Februari 1732 te Paramaribo.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 180 strepen.\nOorsprong: [OBP Suriname] 1732 [fols.] 1090-1091.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1902",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.435 - 0.275 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10027/kaart-van-de-grond-van-de-heer-van-laar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9f/97/41/99/aa/69/43/3f/bb/d6/67/64/ac/83/b4/b2/2e0029e1-02ee-4b7e-9afb-544b302aa440.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9f/97/41/99/aa/69/43/3f/bb/d6/67/64/ac/83/b4/b2/2e0029e1-02ee-4b7e-9afb-544b302aa440.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1902.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen in de Cottica, linkerhand in het afvaren."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

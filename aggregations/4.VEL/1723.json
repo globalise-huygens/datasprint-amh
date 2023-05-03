@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1723.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4a577277-915e-450c-ac0f-46402e2385d8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1723.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [lower right] a cadastral description, not transcribed.",
+        "dc:title": "Kaart van de Soci\u00ebteitsgronden ten noordoosten van Paramaribo",
+        "dc:description": "Titel Leupe: Kaart van eenige landen, gelegen Kostgrond voor de Ed. Societeit. (Soci\u00ebteit van Suriname).\nDit is een anonieme kadastrale kaart van de gronden van de Soci\u00ebteit van Suriname ten noorden van de Sommelsdijkse Kreek, die waarschijnlijk in de jaren zeventig van de achttiende eeuw werd getekend in samenhang met plannen om deze landerijen als kostgronden voor de Soci\u00ebteteit in gebruik te nemen. In de beschrijving rechtsonder wordt vermeld dat de percelen (1) en (2) direct bewerkt zouden kunnen worden, waarbij (2) deels als weidegrond diende te worden bestemd. De percelen (3) en (4) konden dan bij (1) en (2) gevoegd worden, met de aantekening dat vooral (4) zeer geschikt was als weidegrond, \u2018in de Reegens op de Ritse en in de droogte in de laagtens tusschen de Ritsen\u2019. Deze ruggen, bestaande uit \u2018Sand en Schulp\u2019 of \u2018Klip\u2019 (rotsgrond), zijn gestippeld aangegeven. Aan dit project is in deze vorm geen uitvoering gegeven; op het genoemde land onder (4) zou na 1796 de voorstad Zeelandia of Comb\u00e9 worden aangelegd.\nHet noorden is linksboven.\nSchaalstok van 150 Kettingen \u00e0 Rhijnlandse Voeten = [ca. 1 : 13.200].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1723",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "44,5 x 56 cm.",
+        "dcterms:date": "1770-1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2102/kaart-van-de-soci%C3%ABteitsgronden-ten-noordoosten-van-paramaribo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/37/a8/f2/e1/26/bb/4c/93/9c/3b/5d/08/ac/f1/f0/b4/e2cef117-4217-4cc3-87b0-a720481d7192.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/37/a8/f2/e1/26/bb/4c/93/9c/3b/5d/08/ac/f1/f0/b4/e2cef117-4217-4cc3-87b0-a720481d7192.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1723.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen, gelegen Kostgrond voor de Ed. Societeit. (Soci\u00ebteit van Suriname)"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

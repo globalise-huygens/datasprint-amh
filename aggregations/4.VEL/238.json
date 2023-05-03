@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/238.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/249b3997-1b44-469f-91a4-13c0d71202c6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0238.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Mature en de Baygam",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Groote Rivier van Mature Nielvalle Gange genoemt enz..\nNotities verso: 1875 [folionummer in de band ?] / Behoort by de overgekomen brieven en papieren van Ceylon 1743 4e deel / 3 stuks N 1 / 238 [in rood potlood].\nLegenda: A-D",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0238",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "72,5 x 53,5 cm",
+        "dcterms:date": "ca. 1743",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3845/kaart-van-mature-en-de-baygam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e1/d6/e0/97/ea/bd/4d/47/8e/d8/fc/f9/e9/f1/1e/34/b5703c3a-9c84-483c-aee6-788ee3354a09.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e1/d6/e0/97/ea/bd/4d/47/8e/d8/fc/f9/e9/f1/1e/34/b5703c3a-9c84-483c-aee6-788ee3354a09.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/238.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Groote rivier van Mature Nielvalle Gange genoemt enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

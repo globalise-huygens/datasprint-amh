@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2174.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/39941ea6-28df-4a18-a95d-7c2457867af8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2174.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Peru",
+        "dc:description": "Titel Leupe: Kaart van Peru.\nDeze kaart van Peru is onderdeel van de Mercator/Hondius Atlas gedrukt door Janssonius Jr, oftwel de Atlas Novus. In zijn poging om te concurreren met Blaeu's Atlas Maior voegde hij na 1633 allerhande kaarten toe. Al kwamen veel van deze kaarten overeen met die van Blaeu, toch wist Janssonius bepaalde eigen kenmerken te behouden. Deze zijn ook zichtbaar op de hier getoonde kaart. Zo draagt de cartouche bijvoorbeeld zijn handtekening. Belangrijke steden, rivieren en bergen zijn allen afgebeeld. Deze topografische informatie over Peru stamt waarschijnlijk van de bemanning van Jacques l'Hermite die naar de Peruaanse haven Callao was gevaren in 1624, en waar l'Hermite stierf aan dysenterie en de scheurbuik. Zijn Nassausche vloot keerde twee jaar later ondanks dit ongeval terug naar de Nederlandse Republiek met informatie over dit gebied. De kaart is verluchtigd met schepen en zeemonsters.\nSchaal van 120 Duitse mijlen = 130 strep.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2174",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.375 - 0.48 El.",
+        "dcterms:date": "1633",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10501/kaart-van-peru"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ca/44/32/49/14/e1/4d/ff/ac/bb/6b/fb/9d/e2/77/e6/c830b2ad-f6ff-4e8d-a04b-0c479152eb42.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ca/44/32/49/14/e1/4d/ff/ac/bb/6b/fb/9d/e2/77/e6/c830b2ad-f6ff-4e8d-a04b-0c479152eb42.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2174.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Peru\n                          "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

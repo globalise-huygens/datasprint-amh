@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2031.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2ae2ad6c-d8c0-4211-ac90-5de65f4f74e5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2031.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Nieuw ontwerp voor fort Nieuw Amsterdam",
+        "dc:description": "Titel Leupe: Plan van de Nieuwe Fortresse aan de mond van de rivieren Suriname en Commewine.\nDeze kaart toont waarschijnlijk een vroeg stadium van het herontwerp van het fort Nieuw-Amsterdam. Eind 1733 werd door de Staten-Generaal een overeenkomst tussen de Soci\u00ebteit en de vertegenwoordigers van de kolonisten bekrachtigd tot het versterken van de verdediging van Suriname. Dit ontwerp voor fort Nieuw Amsterdam werd vermoedelijk kort hierop gemaakt. De daadwerkelijke bouw begon in 1736, bleek aanzienlijk moeilijker en bewerkelijker dan voorzien, en werd pas in 1747 voltooid. Ook daarna bleef het fort altijd problematisch in onderhoud en verdediging. (Zie voor meer details de titels onder 'documentatie', in het bijzonder die van Temminck Groll.)\nDe index waar de referenties naar verwijzen kan niet getraceerd worden.\nSchaal van 50 Rijnlandse roeden = 128 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2031",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.46 = 0.57 El.",
+        "dcterms:date": "ca. 1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2017/nieuw-ontwerp-voor-fort-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fc/63/f4/2b/91/9a/42/b4/bd/f2/8b/a2/a9/bb/c2/f1/0691dee6-d70a-469d-949d-bbacc182fafa.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fc/63/f4/2b/91/9a/42/b4/bd/f2/8b/a2/a9/bb/c2/f1/0691dee6-d70a-469d-949d-bbacc182fafa.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2031.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Nieuwe Fortresse aan de mond van de rivieren Suriname en Commewine."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

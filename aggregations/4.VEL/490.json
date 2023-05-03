@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/490.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fb3f8e0d-b611-439e-9adc-8f81ec4b8a1f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0490.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Nova Guinea",
+        "dc:title": "Kaart van het noordelijk deel van Nova Guinea",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van het Noordelijk gedeelte van Nova-Guinea..\nRechtsboven genummerd: 46.c..\nDe achterkant is beplakt met een vel papier.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0490",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 73,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9156/kaart-van-het-noordelijk-deel-van-nova-guinea"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a8/77/9a/ff/b1/6c/46/9e/98/69/92/29/62/a2/54/fe/2e232447-46bd-4cde-acb6-d6fbe4417f90.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a8/77/9a/ff/b1/6c/46/9e/98/69/92/29/62/a2/54/fe/2e232447-46bd-4cde-acb6-d6fbe4417f90.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/490.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Noordelijk gedeelte van Nova-Guinea van Brebes tot Geelvinks Oosthoek, de Groote Inbocht, met de daartegenoverleggende Eilandjes."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

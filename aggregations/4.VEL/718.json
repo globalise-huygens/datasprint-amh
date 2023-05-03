@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/718.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8cd8c657-e2db-4639-8ff2-f6b8ccc52e18",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_718.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Afbeeldinge van Bahia de Todos os Sanctos, soo naer het tot noch toe Mogelijk is te doen geweest",
+        "dc:title": "Kaart van de Allerheiligenbaai",
+        "dc:description": "Kaart van de Allerheiligenbaai.\nTitel Catalogus Leupe (NA): Afbeeldinge van de Bahia de Todos os Sanctos soo near het noch toe mogelyck is te doen geweest.\nAfbeeldinge van Bahia de Todos os Sanctos, soo naer het tot noch toe Mogelijk is te doen geweest.\nLegenda: A-S.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0718",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "legenda",
+            "gebouw",
+            "schip / vaartuig"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "32 x 40 cm",
+        "dcterms:date": "1600-1650",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7464/kaart-van-de-allerheiligenbaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3e/fc/19/17/07/0d/4a/ab/b0/28/58/dc/4b/b2/c6/c9/9668c135-1c8a-466d-a311-6e3272717973.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3e/fc/19/17/07/0d/4a/ab/b0/28/58/dc/4b/b2/c6/c9/9668c135-1c8a-466d-a311-6e3272717973.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/718.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeeldinge van de Bahia de Todos os Sanctos soo near het noch toe mogelyck is te doen geweest."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

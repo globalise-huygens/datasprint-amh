@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1336.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/00659e20-bfc2-43d4-a926-3c78bc82070a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1336.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "N:o 2 / Plan van 't kasteel Nieuw-Victoria gemeeten ter ordre van de weledelgestrenge Heeren Vaillant, Verhuel en Graevestein Commissarissen militair enz. enz.",
+        "dc:title": "Plattegrond van kasteel Victoria te Ambon",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van 't kasteel Nieuw-Victoria.\nLegenda: A-Z; aa-ff\nGenummerd: No. 2.\nNotities verso: No. 2 / 656 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1336",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "legenda",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "71 x 65 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6975/plattegrond-van-kasteel-victoria-te-ambon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/68/16/7f/6b/93/98/49/dc/a5/3f/b4/de/f1/63/2d/e4/7a151122-034c-4563-ae40-3a31b434265c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/68/16/7f/6b/93/98/49/dc/a5/3f/b4/de/f1/63/2d/e4/7a151122-034c-4563-ae40-3a31b434265c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1336.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van 't kasteel Nieuw-Victoria."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1233.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5d4ba909-0f29-4253-9217-1bed40e038c5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1233.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Diestpoort te Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Afteekening van de Diestpoort te Batavia.\nDe randen zijn bruin door vochtinwerking.\nNotities verso: De poort Diest / Behoort by de papieren van algemeen Bestuur 1658 N 6 (5 stuks) Portef: 1658 I / 112 [moet het folionummer in de band OBP zijn] / No. 27 [moet het volgnummer van het stuk in de band OBP zijn] / 602 gg / (1658) [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1233",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "vesting",
+            "ornament (van gebouw)",
+            "poort"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "72 x 49,5 cm",
+        "dcterms:date": "ca. 1658",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3426/diestpoort-te-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/60/cd/86/9c/bf/09/4d/72/b8/79/08/4b/76/8d/bb/93/7f7679db-e862-48c1-af2c-0dbaa788e593.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/60/cd/86/9c/bf/09/4d/72/b8/79/08/4b/76/8d/bb/93/7f7679db-e862-48c1-af2c-0dbaa788e593.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1233.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteekening van de Diestpoort te Batavia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

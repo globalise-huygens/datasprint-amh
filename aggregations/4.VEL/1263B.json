@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1263B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bba31505-f37b-49aa-b2f5-49bcc8f49da0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1263b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Opstelling van het leger in de aanvallen op vijandige doelen rond Samarang",
+        "dc:description": "Titel catalogus Leupe (NA): Opstelling van het Leger in de aanvallen op 's vyands werken op den 7, 9 en 11 November 1741.\nNotities verso: 819 [doorgestreept] / 1042 [geschreven in plaats van 819, vermoedelijk het folionummer van de band OBP] / 1742 / 633 d.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1263B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "veldslag / oorlog (strijd) / inname"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "43 x 55,5 cm",
+        "dcterms:date": "1741",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4923/opstelling-van-het-leger-in-de-aanvallen-op-vijandige-doelen-rond"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/db/8f/be/bb/00/46/4a/65/87/f7/49/b1/d9/27/0e/c9/6dc6999c-4afc-43d8-9444-ff2c060e90a3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/db/8f/be/bb/00/46/4a/65/87/f7/49/b1/d9/27/0e/c9/6dc6999c-4afc-43d8-9444-ff2c060e90a3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1263B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1 (dd 7 en 9 november 1741)"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

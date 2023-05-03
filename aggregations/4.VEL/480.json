@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/480.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/adccba29-f3f7-4dbc-8280-e050ed04d5af",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0480.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'T Eijland Meauw",
+        "dc:title": "Kaart van het Eyland Meauw",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van het Eyland Meauw.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0480",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41 x 43,5 cm",
+        "dcterms:date": "ca. 1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6703/kaart-van-het-eyland-meauw"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2b/38/0d/e9/52/9f/47/27/94/a8/5c/b4/7a/fc/cf/b2/6118f7b8-41a6-4fb7-96db-9bc54172d645.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2b/38/0d/e9/52/9f/47/27/94/a8/5c/b4/7a/fc/cf/b2/6118f7b8-41a6-4fb7-96db-9bc54172d645.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/480.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eyland Meauw."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

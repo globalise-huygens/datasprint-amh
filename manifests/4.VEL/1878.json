@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1878.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Plantagien tusschen 's Haagenbos, Bokkenstein en Nieuw-Java, aan beide oevers der Cottica gelegen."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1878"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1782"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ca7f9e0c-52a7-4b1c-a487-0c34aa2a0818\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1878.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1878.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6786,
+            "width": 4973,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1878.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1878.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/4a/8d/24/42/56/a4/4e/0f/bc/92/0e/0d/31/79/f9/df/0f4c732f-7931-43ff-9f37-4108adf8fe2a.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6786,
+                                "width": 4973,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/4a/8d/24/42/56/a4/4e/0f/bc/92/0e/0d/31/79/f9/df/0f4c732f-7931-43ff-9f37-4108adf8fe2a.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1878.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

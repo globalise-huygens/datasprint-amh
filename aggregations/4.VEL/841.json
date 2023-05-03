@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/841.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d1c62514-282f-4456-8e1c-6c2624908c7a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0841.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van het ziekenhuis van Kaap de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van het Ziekenhuis of hospitaal aan de Kaap de Goede Hoop.\nNotities verso: Model van het ziekenhuis aan de Kaap uit brieven en papieren Kaap overgek. 1697, nr. 57; Andere nrs. 1166; 498aa; 47.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0841",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "gebouw",
+            "ziekenhuis / lazaret",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "49 x 30,5 cm",
+        "dcterms:date": "ca. 1697",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2579/plattegrond-van-het-ziekenhuis-van-kaap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/42/30/55/6c/63/6e/47/c9/88/a2/c2/e5/47/9c/d4/40/2404e13e-f5c7-4dfd-88c5-a3da38928b6f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/42/30/55/6c/63/6e/47/c9/88/a2/c2/e5/47/9c/d4/40/2404e13e-f5c7-4dfd-88c5-a3da38928b6f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/841.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van het Ziekenhuis of Hospitaal aan de Kaap de Goede Hoop."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

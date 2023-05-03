@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1598.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/25decc7e-2bb4-4ac4-83d6-5aa692c78568",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1598.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title): Vrye Plantagien Welkom en Petersburg, met het nieuwe vergunde. C.F.J. Cederkreutz. Geadm. Landm.",
+        "dc:title": "Kaart van de plantages Welkom en Petersburg",
+        "dc:description": "Titel Leupe: Caarte van de vrye plantagien Welkom en Petersburg, met het nieuw vergunde land.\nKaart van de plantages Welkom en Petersburg, in bezit van respectievelijk de heer Driest te Amsterdam en de heer Silvester Giraud.\nBeide plantages liggen aan weerszijden van de rivier Canje.\nDe afgebeelde metingen zijn gedaan om de nieuwe grond van de plantage Petersburg te berekenen.\nDe kaart is gebaseerd op een hermeting uit het jaar 1767, die velen jaren na de oorspronkelijke metingen uit 1740 en 1757 en 1762 gedaan was.\nDe plantage Welkom blijkt 500 Surinaamse akkers te meten (oftewel 215 hectare) en samen met de nieuwe grond blijkt de plantage Petersburg 637 Surinaamse akkers (oftewel 274 hectare) groot.\nTen oosten liggen de plantages Nova Casa en Petite Britanie en ten westen de plantages Monbijoux en Amsterdam.\nHet noorden is rechts\nSchaal van 500 Rijnlandse roeden = 168 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1598",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.51 - 0.74 El.",
+        "dcterms:date": "1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10265/kaart-van-de-plantages-welkom-en-petersburg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1e/c3/4d/ce/e0/42/4e/bd/81/59/68/8f/d8/83/e6/d1/01d5b58f-5abf-4eea-9b8a-3484cb276a8e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1e/c3/4d/ce/e0/42/4e/bd/81/59/68/8f/d8/83/e6/d1/01d5b58f-5abf-4eea-9b8a-3484cb276a8e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1598.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caarte van de vrye plantagien Welkom en Petersburg, met het nieuw vergunde land."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

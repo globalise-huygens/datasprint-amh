@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1809.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/64101981-8dc5-485d-be31-1ccda378dba2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1809.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van plantages gelegen aan de oevers van de Rivier Commewijne",
+        "dc:description": "Titel Leupe:: :Figurative Caart der lande geleegen beneeden aan de rivier Commewene.\nDeze kaart toont de ligging van  plantages gelegen aan de oevers van de Rivier Commewijne (beneden) en de Hoer Helena Kreek te Suriname.\nDe verschillende kavels zijn genummerd die gekoppeld zijn aan eigennamen.\nOorsprong: [OBP Suriname] 1732 [fols.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1809",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.21 - 0.16 El",
+        "dcterms:date": "18de eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9898/kaart-van-plantages-gelegen-aan-de-oevers-van-de-rivier-commewijne"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a8/6b/50/3e/e8/4a/4b/72/9f/31/c2/f3/53/57/da/ed/3e33ad9c-93a6-4477-b512-f196474a3e84.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a8/6b/50/3e/e8/4a/4b/72/9f/31/c2/f3/53/57/da/ed/3e33ad9c-93a6-4477-b512-f196474a3e84.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1809.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Figurative Caart der lande geleegen beneeden aan de rivier Commewene."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

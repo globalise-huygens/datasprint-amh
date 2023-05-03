@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1088.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bc885740-d5ea-4627-9848-af7b7dde7f0d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1088.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "A Plan of the City and the Country about Trichinapoly [...] / To his Royal Highness William Duke of Cumberland Captain General of his Majestic Forces / This plan is most humbly inscribed by his most obedient servant John Rocque chorographer of his Royal Highness the Prince of Wales.",
+        "dc:title": "Kaart van Trichinapoly en omgeving",
+        "dc:description": "Titel catalogus Leupe (NA): A Plan of the City and the Country about Trichinapoly, with the encampments of the English and French Army; that of the English commanded by colonel Stringer Lawrence, in the years 1753 and 1754.\nNotities verso: No. 8 Stad en Environs van Trichinapolij. Register 1, Deel 1, Folio .., Portefeuille 1 [geschreven op een blauw etiket] / 588 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1088",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kampement / legerplaats",
+            "banderol / cartouche / versiering",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "61 x 75,5 cm",
+        "dcterms:date": "1757",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6717/kaart-van-trichinapoly-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8b/2a/2b/2d/0b/8b/42/b2/8f/58/84/b3/0b/0d/59/1a/9e3271df-469b-4ded-8d24-7eaa0f273f57.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8b/2a/2b/2d/0b/8b/42/b2/8f/58/84/b3/0b/0d/59/1a/9e3271df-469b-4ded-8d24-7eaa0f273f57.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1088.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "A Plan of the city and the country about Trichinapoly, with the encampments of the English and French Army; that of the English commanded by Colonel Stringer Lawrence, in the years 1753 and 1754."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

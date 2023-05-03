@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1636.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/70f13897-0b9f-4898-b655-4e661342f264",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1636.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Continuation of the title (upper left):\nProject tot het aanleggen van een Nieuwe Hoofd Fortres in de Colonie de Berbice tot Dekking teegens buiten en binnen landse vijanden. A Het ontworpen project, B. Brandwagt, off waarschuwings post waardoor men in zee kan ontdekken.",
+        "dc:title": "Kaart van geprojecteerd fort tussen de Canje kreek en de Berbice rivier",
+        "dc:description": "Titel Leupe: _Project tot het aanleggen van een nieuw Hooftfortres in de Colonie de Berbice, tot dekking tegen buyten\nen binnenlandsche vyanden._\nMet de ontruiming van Fort Nassau en Nieuw-Amsterdam op 8 maart 1763 vanwege de opkomst van Cuffy\u2019s slavenleger, werd het fort door de Nederlanders in brand gestoken. Nadat de oorlog gewonnen was, was er een sterke behoefte aan nieuwe verdedigingswerken.\nNaast een ontwerp voor een nieuwe versterking ter vervanging van het verwoeste fort Nassau, tekende Fran\u00e7ois Samuel de Veije tegelijk verschillende projectplannen voor een hoofdfort aan de samenvloeiing van de Berbice en de Canje en diverse secundaire posten. De kern van Fran\u00e7ois Samuel de Veijes aanbevelingen voor de reorganisatie van de defensie van Berbice bestond uit de verplaatsing van het hoofdfort en het gouvernement van de bestaande locatie bij Nieuw-Amsterdam naar de landpunt bij de uitmonding van de Canje in de Berbice. Deze nieuwe versterking diende in zijn visie veel groter ontworpen te worden dan het oude fort, om te kunnen worden voorzien van zodanig zware batterijen dat daarmee bij een aanval vanuit zee de monding benedenstrooms van de samenvloeiing van beide rivieren over de gehele breedte effectief bestreken kon worden. Ter aanvulling zouden op de beide oevers hulpbatterijen geplaatst moeten worden, die een kruisvuur konden uitbrengen als de vijandelijke schepen het hoofdfort toch zouden weten te naderen.\nDe situatie ter plaatse vertoonde grote overeenkomst met die aan de samenvloeiing van de Commewijne en de Surinamerivier, waar in 1747 het nieuwe hoofdfort van de kolonie Suriname, Fort Nieuw Amsterdam, was voltooid. De aanleg van die vesting op een al even slappe modderbodem als waaruit de moerassige landtong tussen de Canje en de Berbice bestond, had indertijd meer dan een miljoen gulden gekost, voor de Soci\u00ebteit van Berbice ongetwijfeld de voornaamste reden om zich uiteindelijk niet aan dit project te wagen.\nDeze situatiekaart, compleet met de schootslijnen van alle geprojecteerde batterijen, volgt de modernste inzichten in de Europese vestigbouw van die tijd en laat goed zien hoe zorgvuldig De Veije zijn ontwerpen onderbouwde.\nNet als bij de meeste van De Veijes overige projectplannen voor Berbice uit de periode 1764-1767, bestaan van zijn ontwerp voor het hoofdfort meerdere opeenvolgende versies.  Onder letter \u2018A\u2019 vallen de kaarten VEL1635A1-3, onder \u2018B\u2019 de kaarten VEL1635 en 1635A4-5 en onder \u2018C\u2019 VEL1635A6, 1536 en 1637; allen uit het jaar 1765. Daarnaast zijn ook profielen beschikbaar op de kaarten VEL1638-1640 uit 1767.\nEenmaal terug in de Republiek werd hem bij herhaling gevraagd om aangepaste of nader uitgewerkte plannen en diverse toelichtingen, zodat hij zijn werkzaamheden voor de Soci\u00ebteit van Berbice ten slotte pas in de loop van 1767 kon afsluiten.\nZie ook de kaarten onder het Nationaal Archief nummer 4.OBPV 1.38 en VEL1638-1640 voor een der laatste varianten ,in elk geval de meest uitgebreide, uit 1767.\nHet noorden is linksonder.\nSchaal van 150 roeden Rijnlands = 140 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1636",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "redoute"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1765",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1937/kaart-van-geprojecteerd-fort-tussen-de-canje-kreek-en-de-berbice"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/12/61/3c/47/50/c6/4b/be/80/6f/25/f0/1b/04/a8/28/c7b44c30-f470-4d7e-b946-b31e7e114846.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/12/61/3c/47/50/c6/4b/be/80/6f/25/f0/1b/04/a8/28/c7b44c30-f470-4d7e-b946-b31e7e114846.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1636.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "2e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

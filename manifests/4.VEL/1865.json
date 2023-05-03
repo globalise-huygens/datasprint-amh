@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1865.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caart van de Matapica Creeq, ten deele gemeeten met de daarin vergeevene gronden, ten deele by gissinge opgenomen door: Reynet"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1865"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/53fd5665-2fd4-480d-9056-5fc2771a9f01\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1865.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1865.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8608,
+            "width": 5194,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1865.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1865.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/fa/3d/93/84/9d/ad/4e/df/a5/54/ad/a9/ca/56/ae/74/24126cec-67b0-47cb-8de2-601c22fdeea9.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8608,
+                                "width": 5194,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/fa/3d/93/84/9d/ad/4e/df/a5/54/ad/a9/ca/56/ae/74/24126cec-67b0-47cb-8de2-601c22fdeea9.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1865.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

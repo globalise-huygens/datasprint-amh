@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1980.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a84dbd12-8655-4ce8-9e25-a609b66c91d1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1980.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kavel van Benjamin Duselle",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen in Paramarica Creeq en Cottica (links in 't opvaren).\nDeze kaart toont een kavel van Benjamin Duselle (A-D), ten noorden van de Cotticarivier.\nDuselle heeft de meting aangevraagd na de kavel te hebben ontvangen van de Gouverneur-Generaal.\nDe lap grond blijkt 410 Surinaamse akkers (176,3 hectare) te meten.\nTen westen (links op de kaart) ligt de plantage Nieuwe Lavant en ten zuiden (onder op de kaart) het huis van meneer Pieters.\nDe kaart is ondertekend op 19 Juli 1734 en erkend op 31 Maart 1736.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 170 strepen.\nOorsprong: [OBP Suriname] 1736 [fols.] 1225-1226.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1980",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.42 - 0.27 El.",
+        "dcterms:date": "1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10066/kaart-van-kavel-van-benjamin-duselle"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ab/d2/ef/ad/af/ef/47/6b/b3/61/15/8d/0a/79/fa/c1/cf1bfa03-5cf9-4944-a752-abd39d7a5fa6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ab/d2/ef/ad/af/ef/47/6b/b3/61/15/8d/0a/79/fa/c1/cf1bfa03-5cf9-4944-a752-abd39d7a5fa6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1980.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen in Paramarica Creeq en Cottica (links in 't opvaren)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

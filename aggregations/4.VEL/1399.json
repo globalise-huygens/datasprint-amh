@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1399.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/906003d3-7b9a-4a76-8c6e-5550517c89b7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1399.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Virginia",
+        "dc:description": "Titel Leupe: Caerte van Virginia. Discovered and Discribed by Captayn John Smith. Graven by William Hole.\nEen kaart van de pas opgerichte kolonie Virginia. Jamestown was gesticht in 1606 door een vloot met kapitein John Smith aan boord. Hij bracht eveneens de landmeter Nathaniel Powell mee en een gedeelte van deze kaart is mogelijk door de laatstgenoemde getekend, ook al word alleen Smiths naam op het werk genoemd. In de vier jaar na 1606 verkende Smith de nabijgelegen hoofdrivieren tot en met de Chesapeake baai en noteerde daarbij alle inheemse dorpen die hij tegenkwam. De reikwijdte van zijn reizen is hier aangeduid met kruisen. Smith gebruikte 'Indiaasche' verslagen om de gebieden te beschrijven die hij niet zelf had bezocht. Linksboven is een bijeenkomst van de Powhatan getoond, met een verwijzing naar de gevangenschap van Smith in hun midden in het bijschrift. Rechts is een Sasquesahanough verbeeld. Beide illustraties komen van de hand van John White.\nNa zijn terugkeer naar Engeland in 1609 begon Smith samen te werken met William Hole om zijn kaart uit te werken voor een klein pamflet dat in 1612 werd uitgebracht. Hij deed er twaalf jaar langer over om de kaart ook in zijn eigen boek  te verwerken. Dit boek met de titel The Generall Historie of Virginia, New-England, and the Summer Isles verkocht goed. Hierdoor bleef de kaart tot 1673 de meest gebruikte weergave van Virginia.\nOorsprong: Staten-Generaal: Loketkast nr. 23 Kaarten.\nSchaal van 15 m. = 66 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1399",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kolonie / dorp"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "12 x 16 inches",
+        "dcterms:date": "1612",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10323/kaart-van-virginia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/19/07/b9/c0/c0/b5/4d/ee/83/de/2d/76/e0/3b/ba/fa/b3ec5e3d-abc8-475e-91bb-06ce78957d3a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/19/07/b9/c0/c0/b5/4d/ee/83/de/2d/76/e0/3b/ba/fa/b3ec5e3d-abc8-475e-91bb-06ce78957d3a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1399.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caerte van Virginia. Discovered and Discribed by Captayn John Smith. Graven by William Hole."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

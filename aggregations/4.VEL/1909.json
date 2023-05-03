@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1909.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/88177ac2-dda7-4b60-9f6f-dd178fdc07b2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1909.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Cappoerika",
+        "dc:description": "Titel Leupe: Kaart van de plantagien, tusschen Belair en Nieuw Timotibo.\nDeze kaart toont de Cappoerika plantage (aangeduid met de letters A-J); gelegen aan de kreken Perica, West en Oost Sappotoni, en Pero.\nDe meting is aangevraagd door de eigenares: mevrouw Johanna Sorgedragers, weduwe van Jacob Lemmers, om haar drie kavels te meten die zij sinds 3 Februari 1681 bemachtigd heeft.\nDe eerste kavel (aangeduid met de letters A-D) blijkt 271 Surinaamse akkers (116,5 hectare) te meten, de tweede (E-H) 729 akkers (313,5 hectare) en de derde (L-J) 320 akkers (137,6 hectare); de totale omvang is 1320 Surinaamse akkers (567,6 hectare) als ook de nieuw verkregen grond wordt meegerekend (zie uitleg rechts van de kaart).\nTen zuiden ligt de plantage Nieutemotibo, ten noorden de plantages De Vrede, Belair en Sappatoni.\nDe kaart is door de landmeter ondertekend op 11 Januari 1735 en officieel erkend op 30 Januari 1736 te Paramaribo.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 160 strepen.\nOorsprong: [OBP Suriname] 1736, [fols.] 1253-1254.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1909",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.27 El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10157/kaart-van-de-plantage-cappoerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/95/5c/fa/e3/aa/c0/4a/cd/89/47/b8/0e/9d/25/2d/86/b0a60186-4a80-461f-a3f1-0c93ebb63f67.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/95/5c/fa/e3/aa/c0/4a/cd/89/47/b8/0e/9d/25/2d/86/b0a60186-4a80-461f-a3f1-0c93ebb63f67.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1909.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de plantagien, tusschen Belair en Nieuw Timotibo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

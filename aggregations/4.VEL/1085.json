@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1085.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/05d98a84-0d3a-4f04-8358-73ad89b748c5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1085.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'T Packhuys",
+        "dc:title": "Pakhuis te Ponnekayl",
+        "dc:description": "Titel catalogus Leupe (NA): Afteekening van het ingestorte gedeelte van het pakhuis te Ponnekayl.\nRechts boven genummerd: 776, dit is waarschijnlijk een folionummer uit een band OBP, de gaatjes van het inbinden in de band zijn nog te zien.\nNotities verso: _Pakhuis te Ponnekayl 1720 [in potlood en duidelijk pas later op de kaart geschreven].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1085",
+        "dc:subject": [
+            "doorsnede / profiel",
+            "plattegrond / kaart",
+            "overzicht / aanzicht",
+            "pakhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "34 x 56,5 cm",
+        "dcterms:date": "ca. 1720",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5471/pakhuis-te-ponnekayl"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/73/25/1e/3b/ee/ff/4a/23/b2/71/7f/df/71/e4/04/d6/7ee9f7de-b8dc-46c2-b6cd-d809d4ae6cf9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/73/25/1e/3b/ee/ff/4a/23/b2/71/7f/df/71/e4/04/d6/7ee9f7de-b8dc-46c2-b6cd-d809d4ae6cf9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1085.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afteekening van het ingestorte gedeelte van het pakhuis te Ponnekayl."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

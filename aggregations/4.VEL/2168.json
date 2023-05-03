@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2168.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/28f00221-d732-44f8-8d64-d4d1fe4e03f9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2168.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Carte du Paraguay, du Chili, D\u00e9troit de Magellan, & Terre de Feu: dans; l'Amerique Meridionale",
+        "dc:title": "Kaart van het zuidelijk deel van Zuid Amerika",
+        "dc:description": "Kaart van het zuidelijk deel van Zuid Amerika.\nTitel Catalogus Leupe (NA): Carte du Paraguay, du Chili, d\u00e9troit de Magellan et Terre du feu, dans l'Am\u00e9rique M\u00e9ridionale.\nCarte du Paraguay, du Chili, D\u00e9troit de Magellan, & Terre de Feu: dans; l'Amerique Meridionale.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2168",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "51 x 58 cm",
+        "dcterms:date": "1702-1720",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7485/kaart-van-het-zuidelijk-deel-van-zuid-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b4/e0/6f/e3/7a/68/4f/aa/b1/b2/d2/54/c8/05/90/b6/80c8d2d2-5af9-4ae4-a785-0dd685a80a41.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b4/e0/6f/e3/7a/68/4f/aa/b1/b2/d2/54/c8/05/90/b6/80c8d2d2-5af9-4ae4-a785-0dd685a80a41.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2168.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte du Paraguay, du Chili, d\u00e9troit de Magellan et Terre du feu, dans l'Am\u00e9rique M\u00e9ridionale."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1859.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9386e1b8-7ab3-474e-bdb1-80ee085a59dd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1859.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kavels rondom de Commewijne Rivier en in de Matapica Kreek",
+        "dc:description": "Titel Leupe: Generaele Caert van Mattapica en diverse sig daerin ontlastende Crequen, als Warappa, Toerpoeripa en Cabbes Criq, beneffens de Noordseyde der rivier beneden Comowyne enz.\nDeze kaart toont alle kavels rondom de Commewijne Rivier en de Matapica kreek alsook  de achterlanden die vrij komen bij het aanleggen van een nieuwe kanaal ten westen (links op de kaart).\nDe eerste gronden in dit gebied werden kort voor het midden van de achttiende eeuw uitgegeven.\nAl voor ca. 1757 begon hier ook de ontginning van de laaggelegen delen verder van de rivier vandaan, het eerst langs de Warapa\nen de Matapicakreek, waarvoor het echter noodzakelijk was op uitgebreide schaal afwaterings\nen toevoerkanalen te graven.\nDeze kaart geeft een totaal beeld van al deze kavels en hun eigenaren, die met volnaam en het aantal Surinaamse akkers (0,43 hectare per akker) in bezit vernoemd zijn in de legenda boven in de kaart.\nDe kavels 19-29 zullen baat hebben bij dit kanaal maar uit de aantekening rechtsboven op de kaart blijkt dat nog niet alle kavels aan de nieuwe gracht verbonden zijn .\nDe achterlanden van de kavels zijn met een stippellijn onderscheiden van de kavel zelf en niet ingekleurd.\nAlleen voor de nieuwe achterlanden is het aantal Surinaamse akkers binnen de kavel aangegeven; de ander lappen grond bevatten slechts nummers en eigenamen om ze met de legenda boven te verbinden.\nRedoutes, het Nieuw Amsterdam fort en de loop van kreken en rivieren zijn weergeven ter ori\u00ebntatie.\nDe kaart is ondertekend door de landmeter zelf in 1767.\nSchaal van 500 Kettingen \u00e0 66 Rijnlandse voeten = 230 strepen.\nEen kopie is beschikbaar (1857A)",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1859",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.435 - 0.92 El.",
+        "dcterms:date": "1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2203/kaart-van-kavels-rondom-de-commewijne-rivier-en-in-de-matapica-kreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ff/f9/3f/84/b1/f2/45/fb/8c/f6/9f/92/3d/5a/5a/bc/3f6e010a-4def-4ae2-bf6d-1a9f2537caa5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ff/f9/3f/84/b1/f2/45/fb/8c/f6/9f/92/3d/5a/5a/bc/3f6e010a-4def-4ae2-bf6d-1a9f2537caa5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1859.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1564.17.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4d2349f7-c8d7-468d-887a-3a626315942e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1564_17.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor nieuwe gebouwen op het eiland Borselen",
+        "dc:description": "Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.\nBij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.\nDeze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.\nZie ook VEL1564.14 en 15, VEL1564.18 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.\nHet ontwerp wordt weergegeven met een achter\nen vooraanzicht.\nSchaalstok 20 Rijnland voet = 10 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1564.17",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1774-1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7815/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ce/c1/1d/fc/98/ff/44/03/b9/44/3f/6e/05/bd/e4/fe/910a9b59-2763-4cdb-bc1a-76cabbac1f41.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ce/c1/1d/fc/98/ff/44/03/b9/44/3f/6e/05/bd/e4/fe/910a9b59-2763-4cdb-bc1a-76cabbac1f41.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.17.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 17"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

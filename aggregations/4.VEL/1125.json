@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1125.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a8137ba1-f233-4d08-9c8a-5bd82b37a3cd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1125.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaartje van het gebied Wancan op Formosa",
+        "dc:description": "Titel catalogus Leupe (NA): Caerte van Wancans gelegentheyt.\nNotities verso: Caerte van Wancans gelegentheijt / Behoort by het dagregister des Casteels Zeelandia op Formosa eindigende 8 aug. 1644, portef. 1644 no. III / 426 [folionummer in de band ?] / No. 7 [volgnummer van het stuk in de band ?] / 598 c.\nLegenda: A-M",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1125",
+        "dc:subject": [
+            "vesting",
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "40 x 52 cm",
+        "dcterms:date": "ca. 1644",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6719/kaartje-van-het-gebied-wancan-op-formosa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/97/a5/14/75/7e/45/4e/ab/aa/83/da/91/6b/d0/93/2b/a42a07ed-de35-4b1b-ba79-f65013cec377.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/97/a5/14/75/7e/45/4e/ab/aa/83/da/91/6b/d0/93/2b/a42a07ed-de35-4b1b-ba79-f65013cec377.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1125.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caerte van Wancans gelegentheyt."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1157.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/008f3d73-7abc-4765-afd2-09d285d3aac8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1157.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het Eiland Java en Madura",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van het Eiland Java en Madura.\nRechtsboven genummerd: 2.b.\nDe achterkant is beplakt met Japans papier dat bij de vier randen tussen 3,5 en 4,8 cm uitsteekt.\nAfkomstig uit de Atlas Amsterdam.\nNotities verso: 602 c",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1157",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 74,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2449/kaart-van-het-eiland-java-en-madura"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f5/1f/a9/33/99/88/41/55/b7/cc/60/dd/66/9d/70/20/14b6e809-20bd-428c-8866-6b0ecdd6a1cc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f5/1f/a9/33/99/88/41/55/b7/cc/60/dd/66/9d/70/20/14b6e809-20bd-428c-8866-6b0ecdd6a1cc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1157.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eiland Java en Madura, met de verdeeling in districten en bezette posten in de Mataram."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

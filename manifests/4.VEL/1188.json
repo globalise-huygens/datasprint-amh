@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1188.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de stad Batavia, waarop voorkomt de nieuw geprojecteerde waterleiding, dammen en sluizen tot het opstoppen van het water binnen de stad."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1188"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/a0fa28ef-a59b-4b63-8937-1d44f0cb6131\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1188.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1188.json#canvas/p1",
+            "type": "Canvas",
+            "height": 13879,
+            "width": 23074,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1188.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1188.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/24/65/f3/5b/9b/0f/4e/08/ac/a6/6a/ee/f9/f9/be/5e/e81ebe84-939f-4fd8-b474-d831142b8c6b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 13879,
+                                "width": 23074,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/24/65/f3/5b/9b/0f/4e/08/ac/a6/6a/ee/f9/f9/be/5e/e81ebe84-939f-4fd8-b474-d831142b8c6b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1188.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

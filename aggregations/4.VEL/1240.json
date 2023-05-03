@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1240.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/220bb6a2-c21e-4955-9635-93f1834ee01b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1240.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Tekening van enkele landerijen van de 'Jonker van Manipa' te Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Figuratieve Caert van een stcuk land, herkomstig van den rebel Jonker van Manipa, leggende beoosten Tanjong Priok aan de Zeestrand enz.\nLegenda: A-F\nNotities verso: Behoort by de overgekomen Brieven en papieren van Batavia, 7 stuks, 1733 deel 7 N1 / 3701 [folionummer in de band ?] / 602 p.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1240",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "legenda",
+            "landerij / plantage",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "58,5 x 53,5 cm",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3654/tekening-van-enkele-landerijen-van-de-jonker-van-manipa-te-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/10/94/38/5e/df/22/47/00/a3/b7/94/b0/8d/7c/62/1b/60b272c8-1e96-487f-aeae-9ac7e2f38ef6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/10/94/38/5e/df/22/47/00/a3/b7/94/b0/8d/7c/62/1b/60b272c8-1e96-487f-aeae-9ac7e2f38ef6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1240.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Figurative Caert van een stuck land, herkomstig van den rebel Jonker van Manipa, leggende beoosten Tanjong Priok aan de Zeestrand enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

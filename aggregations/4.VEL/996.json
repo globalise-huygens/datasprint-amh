@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/996.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/01ab8af6-55e1-41ba-b8da-5dc962c2b72d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0996.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caart van 't Landschap Carretchie",
+        "dc:title": "Kaart van Carretchie bij Jafnapatnam",
+        "dc:description": "Titel catalogus Leupe (NA): Caart van 't Landschap Carretchie, gelegen aan de boord der Wanny, onder 't commandement van Jaffanapatnam enz..\nHet betreft een kopie.\nNotities verso: Behoort tot het Dagregister van Imhoff naar Malabaar enz overgekomen van Ceylon 1740 1 deel, 1740 N 7, 710 [folionummer in de band?], 521 f [de letter is erg onduidelijk].\nDe kaart toont een stuk land met De Woeste en onbeboude Landen, en dorpen 'T Dorp Oepaar, 'T Dorp Oelalanatam, 'T Dorp Willicandel.\nLinksonder is de schaalverdeling Schale van 800, Ryntz Roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0996",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "flora",
+            "huis / woonhuis",
+            "plattegrond / kaart",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "1739",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3181/kaart-van-carretchie-bij-jafnapatnam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/99/6f/58/54/6d/42/4a/83/98/3b/50/fb/87/fc/9a/b5/e909a966-8312-4be2-8dec-2d896de9bc93.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/99/6f/58/54/6d/42/4a/83/98/3b/50/fb/87/fc/9a/b5/e909a966-8312-4be2-8dec-2d896de9bc93.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/996.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caart van 't Landschap Carretchie, gelegen aan de boord der Wanny, onder 't commandement van Jaffanapatnam enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

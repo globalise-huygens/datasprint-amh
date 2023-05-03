@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/200.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7ffed805-ea8d-42b8-8d09-8d0297e4206d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0200.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Caert van de Rivier Lagoa, leggende in de Baij de lagoa, geleght naar een Compas dat met 20 grad[en] N.Westerigh verbetert is. NB. Het maakt alhier t' hoogste water met een Ooste en Weste Maan aldus gepeijlt en opgemaakt door J.D.B.",
+        "dc:title": "Kaart van de rivier Lagoa",
+        "dc:description": "Titel catalogus Leupe (NA): Caart van de Rivier Lagoa, leggende in de bay de la Goa enz..\nTerm aangeduid op deze kaart: Compagnies post; dit gebouw is in opstand weergegeven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0200",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "overzicht / aanzicht",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "465 x 1135 mm",
+        "dcterms:date": "1721-1724",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4713/kaart-van-de-rivier-lagoa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b3/38/6a/4c/c9/e4/45/da/99/d3/c9/ed/a1/bf/2a/d7/6da5543f-7fb0-4812-9633-952bc8b133a2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b3/38/6a/4c/c9/e4/45/da/99/d3/c9/ed/a1/bf/2a/d7/6da5543f-7fb0-4812-9633-952bc8b133a2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/200.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "gekleurd exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

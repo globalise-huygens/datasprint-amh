@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1461A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6b90a172-f8b2-4a50-8af8-e4fde72d6b80",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1461a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een redoute aan de kust",
+        "dc:description": "Titel Leupe: Project tot versterking van eenige Buitenbayen op het Eiland Cura\u00e7ao, zijnde eene vierkante Redoute, voorzien van hare logementen, kruidkamer, regenbak enz., met een lage battery daar achter, strekkende tot defensie van de Redout, alsmede om meerder vuur in de bayen te kunnen hebben..\nDeze vier ontwerpen (VEL1461A-D) tonen plannen tot versterking van de kust van Cura\u00e7ao. De hier afgebeelde redoute is een prototype dat op verschillende plaatsen kon worden gebouwd. Een facade, drie profielen en vier plattegronden van drie verdiepingen en een bastion zijn zichtbaar.\nSchaal van 11 Rijnlandse Roeden = 117 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1461A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "Cura\u00e7ao (WIC-gebied)"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.78 - 0.41 El.",
+        "dcterms:date": "1742",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10385/ontwerp-voor-een-redoute-aan-de-kust"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/91/4f/c2/30/b6/47/41/97/bc/e8/8d/5c/5c/26/56/91/fbd699ba-704c-4f33-9f54-7fd07debe004.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/91/4f/c2/30/b6/47/41/97/bc/e8/8d/5c/5c/26/56/91/fbd699ba-704c-4f33-9f54-7fd07debe004.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1461A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

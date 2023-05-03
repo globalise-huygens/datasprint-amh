@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/993.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f0c7cbdb-c4a9-422f-9935-62d66cf72002",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0993.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Platte grond van het fortje van Manaer, met afteekening van het beschadigde bolwerk enz.",
+        "dc:title": "Plattegrond van het fort Manaar",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van het fortje Manaer, met afteekening van het beschadigde bolwerk enz..\nLegenda: A-H\nPlattegrond en detailtekening van de scheuring in de stenen vestingmuur en de herstelling in ravelijn B (Westpunt) van het fort Manaar.\nNotities verso: OBP Ceilon 1722; 2de dl. 1318. Nr. 544b.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0993",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "vesting",
+            "overzicht / aanzicht"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "42 x 73 cm",
+        "dcterms:date": "ca. 1722",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4961/plattegrond-van-het-fort-manaar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1f/33/ac/32/a9/4b/4d/fd/8a/df/74/eb/d6/a2/d0/9e/c818d900-85a7-4121-9711-80489187c509.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1f/33/ac/32/a9/4b/4d/fd/8a/df/74/eb/d6/a2/d0/9e/c818d900-85a7-4121-9711-80489187c509.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/993.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van het fortje Manaer, met afteekening van het beschadigde bolwerk enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

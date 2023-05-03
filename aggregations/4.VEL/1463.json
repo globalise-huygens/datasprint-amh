@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1463.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/cac74c0a-90bc-43a7-9a89-c9e9a4f7ce55",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1463.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een bastion aan de baaien Piscaderis, Sint Michiel, Porto Marie en Santa Cruz",
+        "dc:description": "Titel Leupe: Plan van een Horisontale of Lage battery, dienende tot versterking van de Piscaderis, St. Michiel, Porte Marie en St. Cruz Bayen op het Eiland Cura\u00e7ao.\nDeze schets is onderdeel van een serie plannen (VEL1462-1466) tot versterking van de baaien Piscaderis, Sint Michiel, Porto Marie en Sint Kruis met een lage batterij en een fort. Het hier afgebeelde ontwerp voor een bastion is op een aantal vlakken verbeterd vergeleken met eerdere schetsen. Zo zijn de hoeken minder scherp en de flanken groter. Deze verbeteringen zijn weergegeven met behulp van een plattegrond.\nSchaal van 9 Rijnlandse Roeden = 282 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1463",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.32 - 0.50 El.",
+        "dcterms:date": "1744",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1490/ontwerp-voor-een-bastion-aan-de-baaien-piscaderis-sint-michiel-porto"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4f/6a/e2/93/5a/e2/4c/8b/9d/72/f5/59/d5/60/64/69/27f2a250-4f83-4229-9246-82430e73c897.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4f/6a/e2/93/5a/e2/4c/8b/9d/72/f5/59/d5/60/64/69/27f2a250-4f83-4229-9246-82430e73c897.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1463.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van een Horisontale of Lage battery, dienende tot versterking van de Piscaderis, St. Michiel, Porte Marie en St. Cruz Bayen op het Eiland Cura\u00e7ao."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2039.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f4b91dab-7c80-42e9-80d4-94d84dd909b0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2039.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "c. Verklaringen: [linksboven] een legenda bij de letters a t/m u met beschrijvingen, in geheimschrift, niet getranscribeerd. \nExplanations: [upper left] a key to the letters a to u with various descriptions, encrypted, not transcribed. \n[linksonder] een aantekening in geheimschrift, niet getranscribeerd. \n[lower left] an encrypted note, not transcribed.",
+        "dc:title": "Kaart van het fort Nieuw Amsterdam",
+        "dc:description": "Titel Leupe: Plan van het fortress Nieuw Amsterdam.\nDeze kaart door Johann Friedrich Ferdinand Wollant maakt deel uit van een serie in geheimschrift (zie VEL2007A en VEL2076-2078), die hij na het bekend worden van de oorlog met Groot-Brittanni\u00eb in Suriname in 1781 maakte in opdracht van gouverneur Texier in samenhang met een plan voor het verbeteren van de verdediging van de kolonie. De voorgestelde verbeteringen behelsden in de eerste plaats de verzwaring en uitbreiding van de zeewaarts gerichte batterijen en de zogenoemde redans, de kleine voorwerken in de buitenwal. Daarnaast wenste Wollant onder meer een tweede gracht met voorliggende barri\u00e8res op de aangeslibde modderplaat langs de oostflank en een extra schans bij de landingsplaats aan de zuidzijde van de nieuwe buitenbatterij aan de kant van de Surinamerivier, zoals afgebeeld in respectievelijk de onderste en de bovenste profieltekening. De meeste van deze en andere suggesties uit zijn plan zijn tot 1784 inderdaad deels of geheel uitgevoerd, zij het dat de bewapening op de buitenwal en de redans aan de rivierzijde onvoldoende bleef.\nHet noorden is linksonder.\nSchaalstok van 100 Roeden a 12 voet Rhynl = [ca. 1 : 1.900] / [profielen] 20 Roeden a 12 voet Rhijnl. = [ca. 1 : 390].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2039",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "72,5 x 94 cm.",
+        "dcterms:date": "1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2025/kaart-van-het-fort-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7a/84/05/55/03/12/40/ca/99/a7/a6/f6/c1/d3/b0/68/09bc6088-27a9-4581-87c8-fc80d867441c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7a/84/05/55/03/12/40/ca/99/a7/a6/f6/c1/d3/b0/68/09bc6088-27a9-4581-87c8-fc80d867441c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2039.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fortress Nieuw Amsterdam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

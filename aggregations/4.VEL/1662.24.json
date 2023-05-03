@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1662.24.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0dd05075-2be6-4296-82c0-2021208352a9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1662_24.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van het nieuwe onderkomen voor klerken in Nieuw-Amsterdam",
+        "dc:description": "Titel Leupe: Plans, platte gronden, opstanden voor gebouwen voor de nieuwe stad, het gouvernement enz.\nDeze schets behoort tot de ontwerpen die Abraham van der Hart in de jaren 1779-1781 voor de Soci\u00ebteit van Berbice maakte. Dit zijn technische tekeningen voor de balkconstructies voor het nieuwe onderkomen voor klerken dat op van der Hart's overzichtsplan voor het nieuwe gouvernementscomplex op kaart VEL1662.42 als gebouw nr. 5 is weergegeven. De tekening boven bevat ook twee profielen van het dak.\nWegens de Britse bezetting van Berbice in maart 1781, kon dit plan waarschijnlijk niet direct worden overgezonden. Nadat Berbice in 1784 aan de Soci\u00ebteit was teruggegeven, volgden al in het jaar daarop de eerste plannen voor een geheel nieuwe hoofdplaats aan de samenvloeiing van de Berbice en de Canje, waarmee Van der Harts project van 1779-1781 definitief van de baan was.\nSchaal: 70 Rijnlandse voet = 12 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1662.24",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:date": "1779-1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7566/plattegrond-van-het-nieuwe-onderkomen-voor-klerken-in-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f1/4c/f1/f7/85/53/4e/a1/aa/50/f7/1f/8e/3f/3d/6c/67ec24ec-b45f-4f20-b923-6cfb97ce6ee5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f1/4c/f1/f7/85/53/4e/a1/aa/50/f7/1f/8e/3f/3d/6c/67ec24ec-b45f-4f20-b923-6cfb97ce6ee5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1662.24.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 24"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

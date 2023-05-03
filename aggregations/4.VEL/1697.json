@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1697.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3e7c3a13-1c99-4dd1-9c29-704d1dca6fcf",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1697.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [upper left] continuation of the title and a dedication : \nEnde off deselve tot nadeel Konde Strekken voor De Hout Grond Weltevrede &: Annexe van Dien. aankomende Haar Eed:e Gr:t Acht:e De Heeren Directeuren & Regeer:s der Collonie Suriname &:a &:a &:a gedaan maaken Op Ordres van Den Wel Eedele Gestrenge Heer & M:r I:G: Wichers Gouverneur Generael der Collonie Suriname &:a &:a &:a ter requisitie van Den Wel Eedele Gestrenge Heer Admininistrateur Generaal deezer Collonie A:I: Halloij. \n[lower left] descriptions of various parcels, not transcribed.",
+        "dc:title": "Kaart van nieuwe percelen aan de Marchallkreek",
+        "dc:description": "Titel Leupe: Naadere kaart en rapport, specterende de nieuw te begeeven landeryen in de Marchals kreek en of dezelve tot nadeel konde strekken voor de Houtgrond\nWeltevreden C.A. met eenige veranderingen.\nDeze kaart toont de plantages en houtgronden stroomopwaarts van de samenvloeiing van de Surinamerivier met de Marechalskreek (Marchallkreek) nabij Weltevreden en Bergendal. De landmeter Adrianus Hendricus Helledaij (ook: Helleday) maakte de kaart in samenhang met de uitgifte van nieuwe houtgronden aan die kreek. Dit betreft een haast exacte kopie van VEL1696 met een ander lettertype. Alleen de tekst rond de Mama-kreek linksboven op de kaart is weggelaten. Helledaij kwam in 1768 in Suriname aan en overleed in Paramaribo in 1787.\nHet noorden is rechtsonder.\nSchaalstok van 410 Ketting \u00e0 66 V:tt rynl:s = [ca. 1 : 65.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1697",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "mijn"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41,5 x 55,5 cm",
+        "dcterms:date": "1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9824/kaart-van-nieuwe-percelen-aan-de-marchallkreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4d/2b/ce/11/87/b7/4b/c7/ae/c6/6a/82/fc/c1/89/16/ebc60334-925f-4125-8089-2c81faf66615.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4d/2b/ce/11/87/b7/4b/c7/ae/c6/6a/82/fc/c1/89/16/ebc60334-925f-4125-8089-2c81faf66615.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1697.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Naadere kaart en rapport, specterende de nieuw te begeeven landeryen in de Marchals kreek en of dezelve tot nadeel konde strekken voor de Houtgrond Weltevreden C.A. met eenige veranderingen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

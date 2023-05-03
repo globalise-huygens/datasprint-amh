@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/500.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van Hollandia - Nova, nader ontdeckt, Anno 1705, door het fluitschip Vossenbosch, de chialoup Wajer en de Phantialling Nova - Hollandia, den 2 Maart van Timor vertrocken."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "500"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1705"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/085b8505-b64d-43b1-9707-5ab35becd985\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/500.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/500.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6260,
+            "width": 8813,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/500.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/500.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/40/02/ee/88/76/65/4f/1d/a4/38/f1/fa/e4/d1/3c/77/659a6b31-b812-4c83-88e3-8d3c984a7ba0.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6260,
+                                "width": 8813,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/40/02/ee/88/76/65/4f/1d/a4/38/f1/fa/e4/d1/3c/77/659a6b31-b812-4c83-88e3-8d3c984a7ba0.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/500.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

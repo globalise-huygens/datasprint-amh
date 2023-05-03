@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1029.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/273c8776-dfd6-4d87-8acd-0aa4bbd4d95c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1029.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Oostenburg",
+        "dc:title": "Plattegrond van fort Oostenburg te Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan als voren, hier wordt de titel bedoeld van VEL1027: Plan van Oostenburg, zo als de werken en gebouwen thans zijn.\nPlattegrond en profiel van de aanleg van een batterij op de berg bij fort Oostenburg.\nNotities verso: [Blauw etiket ODG] nr: 18 Oostenburg; [Gedrukt etiket] nr: 564.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1029",
+        "dc:subject": [
+            "legenda",
+            "vesting",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "47,5 x 68 cm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/584/plattegrond-van-fort-oostenburg-te-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/45/2b/68/07/1a/50/4a/17/94/b1/98/d7/da/76/ef/85/e3c55dfb-2aa6-47f6-ab9f-a4b28e1e1bc3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/45/2b/68/07/1a/50/4a/17/94/b1/98/d7/da/76/ef/85/e3c55dfb-2aa6-47f6-ab9f-a4b28e1e1bc3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1029.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Oostenburg, zo als de werken en gebouwen thans zyn."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

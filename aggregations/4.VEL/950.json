@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/950.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a8a32751-cd5d-4e0d-bd0d-2ab1f07369b4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0950.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaring van het nevenstaande genommerde als",
+        "dc:title": "Kaart van het kasteel, de stad en omstreken van Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van het Kasteel, de Stad en omstreken van Colombo.\nLegenda: 1-42\nKaart van de stad Colombo en omgeving met de dorpen, wegen, tuinen en landerijen. Tevens olifantfuiken vermeld.\nNotities verso: A A 23e; 524g potlood gerenvoyeerd nr. 37 en nr. 21.\nTopografische namen vermeld op deze kaart: Pittuancarre Pars, Goensdorp, Wereletolle, Mehewatte, klooster St. Sebastiaan, Kapihentoudou, Narahenpitte, Nawalgodde, Wallakarkota, Kirrelepane, Gangadawile, Kaiboil, Dissigele, Galkisse Pars, Pepiliane, Hetigwatte.\nTuinen en landerijen van particulieren: Goenswijck, Motuaal, Bloemendal, Lascarijns Dorp, Coutenchene, Wolvendal, Van der Meijden polder, Hulstdorp, Mattedou of Mattedon, T' Leeger dorp, Wellewatte, Mampewatte.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0950",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kerk / pastorie",
+            "landerij / plantage",
+            "tuin / siertuin",
+            "omheining / kraal",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/695/kaart-van-het-kasteel-de-stad-en-omstreken-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b3/64/e9/3a/f2/6c/4d/a7/81/ed/2c/a4/37/0c/04/b4/0e59319e-2d61-432d-8d0a-d6ec0864310c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b3/64/e9/3a/f2/6c/4d/a7/81/ed/2c/a4/37/0c/04/b4/0e59319e-2d61-432d-8d0a-d6ec0864310c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/950.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Kasteel, de Stad en omstreken van Colombo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

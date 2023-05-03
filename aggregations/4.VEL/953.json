@@ -1,0 +1,59 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/953.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a95eaec8-6217-4aa3-98b1-fec15f4093bb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0953.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan en Caart van de situatie buyten het Casteel, de voorstad en gravetten van Colombo, met alle de Waateren, Weegen, Hoogtens, Thuynen en Saayvelden seijnde de stranden met Ebbe in de drooge maanden Februarij en Maart opgenoomen.",
+        "dc:title": "Plattegrond van het kasteel en de voorstad van Colombo",
+        "dc:description": "Titel catalogus Leupe: Plan en Caart van de situatie buyten het Casteel, de voorstad en gravetten van Colombo, met alle de wateren, weegen, hoogtens, thuynen en saayvelden enz..\nLegenda: a-z; 1-19\nKaart van de stad Colombo en omgeving van de riviermond van de Kellingange in het noorden tot de rivier Kallibouille in het zuiden.\nCartouche met een olifant en drie inheemse personen waarvan de middelste met een pajong.\nOpmerking catalogus Leupe: Gravetten zijn afsluitingen.\nNotities verso: Blauw etiket ODG nr. 17 Plan en situatie van het kasteel en stad Colombo; Gedrukt etiket nr. 524.\nVEL0953 bestaat uit twee ectachromen: links en rechts.\nTopografische namen vermeld op deze kaart: Salpitti Corle, Marandaan, Coelbitty, Wellewatte, Hinna Corle, Hewegam Corle, Aloetcoer Corle.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0953",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kerk / pastorie",
+            "vesting",
+            "ziekenhuis / lazaret",
+            "schip / vaartuig",
+            "tuin / siertuin",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "pakhuis",
+            "banderol / cartouche / versiering",
+            "legenda",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "83 x 144 cm",
+        "dcterms:date": "ca. 1762",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2873/plattegrond-van-het-kasteel-en-de-voorstad-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/aa/75/bd/bf/1c/6d/42/5d/ba/40/23/da/0f/23/c8/22/a1e23581-14e0-4957-81ec-992345b0fdf0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/aa/75/bd/bf/1c/6d/42/5d/ba/40/23/da/0f/23/c8/22/a1e23581-14e0-4957-81ec-992345b0fdf0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/953.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan en Caart van de situatie buyten het Casteel, de voorstad en gravetten van Colombo, met alle de wateren, weegen, hoogtens, thuynen en saayvelden enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

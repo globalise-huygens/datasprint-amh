@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2032.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4eaabd08-7e66-4f32-a708-a32bf1b44e43",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2032.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [linksboven] een legenda bij de letters A t/m H : \nExplanations: [upper left] a key to the letters A to H : \nExplicatie. \nA. Nieuwe Fort Amsterdam. \nB. Groot Sluijs. \nC. Corps de Gardes. \nD. Huijs en Loges voor \u2019s lands Negers. \nE. 42 Ackers met kost beplant voor \u2019s lands Negers\nF. een Hout kooker om Water te Loosen. \nG. De Rood Linie is een stuck Grond Groot 1400 Ackers dienende tot gebruijk voor de Fortres. \nH. de geprojecteerde Lunette.",
+        "dc:title": "Kaart van een nieuw ontwerp voor het fort Nieuw Amsterdam",
+        "dc:description": "Titel Leupe: Plan van de Nieuwe Fort Amsterdam, op de hoek van de rivieren Suriname en Commewine.\nDeze kaart toont waarschijnlijk een vroeg stadium van het herontwerp van het fort Nieuw-Amsterdam. Eind 1733 werd door de Staten-Generaal een overeenkomst tussen de Soci\u00ebteit en de vertegenwoordigers van de kolonisten bekrachtigd tot het versterken van de verdediging van Suriname. Dit ontwerp voor fort Nieuw Amsterdam werd vermoedelijk kort hierop gemaakt. De daadwerkelijke bouw begon in 1736, bleek aanzienlijk moeilijker en bewerkelijker dan voorzien, en werd pas in 1747 voltooid. Ook daarna bleef het fort altijd problematisch in onderhoud en verdediging. (Zie voor meer details de titels onder 'documentatie', in het bijzonder die van Temminck Groll.)\nDeze ongedateerde kaart door Desmarestz (ook: Desmaretz, Desmaretsz) betreft een overzicht van het geprojecteerde werk in een vroeg stadium van de uitvoering, dus in de eerste jaren na 1734. Met enige nadruk zijn de onderkomens en de kostgronden voor de slaven die hier waren tewerkgesteld (D, E) en de hoofdsluis (B) aangegeven, welke laatste in april 1737 voltooid was. Hoogstwaarschijnlijk behoorde deze overzichtskaart bij Desmarestz\u2019 voortgangskaart uit mei 1737 van alleen het fort op VEL2034, waar in de legenda de voltooiing van de sluis \u2018ter perfectie\u2019 wordt genoemd.\nHet noorden is rechts.\nSchaalstok van Twee Hondert Rooden Rhijnlandse maat = [ca. 1 : 8.200].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2032",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "73 x 53.5 cm.",
+        "dcterms:date": "1737",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2018/kaart-van-een-nieuw-ontwerp-voor-het-fort-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fa/36/7a/ac/4c/9b/43/9d/84/2e/97/4e/1c/80/23/28/5c4e7ced-d1e5-4e2c-8e4e-9dca33cba581.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fa/36/7a/ac/4c/9b/43/9d/84/2e/97/4e/1c/80/23/28/5c4e7ced-d1e5-4e2c-8e4e-9dca33cba581.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2032.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Nieuwe Fort Amsterdam, op de hoek van de rivieren Suriname en Commewine."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/824.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Nader plan van 's Comp. Fort de Goede Hoop, tuinen en huizingen, zoo mede het afgemeten gedeelte, tot het begin van een Stad voor de Vrylieden."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "824"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1660"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/b92e4da5-4a3e-478b-8f9a-0dab4bf8e944\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/824.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/824.json#canvas/p1",
+            "type": "Canvas",
+            "height": 11268,
+            "width": 9810,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/824.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/824.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/5d/6b/cc/22/bf/dc/49/58/9d/4f/e9/56/eb/e3/ba/a4/dc578084-04b5-4e69-992a-4b1f808e2792.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 11268,
+                                "width": 9810,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/5d/6b/cc/22/bf/dc/49/58/9d/4f/e9/56/eb/e3/ba/a4/dc578084-04b5-4e69-992a-4b1f808e2792.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/824.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

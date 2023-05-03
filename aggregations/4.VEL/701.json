@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/701.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fb7f327f-3684-4f57-b4b6-0193a43b9664",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_701.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Affbeeldingh van het Eylandt Tamagua metsgaders d'affteyckening van des vijandts forten mitsgaders d'onse [...]",
+        "dc:title": "Kaart van het eiland Tamarica",
+        "dc:description": "Kaart van het eiland Tamarica.\nTitel in Catalogus Leupe (NA): Afbeeldinge van het Eyland Tamagua, mitsgaders d'affteyckeninge van des vyandts forten, mitsgaders d'onse.\nAffbeeldingh van het Eylandt Tamagua metsgaders d'affteyckening van des vijandts forten mitsgaders d'onse [...].\nDe kaart geeft de positie van de Nederlandse forten en die van de Portugezen aan.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0701",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "banderol / cartouche / versiering",
+            "gebouw",
+            "vesting",
+            "huis / woonhuis",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "39 x 42 cm",
+        "dcterms:date": "ca. 1630",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7113/kaart-van-het-eiland-tamarica"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4c/52/07/53/c9/3f/49/73/b4/85/a5/65/25/a9/37/0b/5bf3d68b-b5fe-4390-b008-3eb7a87deab3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4c/52/07/53/c9/3f/49/73/b4/85/a5/65/25/a9/37/0b/5bf3d68b-b5fe-4390-b008-3eb7a87deab3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/701.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eiland Tamagua, met daaraan vastgehecht een plattegrond van het fort Tamaricke."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

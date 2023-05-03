@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1497B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/42da9bc4-2672-45d3-a11e-864f6b6fd247",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1497b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Nederlandse plantages langs de Demerari-rivier",
+        "dc:description": "Titel Leupe: Plan topographique de la Colonie de Demerari dans la Guyane Hollandaise etc.\nDe kaart toont de plantages langs de rivier de Demerari in vermeldt de eigenaren in 1783. De kaart is van Franse makelij en dateert van kort na de verovering van het gebied door de Fransen in 1782.\nDeze kaart is een vervolg van VEL1497A. Zie aldaar voor legenda, schaal etc.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1497B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "1783",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7526/kaart-van-nederlandse-plantages-langs-de-demerari-rivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b5/91/f9/7b/db/06/42/d7/a6/03/30/78/3e/45/cf/66/3fe409d6-2b4e-4c41-94aa-30f4dc955228.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b5/91/f9/7b/db/06/42/d7/a6/03/30/78/3e/45/cf/66/3fe409d6-2b4e-4c41-94aa-30f4dc955228.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

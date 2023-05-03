@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1407B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2b4661fa-6108-424a-9a79-dcf12d07ce56",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1407b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Zuid Carolina, blad 2",
+        "dc:description": "Titel Leupe: A Map of South Carolina and a part of Georgia etc.\nDit is een gedeelte van de heruitgave van De Brahms kaart uit 1757. Deze herziening voegde vele geografische gegevens toe die verzameld waren door de landmeter John Stuart, de primaire Indian Agent van 1762 tot de Amerikaanse Revolutie. Aangezien de kaart werd gedrukt tijdens het hoogtepunt van deze Revolutie hielp het de Britse troepen de tegenstander te traceren. De Brahm\u2019s oorspronkelijk kaart bleek hier te grof voor.\nSchaal van 35 Eng. M. = 176 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1407B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kolonie / dorp",
+            "kompas / windroos",
+            "North en South Carolina",
+            "Verenigde Staten"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.67 - 0.81 El. (43.5 x 48.5 inches)",
+        "dcterms:date": "1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10333/kaart-van-zuid-carolina-blad-2"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d5/aa/9e/db/79/59/4a/a7/a0/47/42/e3/ff/30/05/8f/41704e0a-24e3-4021-963b-f9e26d3a07b3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d5/aa/9e/db/79/59/4a/a7/a0/47/42/e3/ff/30/05/8f/41704e0a-24e3-4021-963b-f9e26d3a07b3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1407B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1689.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8ccedba3-fc98-4d3c-9843-1d890f436fdd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1689.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van percelen aan de Saramaccarivier",
+        "dc:description": "Titel Leupe: _Kaart van een gedeelte der rivier Saramacca met de daaraan gelegen en verleende concessien 1\n79._\nDeze kaart toont 79 percelen aan de Saramacca. De aanleg van plantages aan de Saramacca begon al in 1790, op initiatief van de pas aangetreden gouverneur Juriaan Fran\u00e7ois de Friderici, en had binnen tien jaar al grote vormen aangenomen. Op deze kaart is te zien dat alle percelen al aan eigenaren zijn toegewezen. Ook het fort Braak is afgebeeld.\nHet noorden is onder.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1689",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.35 - 0.40 El.",
+        "dcterms:date": "1804",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10136/kaart-van-percelen-aan-de-saramaccarivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a2/c3/bd/08/c2/ef/4a/2f/a7/fb/31/09/c1/25/b8/26/1cfeb746-324b-4088-b832-e73c45632c73.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a2/c3/bd/08/c2/ef/4a/2f/a7/fb/31/09/c1/25/b8/26/1cfeb746-324b-4088-b832-e73c45632c73.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1689.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte der rivier Saramacca met de daaraan gelegen en verleende concessien 1 - 79."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

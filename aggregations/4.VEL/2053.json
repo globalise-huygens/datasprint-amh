@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2053.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/55495f73-b708-42d8-856a-10e74747cb6b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2053.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsboven] vervolg van de titel : \nExplanations: [upper right] continuation of the title : \nOp de hoek van de Rivieren Surinaemen en Commewyne, begonnen in de maand October 1755. \n[rechtsonder] een legenda bij de letters A t/m H : \n[lower right] a key to the letters A to H : \nRenvoy. \nAA. Batterie voor 12 \u00e0 14 stukken Canon. \nB Place d\u2019armes, of klein Bastion, dienende om den Lande plek en den Ingang van het werk met Klein geweer te defenderen. \nC. Verhoogde Batterie voor 2 stukken Canon, strykende langs het alignement van de Cours die de opkoomende Scheepen houden. \nD. Gragt, dewelke men droog kan houden en onder waater zetten, gelyk men wel. \nE. Lande plaats. \nF. Envelloppe, rings omme het Werk, ten eynde hetzelve voor Rivier- en bosch waater te verseekeren. \nG. Wagthuys uyt sterk hout opgetimmert met een Gallerie van vooren. \na.\tHH. kleene Arsenaals, de Laad Gereetschappen te bergen, met een kruyt Caamer ter zyde.",
+        "dc:title": "Plattegrond van de redoute Leiden",
+        "dc:description": "Titel Leupe: Plan van de nieuw aangelegde redout teegens over de forteress Nieuw Amsterdam, op de hoek van de rivieren Surinaeme en Commewyne, begonnen in de maand October 1755.\nDit is Bernhardys uitgewerkte, definitieve plattegrond van de redoute Leiden bij het begin van de aanleg in oktober 1755. Het oorspronkelijk ontwerp dat Berhardy waarschijnlijk naar Andries Lodewijk Calvi tekende (zie VEL2052), is op enkele kleinigheden na uitgevoerd. Zo is de gracht uitgegraven, is het pad naar de Surinamerivier gelijk en is dezelfde platte driehoek als basisvorm aangehouden.\nHet noorden is rechtsonder.\nSchaalstok van 100 Rhynlandse Voet = [ca. 1 : 215].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2053",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "64 x 83 cm",
+        "dcterms:date": "1755",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2210/plattegrond-van-de-redoute-leiden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a9/ac/1b/59/76/11/42/85/ae/af/71/5b/09/e2/bd/23/a756ca2d-e74d-4950-8d01-7a2bbc8fd5e9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a9/ac/1b/59/76/11/42/85/ae/af/71/5b/09/e2/bd/23/a756ca2d-e74d-4950-8d01-7a2bbc8fd5e9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2053.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

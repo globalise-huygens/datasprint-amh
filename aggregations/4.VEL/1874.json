@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1874.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ea97d122-70b2-4c64-971f-a80a7fafd082",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1874.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kavels aan de Tapuripa Kanaal",
+        "dc:description": "Titel Leupe: Kaart van een land, gelegen aan het Canaal van Tapoeripa, ten behoeve van de Plantagie Breda.\nDeze schetskaart toont kavels ten noorden van (boven op de kaart) het Tapuripa kanaal (blauwe streep onder in de kaart).\nDeze meting is gedaan in opdracht van de Gouverneur-generaal Juriaan Fran\u00e7ois Frederici.\nHet stuk achterland ten noorden (boven op de kaart, aangegeven met de letters A-D) van de Breda plantage is toegewezen aan de eigenaar van deze plantage, de heer J.A. van Lobreekt, op 23 Juli 1894.\nDe omvang van dit land blijkt 250 Surinaamse akkers (107,5 hectare).\nAanliggend zijn de Fakkershoop en Crommelinsgift plantages, welke beide nog geen achterland in bezit hebben.\nDe meting is gedaan en officieel erkend in Oktober 1794.\nOorsprong: Portefeuille requesten om gronden.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 125 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1874",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.485 - 0.33 El.",
+        "dcterms:date": "1794",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9991/kaart-van-kavels-aan-de-tapuripa-kanaal"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/80/2b/80/b5/6b/76/45/22/9b/b2/b4/6a/6b/4e/b6/dc/d1201533-470e-49d2-886e-bb9e3ec30d5c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/80/2b/80/b5/6b/76/45/22/9b/b2/b4/6a/6b/4e/b6/dc/d1201533-470e-49d2-886e-bb9e3ec30d5c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1874.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een land, gelegen aan het Canaal van Tapoeripa, ten behoeve van de Plantagie Breda."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1549.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2990865b-7d8a-4e4f-84a9-82fd1edd3644",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1549.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Profil du derriere des Batteries.\nProfil des fronts des Batteries.\nBatterie pour la pointe de L\u2019Est.\nBatterie pour la pointe de L\u2019Ouest.\n\n[kop 2]Essequibo, Demerara - overzichtskaarten / general maps",
+        "dc:title": "Plan van de Verdedigingswerken aan de monding van de rivier Demerara",
+        "dc:description": "Titel Leupe: Plan van defentie voor de mond der rivier Demerary.\nDeze kaart toont de plannen voor Franse fortificaties rondom de rivier Demerara, met verduidelijking in profiel.\nDe aanleg van Britse en Franse versterkingen aan de rivier Demerara was in grote lijnen een vervolg op bestaande Nederlandse projectplannen uit de voorgaande jaren. De ligging van de forten Le Dauphin en La Reine, bijvoorbeeld, komt nagenoeg overeen met de plaatsen die de WIC landmeter Heneman en, in navolging van hem, Kanne hadden voorzien voor h\u00fan nieuwe versterkingen aan de monding (zie VEL660 en VEL1550.). Het lijkt er zelfs op dat het bestaande Nederlandse ontwerp voor deze twee fortjes uit ca. 1779 (zie VEL1551F) op zijn minst ten dele is overgenomen door de Fransen.\nBij de uiteindelijke aanleg zouden dan enkele relatief geringe veranderingen zijn aangebracht, zoals te zien op het situatieplan van Kanne uit begin 1784 op VEL1552.\nEen kopie van deze kaart, VEL1549A, is niet apart in de database opgenomen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1549",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.45 - 0.41 El. (48,5 x 64 cm.)",
+        "dcterms:date": "1782-1784",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7549/plan-van-de-verdedigingswerken-aan-de-monding-van-de-rivier-demerara"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9d/31/75/c6/e9/ed/4c/a1/88/2c/31/df/a4/58/f6/dd/ebb02bfb-3608-4e19-a6eb-63eea3f077a8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9d/31/75/c6/e9/ed/4c/a1/88/2c/31/df/a4/58/f6/dd/ebb02bfb-3608-4e19-a6eb-63eea3f077a8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1549.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

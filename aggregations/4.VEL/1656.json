@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1656.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6a478f94-7290-44e2-b08a-7caf1c4aa9ba",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1656.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "[upper right] a key to the letters A to E and a remark : \nA. De nieuwe Heerberg, Landswelvaaren. \nB. De Steenbakerey. \nC. Kan een Huis voor het Gouvernement aangelegt worden. \nD. Kan eene Kerk staen. \nE. een Plein.\nNB: All wat rood geillumineert is, zynd Huysen, het groene daerby kan de Eigenaer employeeren, Zoo als hy will, ook voor Huyzen of voor een Hof, en word aan een ellyk aan Terrain toegestaen 5 Rhynl: Roeden breet, en 10 diep. \nWat bruynagt geillumineert is, Zynd Straaten en Steegen, daervan de Hoftstraaten 5 Roeden en de Steegen 6 voed breed zyn. \nOp deeze geprojecteerde wyze kan de Statt als het terrain langst de Rivier bebouwt is, in de diepte gecontinueert worden. \nEn eyndelyk kan men eene fortificatie heel wel en regulair aanleggen.",
+        "dc:title": "Kaart van een te bouwen stad nabij fort Nassau",
+        "dc:description": "Titel Leupe: Plaan van het project hoedaanig eene statt in deeze rivier aangelegd worden kan 2de helft 18de eeuw.\nHet ontwerp voor het nieuwe wijkje bij Fort Nassau zoals getoond op Van der Pijpens kaart (zie VEL 1579) was blijkens dit projectplan van omstreeks 1740 door Jan Daniel Knapp oorspronkelijk bedoeld voor een \u2018Statt\u2019 rondom een centraal plein (E) met een nieuw gouvernementsgebouw (C) en een kerk (D). De steenbakkerij die onder (B) wordt genoemd, was na 1733 speciaal opgezet om bouwmateriaal te verkrijgen voor de stenen binnenwerken van het te vernieuwen fort. De herberg \u2019s Lands Welvaren (A, gebouwd 1734) aan het begin van het \u2018Padt naer fort Nassau\u2019, die bij Knapp buiten de nieuwe bebouwing was gehouden, is op de grote kaart van van der Pijpen waarschijnlijk net wel binnen de wijk getrokken, op het perceel met nummer (1). Rechtsonder op Knapps kaart is de \u2018Casave Tuin van het Fort\u2019 aangegeven, dus de kostgronden voor het garnizoen.\nHet noorden is linksonder.\nSchaalstok van 100 Rhynl: Roedens = [ca. 1 : 1.570].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1656",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 72,5 cm.",
+        "dcterms:date": "ca. 1740",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1962/kaart-van-een-te-bouwen-stad-nabij-fort-nassau"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/36/80/ad/86/f7/c2/4e/27/81/24/2e/64/a4/f6/ba/dc/636b0e6c-38fa-4014-983e-93d9e3b5b428.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/36/80/ad/86/f7/c2/4e/27/81/24/2e/64/a4/f6/ba/dc/636b0e6c-38fa-4014-983e-93d9e3b5b428.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1656.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plaan van het project hoedaanig eene statt in deeze rivier aangelegd worden kan."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

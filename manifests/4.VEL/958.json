@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/958.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan van het Kasteel Kolombo, met de buytenstad, het Eyland, de Gaalsche Vlakte en het Wassers Kwartier, opgenomen in het jaar 1786."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "958"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1786"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/42ca6ecf-479a-4a9e-9c34-ea3716ccf4fd\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/958.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/958.json#canvas/p1",
+            "type": "Canvas",
+            "height": 15868,
+            "width": 13683,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/958.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/958.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/3b/27/76/6c/0f/7d/4a/3e/8a/96/bd/d4/a9/00/90/32/83075a8a-7219-469b-98c5-d5bb75cbfb03.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 15868,
+                                "width": 13683,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/3b/27/76/6c/0f/7d/4a/3e/8a/96/bd/d4/a9/00/90/32/83075a8a-7219-469b-98c5-d5bb75cbfb03.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/958.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1618.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e509b838-80e3-465b-bc9e-3c88206e4414",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1618.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plan voor de herinrichting van fort Sint Andries",
+        "dc:description": "Titel Leupe: Platte grond van de nieuwe Beschoeying van het fort St. Andries.\nOp 6 maart 1781, ruim een week na de bezetting van Essequibo en Demerara, verschenen voor Fort Sint Andries twee Engelse schepen, die de pas herstelde maar zwak bewapende post na een kort gevecht tot overgave dwongen. Het fortje werd aansluitend in brand gestoken, waarna de Britten ongehinderd konden doorvaren naar Fort Nassau, waar gouverneur Pieter Hendrik Koppiers (1778-1781) zich bij gebrek aan militair personeel ter plaatse eveneens genoodzaakt zag te capituleren.\nSint Andries werd na de verdrijving van de Britten in februari 1782 onder het Franse interim-bestuur provisorisch opgeknapt, maar pas na het vertrek van de Fransen in maart 1784 konden in ernst nieuwe plannen voor de versterking van de monding van de Berbice worden opgesteld.\nDeze schets toont Herlins projectie voor het versterken van de hoofd muren van Fort Sint Andries met Beschoeyinge.\nTwee profielen en een plattegrond geven weer hoe de verdediging moet worden aangelegd.\nSchaal van 150 Rijnlandse voeten = 90 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1618",
+        "dc:subject": [
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.45 - 0.59 El.",
+        "dcterms:date": "ca. 1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1913/plan-voor-de-herinrichting-van-fort-sint-andries"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/36/57/91/14/58/6e/48/d6/a9/d7/b3/3d/98/34/59/fa/db060921-f517-4984-b50b-06750a3b2e6e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/36/57/91/14/58/6e/48/d6/a9/d7/b3/3d/98/34/59/fa/db060921-f517-4984-b50b-06750a3b2e6e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1618.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van de nieuwe Beschoeying van het fort St. Andries."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

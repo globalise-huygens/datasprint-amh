@@ -1,0 +1,58 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/884.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f957f188-8ca9-4949-9d7f-4e145b918e2d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0884.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Particuliere Caart van een gedeelte van de Mallabaar, of de Strekking des Riviers van Chettua tot Coylang.",
+        "dc:title": "Kaart van een gedeelte van de kust van Malabar",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, met aanwyzing der Zaaivelden enz, hiermee wordt bedoeld de titel van VEL0882: Particuliere Kaart van een gedeelte der Kuste Malabar of de strekking der rivieren van Chettua tot Coylang..\nDe kaart is een kopie van 4.VEL0882A en VEL0882B.\nNotities verso: Kust Mallabar behoorende by de memorie v: Cochim [2 keer].\nDe volgende gebieden worden onder meer op de kaart getoond Landen van den Koning van Cochim, Landen van den Koning van Trevancoor, Eijland Canddanallij, 't Land van Calj Coylang.\nDe aanduidingen Chettua, Kerkje, Konings Huijs, Batterij van Coeriapalij, Coylang zijn op de afbeelding weergegeven.\nLinksboven de aanduiding Aanwysing De Zaay velden zijn met groen de Limiten met Rood en de Hoog tens met donker-bruijn afgezet.\nRechtsonder de schaalverdeling Schaale van Een Duijtsche Mijl 15 in Een Graad; Schaale van Eee Hollandsche Mijl, of Een Uur, 20 in En graad.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0884",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "huis / woonhuis",
+            "gebouw",
+            "kerk / pastorie",
+            "flora",
+            "banderol / cartouche / versiering",
+            "vesting",
+            "tolhuis / wachthuis",
+            "paleis",
+            "bazaar / markt"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "64,5 x 348,5 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/823/kaart-van-een-gedeelte-van-de-kust-van-malabar"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/97/c0/ec/e4/09/d3/4b/46/93/bd/23/f8/ee/9f/d7/37/d0c63a12-663a-478f-a77c-dcfd13f42b3d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/97/c0/ec/e4/09/d3/4b/46/93/bd/23/f8/ee/9f/d7/37/d0c63a12-663a-478f-a77c-dcfd13f42b3d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/884.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Particuliere Kaart van een gedeelte der rivieren van Chettua tot Coylang., met aanwyzing der Zaaivelden enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

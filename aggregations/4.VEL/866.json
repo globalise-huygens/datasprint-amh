@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/866.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/bb385c62-9350-4ecf-b3e8-36383d9677fb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0866.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Fortresse de Kismisse / Fortresse de Kismisse",
+        "dc:title": "Afbeelding van het fort op het eiland Kismis",
+        "dc:description": "Titel catalogus Leupe (NA): Afbeelding van de Fortres op het Eiland Kismis.\nLegenda: A-D\nRechts onder in potlood: nr. 866.\nNotities verso: Rapport nopende 't eijlant Kismus als desselfs fortresse. nr. 14 portefeuille 1645 III..",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0866",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "vesting",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "41 x 52 cm",
+        "dcterms:date": "23 februari 1645",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6208/afbeelding-van-het-fort-op-het-eiland-kismis"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c7/f6/46/fe/0f/ac/40/9b/a0/2d/78/2d/f4/d2/7c/42/b4aa51ef-7fc9-4b06-b6fa-3b1d2b35f087.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c7/f6/46/fe/0f/ac/40/9b/a0/2d/78/2d/f4/d2/7c/42/b4aa51ef-7fc9-4b06-b6fa-3b1d2b35f087.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/866.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Afbeelding van de Fortres op het Eiland Kismis."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

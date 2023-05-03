@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/754.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b5fa8fd3-0c47-4811-95da-cbb57ed027da",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_754.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Fort Batenstein tot Boutroe",
+        "dc:title": "Plattegrond van het fort Batenstein te Boutrou",
+        "dc:description": "Plattegrond van het fort Batenstein te Boutrou.\nTitel catalogus Leupe (NA): Het Fort Batenstein tot Boutroe.\nFort Batenstein tot Boutroe.\nRechtsonder: No. 24.\nLinksonder: 754 [in potlood].\nNotities verso: No. 16. Fort Batenstein. Register 8, Deel 1, Folio 33, Portefeuille .. [geschreven op een blauw etiket] / 454 [met vette cijfers gestempeld op een etiketje].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0754",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "48 x 34,5 cm",
+        "dcterms:date": "1700-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1397/plattegrond-van-het-fort-batenstein-te-boutrou"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0a/30/97/ba/cb/b4/41/41/8e/15/ac/dc/52/68/58/7c/aaadfa47-7384-4edf-af63-d0835f3604b0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0a/30/97/ba/cb/b4/41/41/8e/15/ac/dc/52/68/58/7c/aaadfa47-7384-4edf-af63-d0835f3604b0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/754.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het Fort Batenstein tot Boutroe."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

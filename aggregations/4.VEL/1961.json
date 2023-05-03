@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1961.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/aba810d1-9ac4-4519-bc3d-d3d6f1c18737",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1961.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van plantages ten oosten van de Motkreek",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien, gelegen tusschen Wolfshagen en de Dankbaarheidt, benevens die daar achter liggen aan het Canaal van de Plantagie Standvastigheidt.\nDe kaart geeft een deel van het gebied langs de zeekust weer ten oosten van de Motkreek, dat in hoofdzaak pas na ca. 1785 werd ontgonnen.\nDe meting is aangevraagd door de heer W.H. van Ommeren, die achterland (aangegeven met de letters A-D en E-H) nabij het nieuwe kanaal wilt bemachtigen.\nDe door de heer van Ommeren gewenste kavel blijken respectievelijk 307 \u00bd (132.225) en 480 (206,4 hectare) Surinaamse akkers te meten.\nGebaseerd op de kaart van B\u00f6hm (VEL1954) is een grens getrokken tussen de achterlanden beschikbaar voor de oude plantages en de grond bestemd voor nieuwkomers, die vaak hun omvang in akkers bevatten.\nHoewel het door de heer van Ommeren gewenste achterland voorbij de grens van achterlanden ligt krijgt hij het toch toegewezen.\nDe kaart is ondertekend op 26 Augustus 1797.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 205 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1961",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.62 - 0.455 El.",
+        "dcterms:date": "1797",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10058/kaart-van-plantages-ten-oosten-van-de-motkreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/97/ce/cf/0b/ee/5f/44/3d/ae/ac/3d/78/ad/3f/22/3f/c89be751-ced3-4e35-9f8b-bb2d9720b6d1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/97/ce/cf/0b/ee/5f/44/3d/ae/ac/3d/78/ad/3f/22/3f/c89be751-ced3-4e35-9f8b-bb2d9720b6d1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1961.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien, gelegen tusschen Wolfshagen en de Dankbaarheidt, benevens die daar achter liggen aan het Canaal van de Plantagie Standvastigheidt."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

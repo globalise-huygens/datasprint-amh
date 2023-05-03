@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1087.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8605856b-3a99-45df-92bf-555456023e7b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1087.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Logie tot Sadrangapatnam / Platte grond van de Logie tot Sadrangapatnam / Logie tot Porto Novo / Platte grond van de Logie tot Porto Novo",
+        "dc:title": "Plattegronden van de loges van Sadrangapatnam en Porto Novo",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van de Logie tot Sadrangapatnam; 16 Rijnl. roeden = 110 strepen; omgerekende schaal [1 : 547]; Legenda: A-M\nVEL1087a: Verheven teekening van genoemde Logie;\nVEL1087b: Platte grond van de Logie tot Porto Novo; Schaal van 10 Rijnl. roeden = 122 strepen; omgerekende schaal [1 : 308]; Legenda: A-I\nVEL1087c: Verheven teekening van genoemde Logie;\nIn het midden gerestaureerd, waar de kaart dubbelgevouwen heeft gezeten.\nRechts boven genummerd: 25.e.\nNotities verso: 52 [in potlood] / 588 a.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1087",
+        "dc:subject": [
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "legenda",
+            "overzicht / aanzicht",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53,5 x 74,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5579/plattegronden-van-de-loges-van-sadrangapatnam-en-porto-novo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a6/73/de/76/38/a8/40/d0/a6/17/61/e7/29/8a/66/94/b243da5b-3b4f-44fb-b7e2-ebd4c2b2717e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a6/73/de/76/38/a8/40/d0/a6/17/61/e7/29/8a/66/94/b243da5b-3b4f-44fb-b7e2-ebd4c2b2717e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1087.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van de Logie tot Sadrangapatnam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

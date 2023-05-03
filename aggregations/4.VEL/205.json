@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/205.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/78b56ddc-db6c-4f42-945b-d58596a1b5e8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0205.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Anker Grond die hier is Geteekent, is getrokken uit de Caart van de Gezaghebber Juriaan Kloppenburgh",
+        "dc:title": "De post van de compagnie en omliggende landen van De Lagoa",
+        "dc:description": "Titel catalogus Leupe (NA): Het inkomen van de la Goabaai, s' Comps. post en omliggende landen.\nNotities verso: Rio de la Goa 1721-1724 No 6.\nSchrift in marge in blauw potlood: Lorenzo Marques Delagoa baai.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0205",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "schip / vaartuig",
+            "flora",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "840 x 960 mm / kader: 735 x 873 mm",
+        "dcterms:date": "1721-1724",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4710/de-post-van-de-compagnie-en-omliggende-landen-van-de-lagoa"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ca/67/88/e7/3c/06/45/3e/90/40/b8/d0/d0/d8/bd/b9/6f2ad5c4-e69b-4175-8e73-d170d30603fb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ca/67/88/e7/3c/06/45/3e/90/40/b8/d0/d0/d8/bd/b9/6f2ad5c4-e69b-4175-8e73-d170d30603fb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/205.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Het inkomen van de la Goabaai. 's Compagnie's post en omliggende landen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

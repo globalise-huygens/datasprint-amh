@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1901.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/08be1c0c-099d-4c7f-a25d-c0e841d30a62",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1901.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de grond van kapitein van B\u00f6gen",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen in de Cottica, linkerhand in het afvaren.\nDeze kaart toont het land van kapitein van B\u00f6gen (aangegeven met de letters a-d) aan de zuidoever (rechts op de kaart) van de Cottica Rivier.\nDe kapitein Jan August van B\u00f6gen heeft de meting zelf verzocht na dit stuk land op 15 Februari 1732 in handen te hebben gekregen.\nHet stuk grond blijkt 358 Surinaamse akkers (153,94 hectare) in omvang.\nTen zuiden van het perceel ligt de grond van de commandeur Johan Cornelis Francois de Vries, en ten oosten de grond van de heer Johan Cleij.\nDe kaart is door de landmeter ondetekend op 13 Februari 1732 en officieel erkend op 19 Februari 1732 te Paramaribo.\nSchaal van 60 Kettingen = 140 strepen.\nOorsprong: [OBP Suriname] 1732, [fol.] 1087.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1901",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.28 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10026/kaart-van-de-grond-van-kapitein-van-b%C3%B6gen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f8/31/20/8d/73/6a/4c/66/90/bd/73/8a/9b/89/4f/8e/7d965023-d239-4757-a45a-75c77bff3d4b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f8/31/20/8d/73/6a/4c/66/90/bd/73/8a/9b/89/4f/8e/7d965023-d239-4757-a45a-75c77bff3d4b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1901.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen in de Cottica, linkerhand in het afvaren."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

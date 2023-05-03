@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/182.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1a8d4f32-4498-4fbc-b802-62e17397a453",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0182.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Tafel- en Houtbaay",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Tafel en Houtbaay met alle daarin zynde diepten en gronden enz..\nNotities verso: behoort by Brieven en papieren overgek. vande Kaap. 1e deel, 1732, bladz. 113-125 / 123 [folionummer in de band ?] / 12.\nOvergekomen van de Kaap 1731.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0182",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "74 x 103,5 cm",
+        "dcterms:date": "ca. 1731",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/402/kaart-van-de-tafel--en-houtbaay"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3b/3f/62/b0/45/4a/41/45/92/73/a3/e9/84/77/06/e6/2cd64e51-ff33-40df-88f3-bd8557e45a31.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3b/3f/62/b0/45/4a/41/45/92/73/a3/e9/84/77/06/e6/2cd64e51-ff33-40df-88f3-bd8557e45a31.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/182.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Tafel- en Houtbaay met alle daarin zynde diepten en gronden enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

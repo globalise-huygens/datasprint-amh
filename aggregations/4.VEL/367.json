@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/367.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5d5cae1e-b0b4-48ec-b9fd-1de819b93415",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0367.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Ruwe schets der Positie van de Nederlandse magt by het veroveren van Palembang. Behorende by de Bataviasche Courant van den 14den juli 1821",
+        "dc:title": "Schets van de positie van de Nederlanders bij hun inname van Palembang",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Ruwe schets der Positie van de Nederlandse magt by het veroveren van Palembang.\nBehoort bij de Bataviasche Courant van 14 juli 1821 no. 28.\nNotities verso: 239 a [in potlood].",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0367",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "gravure",
+        "dcterms:extent": "53,5 x 41,5 cm",
+        "dcterms:date": "14 juli 1821",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4009/schets-van-de-positie-van-de-nederlanders-bij-hun-inname-van-palembang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/73/96/99/fd/2d/c7/4a/dd/aa/78/7b/1a/d8/44/db/a0/70b9bf94-96d2-4285-a18c-df81cd8cc860.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/73/96/99/fd/2d/c7/4a/dd/aa/78/7b/1a/d8/44/db/a0/70b9bf94-96d2-4285-a18c-df81cd8cc860.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/367.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Ruwe schets der Positie van de Nederlandsche magt by het veroveren van Palembang."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

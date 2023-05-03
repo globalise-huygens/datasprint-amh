@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/983.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan en profil van de op Hulfsdorp gemaakte Kruydmolen, die na de form is, als de Engelschen in Bengalen gebruyken."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "983"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1792"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/337b4f70-7eef-4069-8fe9-6be1abf3232f\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/983.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/983.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4651,
+            "width": 3320,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/983.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/983.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ca/69/65/b7/30/b2/41/fd/8f/e9/4c/33/68/bb/f1/6e/39a1181a-a13f-4ce5-9b01-e62907e8ddd2.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4651,
+                                "width": 3320,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ca/69/65/b7/30/b2/41/fd/8f/e9/4c/33/68/bb/f1/6e/39a1181a-a13f-4ce5-9b01-e62907e8ddd2.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/983.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

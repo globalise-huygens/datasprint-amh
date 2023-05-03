@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1608B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7f84cee6-84d7-4ba9-98ec-e62721abb3f3",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1608b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title): Teijkening van de Communicatie Brug. Littera C., Littera C. C.D. Desmarets.",
+        "dc:title": "Schets van een brug voor een gepland fort op Krabbeneiland",
+        "dc:description": "Titel Leupe: Plan en profil van de nieuwe geprojecteerde redoute, op het Grabbe Yland aan de mond van Rio de Berbice.\nDit profiel is onderdeel van een plan voor een fort op het Krabbeneiland.\nVoor 1735 bestonden er al plannen voor een fort op dit eiland door P.M. Osterlin (zie VEL1611), maar die zijn nooit uitgevoerd. Op herhaald aandringen van de particuliere planters in Berbice richtten de directeuren zich in 1738 tot de Soci\u00ebteit van Suriname met het verzoek de Franse ingenieur Pierre-Dominique Desmaretz, die toen was belast met de bouw van Fort Nieuw Amsterdam, voor enige tijd te detacheren naar Berbice om daar een nieuw ontwerp voor de versterking van dit eiland te maken. Desmarestz kwam het jaar daarop over en produceerde het plan waarvan deze schets onderdeel is.\nDit betreft een schets van de bruggen voor het fort; getoond van opzij en van voren.\nOndanks de kostenbesparing die dit ten opzichte van het voorgaande plan zou hebben opgeleverd, werd ook deze versie te duur bevonden en bleef het Krabbeneiland als voorheen onversterkt.\nSchaalstok van 50 Roeden Rhynlands = 126 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1608B",
+        "dc:subject": [
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.40 - 0.765 El.",
+        "dcterms:date": "1739",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10275/schets-van-een-brug-voor-een-gepland-fort-op-krabbeneiland"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ca/ef/19/92/d2/07/40/7e/85/06/42/93/34/ec/31/8a/af6e8676-1c6e-4265-9ecd-feb83e652965.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ca/ef/19/92/d2/07/40/7e/85/06/42/93/34/ec/31/8a/af6e8676-1c6e-4265-9ecd-feb83e652965.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1608B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

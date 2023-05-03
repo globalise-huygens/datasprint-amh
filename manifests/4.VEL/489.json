@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/489.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de West- en Noordkust van Nova-Guinea tot aan de hoek van Pammenoeke, de Papoese Eilanden en een gedeelte van de Noord-oostkust van Halmaheira."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "489"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1705"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/79865ab0-4cce-4d19-bf6d-8d1c10f90f19\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/489.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/489.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6298,
+            "width": 10236,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/489.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/489.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/cf/dc/50/e9/c3/47/4c/c6/a8/30/45/ba/d0/15/f5/57/a1a74354-9f36-44a0-aad5-9ca045649351.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6298,
+                                "width": 10236,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/cf/dc/50/e9/c3/47/4c/c6/a8/30/45/ba/d0/15/f5/57/a1a74354-9f36-44a0-aad5-9ca045649351.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/489.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

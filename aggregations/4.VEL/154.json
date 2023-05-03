@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/154.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d54abd70-c801-48d8-99da-25d559cb2188",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_154.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een deel van de Angolese kust",
+        "dc:description": "Kaart van een deel van de Angolese kust.\nTitel catalogus Leupe (NA): Kaart van de kust van Angolla van Caap Boudo tot Caap St. Bras.\nDe kompaslijnen zijn gedrukt.\nDe kaart is op blauw papier geplakt.\nNotities verso: Carte van de kust van Angolla van 5 grad 20 Zb. todt 10 gr. 40 Zb. dor mijn SGM Anno 1723 / No. 5\nOp verschillende plekken op de kaart: 154 [in potlood].\nRechtsonder: No: 13.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0154",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "63,5 x 103 cm",
+        "dcterms:date": "1723",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7157/kaart-van-een-deel-van-de-angolese-kust"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bb/0e/62/a4/c0/96/41/e0/9f/33/45/4d/b9/03/54/2c/0ec540c0-db21-4095-9708-4b09265fbeff.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bb/0e/62/a4/c0/96/41/e0/9f/33/45/4d/b9/03/54/2c/0ec540c0-db21-4095-9708-4b09265fbeff.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/154.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Kust van Angolla van Cap Bondo tot Caap St. Bras."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

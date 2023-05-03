@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1969.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5964a7c0-ea91-4fce-99b0-866d21d2801b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1969.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Jagerswoud",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien, gelegen tusschen Java en Heymslust (links in 't opvaren).\nDeze kaart toont het achterland (A-D) van de plantage Jagerswoud in eigendom van de heer Brown, gelegen ten westen van de Motkreek.\nDe heer Charles Brown heeft de meting aangevraagd na het achterland te hebben verworven op 19 Mei 1802.\nHet achterland blijkt 22 Surinaamse akkers (9,46 hectare) te meten.\nTen zuiden (links van op de kaart) liggen de plantages Queekhoven en Java, die eerder dezelfde eigenaar hadden, en ten westen liggen de plantages Vriesenburg Nova en de La Gerseferance, alsmede het Tapoeripa kanaal.\nDe kaart is ondertekend op 24 Juni 1802.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 185 strepen.\nOorsprong: portefeuille requesten voor gronden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1969",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.45 - 0.31 El.",
+        "dcterms:date": "1802",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10177/kaart-van-de-plantage-jagerswoud"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/65/a2/69/22/95/1a/4e/76/a2/8a/60/32/a5/3f/f6/b3/69e96cdc-d86c-456e-a7a2-f94a3c82febb.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/65/a2/69/22/95/1a/4e/76/a2/8a/60/32/a5/3f/f6/b3/69e96cdc-d86c-456e-a7a2-f94a3c82febb.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1969.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien, gelegen tusschen Java en Heymslust (links in 't opvaren)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

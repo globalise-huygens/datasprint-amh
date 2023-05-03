@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1786.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2378d717-487e-4581-b422-49369b90bf79",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1786.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van afgestoken land van de Plantage Aconoribo",
+        "dc:description": "Titel Leupe:  Kaart van eenige stukken land, afgestoken van de Plantagie Aconoribo, gelegen tusschen de Suriname rivier en de Paulus Creeq.\nDe kaart toont de exacte ligging van de Plantage Aconoribo, waarin enkele afgestoken stukken land zijn ingetekend\nDe plantage is gelegen aan de rechteroever van de Suriname rivier (in 't afvaren) ten Zuidwesten van de Paulus Kreek.\nOorspong: [OBP Suriname 1736 fols.] 1341-1342\nSchaal van 100 Kettingen a\u0300 66 Rijnlandse voeten = 158 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1786",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.325 - 0.40  El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9775/kaart-van-afgestoken-land-van-de-plantage-aconoribo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/76/13/5e/3f/9b/8d/49/4f/a0/60/e6/c3/37/e4/c9/b8/142ffd05-370c-4289-bfb7-19e4ee58f521.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/76/13/5e/3f/9b/8d/49/4f/a0/60/e6/c3/37/e4/c9/b8/142ffd05-370c-4289-bfb7-19e4ee58f521.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1786.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige stukken land, afgestoken van de Plantagie Aconoribo, gelegen tusschen de Suriname rivier en de Paulus Creeq."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

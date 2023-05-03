@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1789.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e4429837-4d26-42e2-967c-f70af856bf15",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1789.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Fol. 149",
+        "dc:title": "Kaart van de landen gelegen tussen fort Nieuw-Amsterdam en Plantage Jagtlust",
+        "dc:description": "Titel Leupe : _Kaart van de landen, gelegen tusschen de Plantage Jagtlust en het fortres Nieuw\nAmsterdam._\nDe kaart toont de exacte ligging van enkele kavels en plantages gelegen ten Zuidoosten van het fort Nieuw-Amsterdam.\nDe plantage is gelegen aan de rechteroever van de Suriname rivier (in 't afvaren).\nDe plantages zijn voorzien van eigennamen en de oppervlakten ervan zijn aangegeven in Surinaamse akkers (0,43 hectare per akker).\nSchaal van 210 Kettingen a\u0300 66 Rijnlandse voeten = 72 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1789",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.23 - 0.37 El.",
+        "dcterms:date": "1747",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1970/kaart-van-de-landen-gelegen-tussen-fort-nieuw-amsterdam-en-plantage"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9e/a8/da/19/96/0c/40/f0/bd/f3/12/3a/9a/44/ce/01/a3ca25e7-f505-466b-b056-bd96c4b79d29.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9e/a8/da/19/96/0c/40/f0/bd/f3/12/3a/9a/44/ce/01/a3ca25e7-f505-466b-b056-bd96c4b79d29.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1789.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de landen, gelegen tusschen de Plantage Jagtlust en het fortres Nieuw-Amsterdam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

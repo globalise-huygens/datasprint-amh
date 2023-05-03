@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2030A6.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/da44358a-cd5a-49f4-9790-546ad960bda0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2030a6.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een nieuw fort bij Paramaribo, nr. 6",
+        "dc:description": "Titel Leupe: Project d' une Nouvelle Forteresse.\nBegin 18de eeuw werd onderzocht hoe de verdediging van Suriname verbeterd kon worden. Nadat een plan voor een nieuwe en veel grotere versterking bij de samenvloeiing van de Surinamerivier en de Commewijne van de hand was gewezen door de gouverneur en raden van Suriname, verzochten zij Isaac Tourton (1678-1748) een ontwerp te maken voor een vervangend fort voor Zeelandia, waarvan het resultaat in zes varianten is afgebeeld op in deze serie (VEL2030A1-6). Hier is een stervormig ontwerp met vijf bastions getoond.\nDe zes plattegronden werden op 7 september 1710 tezamen met Tourtons rapport van 18 juli naar de directeuren in Amsterdam gezonden, met de aantekening dat gouverneur en raden Tourtons eigen voorkeur voor plan nr. 6 ondersteunden. Hierop volgde een nadere missive van Tourton, met daarin onder meer de plattegrond van de bestaande toestand (VEL2067A) en zijn uitwerking in detail van plan nr. 6. Een verbeterde versie daarvan, overgezonden in 1712, met een iets veranderde ligging van het geprojecteerde fort, is gereproduceerd op VEL2068. Het bijbehorende profiel op VEL2067B is echter nog het oorspronkelijke, dus getekend in 1710.\nHet noorden is linksonder.\nSchaalstok van 150 Toises, ch\u00e2cune de 6 pieds Rhenans. Elle est pour toutes les cinq Figures ou Desseins = [ca. 1 : 1.950].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2030A6",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "redoute"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "24 x 19 cm.",
+        "dcterms:date": "1710",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2110/ontwerp-voor-een-nieuw-fort-bij-paramaribo-nr.-6"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0d/1f/4a/47/11/2c/4d/b2/a1/49/4a/6f/24/e5/67/9f/5d503826-837b-4872-b3d4-69417b647638.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0d/1f/4a/47/11/2c/4d/b2/a1/49/4a/6f/24/e5/67/9f/5d503826-837b-4872-b3d4-69417b647638.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2030A6.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Manuscript"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

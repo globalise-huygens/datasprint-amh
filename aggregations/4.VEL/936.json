@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/936.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c9e44e90-07c8-4c4c-8f44-a3015effd69a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0936.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Salpittie Korls. Kanneel Tuynen; met dies hoofdweegens, geleegen in de volgende Dorpens, Epattoes, opgenoomen, ter hoog G: Eerde ordrers;",
+        "dc:title": "Kaart van kaneeltuinen bij Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Salpittie Korls Kanneeltuynen, met die Hoofdwegens, geleegen in de volgende dorpen en Pattoes enz..\nNotities verso: Kaart van Salpittie-Korls, No. 147, 513 [met vette cijfers gestempeld op een etiketje].\nDe afbeelding toont kaneelvelden met de nummers 1-137.\nLinks: Nota: Root beteekent kokus tuynen; Geel beteekent kanneel tuynen; Groen beteekent Zaayvelden; Root gestippens vakkies zynde verdeelins.\nLinks schaalverdeling: R. Roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0936",
+        "dc:subject": [
+            "gebouw",
+            "huis / woonhuis",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "62 x 154, 5 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2989/kaart-van-kaneeltuinen-bij-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ad/82/81/fd/1c/99/40/0c/b7/7f/2c/00/25/ab/56/8c/16406032-46d8-4db5-937a-c20e5c7744ad.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ad/82/81/fd/1c/99/40/0c/b7/7f/2c/00/25/ab/56/8c/16406032-46d8-4db5-937a-c20e5c7744ad.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/936.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Salpittie Korls Kaneeltuynen, met dies Hoofdwegen, geleegen in de volgende dorpen en Pattoes enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

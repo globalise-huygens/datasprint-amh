@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1035B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/5fe56f3c-5b17-4024-acdb-51119ee3ef61",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1035b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Eerste hoofprofil en doorsnede van gecasemateerde doorgang [...] flank van de Maan.",
+        "dc:title": "Plattegrond en profiel van de hoofdpoort van fort Oostenburg te Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Profils, platte gronden enz. tot bovenstaande werken behoorende; van verschillende grootte en afmetingen.\nNotities verso: Blauw etiket [ODG] nr: 23B; nr. 32; 1778 [jaartal?].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1035B",
+        "dc:subject": [
+            "vesting",
+            "overzicht / aanzicht",
+            "doorsnede / profiel",
+            "poort"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "25 x 92,5 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/592/plattegrond-en-profiel-van-de-hoofdpoort-van-fort-oostenburg-te"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/39/a8/04/c0/32/22/4f/2d/bd/ef/dd/78/31/3a/7a/a0/d4cc093d-9742-40f4-b94c-bacb286951b8.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/39/a8/04/c0/32/22/4f/2d/bd/ef/dd/78/31/3a/7a/a0/d4cc093d-9742-40f4-b94c-bacb286951b8.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1035B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

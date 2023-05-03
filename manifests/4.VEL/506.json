@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/506.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van 't Lant van Eendracht, off afbeeldinge van 't Zuytlandt. Ontdeckt door den schipper Samuel Volckertz, in de maendt Februarie en Maart, A' 1658, met de Wakende Boey."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "506"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1658"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/7be07467-8af9-400e-9410-7a14a6565592\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/506.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/506.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6151,
+            "width": 8704,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/506.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/506.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/c2/a4/0d/e0/0f/4f/41/ba/8c/67/7c/ba/76/7f/da/5d/67a5c651-23c2-4772-9494-219ef6bc782b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6151,
+                                "width": 8704,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/c2/a4/0d/e0/0f/4f/41/ba/8c/67/7c/ba/76/7f/da/5d/67a5c651-23c2-4772-9494-219ef6bc782b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/506.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

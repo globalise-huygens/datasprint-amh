@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1437A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f162b0a5-2d24-4eb9-b691-be35b5564bff",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1437a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het eiland Trinidad, kaartblad 1",
+        "dc:description": "Titel Leupe: A New Map of the Island of Trinidad.\nDeze kaart werd direct na de Britse bezetting van Trinidad in 1797 gemaakt. Een van de eerste bevelen die  generaal Ralph Abercromby gaf na de verovering, was de productie van een 'fysieke inventarisatie van het land en zijn eigenschappen'. De cartograaf die deze taak op zich nam stelde niet alleen een inventaris samen maar verdeelde het land in gelijke kavels en werkte een uitgebreide infrastructuur uit. De bijbehorende Descriptive Account of the Island of Trinidad geeft verdere details over de eigenaren, de hoeveelheid land, de bevolking en de landbouw. Deze grote informatiedichtheid was ook van invloed op latere kaarten, zoals de Descriptive Account of the Island of Trinidad die vijf jaar later gepubliceerd werd toen het eiland officieel tot Britse kolonie was verklaard.\nOnderdeel van een grotere kaart (VEL1437A-E).\nSchaal van Verschillende mijlschalen. 15 English Statute m = 208 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1437A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.60 - 0.69 El.",
+        "dcterms:date": "1802",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10376/kaart-van-het-eiland-trinidad-kaartblad-1"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7b/7a/e0/19/70/bb/46/6b/91/ea/d4/79/90/d4/3d/4c/68422dfb-56b7-45da-bb1f-9488fdb57519.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7b/7a/e0/19/70/bb/46/6b/91/ea/d4/79/90/d4/3d/4c/68422dfb-56b7-45da-bb1f-9488fdb57519.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1437A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1386.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b91859e2-f6f1-4cd7-bd2a-34c039d71b1c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1386.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Frans Canada",
+        "dc:description": "Titel Leupe: Carte du Canada ou de la Nouvelle France et des decouvertes qui y ont ete faites etc.\nCovens & Mortier's druk van De L'Isle's invloedrijke kaart van Canada, de Grote Meren en Upper Midwest werd de definitieve versie van de kaart. Voor het eerst in de geschiedenis waren de Grote Meren in hun geheel afgebeeld, met een correcte positie in relatie tot de Hudsonbaai en ware proporties van het schiereiland Avalon. De rivieren en gebergtes zijn ook accuraat weergegeven, en gedeeltelijk gebaseerd op de reisverslagen zoals Nouveaux voyages dans l'Am\u00e9rique septentrionale (1703) van Louis Armand de Lom d'Arce, Baron de Lahontan die uitgebreid reisde door Wisconsin, Minnesota en de hooggelegen Mississippi Vallei. De L'isle, bijvoorbeeld, benadrukt het punt waar Baron de Lahontans eigen observaties vervangen worden door zijn beschrijvingen gebaseerd op de verslagen van 'Indianen'. Hij laat zich enigzins sceptisch uit over de Baron: \"\u2026a moins que le dit Sr. de Lahonton n'ait invent\u00e9 tout ces choses ce quil est difficile de resoudre, \u00e9tant le seul qui a penetr\u00e9 dans cest vastes contr\u00e9es\" (\u201cTenzij de heer de Lahonton al deze zaken verzonnen heeft, wat lasting is na te gaan, is hij de enige die zo ver dit land is doorgedrongen\u201d). Hij merkt ook op hoe een groot zoutmeer mogelijk ten westen van het afgebeelde gebied ligt: \"\u2026sur la quelle ils navigant avec de grands bateaux\". Dit betreft waarschijnlijk het Great Salt Lake of zelfs de passage naar de Pacifische Oceaan. Deze en andere opmerkingen zijn wellicht ook geinspireerd door De L'Isles onderzoek naar het werk van Jezu\u00eftische missionarissen zoals Franquelin en Jolliet dat hij uitvoerde ten tijde van zijn aanstelling aan het Frans Maritiem Ministerie tussen 1700 en 1703. Daarnaast lijkt hij verschillende cartografische kunsten van zijn drukker in Amsterdam te hebben geleerd, aangezien stilistische elementen van Nederlandse kaartenmakers te herkennen zijn in bijvoorbeeld de banderol, het kompas en de kustlijnen.\nSchaal van 100 Fransche Zeemijlen = 60 strepen (ca. 1 : 9,000,000).",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1386",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.47 = 0.595 El.",
+        "dcterms:date": "1718",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7199/kaart-van-frans-canada"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4a/8c/1a/1d/f2/8b/4e/fa/bc/c0/f8/17/9e/34/f3/b0/2ff0f6c4-e925-4aee-b361-fabb60d798cd.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4a/8c/1a/1d/f2/8b/4e/fa/bc/c0/f8/17/9e/34/f3/b0/2ff0f6c4-e925-4aee-b361-fabb60d798cd.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1386.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte du Canada ou de la Nouvelle France et des decouvertes qui y ont ete faites etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

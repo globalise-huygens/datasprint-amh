@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1184.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van Batavia, met de daaromheen leggende bebouwde landen, benevens de namen der bewoners of eigenaars; tusschen de stad en de Cleyne Warande, en verder Z.O. en Zuidwaarts."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1184"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1700/1710"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/a985f276-fc84-4c32-988d-67cd14b70ed6\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1184.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1184.json#canvas/p1",
+            "type": "Canvas",
+            "height": 16253,
+            "width": 23571,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1184.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1184.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/1d/33/51/54/86/89/43/67/9e/81/17/62/4a/ad/13/8e/6a3a6f6b-9a00-4d56-8132-4fa43278c27c.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 16253,
+                                "width": 23571,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/1d/33/51/54/86/89/43/67/9e/81/17/62/4a/ad/13/8e/6a3a6f6b-9a00-4d56-8132-4fa43278c27c.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1184.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

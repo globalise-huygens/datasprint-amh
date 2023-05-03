@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/619A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1040f61f-d539-4bda-ae72-1b602342197a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_619a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Bullebaai",
+        "dc:description": "Titel Leupe: Plan van de Bulle Bay.\nDeze kaart is een kopie van VEL618, die oorspronkelijk getekend was door Carel Gustaaf Schrijver en Godfried Carel Esdr\u00e9. We zien een nieuw ontworpen versterking zichtbaar voor de Bullebaai. De oorspronkelijke kaart werd als bijlage bij missive van de ingenieurs aan de Staten-Generaal van 22 mei 1742 gevoegd. Het ontwerp is meegenomen binnen de resolutie van de Staten-Generaal van 9 oktober 1743 waar deze kopiekaart was mee was verzonden . Hierin werd een nieuw ontworpen versterking aangegeven van hetzelfde grotere type als de Staten-Generaal wenste voor de Sint Kruisbaai, Porto Marie, de Sint Michielsbaai en de Piscaderabaai. Peilingen zijn langs de baai gegeven.\nHet noorden is linksboven.\nOorsprong: de resol van HHM 9 oct 1743.\nSchaal van 100 Rijnlandse Roeden = 320 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL619A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.31 - 0.41 EI.",
+        "dcterms:date": "1743",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1709/kaart-van-de-bullebaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/13/1c/03/ce/f4/09/48/a3/9b/dd/5a/e0/cc/48/22/dc/9c364cb3-2053-47d1-8fe0-06b4d19f0867.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/13/1c/03/ce/f4/09/48/a3/9b/dd/5a/e0/cc/48/22/dc/9c364cb3-2053-47d1-8fe0-06b4d19f0867.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/619A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

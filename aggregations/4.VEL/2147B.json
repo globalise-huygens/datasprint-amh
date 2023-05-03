@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2147B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/47599177-2667-4b6c-867b-ddd3cc017821",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2147b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een gebouw binnen het fort Amsterdam",
+        "dc:description": "Titel Leupe: Tekeningen en plans van het Gouvernementsgebouw op Cura\u00e7ao in het fortres Amsterdam, Blad 5: Gesigt van 't Gebouw binnen 't Fortres.\nZoals bij meer Nederlandse vestigingen in West-Indi\u00eb werden er in de loop van de 18de eeuw allerhande voorstellen gedaan tot verbetering van de verdediging van Cura\u00e7ao. Deze voorstellen zijn slechts zeer ten dele uitgevoerd, maar wel zijn als resultaat veel situatie\nen projectkaarten van versterkingen en strategische locaties op Cura\u00e7ao bewaard gebleven. Deze reeks, VEL1484-5 en 2147A-G, is vlak na de Zevenjarige Oorlog (1756-1763) gemaakt. Hier is de facade van een gebouw binnen het fort getekend.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2147B",
+        "dc:subject": [
+            "vesting",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "1765-1766",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1625/ontwerp-voor-een-gebouw-binnen-het-fort-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/19/37/57/76/8c/15/48/c9/af/42/75/7d/1c/c5/34/1d/66e72da1-880b-447f-ad22-7f55704ec14e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/19/37/57/76/8c/15/48/c9/af/42/75/7d/1c/c5/34/1d/66e72da1-880b-447f-ad22-7f55704ec14e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2147B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 5: Gesigt van 't Gebouw binnen 't Fortres."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

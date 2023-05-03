@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1214.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/343be940-e063-4e9d-8218-871e18deece3",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1214.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Waterpas, geleegen even boven de zuyder-voorstad van Batavia",
+        "dc:title": "Plattegrond van de Waterpas te Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de Waterpas, geleegen even boven de zuyder-voorstad van Batavia.\nOp de kaart staat: 2e Copie.\nNotities verso: No. 3.b. [staat zowel aan de linkerkant als aan de rechterkant].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1214",
+        "dc:subject": [
+            "legenda",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart",
+            "Persoon",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 101,5 cm",
+        "dcterms:date": "ca. 1764",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3410/plattegrond-van-de-waterpas-te-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ea/b1/ec/bf/3d/6a/41/58/a5/62/fc/9f/3b/23/85/9e/198b72a9-5715-4593-96b7-e493fe130add.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ea/b1/ec/bf/3d/6a/41/58/a5/62/fc/9f/3b/23/85/9e/198b72a9-5715-4593-96b7-e493fe130add.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1214.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van de Waterpas, geleegen even boven de Zuyder-voorstad van Batavia."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

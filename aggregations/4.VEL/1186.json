@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1186.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8e7b86ca-4a59-452a-a722-dcedadcd8262",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1186.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart met landverdeling rondom Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, tusschen de rivier Groot Tsjiakon, de rivier Crocot en het spruytje Tsiroa, hiermee wordt bedoeld de titel van VEL1184 Kaart van Batavia, met de daaromheen leggende bebouwde landen, benevens de namen der bewoners of eigenaars.\nHet papier van de kaart is op linnen gelijmd.\nAcht bladen zijn aaneen geplakt.\nNotities verso: 609 [met vette cijfers gestempeld op een etiketje], 1711 [in potlood].\nDe kaart toont de indeling van het land, namelijk van wie het is en per wanneer het land gekregen is: Capteijn Fredrik Mullers Erfgenamen; David Schouten bij donatie van de 15 feb= 1696; Zijn Edelhijt die Ed=A= gouverneur generaal Willem van Outhoorn bij donatie van de 30 Januarij 1697.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1186",
+        "dc:subject": [
+            "landerij / plantage",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "130,5 x 193 cm",
+        "dcterms:date": "1700-1750",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3733/kaart-met-landverdeling-rondom-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3a/22/06/fa/cc/ca/4b/92/bc/70/88/b8/fd/0d/e3/5c/4550167b-cae4-4a94-8955-4b0d8e0774df.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3a/22/06/fa/cc/ca/4b/92/bc/70/88/b8/fd/0d/e3/5c/4550167b-cae4-4a94-8955-4b0d8e0774df.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1186.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Batavia, tusschen de rivier Groot Tsjiakon, de rivier Crocot en het spruytjie Tsiroa."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

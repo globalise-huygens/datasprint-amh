@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1965.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/703db6a8-9a50-4e02-bb8e-9632f420692c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1965.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van deel van plantage De Goede Verwagting",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien, gelegen tusschen Munnikendam en Naaldwyk (links in 't opvaren).\nDeze kaart toont de nieuwe lap grond van de plantage De Goede Verwagting in eigendom van de heer Cordova (A-F) nabij de Mot Kreek.\nDe heer T.J. Cordova heeft dit stuk grond op 15 Juli 1802 toegewezen gekregen.\nHet stuk grond blijkt 100 Surinaamse akkers (43 hectare) te meten.\nHet stuk grond is omringd door verder concessies van de plantages Ephrata, Van Binsbergen, en De Nieuwe Eendragt.\nDe kaart is ondertekend op 4 Februari 1803.\nSchaal van 200 Kettingen \u00e0 66 Rijnlandse voeten = 248 strepen.\nOorsprong: portefeuille requesten voor gronden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1965",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.50 - 0.395 El.",
+        "dcterms:date": "1803",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10175/kaart-van-deel-van-plantage-de-goede-verwagting"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b2/78/7b/90/ef/80/4d/c3/8d/ed/d3/d2/63/e2/7a/87/28ca81e6-8f62-4f6c-8a68-0188ca1b47f4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b2/78/7b/90/ef/80/4d/c3/8d/ed/d3/d2/63/e2/7a/87/28ca81e6-8f62-4f6c-8a68-0188ca1b47f4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1965.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien, gelegen tusschen Munnikendam en Naaldwyk (links in 't opvaren)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

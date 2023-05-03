@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/209.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/20feb85c-ceb7-4e40-a656-60a37480d4c2",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0209.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Africae pars",
+        "dc:title": "Kaart van Cerimgapa tot Tamgoa en delen van het eiland Pemba en Madagaskar",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Oostkust van Afrika, tusschen Cerimgapa en Tamgoa, een gedeelte van het eiland Pemba en een gedeelte van Madagaskar.\nRechtsboven genummerd: 8.e.\nNotities verso: 12 [in potlood in rechterbovenhoek] / 209 [in rood potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0209",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7993/kaart-van-cerimgapa-tot-tamgoa-en-delen-van-het-eiland-pemba-en"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/22/e5/6b/b0/fd/fd/4d/1b/81/b1/05/ce/24/d0/10/3c/62b98081-f5ae-4056-ae3c-3b6500a993ef.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/22/e5/6b/b0/fd/fd/4d/1b/81/b1/05/ce/24/d0/10/3c/62b98081-f5ae-4056-ae3c-3b6500a993ef.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/209.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Oostkust van Afrika, tusschen Cerimgapa en Tamgoa, een gedeelte van het Eiland Pemba en een gedeelte van Madagaskar."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/441.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/74193da5-8209-4f90-88ba-ec950be67cde",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0441.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de zuidkust van Java",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, van het Clappers Eylandt tot aan de Oosthoeck, hiermee wordt bedoeld de titel van VEL0436: Kaart van de zuidkust van Java....\nRechtsonder genummerd 264.\nNotities verso: de zuijd kant van Java 4 Caarten.\nDe kustlijn loopt van 'T West Eijndt of de eerste hoeck van Java tot Van Laage Afflopende hoeck.\nAchter de kustlijn liggen bergen hoog steijl Gebergte, Wijnkoops Bergen, Dit Langs heen 3 a 4 dubbele Gebergte.\nVoor de kust is een genummerde stippellijn met de vermelding geen grondt.\nOnderin is de schaalverdeling duijtsche Mijlen 15 voor een Graadt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0441",
+        "dc:subject": [
+            "flora",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "74 x 255 cm",
+        "dcterms:date": "1700 - 1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8332/kaart-van-de-zuidkust-van-java"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e4/1e/64/43/e4/9a/4d/d3/a4/bb/fa/33/b2/6a/65/87/25ceead2-b91b-45fe-83e7-39335e1f7947.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e4/1e/64/43/e4/9a/4d/d3/a4/bb/fa/33/b2/6a/65/87/25ceead2-b91b-45fe-83e7-39335e1f7947.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/441.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Zuidkust van Java, van het Clappers Eylandt tot aan de Oosthoeck."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

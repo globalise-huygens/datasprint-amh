@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2093A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c2c2748e-876b-4e43-a8a9-5f39509d9894",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2093a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het Cordon van Defensie",
+        "dc:description": "Titel Leupe: Kaart van opneming der situatien, agter de rivieren Perika en Booven Comewine, van de rits van Poelwyk af tot aan de Peninika Kreek, en van daar te zeggen, regt oover de mond van deze genoemde Kreek, naa de Iode Savaane of het Roode Dorp. Aan de rivier Suriname enz., ter ontdekking waar en hoe best een cordon te formeren.\nVanaf het midden van de 18de eeuw groeiden de Marrons, ontsnapte slaafgemaakten die in de binnenlanden van Suriname nieuwe gemeenschappen vormden, uit tot steeds geduchtere tegenstanders. Nadat ze zich verenigd hadden onder leiding van de befaamde Boni, naar wie zij zich later ook gingen noemen, kwam het in 1771 uiteindelijk tot een grote oorlog, die bekend is geworden als de (eerste) Boni-oorlog. Deze eindigde in 1776 met de verdrijving van de Boni naar Frans-Guyana. Tussen 1774 en 1778 legde de koloniale overheid in de strijd tegen Boni het bijna 100 kilometer lange Cordon van Defensie of Cordonpad aan. De eerste ontwerpen en opmetingen voor deze doorgaande patrouilleweg met op geregelde afstanden militaire posten kwamen al in 1772 tot stand, maar op grotere schaal begonnen de voorbereidende werkzaamheden in het jaar daarop, met daarin een hoofdrol voor de militair ingenieurs Johan Christoph Heneman en Johann Friedrich Ferdinand Wollant. Beide hebben deelkaarten getekend van de afzonderlijke trajecten van het Cordonpad, al zijn er van Heneman maar vijf bladen en een kopie van over gebleven. Dit is een van deze kaarten. Hij toont de bossen, dorpen, kreken en paden aan het cordon tussen het Wanikapad en de Caswinikakreek.\nSchaal van 200 Kettingen \u00e0 66 Rijnlandse voeten = 120 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2093A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.97 - 0.62 El.",
+        "dcterms:date": "1776",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10476/kaart-van-het-cordon-van-defensie"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0e/d9/4e/65/40/c0/44/da/ad/f3/de/b9/f5/51/4a/5e/15a1bf84-5543-4731-84b5-82c91699b4ad.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0e/d9/4e/65/40/c0/44/da/ad/f3/de/b9/f5/51/4a/5e/15a1bf84-5543-4731-84b5-82c91699b4ad.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2093A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

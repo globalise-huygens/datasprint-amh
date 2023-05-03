@@ -1,0 +1,58 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/717.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ee9c3d72-cb44-4ffa-bee5-9b1137876d9d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_717.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Baija de Todos los Sanctos",
+        "dc:title": "Kaart van de Allerheiligenbaai",
+        "dc:description": "Kaart van de Allerheiligenbaai.\nTitel in de Catalogus Leupe (NA): Kaart van de Baya de Todos los Sanctos.\nBaija de Todos los Sanctos.\nLegenda: A-Z.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0717",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "rede / haven / pier",
+            "legenda",
+            "vesting",
+            "gebouw",
+            "schip / vaartuig",
+            "huis / woonhuis",
+            "klooster / seminarie",
+            "kerk / pastorie"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "29 x 42 cm",
+        "dcterms:date": "1625-1635",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7463/kaart-van-de-allerheiligenbaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/53/c6/d9/6a/cf/fe/4e/d0/ae/27/70/de/0f/da/52/46/899f3a86-01e8-48fd-98a3-c8d0c1882962.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/53/c6/d9/6a/cf/fe/4e/d0/ae/27/70/de/0f/da/52/46/899f3a86-01e8-48fd-98a3-c8d0c1882962.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/717.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Baya de Todos los Sanctos."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

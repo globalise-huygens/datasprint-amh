@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1396.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/243f9651-a5bd-43bc-8e44-da5a1abbddb6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1396.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van New-Jersey",
+        "dc:description": "Titel Leupe: The Province of New-Yersey, divided into East and West. Commonly called the Jerseys.\nDit is de tweede uitgave van Fadens kaart van New Jersey. Deze kaart was grotendeels gebasseerd op het werk gedaan door de landmeter Bernard Ratzer in 1769. Ratzer probeerde in dat jaar een honderd jaar oud grensgeschil tussen New York en New Jersey op te lossen. Door gebruik van de resultaten van Ratzers meting, wist Faden voor het eerst de noordelijke grens die New Jersey deelde met New York in kaart te brengen en uit te geven. The omvang van de kaart was ook indrukwekkend en de gehele toekomstige staat van New Jersey is inbegrepen inclusief nabijgelegen gebieden. Aandacht word bested aan het relief dat drastisch veranderd van Jerseys hooglanden tot the moerassen aan de kust. Daarnaast zijn grenzen, hoofdwegen, nederzettingen en dorpen ook in detail getoond. Dit overzicht geeft een totale bevolking van meer dan 120,000 mensen weer. Om Ratzers werk te versterken heeft Faden ook Gerard Banckers landmeeting van de noordelijke delen van New Jersey toegepast. De kaart is onderdeel van Fadens North American Atlas, dat door de Nederlandse steun aan de Amerikaanse Revolutie ook in de Nederlandse Republiek een publiek bereikte.\nSchaal van 30 Eng. M. = 114 strepen.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1396",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.79 - 0.57 El.",
+        "dcterms:date": "1778",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7204/kaart-van-new-jersey"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/66/e2/6f/9a/e9/9d/4f/11/b2/36/7c/12/a4/81/bf/68/6a31afbf-664b-4da8-84cb-feb0b5004745.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/66/e2/6f/9a/e9/9d/4f/11/b2/36/7c/12/a4/81/bf/68/6a31afbf-664b-4da8-84cb-feb0b5004745.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1396.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "The Province of New-Yersey, divided into East and West. Commonly called the Jerseys."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

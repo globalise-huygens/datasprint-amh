@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1350.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6f797e3a-52f1-483a-a9fe-091b7aa09375",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1350.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Prospectiff",
+        "dc:title": "Plattegrond van de redout Hardenbergh te Cambello",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond en opstand van de redoute als voren, bedoeld wordt de titel van VEL1349: Afbeelding van de redout Hardenbergh, op de cust van Ceram op Combello.\nBehoort bij het rapport van Arnold de Vlamingh van Outshoorn.\nLegenda: A-T\nRechts boven genummerd: 382.\nNotities verso: 381 [moet het folionummer in de band OBP zijn] / 662 d.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1350",
+        "dc:subject": [
+            "vesting",
+            "banderol / cartouche / versiering",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "31,5 x 41 cm",
+        "dcterms:date": "ca. 1651",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/902/plattegrond-van-de-redout-hardenbergh-te-cambello"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d7/77/4f/fc/c5/c8/44/ea/8d/12/56/a6/3a/93/8d/6a/d5374147-f5b1-493e-9298-76fb2c58dc98.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d7/77/4f/fc/c5/c8/44/ea/8d/12/56/a6/3a/93/8d/6a/d5374147-f5b1-493e-9298-76fb2c58dc98.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1350.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond en opstand van de redout Hardenbergh, op de kust van Ceram op Combello."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

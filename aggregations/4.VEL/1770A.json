@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1770A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/14de2fa3-9c62-41a7-b3b8-2f0088cf8e1d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1770a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "<Explicatie van het Ontwerp tot een vaarbare Doorsnijding of Gragt van het Suriname tot in Saramacca.>",
+        "dc:title": "Kaart van een kanaalontwerp tussen de rivieren Suriname en Saramacca",
+        "dc:description": "Titel Leupe : Situatiekaart van de geprojecteerde doorsnyding tusschen de rivieren Suriname en Saramaca (ter hoogte van de redout Purmerend).\nDeze kaart laat een projectplan zien voor de aanleg van een kanaal lopende van de Suriname Rivier (ter hoogte van de Plantagie Beekhuysen, ten zuiden van Paramaribo) naar de Saramacca Rivier.\nNaast de ligging, omvang en contouren van enkele moerassen, zijn ook het Wanica Pad en de Wanica Creek te zien.\nOnder de kaart is een profiel getekend voor het te delven kanaal, voorzien van een legenda.\nBoven de kaart is een een uitvoerige technische beschrijving van het project te lezen.\nZie ook de kaarten VEL1765A, 1765B en 1770B\nSchaal van 200 Kettingen a\u0300 66 Rijnlandse voeten = 105 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1770A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "Groot 0.54 - 0.42 In el",
+        "dcterms:date": "2e helft 18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9760/kaart-van-een-kanaalontwerp-tussen-de-rivieren-suriname-en-saramacca"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bd/0c/9c/42/aa/c0/4e/2b/9d/be/8e/e0/6d/90/ac/f4/103e2e28-477a-4f8a-b433-c2b305b2d03d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bd/0c/9c/42/aa/c0/4e/2b/9d/be/8e/e0/6d/90/ac/f4/103e2e28-477a-4f8a-b433-c2b305b2d03d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1770A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Manuscript"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

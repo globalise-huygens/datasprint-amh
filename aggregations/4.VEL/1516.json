@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1516.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6b91a012-ef69-40b6-ac36-74ace11fc9fd",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1516.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kaart figuratif van de zee kust tusschen de kreeken van Mahaica, Mahaiconij en Abary, gelegen aan de oost wal van Demerary. Door A. Descaves, geswoore landmeeter, afgemeeten op Bevel van den Edelen Agtbaren Hove van Policie",
+        "dc:title": "Kaart van de zeekust ten oosten van de de Demerary",
+        "dc:description": "Titel Leupe: Kaart figuratif van de Zeekust tusschen de Kreeken van Mahaica, Mahaicony en Abary, gelegen aan de Oostwal van Demerary\nKaart van de zeekust ten oosten van de Demerary rond de kreken Abary, Mahaica en Mahaicony. Op de kaart zijn de verschillende plantages ingetekend, en voorzien van een genummerde lijst met lengte en oppervlakte van de percelen. Door een beschadiging aan de kaart linksonder is de lijst incompleet.\nSchaalstok van 1000 roeden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1516",
+        "dc:subject": [
+            "landerij / plantage",
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:date": "ca 1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9395/kaart-van-de-zeekust-ten-oosten-van-de-de-demerary"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3e/0f/d5/ae/9d/08/46/84/83/eb/a5/a3/c8/7d/3b/c8/18acb558-dd9d-46d7-b0f4-4fdaedfa4924.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3e/0f/d5/ae/9d/08/46/84/83/eb/a5/a3/c8/7d/3b/c8/18acb558-dd9d-46d7-b0f4-4fdaedfa4924.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1516.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart figuratif van de Zeekust tusschen de Kreeken van Mahaica, Mahaicony en Abary, gelegen aan de Oostwal van Demerary door:"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

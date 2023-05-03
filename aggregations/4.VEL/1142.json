@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1142.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/94a3b20c-eb06-4def-a9bc-ed6da52e320b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1142.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De Bocht Samanca op Lampon / De Pagger Samanca op Lampon",
+        "dc:title": "Plattegrond van de pagger Lampon Samanca",
+        "dc:description": "Titel catalogus Leupe (NA): De Bocht Samanca op Lampon, met de daaraan gelegen Negeryen in de rivier Toeloe Nitpa.\nRechts boven genummerd: 38.\nDoormidden gesneden geweest, geplakt en op de vouw gerestaureerd.\nNotities verso: 599 c / 71 [in potlood].\n2 D.m. = 118 strep.; omgerekende schaal 1 : 129.644 / 20 Rijnl. roeden = 128 strepen; omgerekende schaal 1 : 588.\nDe plaats Borne ligt aan de linkeroever van de baai, tegenover Lampong Samanca.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1142",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5380/plattegrond-van-de-pagger-lampon-samanca"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3f/56/b9/9e/b2/31/4a/b6/a9/9e/41/11/a2/71/93/68/47002eba-56ca-458e-9b32-e0a5d53bde58.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3f/56/b9/9e/b2/31/4a/b6/a9/9e/41/11/a2/71/93/68/47002eba-56ca-458e-9b32-e0a5d53bde58.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1142.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "De Bocht Samanca op Lampon, met de daaraan gelegen Negeryen in de rivier Toeloe Nitpa?"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

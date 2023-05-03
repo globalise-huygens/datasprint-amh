@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1749.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e716c7bb-1970-4987-8cc9-4137cbc7b893",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1749.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de La Vigilance plantage aan de Corpine kreek",
+        "dc:description": "Titel Leupe: Kaart van de Plantagie La Vigilance.\nDeze meting van de La Vigilance plantages aan de Corpine kreek is aangevraagd door de heer Paul Claude La Faurie. De omvang blijkt 1000 Surinaamse akkers oftewel 430 hectare. De aantekening onder vertelt over de transactie van het stuk land. De kaart is ondertekend op 17 april 1735 en erkend op 25 april 1736.\nHet noorden is rechtsonder.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1749",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.42 - 0.32 El.",
+        "dcterms:date": "1735",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10429/kaart-van-de-la-vigilance-plantage-aan-de-corpine-kreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e7/7b/aa/6b/8d/37/46/13/a2/c5/6c/35/40/df/11/d0/deb67a13-668e-4076-9f15-9ffba73e1763.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e7/7b/aa/6b/8d/37/46/13/a2/c5/6c/35/40/df/11/d0/deb67a13-668e-4076-9f15-9ffba73e1763.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1749.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagie La Vigilance."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

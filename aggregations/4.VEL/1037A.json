@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1037A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2485dec7-a9a0-402d-b5a3-4f7aca5043a6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1037a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Profil sur la ligne A.b.c.d.e.f.g.",
+        "dc:title": "Profiel van de vestingswerken te Oostenburgh, deel A",
+        "dc:description": "Titel catalogus Leupe (NA): Profils relatif aux projets de 1787.\nNotities verso: Feuille 15e Ostimbourg Profil Relatif aux Projets de 1787., dubbel van 1037.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1037A",
+        "dc:subject": [
+            "gebouw",
+            "doorsnede / profiel",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "36 x 304 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/609/profiel-van-de-vestingswerken-te-oostenburgh-deel-a"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a6/64/31/07/71/d1/41/94/92/d2/47/61/e4/f2/55/8a/01729140-b941-4b1e-a89e-20dbb9513437.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a6/64/31/07/71/d1/41/94/92/d2/47/61/e4/f2/55/8a/01729140-b941-4b1e-a89e-20dbb9513437.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1037A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

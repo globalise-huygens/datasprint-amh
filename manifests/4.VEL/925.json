@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/925.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Hooft-Fortificatien, alsmede van de subalterne of mindere forten, onder voorgenoemde plaatsen behorende, en die aan Zee gelegen zyn enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "925"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1600/1700"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f58ee354-aa96-4262-8054-18d0e8c6b844\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/925.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/925.json#canvas/p1",
+            "type": "Canvas",
+            "height": 8763,
+            "width": 6370,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/925.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/925.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/22/42/3d/3f/f3/bb/47/a3/ae/3b/15/e2/79/a6/36/93/c96e9478-a0b1-4ac4-b3da-ae0116667377.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8763,
+                                "width": 6370,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/22/42/3d/3f/f3/bb/47/a3/ae/3b/15/e2/79/a6/36/93/c96e9478-a0b1-4ac4-b3da-ae0116667377.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/925.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

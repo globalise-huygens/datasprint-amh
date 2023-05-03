@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Bogt van Sumdawa tot aan die van Bima, met het eilandje Goenong Api."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "448"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1500/1600"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/86b69a9b-2ca4-4045-9780-4c298f7f0b32\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/448.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json#canvas/p1",
+            "type": "Canvas",
+            "height": 3952,
+            "width": 5114,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/45/ee/eb/1d/c0/9d/4c/3f/b6/4a/5a/bc/d1/f5/18/f2/fda30bc0-ee11-45d2-a70c-d05bffb6ea1f.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3952,
+                                "width": 5114,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/45/ee/eb/1d/c0/9d/4c/3f/b6/4a/5a/bc/d1/f5/18/f2/fda30bc0-ee11-45d2-a70c-d05bffb6ea1f.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

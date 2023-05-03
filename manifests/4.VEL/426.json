@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Noordkust van Java, van Batang tot Japara, benevens de Eilanden Karimon Java, 18de eeuw.\n                            "
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "426"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/c4d3432d-0e5e-417b-9fb7-3c248da73eba\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/426.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6875,
+            "width": 4255,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/00/3d/1e/a4/6c/a6/41/3c/ae/a7/28/8d/d5/3e/9b/26/280c7ed0-5b42-4700-adc8-a51983ebe5e0.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6875,
+                                "width": 4255,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/00/3d/1e/a4/6c/a6/41/3c/ae/a7/28/8d/d5/3e/9b/26/280c7ed0-5b42-4700-adc8-a51983ebe5e0.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

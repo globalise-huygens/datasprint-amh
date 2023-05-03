@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/830.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4b7cde3a-f195-4f36-827b-41332f00530f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0830.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t Casteel de Goede Hoop, in het perspectief van de waterkant af te sien.",
+        "dc:title": "Kasteel de Goede Hoop, in perspectief vanaf de waterkant",
+        "dc:description": "Titel catalogus Leupe (NA): 'T Casteel de Goede Hoop, in het perspectief van de waterkant af te sien.\nInzetkaart boven: Verklaring van 't Casteel de Goede Hoop, hiernevens in perspectief afgebeeldt.\nLegenda: 1-9; 1-30\nInzetkaart onder: Platte grondt van 't Casteel de Goede Hoop.\nNotities verso: A. A. nr. 5 d. verso nr. 498 ij..\nGerestaureerd op linnen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0830",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "overzicht / aanzicht",
+            "vesting",
+            "gebouw",
+            "pakhuis",
+            "gevangenis",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier / linnen",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "230 x 355 mm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/353/kasteel-de-goede-hoop-in-perspectief-vanaf-de-waterkant"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fc/25/51/db/54/08/40/de/b4/16/4b/c9/95/f7/c0/6b/c91e83f2-db19-4e0f-9613-0ad831646341.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fc/25/51/db/54/08/40/de/b4/16/4b/c9/95/f7/c0/6b/c91e83f2-db19-4e0f-9613-0ad831646341.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/830.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "'T Casteel de Goede Hoop, in het perspectief van de waterkant af te sien."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

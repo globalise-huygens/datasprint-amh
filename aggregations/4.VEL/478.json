@@ -1,0 +1,55 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/478.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e35d6209-7ae0-4eaf-91ea-060369042956",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0478.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Situatieplan van 't Fort Oranje behelzende de oostelyke Kust van 't Eyland, Ternate; van de Laguna af, tot voorby Tolucco; beiden incl.s / Ter ordre van de weledelgestrenge Heeren Vaillant, Verhuel en Graevestein Commissarissen militair.",
+        "dc:title": "Fort Oranje en de oostelijke kust van Ternate",
+        "dc:description": "Titel in catalogus Leupe (NA): Situatieplan van 't Fort Oranje, behelsende de Oostelyke Kust van het Eyland Ternate, van de Lagune tot voorby Tolucco enz..\nDatering 18e eeuw: commissie defensie wezen.\nKaart van de oostkust van het eiland Ternate tussen de Laguna en fort Tolucco met aangegeven de geleding van de kampongs of wijken van Ternate rond het fort Oranje.\nNotities verso: Nr. 2 met inkt..\nZichtbaar zijn de steenbranderij en de kalkbranderij.\nTopografische namen op deze kaart vermeld: Kalamatah, post Kajoemeirah, Kampong China, Kampong Makassar, Santoni, B'loelo Madesse, Sneero, Mootie, Fakoewe, Branka Sengaadjie, Gamsoenie, Branke Nagri baroe, Kampong Xoela.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0478",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "gebouw",
+            "tuin / siertuin",
+            "rede / haven / pier",
+            "scheeps- / timmerwerf",
+            "moskee",
+            "fabriek / werkplaats"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "760 x 1450 mm",
+        "dcterms:date": "1789-1792",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5812/fort-oranje-en-de-oostelijke-kust-van-ternate"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d4/fa/2f/78/01/8c/41/84/9b/85/df/ae/5b/d7/33/53/064a613d-db16-4519-9ec5-7e5eb4cedbe2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d4/fa/2f/78/01/8c/41/84/9b/85/df/ae/5b/d7/33/53/064a613d-db16-4519-9ec5-7e5eb4cedbe2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/478.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Situatie plan van 't Fort Oranje, behelsende de Oostelyke Kust van het Eyland Ternate van de Lagune tot voorby Tolucco enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

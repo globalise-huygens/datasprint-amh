@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1679A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/36f232a4-45ca-4aa2-a779-8b80c2a21dd1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1679a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Overzichtskaart van de plantages in Suriname",
+        "dc:description": "Titel Leupe: Nieuwe speciaal kaart van de Colonie Suriname met de tot de cultuure gebragd zynde Landen en Plantagien.\nDit totaaloverzicht is opgedragen aan het Committe van de Bataafsche Bezittingen in America en op de kust van Africa. De nadruk ligt op het de reeds gecultiveerde plantages en de nieuwe projectplannen ter uitbreiding van het plantagegebied. Zo is het plan van landmeter Bohm om 240 percelen langs de Saramacca aan te leggen rechts op de kaart te vinden. Gebouwen en fortificaties zijn in rood aangeduid. Rechtsboven een inzet met een plattegrond van de stad Paramaribo en de voorstad Zeelandia. Een index duidt een aantal hoofdgebouwen aan terwijl straatnamen in de kaart zelf zijn vermeld. De cartouche toont Surinaamse bewoners en een schilpad.\nHet noorden is onder.\nSchaal van 1400 Kettingen \u00e0 66 R. V. = 270 strepen.\nVEL1679B is een ander exemplaar van deze kaart",
+        "dc:type": "prent",
+        "dc:identifier": "VEL1679A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "banderol / cartouche / versiering",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "0.535 - 0.65 El",
+        "dcterms:date": "1801",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9815/overzichtskaart-van-de-plantages-in-suriname"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/32/1f/d4/97/3e/6e/41/ce/b7/f7/06/88/4d/a6/63/2f/0cfa9d76-4682-47d9-9769-f77ffa793d04.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/32/1f/d4/97/3e/6e/41/ce/b7/f7/06/88/4d/a6/63/2f/0cfa9d76-4682-47d9-9769-f77ffa793d04.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1679A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

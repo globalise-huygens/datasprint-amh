@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1415.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a105b4e2-bcb6-4fa9-a3c8-59c06705847e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1415.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Hispaniola",
+        "dc:description": "Titel Leupe:  Carte de I'Isle St. Dominique dressee par le Sr. de Cressy, cidevant Commandant pour le Roi de I'Isle de la Tortue et Costes de St. Dominque.\nWaarschijnlijk geeft deze kaart situatie weer rond 1697 toen het verdrag van Ryswick getekend werd en Spanje officieel de Franse kolonie erkende. Veel meer dan de plaatsnamen aan de kust worden niet genoemd; het binnenland bevat slechts twee Spaanse vestingen, meren en rivieren en bergen. Het is niet duidelijk hoe dit Franse manuscript in de Nederlandse archieven is beland. Een hypothese is dat na de val van Napoleon en de terugkeer van de Nederlandse kaartencollectie uit Parijs dit manuscript per abuis is meegenomen.\nSchaal van 20 Lieus = 92 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1415",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.51 - 0.705 El.",
+        "dcterms:date": "1690-1761",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10349/kaart-van-hispaniola"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/35/8b/a4/f6/f5/99/46/dc/94/ea/78/cb/03/ae/8a/59/49a1a23c-d008-4812-a634-ca12ec16424f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/35/8b/a4/f6/f5/99/46/dc/94/ea/78/cb/03/ae/8a/59/49a1a23c-d008-4812-a634-ca12ec16424f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1415.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Carte de I'Isle St. Dominique dressee par le Sr. de Cressy, cidevant Commandant pour le Roi de I'Isle de la Tortue et Costes de St. Dominque."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

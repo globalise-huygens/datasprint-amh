@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1012.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3df72192-9a41-4174-ab00-f8542dd3ba32",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1012.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "N: 3 / Project ter Verbeetering van de Vestingwerken van Trinkonomale / De eerste helft van dit plan vertoond de [...]muur en Souterreins der geprojecteerde Werken bij hunne fondamenten. De andere vertoond dezelve als voltooit; met hun walgangen, borstweeringen; en grachten; en beteekenen de geel gewassen de nieuwe aarde; en de sterk roodde de metzelwerken.",
+        "dc:title": "Plattegrond van het fort te Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Project ter Verbetering van de Vestingwerken van Trinkonomale.\nPlattegrond van de versterking van de vesting van Trinconomale.\nAantekening catalogus Leupe: Behoort bij het rapport van de militaire staatscommissie naar de Oost o.l.v. J.O. Vaillant, C. A. Ver Huell en J.F. van Gravenstein. Zie voor rapport: NA Stadhouderlijke secretarie, inv. nrs. 1910-1932, Collectie erhuell inv. nrs, 7-45. Hooge Regeering te Batavia, (1.04.17) inv. nr. 584 Memories door C. F. Reimer voor de Gouverneur-generaal  over de vestingwerken van Trincomale en Oostenburg, 1788.\nNotitie verso: [Blauw etiket ODG] nr.: 34: Project ter versteking van Trinkonomale. nr 26; etiket nr. 552.\nLegenda: A-M",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1012",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "banderol / cartouche / versiering",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50 x 75 cm",
+        "dcterms:date": "1785",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4780/plattegrond-van-het-fort-te-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3d/d0/ae/4b/48/73/4a/a0/81/73/02/52/a7/13/44/9b/aea79287-87b4-41ff-b025-e89a0d4422dc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3d/d0/ae/4b/48/73/4a/a0/81/73/02/52/a7/13/44/9b/aea79287-87b4-41ff-b025-e89a0d4422dc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1012.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Project ter Verbetering van de Vestingwerken van Trinkonomale."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

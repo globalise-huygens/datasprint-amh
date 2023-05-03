@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1663D.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d94468c7-620f-4c85-b944-c9f3420d702e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1663d.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [below] an inscription : \nDit is De Sijde Van t Fort Aen De Rivier Kant.",
+        "dc:title": "Aanzicht van Fort Nassau aan de Berbice vanuit het westen",
+        "dc:description": "Titel Leupe: Verschillende gezigten op het fort ...? zoo van de rivier als aan de landzyde.\nDeze aquareltekening geeft het aanzicht van Fort Nassau van het westen. Uit de afbeelding is op te maken dat de buitenzijde van de wallen en de vier halfbastions op de hoeken van het vernieuwde fort overal bekleed waren met houten paalwerk, zoals volgens de gravures in Hartsincks Beschryving ook het geval was bij de eerdere versterkingen. Zie ook de plattegronden VEL1661A-B.\nSchaalstok van 155 [Rijnlandse voeten] = [ca. 1 : 90].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1663D",
+        "dc:subject": [
+            "gebouw",
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "aquarel/waterverf",
+        "dcterms:extent": "41,5 x 54 cm.",
+        "dcterms:date": "1740-1750",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1960/aanzicht-van-fort-nassau-aan-de-berbice-vanuit-het-westen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/97/7f/d1/c6/78/2c/4c/4f/90/fc/9a/8a/c3/84/e9/00/dd9f4a4d-1e01-4c73-b47b-4e446071b35b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/97/7f/d1/c6/78/2c/4c/4f/90/fc/9a/8a/c3/84/e9/00/dd9f4a4d-1e01-4c73-b47b-4e446071b35b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1663D.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 4"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

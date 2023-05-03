@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1868.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/696cebf6-0232-459c-97b9-961817943fbf",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1868.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van nieuwe kavels nabij de Warapa Kreek",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien, gelegen in de Warappa Creeq en Canaal.\nDeze kaart toont verschillende kavels aan twee nieuwe kanalen (blauwe strepen boven en onder op de kaart) door de Warapa Kreek.\nDe nadruk ligt op de nieuw geplande kavels van elke 500 Surinaamse akkers (=265 hectare) genummerd met 32 en 34-37.\nTwee daarvan (nummer 37 en 34) zijn gereserveerd door de plantage Echtensrots.\nDe andere kavels bevatten een eigennaam, omvang en oppervlakte alsook een stippelijn ter aanduiding van het achterland.\nDe eerste gronden in dit gebied werden kort voor het midden van de achttiende eeuw uitgegeven.\nAl voor ca. 1757 begon hier ook de ontginning van de laaggelegen delen verder van de rivier vandaan, het eerst langs de Warapa\nen de Matapicakreek, waarvoor het echter noodzakelijk was op uitgebreide schaal afwaterings\nen toevoerkanalen te graven.\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 170 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1868",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.53 - 0.60 El.",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9985/kaart-van-nieuwe-kavels-nabij-de-warapa-kreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e1/ba/ff/3a/74/e2/40/d3/ab/1a/00/52/68/a6/c8/9d/a1be3bb8-e219-4d2b-b284-c9c781798d48.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e1/ba/ff/3a/74/e2/40/d3/ab/1a/00/52/68/a6/c8/9d/a1be3bb8-e219-4d2b-b284-c9c781798d48.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1868.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien, gelegen in de Warappa Creeq en Canaal."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

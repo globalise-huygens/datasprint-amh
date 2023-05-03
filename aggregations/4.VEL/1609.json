@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1609.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f132afb0-bc54-43d4-aa1b-a550cce671bb",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1609.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title) Grond plan eener Cazematte van het geprojecteerde dessin over de versterking van \u2019t Crabben Eyland, in Rio de Berbice Sub lit. C.\n\n(Left, Annotation): Pillottage tegen \u2019t Corp de la place, waarop het murwerk van de Cazematten te staan komt.",
+        "dc:title": "Schets van een kazemat voor een gepland fort op het Krabbeneiland",
+        "dc:description": "Titel Leupe: Profil eener Cazematte van het geprojecteerde Dessin over de versterking van 't Crabben Eyland in Rio de Berbice.\nDit profiel is onderdeel van een plan voor een fort op het Krabbeneiland.\nVoor 1735 bestonden er al plannen voor een fort op dit eiland door P.M. Osterlin (zie VEL1611), maar die zijn nooit uitgevoerd. Op herhaald aandringen van de particuliere planters in Berbice richtten de directeuren zich in 1738 tot de Soci\u00ebteit van Suriname met het verzoek de Franse ingenieur Pierre-Dominique Desmaretz die toen was belast met de bouw van Fort Nieuw Amsterdam, voor enige tijd te detacheren naar Berbice om daar een nieuw ontwerp voor de versterking van dit eiland te maken. Desmaretz kwam het jaar daarop over en produceerde het plan dat hier getoond is.\nDit betreft een profiel van een kazemat.\nOndanks de kostenbesparing die dit ten opzichte van het voorgaande plan zou hebben opgeleverd, werd ook deze versie te duur bevonden en bleef het Krabbeneiland als voorheen onversterkt.\nSchaal van 7 Rijnlandse roeden = 325 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1609",
+        "dc:subject": [
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.32 - 0.45 El.",
+        "dcterms:date": "1739",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10278/schets-van-een-kazemat-voor-een-gepland-fort-op-het-krabbeneiland"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/62/ae/18/a2/90/32/4e/30/a9/4c/cb/ca/b3/88/ab/22/b87c286c-501a-4b13-a706-93d90bfff999.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/62/ae/18/a2/90/32/4e/30/a9/4c/cb/ca/b3/88/ab/22/b87c286c-501a-4b13-a706-93d90bfff999.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1609.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/816.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/15888b91-14c3-491e-849a-cc7d285e9df7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0816.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t binnen pleijn vant Fort de Goede Hoope",
+        "dc:title": "Plattegrond van fort de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van fort de Goede Hoop, met het daarvoor gelegen Hoornwerk en bygelegen gebouwen, tuinen enz..\nKaart van het fort, de landerijen en gebouwen in omgeving van Kaap de Goede Hoop.\nNotities verso: 1654 van de Kaap II deel, nrs. 203; 498 d. Potlood Gedrukt Catal. Leupe 816.\nLegenda: a-r",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0816",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "gebouw",
+            "landerij / plantage",
+            "tuin / siertuin",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "420 x 530 mm",
+        "dcterms:date": "ca. 1654",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/367/plattegrond-van-fort-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/30/1c/c6/a3/96/96/48/94/91/08/3e/ee/d2/de/34/5c/a13ec779-5679-427b-82e4-406bf8cc5f64.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/30/1c/c6/a3/96/96/48/94/91/08/3e/ee/d2/de/34/5c/a13ec779-5679-427b-82e4-406bf8cc5f64.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/816.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort de Goede Hoop, met het daarvoor gelegen Hoornwerk en bygelegen gebouwen, tuinen enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

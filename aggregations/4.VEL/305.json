@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/305.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/196b7626-9086-4779-ac9f-a90095957382",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0305.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Kelangh / Formosa / Formosa",
+        "dc:title": "Kaart van fort Zeelandia",
+        "dc:description": "Titel catalogus Leupe (NA): Kaarten van de reven enz., voor de Stad Zeelandia enz..\nInzetkaart linksboven Kelangh: Schaalaanduiding 100 Rijnl. roeden = 71 strepen; Omgerekend: [ca. 1:5310] (29 x 37 cm).\nInzetkaart linksonder Formosa: Schaalaanduiding 1/2 D. m. = 66 strepen; Omgerekend = [ca. 1:56.116] (24 x 37 cm)\nLinksboven: 305.\nRechtsboven: 305, 35.\nKaart rechts: Schaal 800 roeden = 9,2 cm; Omgerekende schaal = [ca. 1:32.783\nTopografische namen vermeld op de kaart links boven: Kelangh, Rustenburgh, Victoria, Punt Noort-Hollant, Fort Noordholland, punt Zeeburg, Nobelenburgh.\nTopografische namen vermeld op de kaart links onder: N. Holland, Kelangh, 't dorp Quemory.\nTopografische namen vermeld op de kaart rechts: De Soulangse laagvelden, reduit Zeeburgh.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0305",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rede / haven / pier",
+            "klooster / seminarie",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "525 x 720 mm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/832/kaart-van-fort-zeelandia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a1/93/06/07/ca/12/4b/79/a1/ec/3c/26/7b/1f/07/03/339e811e-aa23-4fee-a264-01bdef7fe6d9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a1/93/06/07/ca/12/4b/79/a1/ec/3c/26/7b/1f/07/03/339e811e-aa23-4fee-a264-01bdef7fe6d9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/305.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de reven enz., voor de Stad Zeelandia enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

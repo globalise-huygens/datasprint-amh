@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1838.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3fc97f85-641d-4635-915d-6bfae48f5973",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1838.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van enkele kavels gelegen nabij het Nieuw Amsterdam fort",
+        "dc:description": "Titel Leupe: Kaart van eenige landen, gelegenzoowel aan de Commewyne en Suriname, ter\nwederzijden van het fortres Nieuw Amsterdam.\nDeze kaart toont de ligging van enkele kavels gelegen aan de oosterlijke oever (links op de kaart) van de Suriname rivier nabij het fort Amsterdam.\nSlechts zeven kavels zijn aangeduid met een eigennaam: Leliendaal, Nooytgedagt, Marienburgh, Betafor, Richelieu, Monryoos, en La Poir.\nDe laatste vier genoemde kavels liggen aan de Paulus Creek en lijken allen in Frans bezit.\nVerdedigingswerken langs de rivier zijn met circels aangegeven.\nOorsprong: [OBP] 1766 [fol.] 75.\nSchaal van 600 Kettingen = 80 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1838",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.165 - 0.18 El.",
+        "dcterms:date": "1766",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1976/kaart-van-enkele-kavels-gelegen-nabij-het-nieuw-amsterdam-fort"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/2d/a6/cd/cc/16/09/4f/43/94/e6/23/c2/ff/ef/c0/54/107d2a9e-f970-4962-a856-dc955284217a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/2d/a6/cd/cc/16/09/4f/43/94/e6/23/c2/ff/ef/c0/54/107d2a9e-f970-4962-a856-dc955284217a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1838.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen, gelegenzoowel aan de Commewyne en Suriname, ter wederzijden van het fortres Nieuw Amsterdam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

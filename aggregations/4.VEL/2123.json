@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2123.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/395091e9-e7fd-44cd-8e04-f352740a5346",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2123.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van nieuwe verdedigingswerken aan de Saramaccarivier",
+        "dc:description": "Titel Leupe: Plan ter dekking van de rivier de Saramacca door een Cordon.\nHoewel na ca. 1762 de dreiging van aanvallen door Marrons in hoofdzaak beperkt bleef tot de oostelijke delen van Suriname, werden in de rond de aanleg van het Cordon van Defensie ook plannen ontwikkeld voor een betere verdediging van de westelijke flank van de kolonie, in de stroomgebieden van de Para en de Saramacca. Deze kaart vertoont overeenkomsten met de eveneens anonieme overzichtskaart van de gebieden tussen de Suriname en de Coppename die te vinden is in het Maritiem Museum Rotterdam onder nummer K200. Mede op grond daarvan kan de kaart omstreeks 1760 gedateerd worden, dus kort voor het vredesverdrag met de Saramaccaners. Het beoogde project behelsde klaarblijkelijk de aanleg van patrouillewegen met posten volgens de lijnen BDEG en CD, aansluitend bij respectievelijk het oudere Oranjepad en de post Gelderland bij Joden Savanne. Op het ingesloten grondgebied op de westoever van de Saramacca kon dan tevens een kanaal worden gegraven om daar nieuwe gronden voor plantages te ontsluiten.\nHet noorden is onder.\nSchaalstokken van 1000 Ketting Rynlandsch / 2 Duytsche Mylen van 15 in Een graad Jeder a 357\u00bd Ket.t Rynl: = [ca. 1 : 116.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2123",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "75 x 84,5 cm.",
+        "dcterms:date": "ca. 1760",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10143/kaart-van-nieuwe-verdedigingswerken-aan-de-saramaccarivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f6/b5/06/e1/b4/c1/45/15/bb/78/03/88/5e/05/63/19/728e46c6-39fa-4f16-98a1-a54fb205e810.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f6/b5/06/e1/b4/c1/45/15/bb/78/03/88/5e/05/63/19/728e46c6-39fa-4f16-98a1-a54fb205e810.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2123.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan ter dekking van de rivier de Saramacca door een Cordon."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Noordkust van Java, van Geertruyts Eyland tot aande hoek van Crawang, met de daarvoor liggende kleinere Eilanden."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "375"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1731"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/2aa95035-5f2b-444a-99b2-6a9d5945c714\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/375.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json#canvas/p1",
+            "type": "Canvas",
+            "height": 4656,
+            "width": 12470,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/5c/52/e6/25/2a/e0/41/8e/93/26/cb/10/94/9e/69/bd/ac75660f-d233-47b9-bdc9-2df76550b2b4.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4656,
+                                "width": 12470,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/5c/52/e6/25/2a/e0/41/8e/93/26/cb/10/94/9e/69/bd/ac75660f-d233-47b9-bdc9-2df76550b2b4.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/142.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/30e04c0d-e27d-4736-90e2-9a3200d5f569",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_142.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Een Gedeelte van de kust van Gunea of bogt van Golf Benin / Van Accara tot C. Formosa",
+        "dc:title": "Kaart van de Bocht van Benin met een inzet van een deel van de Goudkust",
+        "dc:description": "Kaart van de Bocht van Benin met een inzet van een deel van de Goudkust.\nTitel catalogus Leupe (NA): Kaart van een gedeelte van de Kust van Guinea of Bogt van d'Golf Benin, van Accara tot Cabo Formosa.\nEen Gedeelte van de kust van Gunea of bogt van Golf Benin / Van Accara tot C. Formosa.\nRechtsboven, in het Lago de Curamo zijn visnetten te zien: alhier [hangt?] het vol visserije.\nDe kaart is op blauw papier geplakt.\nNotities verso: No. 7 De slaaffkust van Accara tot Caap Formosa",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0142",
+        "dc:subject": [
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "62,5 x 105 cm",
+        "dcterms:date": "1716",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1014/kaart-van-de-bocht-van-benin-met-een-inzet-van-een-deel-van-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ab/fd/24/09/e6/ff/49/18/ba/fe/b9/f0/57/56/7e/c8/2a70d38d-2f99-46e7-94fa-19c24c904473.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ab/fd/24/09/e6/ff/49/18/ba/fe/b9/f0/57/56/7e/c8/2a70d38d-2f99-46e7-94fa-19c24c904473.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/142.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een gedeelte van de Kust van Guinea of Bogt van d' Golf Benin, van Accara tot Cabo Formosa."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

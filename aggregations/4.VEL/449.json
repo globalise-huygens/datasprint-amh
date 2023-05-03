@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/449.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/951cbc9b-44e9-4b2b-aba8-2cdf57101304",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0449.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de kleine Soenda eilanden",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Kleine Soenda Eilanden, van de Oostkust van Sumbawa tot Kisser, benevens de Eilanden Timor en Rotty.\nDe kaart is op linnen geplakt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0449",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier / linnen",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "73 x 101,5 cm",
+        "dcterms:date": "1738/9",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5347/kaart-van-de-kleine-soenda-eilanden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a6/61/3d/54/d6/d9/4a/ea/a9/25/29/bc/00/57/ba/40/2f396b8a-2ae2-4654-a0fa-2224966a8e7b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a6/61/3d/54/d6/d9/4a/ea/a9/25/29/bc/00/57/ba/40/2f396b8a-2ae2-4654-a0fa-2224966a8e7b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/449.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Kleine Soenda Eilanden, van de Oostkust van Sumbawa tot Kisser, benevens de Eilanden Timor en Rotty."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

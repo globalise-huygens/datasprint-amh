@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/153.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fd0db8ff-d601-4d8c-8d95-d7b974cf620f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_153.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Seekaerten van de Cafferse En AanGolsche Kusten",
+        "dc:title": "Kaart van de Namibische kust",
+        "dc:description": "Kaart van de Namibische kust.\nTitel catalogus Leupe (NA): Seekaerten van de Kafferse en Angolse Kusten.\nSeekaerten van de Cafferse En AanGolsche Kusten.\nDe kompaslijnen zijn gedrukt.\nDe kaart is op blauw papier geplakt.\nNotities verso: Andries Graan.\nOp verschillende plekken op de kaart 153 [in potlood].\nRechtsonder: No: 11.\nOp de cartouche zijn versieringen in potlood geschetst, maar niet afgemaakt met inkt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0153",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "63,5 x 103 cm",
+        "dcterms:date": "1723",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/8620/kaart-van-de-namibische-kust"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c3/c2/28/ac/3d/03/42/3a/93/ad/7d/ae/43/6c/e5/58/4eb9393b-1da3-4918-8f74-33d5431f8321.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c3/c2/28/ac/3d/03/42/3a/93/ad/7d/ae/43/6c/e5/58/4eb9393b-1da3-4918-8f74-33d5431f8321.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/153.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Seekaerten van de Kafferse en Angolse Kusten."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

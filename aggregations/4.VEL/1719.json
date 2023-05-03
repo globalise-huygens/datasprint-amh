@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1719.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/da49c58b-d63c-442b-a9ab-373ec7aada3d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1719.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een perceel te Paramaribo",
+        "dc:description": "Titel Leupe: Kaart van (een) erf gelegen aan Paramaribo ten Zuyden van het Pleyn enz.\nDeze meting van een perceel nabij Paramaribo werd uitgevoerd op verzoek van D. Cellier en J. Willemiet, als gemachtigden van H.W. Brantsen, W.K. Brantsen, W. Engelsen en G. Brantsen. Het perceel is gelegen tussen de stukken land van dhr. Bredlo en die van de weduwe van dhr. Craffort. De oorspronkelijke meting vond plaats in 1759; deze kaart is een licht aangepaste kopie uit 1776.\nHet noorden is rechtsonder\nSchaalstok van 60 Rijnlandse voeten = 118 'strepen'",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1719",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.33 - 0.41 El.",
+        "dcterms:date": "1776",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7715/kaart-van-een-perceel-te-paramaribo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1c/3b/28/bf/bd/96/44/52/89/78/86/3c/5f/80/17/77/c61f0bc1-4b74-493c-8e9b-eec1ad6d597c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1c/3b/28/bf/bd/96/44/52/89/78/86/3c/5f/80/17/77/c61f0bc1-4b74-493c-8e9b-eec1ad6d597c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1719.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van (een) erf gelegen aan Paramaribo ten Zuyden van het Pleyn enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

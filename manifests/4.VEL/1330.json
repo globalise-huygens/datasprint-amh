@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1330.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Hoofdsituatieplan van 't kasteel Nieuw Victoria, benevens de vlacte van Martapons, met den ingang en het voorste gedeelte der baay van Poka."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1330"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/da715f1c-b91f-4307-8e34-0721af56e1ef\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1330.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1330.json#canvas/p1",
+            "type": "Canvas",
+            "height": 10271,
+            "width": 18716,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1330.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1330.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/3b/91/0a/fb/a5/df/45/69/b4/72/a8/28/de/9c/e7/ed/952d72a4-f2dc-4611-9fbd-95764a593d63.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 10271,
+                                "width": 18716,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/3b/91/0a/fb/a5/df/45/69/b4/72/a8/28/de/9c/e7/ed/952d72a4-f2dc-4611-9fbd-95764a593d63.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1330.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

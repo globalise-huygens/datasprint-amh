@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1977.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/54c98a90-695f-40a0-ba4b-617c7ad8cd98",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1977.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kavel van Abraham Egidius Engel",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen in de Paramarica Creeq (rechts in 't opvaren).\nDeze kaart toont een kavel van Abraham Egidius Engel (A-D), ten oosten van de Paramaricakreek.\nEngel heeft de meting aangevraagd na de kavel op 26 Augustus 1733 in eigendom te hebben gekregen.\nDe lap grond blijkt 334 4/10 Surinaamse akkers (143,8 hectare) te meten.\nTen noorden (links op de kaart) ligt de grond van de heren Chardavoire en Balcet en ten zuiden (rechts op de kaart) de grond van Henderik Boulle.\nDe kaart is ondertekend op 5 Oktober 1733 en erkend op 13 Oktober 1733.\nSchaal van 70 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 168 strepen.\nOorsprong: [OBP Suriname] 1736 [fols.] 1210-1211.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1977",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.28 El.",
+        "dcterms:date": "1733",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10185/kaart-van-kavel-van-abraham-egidius-engel"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/a0/9d/8b/31/75/56/45/fd/94/e1/fe/04/11/90/db/8c/536dd3ea-74a1-4b76-9d05-a849500430d3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/a0/9d/8b/31/75/56/45/fd/94/e1/fe/04/11/90/db/8c/536dd3ea-74a1-4b76-9d05-a849500430d3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1977.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen in de Paramarica Creeq (rechts in 't opvaren)."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

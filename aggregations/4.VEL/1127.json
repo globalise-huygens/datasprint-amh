@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1127.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2ad95c82-a009-47b2-8240-c1ba7a7052ea",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1127.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaartje van Tamsuy en Kelang",
+        "dc:description": "Titel catalogus Leupe (NA): Kaartje van Tamsuy en omleggende dorpen, zoo mede het eilandje Kelang.\nHoewel gerestaureerd is de kaart beschadigd waardoor een gedeelte van de verklaringen in de inzet verloren is gegaan.\nNotities verso: Deze kaart behoort in portefeuille 1654 no. V by eene Beschryving van het eiland Formosa en onderhoorigheden als Tamsay enz. / 598 e.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1127",
+        "dc:subject": [
+            "legenda",
+            "kompas / windroos",
+            "vesting",
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "41 x 51,5 cm",
+        "dcterms:date": "ca. 1654",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2241/kaartje-van-tamsuy-en-kelang"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4d/0c/59/b3/a5/a6/41/1c/aa/ba/94/ce/81/5a/bf/ee/e27c2c6e-d05a-4362-a8a3-c4c970fca471.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4d/0c/59/b3/a5/a6/41/1c/aa/ba/94/ce/81/5a/bf/ee/e27c2c6e-d05a-4362-a8a3-c4c970fca471.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1127.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaartje van Tamsuy en omleggende dorpen, zoo mede het eilandje Kelang."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

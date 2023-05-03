@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1068B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9db1aedf-4fb3-4e0a-b186-e4fffa29b593",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1068b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Coupe en Profil",
+        "dc:title": "Profiel van de fortificatie te Galle, deel B",
+        "dc:description": "Titel catalogus Leupe (NA): Couse en profil behoorende tot het Hoofdplan; van verschillende grootte en afmetingen.\nNotities verso: Profils van Gale behoorende by het Plan No. 8 [twee keer], Gale.\nLinksboven de tekst: Coupe en Profil. behoorende tot het Project tot Verbeetering der Vestingwerken van Gale, beraamd door de Weledel Gestrenge Heeren Vaillant, Verheul en Graevesteyn, Commissarissen miltitair, enz. Ter Ordre van Hun WelEdel Gestrengens. De Lettermerken op dit Blad te vinden correspondeeren met het Hoofdplan, NII van Gale.\nLinks de schaalverdeling 20 Roeden.\nDe afbeelding toont drie doorsnedes 't hooge en laage Bolwerk de Zon., 't hooge en laage Bolwerk de Maan, 't hooge en laage Bolw. de Star..",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1068B",
+        "dc:subject": [
+            "doorsnede / profiel",
+            "brug",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "54,5 x 98 cm",
+        "dcterms:date": "ca. 1780",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3119/profiel-van-de-fortificatie-te-galle-deel-b"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f2/52/6f/ea/b8/56/41/9a/92/49/7f/aa/7f/7d/bb/25/5a0f958d-8ec8-4a1f-8a9e-93d041c851fd.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f2/52/6f/ea/b8/56/41/9a/92/49/7f/aa/7f/7d/bb/25/5a0f958d-8ec8-4a1f-8a9e-93d041c851fd.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1068B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Coupes en profil, 1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

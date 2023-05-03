@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/302.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/65cb9090-7d56-4e3c-babc-9c7efa550f3b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0302.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van het schiereiland Taouan",
+        "dc:description": "Titel catalogus Leupe (NA): Pascaert, waerin verthoont wort de gelegentheut van Tayouan enz..\nOp Japans papier.\nLegenda: A-L",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0302",
+        "dc:subject": [
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "38 x 96 cm",
+        "dcterms:date": "1625-1625",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6382/kaart-van-het-schiereiland-taouan"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/40/84/47/02/f3/a4/4b/2d/a6/22/1d/df/36/88/d4/d2/a9e17ba1-67d1-4d14-9030-e28c4fbac349.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/40/84/47/02/f3/a4/4b/2d/a6/22/1d/df/36/88/d4/d2/a9e17ba1-67d1-4d14-9030-e28c4fbac349.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/302.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Pascaert, waerin verthoont wort de gelegentheyt van Tayoan enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

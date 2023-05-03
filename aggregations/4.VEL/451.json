@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/451.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/04f1fbc1-5b1a-4718-b336-fa8d0929f0c4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0451.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Timor en omgeving",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Eilanden als voren, hiermee wordt bedoeld de titel van VEL0450: Kaart van de Eilanden Timor, Rotthe, Zouwa, Zomba of Zandelbos enz..\nNotities verso: Behoort by de overgekomen Brieven en papieren van Batavia 1734 2 deel (2 stuks), 1160 [folionummer in de band?], Overgekomen uit Batavia, 1734.\nDe kaart toont de eilanden Zomba ofte Zandelbos, Zouwa, Eijlandt Rothe, P. Lamau, Timor.\nOp de eilanden zijn de plaatsnamen, posten zoals Concordia en bergen De Berg Mathawean beschreven.\nRechts de schaalverdeling Duijtsche Mijlen 15 voor een Graad.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0451",
+        "dc:subject": [
+            "kompas / windroos",
+            "vesting",
+            "huis / woonhuis",
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "flora",
+            "gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "70 x 151 cm",
+        "dcterms:date": "ca. 1733",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5776/kaart-van-timor-en-omgeving"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/68/62/84/2f/84/92/44/ad/af/d9/bf/61/df/76/fc/21/660ce659-3ee7-4ab0-b971-01abaaa26563.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/68/62/84/2f/84/92/44/ad/af/d9/bf/61/df/76/fc/21/660ce659-3ee7-4ab0-b971-01abaaa26563.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/451.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Eilanden Timor, Rotth\u00e9, Zouwa, Zomba of Zandelbos enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

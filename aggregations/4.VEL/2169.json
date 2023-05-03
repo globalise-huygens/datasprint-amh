@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2169.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/9dd20272-e3c0-4c1d-8e10-3956ff6cd189",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2169.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Am\u00e9rique M\u00e9ridionale",
+        "dc:title": "Kaart van het Zuidelijk deel van Zuid Amerika",
+        "dc:description": "Kaart van het Zuidelijk deel van Zuid Amerika.\nAm\u00e9rique M\u00e9ridionale.\nTitel Catalogus Leupe (NA): Amerique M\u00e9ridionale.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL2169",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "Persoon",
+            "Europeanen"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "39 x 76 cm",
+        "dcterms:date": "1748",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7486/kaart-van-het-zuidelijk-deel-van-zuid-amerika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/27/c7/f1/2f/1d/78/4c/3b/93/69/5f/7a/06/d4/bc/0b/daf14645-3308-483c-88bd-414b3797484e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/27/c7/f1/2f/1d/78/4c/3b/93/69/5f/7a/06/d4/bc/0b/daf14645-3308-483c-88bd-414b3797484e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2169.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "\n                            Amerique M\u00e9ridionale\n                          "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

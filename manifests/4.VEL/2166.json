@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2166.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Cidade do Salvador, Bahia de todos os Sanctos etc. Desenho das Fortifica\u00e7oes estrincheiras etc, q se fizerao em deffen\u00e7a do Inimigo, Bateria do Inimigo Olandes etc."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2166"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1638"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/53c39167-79ae-40ec-8ff5-7aade0d43f3c\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2166.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2166.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6990,
+            "width": 16067,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2166.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2166.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/04/0b/33/ba/4c/cd/4b/bc/9e/26/a9/12/22/bc/35/13/9674f571-5082-42bb-a5cf-df3c46d0342b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6990,
+                                "width": 16067,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/04/0b/33/ba/4c/cd/4b/bc/9e/26/a9/12/22/bc/35/13/9674f571-5082-42bb-a5cf-df3c46d0342b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2166.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

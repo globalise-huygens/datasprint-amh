@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1837.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1a9df13a-76d3-47a3-8cf8-9f8691c682ea",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1837.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van enkele kavels gelegen nabij het Nieuw Amsterdam fort",
+        "dc:description": "Titel Leupe: Kaart van eenige landen, gelegen zoowel aan de Commewyne en Suriname, ter\nwederzijden van het fortres Nieuw Amsterdam..\nDeze kaart toont de ligging van enkele kavels gelegen aan beide oevers van de Commewijne rivier nabij het fort Amsterdam.\nDe landmeter P. Gardin heeft in opdracht van de Gouverneur-Generaal J.J. Mauricius de verdeling van land ten oosten (links op de kaart) van het fort weergegeven.\nDe kavels zijn grotendeels nog niet vrijgegeven en de meting dient om hun omvang en dus marktwaarde te bepalen.\nZes letters (A tot E) en vier nummers (23-26) binnen de kavels verwijzen naar een index die op de rechterhelft van de kaart is weergegeven.\nDeze index noemt de omvang en relatieve locatie van de kavels, een van deze (23) is aan de Gouverneur-Generaal geschonken en een ander dient ten generaale loosing der landen.\nDe grond ten oosten (links op de kaart) van deze kavels behoort tot Brugman Broer.\nBeide de Suriname en Commewijne rivier alsook het fort Nieuw Amsterdam en de nabijgelegen loosing plaats zijn weergegeven.\nOorsprong: OBP Suriname 1748 no. 64 La B [fols.] 363-364.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1837",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.32 - 0.21 El.",
+        "dcterms:date": "1748",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1975/kaart-van-enkele-kavels-gelegen-nabij-het-nieuw-amsterdam-fort"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/7f/d9/38/0a/b2/f6/4b/8c/98/5d/4e/bb/d5/56/2b/1f/92314ae8-9b78-4126-acfb-aef1ea9a5b70.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/7f/d9/38/0a/b2/f6/4b/8c/98/5d/4e/bb/d5/56/2b/1f/92314ae8-9b78-4126-acfb-aef1ea9a5b70.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1837.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen, gelegen zoowel aan de Commewyne en Suriname, ter wederzijden van het fortres Nieuw Amsterdam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/974.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d8f4f1b0-14aa-4b7d-a163-563af1908409",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0974.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Hoofdplan, Der verbeeteringen welke volgens de Bepaalingen Gemaakt door de Weledel gestrenge Heeren Vaillant, Verhuel en Grevesteyn [...]",
+        "dc:title": "Plan voor veranderingen aan het kasteel van Colombo",
+        "dc:description": "Titel catalogus Leupe (NA): Hoofdplan der verbeeteringen welke volgens de bepaalingen gemaakt door de H.H. Vaillant, Verhuel en Grevesteyn, Commissarissen-Militair enz., aan de vestingwerken des Casteels Colombo, dienden uitgevoerd te worden.\nNotities verso: No. 16A. Casteel van Colombo. Register 4, Deel 1, Folio 13, Portefeuille .. [geschreven op een blauw etiket] / No. 1 / 537 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0974",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "72,5 x 100,5 cm",
+        "dcterms:date": "ca. 1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/778/plan-voor-veranderingen-aan-het-kasteel-van-colombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cd/30/11/4f/57/51/46/c8/af/a2/68/31/8a/29/9e/0b/cd00895f-3ae6-4f34-9ed0-cec23f9b6147.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cd/30/11/4f/57/51/46/c8/af/a2/68/31/8a/29/9e/0b/cd00895f-3ae6-4f34-9ed0-cec23f9b6147.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/974.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Hoofdplan der verbeeteringen, welke volgens de bepaalingen gemaakt door de H.H. Vaillant, Verhuell en Greyvensteyn, Commissarissen-Militair enz., aan de vestingwerken des Casteels Colombo, dienden uitgevoerd te worden."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1071.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8831369f-dfa8-4a05-a2a8-33a688e4f41f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1071.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van de Vesting Gale",
+        "dc:title": "Plattegrond van het fort van Gale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van de Vesting Gale.\nOp de linkerhelft ongeveer in het midden staat in een ander handschrift: No. 6.\nNotities verso: No. 6 Gale / 585 [met vette cijfers gestempeld op etiketje].\nLegenda: 1-32",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1071",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "vesting",
+            "begraafplaats / kerkhof",
+            "legenda",
+            "kerk / pastorie"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "74 x 62,5 cm",
+        "dcterms:date": "1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3104/plattegrond-van-het-fort-van-gale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/27/d5/cd/70/5c/f4/4b/0c/a2/7c/ac/64/8f/1b/c9/26/705e7fbc-9235-4d48-a531-30bad932b2e9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/27/d5/cd/70/5c/f4/4b/0c/a2/7c/ac/64/8f/1b/c9/26/705e7fbc-9235-4d48-a531-30bad932b2e9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1071.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1449.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan van een gedeelte van de Willemstad met de nieuwe projectens en hoe ver wij met het leggen van het fundament in 't water tot heden geavanceerd zyn op den 6 Maart 1744."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1449"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1744"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/922ec67e-583b-4efe-a003-b9d8e5b33d14\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1449.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1449.json#canvas/p1",
+            "type": "Canvas",
+            "height": 3219,
+            "width": 5081,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1449.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1449.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/b0/bc/eb/30/58/aa/4e/2f/a9/9b/67/8b/7b/54/87/11/16532bb0-ff50-418c-9a1e-21a2077f5911.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3219,
+                                "width": 5081,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/b0/bc/eb/30/58/aa/4e/2f/a9/9b/67/8b/7b/54/87/11/16532bb0-ff50-418c-9a1e-21a2077f5911.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1449.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

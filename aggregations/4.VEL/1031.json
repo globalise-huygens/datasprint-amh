@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1031.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/867ef8b3-676f-4820-b09c-6dcadc475865",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1031.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van het fort Oostenburg.",
+        "dc:title": "Plattegrond van fort Oostenburg te Trinconomale",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van het fort Oostenburg.\nNotities verso: [Blauwetiket ODG] nr: 24 Plan van het fort Oostenburg 1768; nr. 28; [Gedrukt etiket] nr: 566.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1031",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50,5 x 72,6 cm",
+        "dcterms:date": "november 1786",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/587/plattegrond-van-fort-oostenburg-te-trinconomale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/89/e5/7b/cd/29/3c/4a/10/83/dc/fa/17/0d/7a/a1/02/7a376955-3233-43d3-bb4e-0ba01baa35fd.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/89/e5/7b/cd/29/3c/4a/10/83/dc/fa/17/0d/7a/a1/02/7a376955-3233-43d3-bb4e-0ba01baa35fd.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1031.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort Oostenburg."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

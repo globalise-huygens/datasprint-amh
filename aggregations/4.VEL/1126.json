@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1126.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d2d6d61f-b085-4e4e-8133-efe260333c19",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1126.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Landerijen te Saccam",
+        "dc:description": "Titel catalogus Leupe (NA): Caerte van de besayde velden aen Saccam.\nGerestaureerd, echter op de middenvouw weer ingescheurd.\nNotities verso: Caerte vande Besaeyde velden aen Saccan No. 8 / Behoort by het dagregister des kasteels Zeelandia op Formosa eindigende 8 aug. 1644 uit portefeuille 1644 no. III / 598 d / 427.\nDe tekening toont de in 1644 door gouverneur Francois Garon uitgevoerde verkaveling van rijst en suikerrietvelden, ten zuiden van fort Zeelandia op Formosa.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1126",
+        "dc:subject": [
+            "schip / vaartuig",
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "40,5 x 55,5 cm",
+        "dcterms:date": "1644",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/887/landerijen-te-saccam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1a/ec/36/ba/0c/be/4f/e3/9c/90/55/07/b8/78/f6/32/ddcb5ee0-55a7-44a7-b2f2-8e318c51881b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1a/ec/36/ba/0c/be/4f/e3/9c/90/55/07/b8/78/f6/32/ddcb5ee0-55a7-44a7-b2f2-8e318c51881b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1126.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caerte van de besayde velden aen Saccam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

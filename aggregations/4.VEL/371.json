@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/371.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/da3ebd8b-cd0f-432c-887f-33f2535aaa5a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0371.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de rivier van Banjermassin",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Rivieren Banyermassigh en Kaijoe Tanghin, tot boven de negorij Tatas op de Zuidkust van Borneo.\nDrie hoeken van de kaart zijn schuin afgesneden of afgeknipt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0371",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53,5 x 75 cm",
+        "dcterms:date": "1700-1720",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4248/kaart-van-de-rivier-van-banjermassin"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/68/97/8a/b5/07/fd/46/0c/b4/16/8b/0e/ab/fc/96/5a/775c848e-be82-4ad4-8841-79c9b1e13139.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/68/97/8a/b5/07/fd/46/0c/b4/16/8b/0e/ab/fc/96/5a/775c848e-be82-4ad4-8841-79c9b1e13139.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/371.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Rivieren Banyermassingh en Kaijoe Tanghin, tot boven de negorij Tatas op de Zuidkust van Borneo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

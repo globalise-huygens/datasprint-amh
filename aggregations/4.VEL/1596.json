@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1596.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1fd64679-d6fb-4a9c-89f2-1871ac6cefea",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1596.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title): Kaarte van een nieuwe grond genaamd Nieuwe Hoop, groot twee honderd vijftig akkers gelegen aan de Westwall van de Maripaam in Rio de Berbice. In eygendom synde aan de heer Johan Adolph Nietsch, tussen nog ongekoosen colonie gronden en de Plantagies Balks Vergenoegen booven en de Dankbaarheyet Beneden 1772.",
+        "dc:title": "Kaart van de plantage Nieuwe Hoop",
+        "dc:description": "Titel Leupe: Kaarte van de Nieuwe Grond, genaamd Nieuwe Hoop, gelegen aan de Westwal van de Maripaam in Rio de Berbice enz.\nKaart van de net vrijgegeven plantage Nieuwe Hoop, ten westen van de rivier Berbice.\nHet stuk grond blijkt 250 Surinaamse akkers te meten (oftewel 117,5 hectare).\nNabij de rivier Berbice liggen meerdere bossen met verschillende houtsoorten.\nAanliggend zijn twee nog te ontginnen gronden, verder naar het zuiden ligt de plantage Balks Vergenoegen en verder naar het noorden de plantage Dankbaarheijd.\nDe kaart is ondertekend op 24 Oktober 1772.\nHet noorden is onder\nSchaal van 300 Rijnlandse roeden = 162 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1596",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.25 - 0.62 El.",
+        "dcterms:date": "1772",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10263/kaart-van-de-plantage-nieuwe-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1c/3e/05/c5/7a/84/41/f9/b5/8a/fd/49/de/46/09/ea/4bf3f209-0cef-43bc-949c-644e4593365c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1c/3e/05/c5/7a/84/41/f9/b5/8a/fd/49/de/46/09/ea/4bf3f209-0cef-43bc-949c-644e4593365c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1596.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaarte van de Nieuwe Grond, genaamd Nieuwe Hoop, gelegen aan de Westwal van de Maripaam in Rio de Berbice enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

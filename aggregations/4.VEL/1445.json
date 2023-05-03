@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1445.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/715da11d-2f8b-4347-93fb-0745fa60135e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1445.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [upper right] a key to the letters A to X : \nA. het Fort Amsterdam. \nB. de Willemstad. \nC. Lage Batterij of Waterfort. \nD. Gouvernement. \nE. Poort van \u02bct Fort. \nF. de kerk. \nG. de katte. \nH. kruit magazijntjes. \nI. Bastion Vlagge stok. \nK. [Bastion] nieuwe Batterij. \nL. [Bastion] de klok. \nM. [Bastion] de katte. \nN. [Bastion] oragne. \nO. [Bastion] Bloetfort. \nP. [Bastion] schrikkenburg. \nQ. stads poort bij de waag. \nR. steene pads Poort. \nS. kerkhoff of Begraafplaatze. \nT. Project, van den Heere Directeur Generaal Hertell, tot versterkinge van de stad en Fort te zamen, overgezonden in den jare 1743. \nV. Project, mede tot versterkinge van de stad en Fort te zamen, volgens het welke de gronden buiten steene Pads Poort worden binnen gelegt. \nW. ingeslotene gronden tot betimmeringe van Huizen. \nX. Bastion Bloetfort en schrikkenburg met de tusschen leggende Courtine te Demolieeren. \n[upper left] a note : \nOvergezonden bij missive van de ingenieurs den 14 junij 1746.",
+        "dc:title": "Projectplan voor uitbreiding van fort Amsterdam",
+        "dc:description": "Titel Leupe: Plan van het fort Amsterdam en de Willemstad op het Eiland Cura\u00e7ao.\nIn 1745 werd door directeur Faesch en de lokale notabele Willem Meijer, majoor van de burgermilitie, een nieuw plan voor de versterking en uitbreiding van Willemstad opgesteld, waarbij de vestingwal veel verder naar het oosten zou worden verlegd. Die ruimere opzet was een idee van Meijer, die ook wel voor de uitvoering wilde tekenen, op voorwaarde dat hem de grond van de nieuwe uitbreiding in eigendom werd gegeven en hij deze als particulier zou mogen bebouwen en verkopen. Deze algemene projectkaart daarvan werd in juni 1746 door \u2018de Ingenieurs\u2019 overgezonden naar de Republiek.\nHet noorden is boven.\nSchaalstok van 40 Rijnlandsche Roeden = [ca. 1 : 990].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1445",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "47 x 86,5 cm.",
+        "dcterms:date": "1746",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1603/projectplan-voor-uitbreiding-van-fort-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/63/23/93/54/fb/e6/48/64/81/56/1e/7d/7d/90/29/c2/58b3470c-f37d-4b9a-a13f-1be2d4ea2356.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/63/23/93/54/fb/e6/48/64/81/56/1e/7d/7d/90/29/c2/58b3470c-f37d-4b9a-a13f-1be2d4ea2356.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1445.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

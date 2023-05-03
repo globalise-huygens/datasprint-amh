@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2036.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/18f72aa1-8f30-4f48-ae9d-f3a96bd935ed",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2036.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Ontwerp voor een regenbak voor fort Nieuw Amsterdam",
+        "dc:description": "Titel Leupe: Plan van een regenbak in het fortres Nieuw Amsterdam.\nDeze kaart geeft in details het ontwerp van een regenbak van het fort Nieuw-Amsterdam weer. Het fundament, de vloering en de bak zelf zijn allen getekend, samen met een profiel. De bak was bedoeld voor de rechtervleugel van de barakken. Het ontwerp werd door een 'getrouwe dienaar van de soci\u00ebteit' gemaakt in een stadium van de herbouw van het fort waarin delen van het oorspronkelijk ontwerp door Pierre-Dominique Desmarestz en Dirk Hendrik de Wit niet aan de verwachtingen bleken te voldoen. Het regenseizoen in het bijzonder bleek een factor van belang , aangezien 'in deese gewesten gemeenlijk aght maanden in \u2019t jaar sonder ophouden reegent.'\nEind 1733 werd door de Staten-Generaal een overeenkomst tussen de Soci\u00ebteit van Suriname en de vertegenwoordigers van de kolonisten bekrachtigd tot het versterken van de verdediging van Suriname. Dit ontwerp voor fort Nieuw Amsterdam werd vermoedelijk kort hierop gemaakt. De daadwerkelijke bouw begon in 1736, bleek aanzienlijk moeilijker en bewerkelijker dan voorzien, en werd pas in 1747 voltooid. Ook daarna bleef het fort altijd problematisch in onderhoud en verdediging. (Zie voor meer details de titels onder 'documentatie', in het bijzonder die van Temminck Groll.)\nSchaal van 40 Rijnlandse voeten = 128 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2036",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.67 = 0.38 El.",
+        "dcterms:date": "ca. 1743",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2022/ontwerp-voor-een-regenbak-voor-fort-nieuw-amsterdam"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/97/fb/0f/b7/47/67/41/b1/94/69/da/18/7f/50/06/c9/295dda06-dbd0-4a02-95f5-8f9a8195bff4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/97/fb/0f/b7/47/67/41/b1/94/69/da/18/7f/50/06/c9/295dda06-dbd0-4a02-95f5-8f9a8195bff4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2036.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van een regenbak in het fortres Nieuw Amsterdam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

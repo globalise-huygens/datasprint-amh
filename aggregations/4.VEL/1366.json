@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1366.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b8081bcc-cd32-447f-bc14-ea43d4b73386",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1366.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Lontoir",
+        "dc:title": "Fort Hollandia op Lonthor",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van Lonthor met het fort Hollandia enz..\nRechts boven genummerd: 26.d.\nDe randen zijn gerafeld.\nNotities verso: 664 r / 31 [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1366",
+        "dc:subject": [
+            "legenda",
+            "rede / haven / pier",
+            "kompas / windroos",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 75 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5332/fort-hollandia-op-lonthor"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d0/02/da/11/43/9c/4e/1a/8c/cc/a8/f8/1c/11/2b/de/b6fcd087-d206-455f-9bd3-20f0cd9e06df.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d0/02/da/11/43/9c/4e/1a/8c/cc/a8/f8/1c/11/2b/de/b6fcd087-d206-455f-9bd3-20f0cd9e06df.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1366.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Lonthor met het fort Hollandia enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

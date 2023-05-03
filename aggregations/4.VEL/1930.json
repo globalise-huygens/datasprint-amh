@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1930.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e706237f-3d95-402f-95f9-38a224c83b1b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1930.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de grond van Jan de Marees",
+        "dc:description": "Titel Leupe: Kaart van een stuk land, gelegen tusschen Bleyenhoop en Roosendaal.\nDeze kaart toont het land van Jan de Marees (C-H) ten noorden van de Cotticarivier.\nJan de Marees heeft dit stuk grond verworven op 15 Oktober 1733.\nHet stuk grond blijkt 611 Surinaamse akkers (262,7 hectare) te meten.\nTen zuiden (rechts op de kaart) ligt de plantage Roosendaal.\nDe kaart is ondertekend op 6 Maart 1734 en erkend op 18 December 1734 in Paramaribo.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 135 strepen.\nOorsprong: [OBP Suriname] 1736 [fols.] 1219-1220.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1930",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "huis / woonhuis"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.42 - 0.27 El.",
+        "dcterms:date": "1734",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10061/kaart-van-de-grond-van-jan-de-marees"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d0/35/05/6c/de/ae/49/e9/ae/bc/e4/87/b8/05/ec/57/ebc269fa-f6bb-46a0-9000-b166b902eb93.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d0/35/05/6c/de/ae/49/e9/ae/bc/e4/87/b8/05/ec/57/ebc269fa-f6bb-46a0-9000-b166b902eb93.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1930.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van een stuk land, gelegen tusschen Bleyenhoop en Roosendaal."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

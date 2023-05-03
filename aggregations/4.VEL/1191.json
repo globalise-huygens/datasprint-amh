@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1191.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/91eb6ef3-ff6b-47c4-b3bf-a4fbe6e94015",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1191.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plattegrondtekening der vestingwerken van de stad en 't kasteel Batavia [enz.]",
+        "dc:title": "Plattegrond van het kasteel en de stad Batavia",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grondteekening der vestingwerken van de stad en Kasteel Batavia, benevens daar volgende batteryen.\nDe naam van de kopieerder Heymerd van Breda is bijgeschreven.\nStempeltje: Depot des Cart. Pl. et Journ. de la Marine.\nNotities verso: 619 [met vette cijfers gestempeld op een etiketje]  / (1788) [in potlood] / III [in potlood, schuin onder 1788] / No. 196 / no. 7 Reg 2 Fol 4.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1191",
+        "dc:subject": [
+            "vesting",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "101,5 x 173 cm",
+        "dcterms:date": "ca. 1788",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/467/plattegrond-van-het-kasteel-en-de-stad-batavia"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/fb/d1/99/f9/0a/62/42/8f/92/50/0e/c3/6a/09/12/c2/c0ecf092-a53e-437a-98fa-f77973150161.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/fb/d1/99/f9/0a/62/42/8f/92/50/0e/c3/6a/09/12/c2/c0ecf092-a53e-437a-98fa-f77973150161.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1191.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grondteekening der vestingwerken van de stad en Kasteel Batavia, benevens daar volgende batterye"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/801.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/e9884e1c-2c4a-4f5b-a0aa-2f8de3237ea4",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0801.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Gezicht op de Tafelbaai",
+        "dc:description": "Titel catalogus Leupe (NA): Affteyckening van de Taeffelbay so men in 't fort staet met aenwysinge van de Vlacke landeryen, seer schone weyden ende boulanden, synde voor d'Generale Nederl. Geoctr. Oost-Indische Comp. in possessie genomen, by Jan van Riebeeck, door last van d'Ed. Heeren Bewinth de gem. Comp., gesticht het fort de Goede Hoop.\nLangs de randen is een strook Japans papier geplakt.\nOp Japansch papier, met aanteekeningen.\nLegenda op kaart, a-m.\nOvergekomen van Kaap de Goede Hoop, 1653.\nNotities verso: Tafelbaay 1e boek brieven en pap. Kaap 1653, No. 12 [volgnummer van het stuk in de band ?], 498 b.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0801",
+        "dc:subject": [
+            "gebouw",
+            "vesting",
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "39 x 48,5 cm",
+        "dcterms:date": "1652",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/403/gezicht-op-de-tafelbaai"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ba/87/7f/98/6a/53/4d/43/ab/73/8f/9d/2f/54/d8/14/19567dc5-a613-4857-a5a4-2e74f981e04e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ba/87/7f/98/6a/53/4d/43/ab/73/8f/9d/2f/54/d8/14/19567dc5-a613-4857-a5a4-2e74f981e04e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/801.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Affteyckeningh van de Taeffelbay so men in 't fort state met aenwysinge van de Vlacke landeryen, seer schone weyden ende boulanden, synde voor d'Generale Nederl. Geoctr.Oost-Indische Comp. In possessie genomen.by Jan van Riebeeck, door last van d'Ed. Heeren Bewinth de gem. Comp., gesticht het fort de Goede Hoop."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

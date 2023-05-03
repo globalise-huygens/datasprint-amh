@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1213.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7ccd2fde-74ce-4f53-bb19-6d940a44e2d6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1213.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van 't Fortje gen.t Diere geleegen aen de mond van de Wester Revier",
+        "dc:title": "Plattegrond van het fortje Dieren",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van 't Fortje genaamd Dieren gelegen aan den mond van de Wester-Revier\nNotities verso: No. 2.b. [twee keer].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1213",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "vesting",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "36,5 x 52 cm",
+        "dcterms:date": "ca. 1762",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1466/plattegrond-van-het-fortje-dieren"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/49/4f/2a/f9/78/a5/41/b2/81/48/e6/21/c0/84/80/3a/51aa2a46-603a-4a0b-b5e9-da5f3c6f1da4.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/49/4f/2a/f9/78/a5/41/b2/81/48/e6/21/c0/84/80/3a/51aa2a46-603a-4a0b-b5e9-da5f3c6f1da4.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1213.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van 't fortje genaamd Dieren, gelegen aan den mond van de Wester-Rivier."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

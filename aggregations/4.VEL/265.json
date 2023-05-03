@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/265.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/80f7777f-e92a-4160-905e-c6605e7f1bce",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0265.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Thailand en Cambodja",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Golf van Siam, Cambodja enz., van Cabo de Patany tot de Bokshoornen.\nNotities verso: 45 [met potlood in rechterbovenhoek] / Ryks-Archief 's Gravenhage [stempeltje].\nBij de stad Ponomping (Phnom Penh) staat de aanwezigheid van de 'Hollantse Logie' vermeld.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0265",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52,5 x 73,5 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4416/kaart-van-thailand-en-cambodja"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/62/ca/15/a8/48/98/44/bd/b6/63/56/10/8b/88/a2/90/a8094ccc-77a9-4ca7-8dcf-64ffc35f1d8f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/62/ca/15/a8/48/98/44/bd/b6/63/56/10/8b/88/a2/90/a8094ccc-77a9-4ca7-8dcf-64ffc35f1d8f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/265.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Golf van Siam, Cambodia enz. van Cabo de Patany tot de Bokshoornen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

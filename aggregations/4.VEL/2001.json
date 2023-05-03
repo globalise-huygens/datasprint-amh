@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2001.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/52529647-6dd2-43a0-9c71-d5601b3d9dd1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2001.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(a key to the letters A to F and a, B, C, below)\n:Renvoij. \nIn Comewijne. \nA:B: face van 165 Kett: Surin:s voor vier nieuwe Gronden. \nB:C: 35 Kett: \nC:D: Terreijn onder de Battereij of tot Een glacis dienende. \nE: Een facit van 60 Kett: uijt maekende 500 Akkers. \nF. Een facit van 30 Kett: uijt maekende 250 akkers. \nIn Surinaeme. \na:B Face van 180 Kett. Surin:s voor Ses nieuwe gronden. \nB:C: 35 Kett:",
+        "dc:title": "Kaart van batterijen bij de monding van de rivieren Suriname en Commewijne",
+        "dc:description": "Titel Leupe: Caart van de Mond enz., gedeeltelijke Cours van de rivier Suriname enz., Commewyne, als meede de situatie van 't fortresse Nieuw-Amsterdam. Redoute Purmerende en de geprojecteerde Battery D., 't fort Zeelandia enz., Paramaribo.\nDeze anonieme overzichtskaart van het gehele mondingsgebied vanaf Paramaribo stroomafwaarts dateert vermoedelijk van 1755, toen Purmerend al klaar was en de werkzaamheden aan Leiden (D) pas waren begonnen. Het brede inschrift iets onder het midden vermeldt dat het bos tot de daar getekende zandrits in 1754 was afgebrand.\nBehalve de beide redoutes zijn aan beide oevers van de Commewijne bij Fort Amsterdam nieuw uit te geven gronden ingetekend, evenals op de westoever van de Suriname tussen Zeelandia en Purmerend, welke laatste gezien de schootslijnen door de maker kennelijk ook werden voorgesteld als mogelijke locaties voor extra batterijen. Deze zijn in werkelijkheid nooit geplaatst.\nSchaalstok van 300 Kett:s Rhijnlandsche = [ca. 1 : 54.000].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2001",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.50 - 0.38 El. (55 x 43 cm.)",
+        "dcterms:date": "ca. 1755",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1988/kaart-van-batterijen-bij-de-monding-van-de-rivieren-suriname-en"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cf/de/31/65/a2/be/49/96/b9/ca/49/e0/98/0f/0d/d9/75aeef99-0848-4fd6-ae05-db45f67095b7.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cf/de/31/65/a2/be/49/96/b9/ca/49/e0/98/0f/0d/d9/75aeef99-0848-4fd6-ae05-db45f67095b7.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2001.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Caart van de Mond enz., gedeeltelijke Cours van de rivier Suriname enz., Commewyne, als meede de situatie van 't fortresse Nieuw-Amsterdam. Redoute Purmerende en de geprojecteerde Battery D., 't fort Zeelandia enz., Paramaribo."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1107.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0c6a24c1-60e8-4195-8947-ec183aacca7a",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1107.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "De zogenaamde Haspel van Pouchon",
+        "dc:title": "Tekening van een haspelmachine te Bengalen",
+        "dc:description": "Titel catalogus Leupe (NA): Teekening van eene Machine, tot het afhaspelen der zyde; de zoo genaamde haspel van Pouchon.\nRechtsboven genummerd 148, vermoedelijk het folionummer in de band.\nNotities verso: uit overgekomen papieren van Bengalen 1775 N 6], No. 6_ [volgnummer van het stuk in de band ?].\nAfbeelding van persoon aan machine.\nLinks de verklaring van de onderdelen.\nRechtsboven de tekst De zogenaamde Haspel van Pouchon.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1107",
+        "dc:subject": [
+            "doorsnede / profiel",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "Persoon",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "32,5 x 40,5 cm",
+        "dcterms:date": "1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9277/tekening-van-een-haspelmachine-te-bengalen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c0/e2/5b/c4/f5/19/46/0c/b1/5f/aa/5b/44/80/0d/5a/9eb67ef1-ecde-4ab8-b2d6-1cfe907b009a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c0/e2/5b/c4/f5/19/46/0c/b1/5f/aa/5b/44/80/0d/5a/9eb67ef1-ecde-4ab8-b2d6-1cfe907b009a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1107.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Teekening van eene Machine, tot het afhaspelen der zyde; de zoo genaamde haspel van Pouchon."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1834.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/634008d8-611a-41f0-9296-3dd3ef0e0a98",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1834.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van enkele plantages gelegen aan de Commetewane Kreek en het Hoer Helena Kanaal",
+        "dc:description": "Titel Leupe: Kaart van eenige Plantagien, gelegen aan de Orellana Kreek, aan de linkerhand in het opvaren.\nDeze kaart toont de exacte ligging van enkele plantages voorzien van eigennamen, gelegen aan de oevers van de Commewijne rivier en de Orellana Kreek (Hoer Helena Kreek)\nSchaal van 50 Kettingen a\u0300 66 Rijnlandse voeten.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1834",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "huis / woonhuis",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.33 - 0.20 El.",
+        "dcterms:date": "1746",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9914/kaart-van-enkele-plantages-gelegen-aan-de-commetewane-kreek-en-het"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4e/bd/c8/ca/1c/54/44/cf/93/53/01/ed/0b/6e/0f/63/606b43f5-1490-400f-939a-b389791f9928.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4e/bd/c8/ca/1c/54/44/cf/93/53/01/ed/0b/6e/0f/63/606b43f5-1490-400f-939a-b389791f9928.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1834.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige Plantagien, gelegen aan de Orellana Kreek, aande linkerhand in het opvaren."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

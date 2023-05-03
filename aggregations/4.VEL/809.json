@@ -1,0 +1,55 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/809.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6862dc02-026a-4c40-a080-20e538252039",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0809.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Kaap",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Kaap en de landeryen tot aan het France quartier enz..\nNotities verso: A. A. nr. 5b, verso nr. 498 2.\nLegenda: a-g; 1-12\nTopografische namen aangeduid op deze kaart: Tafel Bay, redout Keerdekol, Houtbay.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0809",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "vesting",
+            "landerij / plantage",
+            "begraafplaats / kerkhof",
+            "rede / haven / pier",
+            "kompas / windroos",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "520 x 730 mm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2585/kaart-van-de-kaap"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/4b/bb/05/e9/02/b7/4a/17/b2/dc/a3/8e/07/9d/34/bc/550fcb91-912b-46cb-b702-cd15450ddbbc.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/4b/bb/05/e9/02/b7/4a/17/b2/dc/a3/8e/07/9d/34/bc/550fcb91-912b-46cb-b702-cd15450ddbbc.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/809.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Kaap de landeryen tot aan het France quartier enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

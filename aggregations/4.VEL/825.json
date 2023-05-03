@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/825.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/10ca6b2c-623c-4a7a-917a-cee9b7e330ee",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0825.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Compagnies Fort de goede Hoope ende Huijsingen daerbinnen",
+        "dc:title": "Plan van fort de Goede Hoop, met het begonnen nieuwe project voor een vijfhoek",
+        "dc:description": "Titel in catalogus Leupe (NA): Plan van fort de Goede Hoop, met het begonnen nieuwe project voor een Vyfhoek, aanleg van de Stad enz..\nLegenda: A-Z, a-h\nDe volgende straatnamen staan aangegeven op de kaart: Olifant-, Reijger en Heerestraat.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0825",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "landerij / plantage",
+            "ziekenhuis / lazaret",
+            "tuin / siertuin",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "1023 x 767 mm",
+        "dcterms:date": "ca. 1665",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/373/plan-van-fort-de-goede-hoop-met-het-begonnen-nieuwe-project-voor-een"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/94/42/f1/f7/5e/70/46/d3/92/c8/71/89/37/53/1a/d9/a758f7ab-ea5c-4dcd-a3c5-c71bbd042c97.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/94/42/f1/f7/5e/70/46/d3/92/c8/71/89/37/53/1a/d9/a758f7ab-ea5c-4dcd-a3c5-c71bbd042c97.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/825.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het fort de Goede Hoop, met het begonnen nieuwe project voor Vyfhoek, aanleg van de Stad enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

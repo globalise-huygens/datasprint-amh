@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2097.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/fa77faa8-92a5-492c-a4b6-22a7044deb1f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2097.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsmidden] een aantekening : \nExplanations: [centre right] a note : \nNB. De Postens, soo met sterke Lijnen omtrocken, sijn gepalisadeerd, en d\u2019andere niet. \n\u2019t padt is hier meede op 5 kett. breed genomen, als in de Kaert van Situatie, laetst oover gestuurd, daer\u2019t in natura maer 1 kett. breed is.",
+        "dc:title": "Kaart van het Cordon van Defensie, Plan I van de Jodensavanne tot Marquette",
+        "dc:description": "Titel Leupe: Kaarten van het Cordon van Defentie. Plan I. Van de Ioden Savane in de rivier Suriname tot de Post Marquette.\nVanaf het midden van de 18de eeuw groeiden de Marrons, ontsnapte slaafgemaakten die in de binnenlanden van Suriname nieuwe gemeenschappen vormden, uit tot steeds geduchtere tegenstanders. Nadat ze zich verenigd hadden onder leiding van de befaamde Boni, naar wie zij zich later ook gingen noemen, kwam het in 1771 uiteindelijk tot een grote oorlog, die bekend is geworden als de (eerste) Boni-oorlog. Deze eindigde in 1776 met de verdrijving van de Boni naar Frans-Guyana. Tussen 1774 en 1778 legde de koloniale overheid in de strijd tegen Boni het bijna 100 kilometer lange Cordon van Defensie of Cordonpad aan. De eerste ontwerpen en opmetingen voor deze doorgaande patrouilleweg met op geregelde afstanden militaire posten kwamen al in 1772 tot stand, maar op grotere schaal begonnen de voorbereidende werkzaamheden in het jaar daarop, met daarin een hoofdrol voor de militair ingenieurs Johan Christoph Heneman en Johann Friedrich Ferdinand Wollant.\nWollants serie werd vrijwel zeker in 1774 gemaakt, nadat het definitieve besluit tot de aanleg was genomen en voordat Wollant later dat jaar assistent-posthouder werd geplaatst in Antoe-plantage, in het zuidoosten van de kolonie. De volgorde van de afzonderlijke bladen is van zuidwest naar noordoost, dus van de Joden Savanne en de post Gelderland aan de Surinamerivier naar de geprojecteerde post Uitkijk aan de zeekust. De deelkaarten sluiten steeds direct op elkaar aan, met de aantekening echter dat niet alle kaarten op dezelfde schaal getekend zijn. Dit blad toont de nederzettingen, kreken en bossen aan het cordon gelegen tussen de Joden Savanne en Marquette post.\nHet noorden is onder.\nSchaalstokken van 200 Kettingen Rhijnl. \u00e0 66 voet = [ca. 1 : 32.000] / [profiel] 50 Voet = [ca. 1 : 140].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2097",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "54,5 x 76 cm.",
+        "dcterms:date": "ca. 1774",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9854/kaart-van-het-cordon-van-defensie-plan-i-van-de-jodensavanne-tot"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1e/c4/00/d5/1c/8e/4f/8e/9d/1b/a5/e9/95/0e/28/0a/ef22a6ef-2192-4e86-9161-8b32b4745f31.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1e/c4/00/d5/1c/8e/4f/8e/9d/1b/a5/e9/95/0e/28/0a/ef22a6ef-2192-4e86-9161-8b32b4745f31.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2097.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

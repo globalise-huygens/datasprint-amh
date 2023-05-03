@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/315.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/034d37af-1ea9-449c-b4e9-0f805742467c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0315.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de zuidkust van Afrika en Sumatra",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Indische Zee, tusschen de Kaap de Goede Hoop, Java en Sumatra om de Noord, en Nieuw-Holland om de Oost.\nDe kaart heeft rechtsboven en rechtsonder rondingen.\nOp deze kaart komt een bestek voor van de Kaap tot Java, en van daar tot op 19 graden noorderbreedte.\nTevens is een reisschema aangeduid, vertrek van de Kaap op 28 juni 1741 tot aankomst bij Java in augustus. Waarschijnlijk is dit reisschema later op de kaart bijgeschreven.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0315",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "perkament",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "70,5 x 93 cm",
+        "dcterms:date": "1739",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2706/kaart-van-de-zuidkust-van-afrika-en-sumatra"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d9/24/e2/54/5b/25/4d/06/8d/5a/3b/80/74/6e/59/f9/886f54da-3a92-4a9e-b21e-30b7b4c0cefd.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d9/24/e2/54/5b/25/4d/06/8d/5a/3b/80/74/6e/59/f9/886f54da-3a92-4a9e-b21e-30b7b4c0cefd.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/315.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Indische Zee, tusschen de Kaap de Goede Hoop, Java en Sumatra om de Noord, en Nieuw-Holland om de Oost."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

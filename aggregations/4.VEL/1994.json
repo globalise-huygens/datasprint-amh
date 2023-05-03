@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1994.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3ebcbcba-68d7-49d2-a4dc-f6cf22f7c34b",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1994.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Een legenda bij de nummers 1 t/m 3 en de letters A t/m F., boven); Explicatie van Onderstaande Figuren. \nFiguren 1. en 2. Stellen twee Batterijen voor, waerop men 18 \u00e0 24 Stuks Canonen kan planten. \nFiguur 3. Is het Provil door de Linie G. en H. om te Sien, hoe de Batterijen gesitueerd sijn, op Figuur 1. en 2. \nA: en B: Stellen twalf Baraquen voor, onder Een Dak, welke van Pallisaaden opgebouwt, en met Pinnen gedekt kunnen worden, waervan twee tot Waater huijzen kunnen gebruijkt worden. \nC: en D: Sijn twee Wooningen voor de Officieren, kunnen des noods zijnde, met Planken beslaegen en met Pinnen gedekt worden. \nE: en F: Stellen twee Magazijnen voor, de eene voor Vivres en andere Materialien, en de tweede, om het Polver daerinne te kunnen bergen en ook met Planken beslaegen en met Zingels gedekt worden, om deese Magazijne sijn kleene Trensen met een Dam daerom van nooden, om den vrijen Toegang Eenig Sins te beletten. \nVerders sijn deese Batterijen omzingelt met Een Trenss en Dam, om de Binne Waateren te kunnen loosen.",
+        "dc:title": "Plan voor batterijen aan de monding van de rivier Saramacca",
+        "dc:description": "Titel Leupe: Plan van Batteryen aan de Rivieren Sarameca en Coppename op te werpen.\nDit is een ontwerp voor eenvoudige batterijen die tegen relatief geringe kosten geplaatst konden worden. Volgens de beschrijving van P.A. Leupe werd het gemaakt door Abraham Dircks, directeur-generaal der fortificati\u00ebn en gebouwen in de jaren 1766-1772.\nAan de verdediging van het mondingsgebied van de Saramacca tegen een buitenlandse vijand werd al in de jaren zestig van de achttiende eeuw aandacht besteed, met het oog op de mogelijkheid dat een landingsmacht in kleine vaartuigen de kolonie langs deze \u2018achterdeur\u2019 zou kunnen binnendringen.\nDe daadwerkelijke eerste versterking van de Saramacca vond pas plaats na 1790, toen hier de uitgifte van plantagegronden op gang kwam.\nHet bereik van de kanonnen is met rechte lijnen aangegeven.\nHet noorden is niet aangegeven.\nProfiel langs de lijn HG.\nSchaalstokken van 50 Roeden Rhijnlands = [ca. 1 : 1.340] / [profiel] 10 Roeden Rhynlands = [ca. 1 : 215].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1994",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "rivier",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.43 - 0.28 El.",
+        "dcterms:date": "1766-1772",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10105/plan-voor-batterijen-aan-de-monding-van-de-rivier-saramacca"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/61/90/e2/65/9e/e3/49/63/a9/5a/66/c0/47/d2/b3/71/8a8e3bee-c0da-4fea-bd42-5da725c06565.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/61/90/e2/65/9e/e3/49/63/a9/5a/66/c0/47/d2/b3/71/8a8e3bee-c0da-4fea-bd42-5da725c06565.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1994.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van Batteryen aan de Rivieren Sarameca en Coppename op te werpen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

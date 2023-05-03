@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1262.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van Samarang en omstreken. Benevens aanwysing van 's Comp.s Leger en 's vyands vlugt. Gecommandeert en chef door commandant Gerrit Non. Anno 1741."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1262"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1741"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/74d692ea-a59e-4b0a-b1cb-68cf8471327e\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1262.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1262.json#canvas/p1",
+            "type": "Canvas",
+            "height": 10172,
+            "width": 11769,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1262.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1262.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/2a/12/73/f1/75/97/4d/d5/b4/ea/1a/4f/4a/de/eb/65/c05b6338-2b98-4c91-ada6-d8ed7c2377dc.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 10172,
+                                "width": 11769,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/2a/12/73/f1/75/97/4d/d5/b4/ea/1a/4f/4a/de/eb/65/c05b6338-2b98-4c91-ada6-d8ed7c2377dc.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1262.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

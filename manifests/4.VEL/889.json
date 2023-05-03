@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/889.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Grondteekening van Fortresse Cananoor, leggende ongeveer 36 mylen benoorden de Hoofdstad Cochim, ter Custe Malabaar op een Steenrots enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "889"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1696"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/4761405d-b58d-4378-844e-1615434f5737\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/889.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/889.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6168,
+            "width": 8788,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/889.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/889.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/9d/dc/06/59/9b/e8/4e/d2/9f/fb/c1/9c/66/e1/85/ea/8eacd98b-29f4-4825-80fe-9c748d5d1525.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6168,
+                                "width": 8788,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/9d/dc/06/59/9b/e8/4e/d2/9f/fb/c1/9c/66/e1/85/ea/8eacd98b-29f4-4825-80fe-9c748d5d1525.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/889.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

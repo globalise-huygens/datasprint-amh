@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1817.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/8e422086-ae87-4a99-8f82-fed47a37dba0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1817.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van plantages gelegen aan de oever van de Rivier Commewijne",
+        "dc:description": "Titel Leupe: Kaart van de Plantagien aan de beneden Commewyne en een gedeelte der Hoer Helina Creeq.\nDeze kaart toont de ligging van enkele plantages gelegen aan de oever van de Rivier Commewijne en de Hoer Helena Kreek.\nDe oppervlakte van de plantages is aangegeven in Surinaamse akkers (0,43 hectare per Surinaamse akker).\nOorsprong: [OBP Suriname] 1736 [fol.] 384.\nSchaal van 200 Kettingen a\u0300 66 Rijnlandse voeten = 200 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1817",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.54 - 0.84 El.",
+        "dcterms:date": "18de eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9906/kaart-van-plantages-gelegen-aan-de-oever-van-de-rivier-commewijne"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/f5/0d/d0/76/41/80/47/5e/ac/e9/84/cf/5a/e1/ca/47/1cfd671a-9bb6-4d7e-a00d-d34c353514c2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/f5/0d/d0/76/41/80/47/5e/ac/e9/84/cf/5a/e1/ca/47/1cfd671a-9bb6-4d7e-a00d-d34c353514c2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1817.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Plantagien aan de beneden Commewyne en een gedeelte der Hoer Helina Creeq, tusschen de Plantagie van Mevr. Dubbe en de Nieuwe fortres Amsterdam."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

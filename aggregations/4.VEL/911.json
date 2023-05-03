@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/911.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ce4385ea-cd83-4533-b03c-6f92abc7db71",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0911.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "'t Eiland Waipin",
+        "dc:title": "Kaart van het eiland Waipin",
+        "dc:description": "Titel catalogus Leupe (NA): Situatieteekening van het Eyland Waipin\nNotities verso: Behoort by Papieren van Malabar Litera ... N266 11 augustus 1793 overgekomen 1795 Zie ... 602 [in potlood] / No. 14..\nLegenda: a-b",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0911",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "33 x 55 cm",
+        "dcterms:date": "ca. 1793",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6483/kaart-van-het-eiland-waipin"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ad/da/76/98/de/7b/43/d0/88/89/ae/3a/b9/d5/ba/58/fcd16f89-96e8-4d43-8933-ab14df81c0a6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ad/da/76/98/de/7b/43/d0/88/89/ae/3a/b9/d5/ba/58/fcd16f89-96e8-4d43-8933-ab14df81c0a6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/911.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

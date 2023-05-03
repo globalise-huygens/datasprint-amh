@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/810.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f03e4b5c-4880-47e6-bca8-a03b4fe6c2a3",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0810.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart met landverdelingen rondom Kaap de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de verdeeling in vier gedeelten van het land Verlegen.\nDe kaart verkeert in een zeer slechte materi\u00eble staat, met veel bruine vochtplekken en gaten.\nNotities verso: Kaap overgekomen 1709, No. 30 [volgnummer van het stuk in de band ?].\nOnderin schaalverdeling Schaal van 100 Reijnlands Roede.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0810",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "flora"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "73,5 x 179 cm",
+        "dcterms:date": "ca. 1708",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2739/kaart-met-landverdelingen-rondom-kaap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/75/63/3e/04/cf/26/47/f8/ae/08/06/fb/41/51/1d/a9/63ae5db5-0f8a-4731-85b0-7eebb4a4a64d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/75/63/3e/04/cf/26/47/f8/ae/08/06/fb/41/51/1d/a9/63ae5db5-0f8a-4731-85b0-7eebb4a4a64d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/810.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de verdeeling in vier gedeelten van het land Vergelegen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

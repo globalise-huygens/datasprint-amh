@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/832.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/62d44d0b-ea33-41c6-8003-c8b1a79a9205",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0832.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Schale van seventig Rijnlandtse voeten hebben dese bovenstaande profil in de voetmaat gebrogt om des te beter het werk te kunnen zien",
+        "dc:title": "Plan voor de versterking van fort de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Plan ter versterking van fortres de Goede Hoop.\nRechtsboven: N:o 15.\nIn de marge: 2e Caap 1720 overgekomen fol. 791.\nGerestaureerd op linnen.\nDoor Leupe toegeschreven aan Cochius of Cochenius.\nTerm genoemd op de kaart: ravelijn.\nPunten genoemd op de kaart: punt  Buuren, Cattenelleboge.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0832",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "doorsnede / profiel"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier / linnen",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "47 x 75 cm",
+        "dcterms:date": "ca. 1720",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/354/plan-voor-de-versterking-van-fort-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b1/40/f8/02/78/f6/49/0b/b2/5a/74/ce/f1/3c/63/e8/9563e192-f312-4c81-9d76-d828a825c6e6.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b1/40/f8/02/78/f6/49/0b/b2/5a/74/ce/f1/3c/63/e8/9563e192-f312-4c81-9d76-d828a825c6e6.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/832.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan ter versterking van het fortress de Goede Hoop."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

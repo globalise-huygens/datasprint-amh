@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1460A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4e493369-758d-483b-8167-9e939b499d1d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1460a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Schets van fort Collenburg",
+        "dc:description": "Titel Leupe: Batterye voor de Vuykhaven en de Bulle Baey van St. Cruz. Soo als geapprobeert is\nby de Ronduit te maken..\nDit is een van de kaarten die Kapitein Cornelis Schrijvers maakte van Fort Collenburg in  1737. Samen met het bijbehorende rapport geeft deze reeks een indruk van de bescheiden proporties en lichte bewapening van dit verdedigingswerk en stelt het verschillende verbeteringen voor. Deze schets toont een profiel van de muur. De voorstellen lijken echter nooit te zijn uitgevoerd. De enige keer dat het fort daadwerkelijk werd aangevallen, op 18 juni 1805 in de aanloop naar de Britse actie onder Murray tegen Fort Beekenburg, viel het fortje moeiteloos in vijandelijke handen en werd het later bij de terugtocht van de Britten naar hun schepen vernield. Terloops vermeldt Schrijver nog dat hij bij zijn inspectie van Collenburg geen voetmaat ter beschikking had en daarom de situatie maar \u2018met de voeten gemeeten\u2019 had.\nSchaal van 30 voeten = 230 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1460A",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.25 - 0.62 El.",
+        "dcterms:date": "1738",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7287/schets-van-fort-collenburg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/3a/b1/23/14/85/e5/49/5b/b4/7c/20/8f/eb/27/26/e4/9bf12662-5f0d-4aba-a164-a63d53ab9c98.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/3a/b1/23/14/85/e5/49/5b/b4/7c/20/8f/eb/27/26/e4/9bf12662-5f0d-4aba-a164-a63d53ab9c98.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1460A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 1"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1951.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/46a8d934-830e-4cd3-948b-ba9ecd9e1bec",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1951.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de plantage Kleijn Poolen",
+        "dc:description": "Titel Leupe:  Plan van het om bij de fortress Sommelsdyk leggende land, geaugmenteert met een stuk land genoemt Kleyn Poolen.\nDe kaart met inzetkaartje uit 1757 geeft de afmetingen van de plantage Kleijn Poolen in de omgeving van fort Sommelsdijk weer. Zie ter vergelijking de kaart van Naumann uit 1758 (VEL1949) die gebaseerd is hetzelfde origineel als deze kaart.\nDe kaart van E. Bronsman is gekopieerd om de resultaten van de meting weer te geven; Kleijn Poolen blijkt 55 Surinaamse akkers (23,65 hectare) te meten.\nIn 1748 werd Sommelsdijk opgeheven als defensiewerk van de eerste orde, al bleef er wel een klein detachement infanterie gelegerd.\nSchaal van 50 Kettingen = 180 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1951",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "Fort"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.55 - 0.43 El.",
+        "dcterms:date": "ca. 1757",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2133/kaart-van-de-plantage-kleijn-poolen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/be/18/58/39/e9/24/45/42/84/4c/48/f0/42/50/10/7d/fd056eb3-a617-430d-91fe-787caf209481.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/be/18/58/39/e9/24/45/42/84/4c/48/f0/42/50/10/7d/fd056eb3-a617-430d-91fe-787caf209481.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1951.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het om bij de fortress Sommelsdyk leggende land, geaugmenteert met een stuk land genoemt Kleyn Poolen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

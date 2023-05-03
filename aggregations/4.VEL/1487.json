@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1487.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b0030f31-5c58-4286-aa10-1b889a1ba5e7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1487.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van een deel van de plantages Sint Jan en  Engelenburg op Cura\u00e7ao",
+        "dc:description": "Titel Leupe: Kaartje van eenige Plantagien op het Eiland Cura\u00e7ao, betreffende de questie van een waterput enz.\nKaart van een deel van de plantages Sint Jan en Engelenburg op Cura\u00e7ao, gemaakt naar aanleiding van een conflict met betrekking tot een waterput en een stuk bos. De kaart lijkt te zijn gemaakt voor de plantage Sint Jan. In de legenda is 'ons' of 'onze' overal doorgestreept (hieronder weergegeven met haakjes) en vervangen door neutralere beschrijving.\nLegenda:  A huijs van de plantagie Engelenborg. B de punt van (onse) de tuijn S.t Jan. D de tuijn (ons) patonie genaemt. E de punt van onse de plantagie genaemt neroes. F Om in te koomen in de plantagie. G is de indigo bak van de plantagie engelenborgh. H is de put van engelenborgh om t vee te doen drinken. I is (onse) de thuijn van S.t Jan & hek omer uijt te gaen.K is de sout pan van de Ed.e Comp. L is (onse) de thuijn genaemt anderhalven dagh. M is hek tussen (onsen) de twee thuijnen op de wegh. N is (onse) de thuijn voor t huijs. C is koe coraal. V is (ons) geijte & schaepen coraal. O dat is de put van dispuijt voor (ons) het huijs daer altyd van de plantagie engelenburgh is permissie gevraegt om t vee te dinken.P woonhuijs van st Jan. Q de suijkerriet-thuijn. R de neegers huijsen. S de borgen groote stam segt (ons) St. Jan niet toe & koomen daar hij wil weijden. W is (ons) het magesijn van de maies. X is alles rekken verbrant en gebrooken den 2 meij 1721. Y de weyde van de plantage Engelenburg.\n(Onse) De tuijn naer de kant van schuurman daerse gebrant hebben is nogh geen plan van maar per naesten sullen senden.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1487",
+        "dc:subject": [
+            "legenda",
+            "huis / woonhuis",
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "25,5 x 38,5 cm",
+        "dcterms:date": "1721-1722",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7516/kaart-van-een-deel-van-de-plantages-sint-jan-en-engelenburg-op-cura%C3%A7ao"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c7/78/9e/f4/d4/05/45/9f/9a/fc/c1/cb/ef/9b/83/ab/1b77aeb5-d38d-4bc6-a6be-ecbde46d97c9.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c7/78/9e/f4/d4/05/45/9f/9a/fc/c1/cb/ef/9b/83/ab/1b77aeb5-d38d-4bc6-a6be-ecbde46d97c9.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1487.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaartje van eenige Plantagien op het Eiland Cura\u00e7ao, betreffende de questie van een waterput enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

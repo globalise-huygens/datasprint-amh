@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/306.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/6a4c6c57-acd0-471b-8648-417671067131",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0306.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de baai van Tayuwan",
+        "dc:description": "Titel catalogus Leupe (NA): Affteyckeninghe van de Baye van Tayuwan enz..\nDe kompaslijnen zijn gedrukt.\nNotities verso: Affteyckeninghe vande baye van Taijuwan etc..",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0306",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "33 x 46 cm",
+        "dcterms:date": "1624-1625",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6383/kaart-van-de-baai-van-tayuwan"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e2/15/4c/cf/08/2f/44/34/8d/ba/30/a1/f3/a3/44/d6/b70089c7-a9e4-4c31-bbeb-1c46c63f6819.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e2/15/4c/cf/08/2f/44/34/8d/ba/30/a1/f3/a3/44/d6/b70089c7-a9e4-4c31-bbeb-1c46c63f6819.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/306.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Affteyckeninghe van de Baye van Tayuwan enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

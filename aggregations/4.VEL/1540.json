@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1540.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/dc9bb090-9c44-43f4-a203-3950702fd183",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1540.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(An inscription, lower left)\nActe van Meetinge. Ik Ondergeschreevene By den Edele agtbare hove geadmittert, En den Eed afgelegt Hebbende om in Plaats van den Geswore Landmeeter deser Colonie J.F. de Saffon de Begevene Landen te meeten Verklaare by dese dat ik het Eyland aroewabiscie, of Tigre heyland gemeeten hebbe groot zynde negentien hondert en agt en sestig akkers Behorende de boven helft aan de Heer Salomon Persick, en den Beneden helft aan de heer mathias Buisson, Legende het Gemelte Eyland Tuschen het Wakkename Eyland anders genoemt het margueriten Eyland en de West Wall van Rio Essequebo; hebbende de scheijde paalen daar van geplant volgens de scheyde Lyn.",
+        "dc:title": "Kaart van plantages op het Aroewabiscie Eiland",
+        "dc:description": "Titel Leupe: Kaart van het Eiland Arobasie of Tigre Eyland.\nNet als in Suriname en de andere koloni\u00ebn op de Wilde Kust, verschoof in de loop van de achttiende eeuw het plantagegebied aan de Essequibo geleidelijk aan naar de beter toegankelijke gronden aan de benedenloop van de rivier, de aangrenzende zeekusten en de eilanden in de monding.\nDeze kadastrale kaart c.q. meetbrief van bestaande en geplande ontginningen, toont plantages De Goede Wilsigt en Koningsberg op het eiland \u2018Aroewabiscie\u2019 (Tiger Island).\nOorspronkelijk zou J.F. de Saffon deze meting verrichten maar zijn familielid P.L. de Saffon heeft de taak overgenomen.\nDe kaart is ondertekend op 13 oktober 1766.\nOnderdeel van een kleine verzameling kadastrale kaarten (VEL1537 t/m VEL1542).\nSchaalstok van honderd Kettingen a 60 voeten Rhyn Lands = [ca. 1 : 16.300].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1540",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.315 - 0.51 El. (38 x 54,5 cm)",
+        "dcterms:date": "1766",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10234/kaart-van-plantages-op-het-aroewabiscie-eiland"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/34/54/0e/85/0e/14/41/95/93/78/28/c2/82/1e/d3/a2/f4f5b77a-ea8d-4d4a-9d46-72f9877e79a3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/34/54/0e/85/0e/14/41/95/93/78/28/c2/82/1e/d3/a2/f4f5b77a-ea8d-4d4a-9d46-72f9877e79a3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1540.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van het Eiland Arobasie of Tigre Eyland."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

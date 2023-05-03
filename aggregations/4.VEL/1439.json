@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1439.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3cc954a4-ed4d-438c-bb4b-7aacbc336d17",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1439.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [upper right] a description and a key to the letters A to Q : \nLijste soo voor\u2019t Fortres, en tussen de Willem Stad, en de Zeekant gelegen is van de Uijterste hoek van Schrickenborgh tot d\u2019 Zeekant, met Anwysinge, van gront, dat bebouwt soude konnen werden. \nN:o A. d\u2019 batterij gen:t d Vlaggestock van\u2019t fortres Amsterdam. \nB. d\u2019 batterij gen:t d katt [idem]. \nC. d\u2019Stadts gemetzelde muijr, hoog 14 voeten. \nD. Stadts Poort. \nE. Losse Muijren van klipsteen 6 voet hoog. \nF. Losse muijren drie voet hoogh. \nG. tussen de lage muijren klipsteenen op sijn ent geset. \nH. het kerkhof. \nI. d\u2019 Wegh nae \u2019t kerkhoff. \nK. d\u2019 Wegh nae Altena. \nL. gront d\u2019 bebouwt kan werden. \nM. Een losse muijr d\u2019 van de batterij gen:t d\u2019 Vlaggestock, strekt tot an de Zeekant. \nN. Een kleijn poortie.\nO. Een groente, groijt 5 a 6 voeten hoogh, met doornen besett alhier gen:t Juffrouwen. \nP. d\u2019 Zeekant. \nQ. het bolwerck gen:t Schrickenborgh als meede het Uijterste van de Stadts muijren of werken.",
+        "dc:title": "Ontwerp voor uitbreiding van Willemstad",
+        "dc:description": "Titel Leupe: Plan ter bebouwing van den grond zoo voor het fortress en tusschen de Willemstad en de zeekant gelegen is, van de uiterste hoek van Schrikkenburg tot de zeekant.\nDeze anonieme, op het zuiden geori\u00ebnteerde kaart, gedateerd 1 april 1705, toont een niet nader bekend bebouwingsplan voor het terrein tussen de oostelijke muur van Fort Amsterdam met de bastions Schrikkenburg (A) en De Kat (B), de aansluitende zuidelijke stadsmuur (Q) en de zeekant (P). Om de defensieve kracht van het fort aan de oostkant te behouden, was voor de feitelijk te kleine openblijvende ruimte tot de nieuwe bebouwing een begroeiing met ondoordringbare doornstruiken (O) voorzien.\nHet noorden is linksonder.\nSchaalstok van 100 Amsterdamse Voet maat = [ca. 1 : 500].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1439",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "39 x 51 cm.",
+        "dcterms:date": "1705",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1593/ontwerp-voor-uitbreiding-van-willemstad"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/16/b2/c1/23/62/1a/44/20/94/9a/1b/95/da/fc/a0/d3/1c1a506d-c251-4b87-abff-83da17fefcea.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/16/b2/c1/23/62/1a/44/20/94/9a/1b/95/da/fc/a0/d3/1c1a506d-c251-4b87-abff-83da17fefcea.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1439.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan ter bebouwing van den grond zoo voor het fortress en tusschen de Willemstad en de zeekant gelegen is, van de uiterste hoek van Schrikkenburg tot de zeekant."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1855.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/05685f56-8b64-4799-b099-c33576e397ff",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1855.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van kavels gelegen tussen de Cottica en de Matapica Kreek",
+        "dc:description": "Titel Leupe: Kaart van eenige landen, gelegen aande beneden Comawine, tusschen Cottica en de Matappica Creeq.\nDeze kaart toont verschillende kavels ten noorden (rechtsboven op de kaart) van de Commewijne Rivier en het fort te Nieuw Amsterdam.\nDeze kavels zijn gelegen tussen de Cottica en Matapica Kreek.\nSlechts de grenzen en loop van de rivier en kreken zijn weergegeven.\nDe kleur van de grens geeft hoogstwaarschijnlijk eigenaren weer, maar een index ontbreekt.\nHet fort Nieuw Amsterdam is ter ori\u00ebntatie weergegeven.\nSchaal van 70 Kettingen \u00e0 66 Rijnlandse voeten = 65 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1855",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.67 - 0.48 El.",
+        "dcterms:date": "1700-1800",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1985/kaart-van-kavels-gelegen-tussen-de-cottica-en-de-matapica-kreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/56/10/74/3f/50/48/4b/e4/b5/b7/a7/93/2c/59/0c/57/83f096fd-30e3-4966-a5cb-db67e84eac7f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/56/10/74/3f/50/48/4b/e4/b5/b7/a7/93/2c/59/0c/57/83f096fd-30e3-4966-a5cb-db67e84eac7f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1855.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen, gelegen aande beneden Comawine, tusschen Cottica en de Matappica Creeq."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

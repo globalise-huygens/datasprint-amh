@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2167.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/212704c4-327b-40a3-882e-f7f84ed39e86",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_2167.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Perfil da \u00e7idade do Salvador da Bahia de Todos os Satos Q Mostra Alturado Mar a ella",
+        "dc:title": "Aanzicht van de stad Salvador aan de Allerheiligenbaai in Brazili\u00eb",
+        "dc:description": "Aanzicht van de stad Salvador aan de Allerheiligenbaai in Brazili\u00eb.\nTitel Catalogus Leupe (NA): Perfil da \u00e7idade do Salvador da Bahia de todos los Santos y mostra altura da Mar a ella.\nPerfil da \u00e7idade do Salvador da Bahia de Todos os Satos Q Mostra Alturado Mar a ella.\nLegendaL A-R.\nDe kaart is van Portugese makelij.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2167",
+        "dc:subject": [
+            "overzicht / aanzicht",
+            "banderol / cartouche / versiering",
+            "huis / woonhuis",
+            "gebouw",
+            "kerk / pastorie",
+            "klooster / seminarie",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "28 x 40 cm",
+        "dcterms:date": "1638",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7466/aanzicht-van-de-stad-salvador-aan-de-allerheiligenbaai-in-brazili%C3%AB"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/27/00/83/53/1e/30/49/39/9e/5b/d0/f0/aa/b4/fd/bb/cc32731f-e08a-452e-b944-46a146f07f54.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/27/00/83/53/1e/30/49/39/9e/5b/d0/f0/aa/b4/fd/bb/cc32731f-e08a-452e-b944-46a146f07f54.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2167.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Perfil da \u00e7idade do Salvador da Bahia de todos los Santos y mostra altura da Mar a ella."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

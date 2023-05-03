@@ -1,0 +1,53 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/851.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1e10450e-be9c-4ac3-be3e-f22e4dff6950",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0851.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Africa",
+        "dc:title": "Kaart van omgeving Kaap de Goede Hoop",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart van de Landtreys, van de Cabo de Bon Esperance Noordwaerts tot aan de Buffelsrivier.\nKompaslijnen gedrukt bij Willem Blaeu (dit gedrukte papier werd ook na diens sterven in 1638 nog dikwijls gebruikt).\nDe kaart heeft bruine vochtplekken.\nNotities verso: 498 a [overige notities door restauratie niet meer leesbaar].\nLinksboven de legenda, van 1-26.\nDe schaalverdeling is linksonder Schaal der Vergrootende Breedte.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0851",
+        "dc:subject": [
+            "legenda",
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart",
+            "flora",
+            "kompas / windroos",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "144,5 x 58 cm",
+        "dcterms:date": "1675 - 1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2740/kaart-van-omgeving-kaap-de-goede-hoop"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/6c/e0/dc/1f/32/70/4a/d3/bc/3f/ee/0f/86/d5/68/9e/4b7a5c0c-d4a5-4499-92f4-86f9d767b0df.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/6c/e0/dc/1f/32/70/4a/d3/bc/3f/ee/0f/86/d5/68/9e/4b7a5c0c-d4a5-4499-92f4-86f9d767b0df.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/851.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Landtreys, van de Cabo de Bon Esperance Noordwaerts tot aan de Buffelsrivier."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

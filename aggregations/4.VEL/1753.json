@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1753.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/df4a1872-36c4-495c-9fcc-a6b600b3536e",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1753.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van plantages rond de Pararac-kreek",
+        "dc:description": "Titel Leupe: Schetskaart van de Pararac Kreecq en algemeene Pararacs weg.\nDeze kaart geeft een overzicht van de plantages aan de Pararac-kreek en -weg. Alle eigenaren worden genoemd, en vaak tevens de omvang in Surinaamse akkers (1 akker = 0,43 hectare) en de datum van de warrande. Het valt op dat veel percelen later met zwarte inkt zijn toegevoegd.\nHet noorden is rechtsonder.\nSchaal van 230 Kettingen \u00e0 66 Rijnl voeten = 136 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1753",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.56 - 0.435 El.",
+        "dcterms:date": "1783",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10433/kaart-van-plantages-rond-de-pararac-kreek"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/43/e4/72/23/02/bd/4e/cc/96/e5/66/de/28/07/63/3d/c815c1c3-0227-4820-96ea-137aeb87752c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/43/e4/72/23/02/bd/4e/cc/96/e5/66/de/28/07/63/3d/c815c1c3-0227-4820-96ea-137aeb87752c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1753.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schetskaart van de Pararac Kreecq en algemeene Pararacs weg."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

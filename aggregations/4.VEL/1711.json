@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1711.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2a1728ee-2919-40c7-b69e-2a4dd643a511",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1711.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van percelen aan de Surinamerivier",
+        "dc:description": "Titel Leupe: _Kaart van eenige landen, gelegen tusschen de Duyvels\nen Brufaut Creequen._\nDeze meting van percelen aan de Surinamerivier is aangevraagd door de eigeneaar ervan: de heer Hendrik Huilder. De omvang blijkt 1000 Surinaamse akkers, oftewel 430 hectare. De meting vond plaats op 1 Juni 1695, maar deze kaart is op 17 Januari 1724 gekopieerd.\nHet noorden is rechtsonder.\nSchaal van 100 Kettingen \u00e0 5 1/2 Rijnlandse roeden = 117 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1711",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.43 - 0.28 El.",
+        "dcterms:date": "1721",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9838/kaart-van-percelen-aan-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/34/4b/d3/ac/0d/ad/4c/90/81/cc/09/c6/fc/f0/90/47/3fffd1bb-4454-4565-9b9d-c440fe3e9d85.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/34/4b/d3/ac/0d/ad/4c/90/81/cc/09/c6/fc/f0/90/47/3fffd1bb-4454-4565-9b9d-c440fe3e9d85.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1711.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige landen, gelegen tusschen de Duyvels- en Brufaut Creequen."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

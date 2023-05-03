@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1604.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/c1142ca5-5674-4cd6-9a4b-ac1e8fad2995",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1604.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Title): Kaarte der vrye Plantage St. Jan in Rio Canje. > < Kaart van de vrye plantagie St. Jan, van 500 akkers in Rio Canje, 1769. Actum in Rio Canje den 25 Januari 1769, C.F.J. Cederkreutz.",
+        "dc:title": "Kaart van de plantage Sint Jan",
+        "dc:description": "Titel Leupe: Caart van alle nieuwe als oude gronden in de beneedenste gedeelte van Rio Canie.\nKaart van de plantage Sint Jan plantage, in eigendom van de heer Volkmaar te Amsterdam, gelegen ten oosten van de rivier Canje.\nDe kavel blijkt 500 Surinaamse akkers te meten (215 hectare).\nTen zuiden (boven op de kaart) ligt de plantage Don Phillip, en ten noorden de plantage Ongegundt.\nDe kaart is ondertekend op 28 januari 1769.\nZie ook VEL1605 en 1606.\nSchaal van 300 Rijnlandse roeden = 124 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1604",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.46 - 0.58 El.",
+        "dcterms:date": "1769",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10270/kaart-van-de-plantage-sint-jan"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/1b/66/0a/8c/f2/0e/4f/b0/80/72/1d/de/23/18/52/0d/6cae0f6e-18a2-4a84-b349-2febe8746316.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/1b/66/0a/8c/f2/0e/4f/b0/80/72/1d/de/23/18/52/0d/6cae0f6e-18a2-4a84-b349-2febe8746316.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1604.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaarte der vrye Plantage St. Jan in Rio Canje."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

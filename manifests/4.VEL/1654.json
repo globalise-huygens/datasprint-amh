@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1654.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart figuratif van een gedeelte van de Colonie de Berbice, gedeeltelyk uit de daarvan zynde kaarten en anderdeels volgens de bekomens Informatien te zaamen gesteld, dienende tot elecidatie der te doene groote Expeditie tegens de rebellige negers."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1654"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1764"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/f18a0fe8-2971-49b7-b5a9-de231768fdc0\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1654.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1654.json#canvas/p1",
+            "type": "Canvas",
+            "height": 5151,
+            "width": 4058,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1654.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1654.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/64/b6/2a/cc/e7/50/48/18/b7/f4/f7/d0/b6/5e/b8/a3/60c8753a-79ce-4643-a451-76b188c9ef2c.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5151,
+                                "width": 4058,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/64/b6/2a/cc/e7/50/48/18/b7/f4/f7/d0/b6/5e/b8/a3/60c8753a-79ce-4643-a451-76b188c9ef2c.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1654.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

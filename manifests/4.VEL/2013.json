@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2013.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan van een gedeelte der rivier van Surinamen, waarop aangetoond wordt de legging der geprojecteerde linie van Verstopping enz., enz., ontworpen door: Hottinger."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2013"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1786"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/4765ae7d-6fa5-4745-81fa-5615376402c3\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2013.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2013.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6422,
+            "width": 9108,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2013.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2013.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/2b/a2/90/97/06/cf/41/e3/b6/ee/86/a3/01/72/ba/ed/594807d2-ef87-4f29-ab47-101761e3c393.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6422,
+                                "width": 9108,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/2b/a2/90/97/06/cf/41/e3/b6/ee/86/a3/01/72/ba/ed/594807d2-ef87-4f29-ab47-101761e3c393.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2013.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

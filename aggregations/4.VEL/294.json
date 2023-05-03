@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/294.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/83f9d650-2e35-4620-81db-e26737f5761f",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0294.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Filipijnen",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Philippynsche Eilanden, Mindanao enz..\nNotities verso: No. 3 Philippijnsche Eilanden. Register 1, Deel 1, Folio .., Portefeul. 1 [op een blauw etiket].\nOpmerking catalogus Leupe: Behalve eene beschrijving dezer eilanden, wordt er op gevonden de trek der reis van Hernando Magalanes, Anno 1521.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0294",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "55 x 65 cm",
+        "dcterms:date": "1700-1750",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9147/kaart-van-de-filipijnen"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/dd/1c/18/5d/3d/20/41/07/a1/69/fe/4a/33/5a/40/73/0b38ce42-e7c9-4235-9f9e-c35b4a80ff4f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/dd/1c/18/5d/3d/20/41/07/a1/69/fe/4a/33/5a/40/73/0b38ce42-e7c9-4235-9f9e-c35b4a80ff4f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Philippynsche Eilanden, Mindanao enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

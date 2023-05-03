@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1488.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/4fb6d61e-5698-4a5e-80f9-e56de033bcc0",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1488.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "SCHETS KAART VAN DE COLONIEN / VAN / RIO DEMERARIJ EN RIO ESSEQUEBO, / ALS MEEDE VAN DE VERLAATENE COLONIE VAN RIO POMERON, MITSGADERS VAN EEN GEDEELTE / DER / COLONIE VAN RIO BERBICE",
+        "dc:title": "Kaart van Rio Demerary, Rio Essequebo, Rio Pomeron, en een deel van Berbice",
+        "dc:description": "Titel Leupe: Schetskaart van de Colonien van Rio Demerary en Rio Essequebo, alsmede van de Verlaatene Colonie van Rio Pomeron, mitsgaders een gedeelte der Colonie van\nBerbice enz.\nDe kaart geeft landschappelijke kenmerken weer en biedt inzicht in de fysische gesteldheid van het gebied. De kaart werd gemaakt in opdracht van de WIC als basis voor een generale kaart van deze koloni\u00ebn. Deze kaart (VEL1490A) zou pas in 1798, na het failliet van de WIC, verschijnen\nVolledig opschrift: _SCHETS KAART VAN DE COLONIEN / VAN / RIO DEMERARIJ EN RIO ESSEQUEBO, / ALS MEEDE VAN DE VERLAATENE COLONIE VAN RIO POMERON, MITSGADERS VAN EEN GEDEELTE / DER / COLONIE VAN RIO BERBICE Met de verdere Districten, Rivieren en Kreeken dier Colonien, als ook de Streckkinge de Zee-Kust en derzelver Bancken, ontworpen uijt verscheidene Opservatien en Opneemingen, en zaamen gesteldt, ter Inrigting en Formeering eener Generale Kaart van de gemeldte Colonien en derzelver Plantagien, en begeevene Landten en Grondten, als meede dergeene Districten en Landen, de welcke in het toekoomendte nog kunnen begeeven en gecultiveerdt worden, strekkendte tot meertere en beetere Communicatie dier Colonien, in Cass van binnen of buijtenlandsche Onlusten en Oorlogen &c. &c. en verders tot beetere Transporteering ter Producten en Goederen, gemackkelijcker en met minder Gevaar, als buijten om door de Zee &c. &c. Op Order van de Edele Geoctrojeerdten West-Indischen Compagnie opgesteldt en geteekendt door J.C. v. Heneman, Ingenieur. Aanmercking: Hetgeene wat in deese Kaart met Groen aengelegt is, is Hoog-Bosch en gedeeltelijck gecultiveerdte Landen, En wat witt gelaten is, zijn Savaanas met Boschgaschies.\nSchaalstok van Vijf Duijtsche Mijlen van 15 op een graad (schaal ca. 1 : 160.000).",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1488",
+        "dc:subject": [
+            "kompas / windroos",
+            "banderol / cartouche / versiering",
+            "schaalstok",
+            "plattegrond / kaart",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "198 x 127 cm",
+        "dcterms:date": "1772-1775",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1866/kaart-van-rio-demerary-rio-essequebo-rio-pomeron-en-een-deel-van"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/9d/66/6f/aa/6f/60/48/28/af/23/26/43/cd/82/7b/59/af438646-fa14-4b6b-8416-71d3017aa2b3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/9d/66/6f/aa/6f/60/48/28/af/23/26/43/cd/82/7b/59/af438646-fa14-4b6b-8416-71d3017aa2b3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1488.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schetskaart van de Colonien van Rio Demerary en Rio Essequebo, alsmede van de Verlaatene Colonie van Rio Pomeron, mitsgaders een gedeelte der Colonie van Berbice enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

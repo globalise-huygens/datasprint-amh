@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1601.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Caarte van twee nieuwe gronden, genaamt De Dankbarheid, gelegen in Rio de Berbice aan de Oostzyde van de groote Maripaam enz."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1601"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1779"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/9f0abbf4-313e-4053-89c2-6273e6029689\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1601.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1601.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7709,
+            "width": 12013,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1601.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1601.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/c3/8d/9f/8d/7e/ee/4e/1d/89/13/a5/d2/10/d5/f6/f4/0995cc9d-c272-4101-b529-9beb36169c32.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7709,
+                                "width": 12013,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/c3/8d/9f/8d/7e/ee/4e/1d/89/13/a5/d2/10/d5/f6/f4/0995cc9d-c272-4101-b529-9beb36169c32.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1601.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

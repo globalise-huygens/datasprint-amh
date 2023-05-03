@@ -1,0 +1,47 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/114A.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ab212eaa-1ede-438d-8435-24ec4f1ad92d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_114a.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Tristan De Acunha eilanden",
+        "dc:description": "Titel Leupe: Kaart van de Eylanden Tristan De Acunha.\nJan Jacobsz, schipper op de galjoot Nachtglas die in juni 1655 uit patria was vertrokken, werd na aankomst aan de Kaap in oktober 1655 op expeditie naar Tristan da Cunha gezonden met de opdracht de eilanden op hun mogelijkheden als veilige ankerplaats en verversingsstation te onderzoeken. Jacobsz noemt de eilanden \u2018Tristan da Cuna, Gebrocken Ailant en het Nachtglas Ailant\u2019. Op het eerstgenoemde eiland trof men het plankje met opschrift aan dat de bemanning van de fluit Heemstede daar in 1643 op de rotsen had gespijkerd. Er werd een eigen bordje naast gehangen met het opschrift \u2018\u2019t Galjodt \u2019t Nagtglas, Jan Jacobs, den 10 february 1656\u2019, evenals op het nieuw verkende en naar het eigen schip vernoemde eilandje Nachtglas (nu Inaccessible Island). De door Jacobsz gemaakte kaart van de eilandengroep werd samen met zijn rapportage door Jan van Riebeeck later in 1656 van de Kaap naar de Republiek verzonden, zie Overgekomen Brieven en Papieren van de Kaap, 1656, folio 271, verslag folio 270 en VOC 3990 1.04.02 inv.nr. fol.271, verslag fol. 270.\nHet noorden is onder.\nSchaalstok van '5 Duisse Mile 15 voor een graet' = [ca. 1 : 127.700].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL114A",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "52 x 79 cm.",
+        "dcterms:date": "1656",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10316/kaart-van-de-tristan-de-acunha-eilanden"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/64/62/d7/cd/42/cd/42/8b/9b/60/c4/32/ea/8d/60/d3/8cb58a42-16d5-4bd7-87c8-3634b3005d38.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/64/62/d7/cd/42/cd/42/8b/9b/60/c4/32/ea/8d/60/d3/8cb58a42-16d5-4bd7-87c8-3634b3005d38.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/114A.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de eilanden Trista\u00f5 da Cunha."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

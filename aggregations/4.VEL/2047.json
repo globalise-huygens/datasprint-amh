@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2047.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a1525884-6180-4fb8-9b36-6790a86c5450",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2047.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Plattegrond van de redoute Purmerend",
+        "dc:description": "Titel Leupe: Schetsplan van de redout Purmerent.\nIn het algemene defensieplan voor de kolonie Suriname dat Johann Friedrich Ferdinand Wollant bij het begin van de Vierde Engelse Oorlog in 1781 ontwierp in opdracht van gouverneur Texier, stelde hij onder meer voor de niet goed ontworpen en intussen ook in verval geraakte redoute Purmerend geheel opnieuw aan te leggen. Zijn deelplan daartoe, in geheimschrift, is hier afgebeeld.\nNoord is linksboven.\nSchaal van 100 Rijnlandse roeden = 202 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2047",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.39 - 0.49 El.",
+        "dcterms:date": "1781",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2235/plattegrond-van-de-redoute-purmerend"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/62/ad/f4/c7/6e/ce/4f/ab/b1/e2/3e/5e/6e/f3/0c/b7/fe307d90-a475-4346-9e3d-8de26b01c3c0.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/62/ad/f4/c7/6e/ce/4f/ab/b1/e2/3e/5e/6e/f3/0c/b7/fe307d90-a475-4346-9e3d-8de26b01c3c0.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2047.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Schetsplan van de redout Purmerent."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

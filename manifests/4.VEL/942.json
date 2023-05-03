@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/942.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Aenwysingh der voornaemste Plaetsen der Belegerde Stadt Colombo, hoe de werken by den E. Heer Dir. Gen. Hulft Saliger voor de Stadt met aprochen en Batt. aangebracht syn, en hoe de Stadt met all haer Punten, Bolwerken en voornaemste plaetsen genaemt syn geweest. Anno Christy 1656, den 12 May verovert."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "942"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1656"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/84c3ce32-083d-408f-8c5a-552dc41bd09f\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/942.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/942.json#canvas/p1",
+            "type": "Canvas",
+            "height": 11624,
+            "width": 16755,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/942.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/942.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/46/2a/be/f0/17/38/47/90/9c/26/38/7e/fa/ae/01/04/81b59e2c-6ee2-4666-841c-889d1694517d.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 11624,
+                                "width": 16755,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/46/2a/be/f0/17/38/47/90/9c/26/38/7e/fa/ae/01/04/81b59e2c-6ee2-4666-841c-889d1694517d.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/942.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

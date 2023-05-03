@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/192.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/0cf7975a-fdee-4bdc-9953-da05177f2cde",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0192.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Robben Eijlant",
+        "dc:title": "Kaart van Robbeneiland",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaartje van het Robben Eyland.\nRanden gescheurd en verkleurd.\nNotities verso: 1654 van de Kaap deel II / 207 [folionummer in de band ?] / 192 [in rood potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0192",
+        "dc:subject": [
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "32 x 41,5 cm",
+        "dcterms:date": "ca. 1654",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4690/kaart-van-robbeneiland"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/77/8b/f7/d0/e1/85/4e/21/9b/c0/74/17/7d/5f/da/a8/3dc04cb5-1706-467e-8478-ca27f2bc4a1d.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/77/8b/f7/d0/e1/85/4e/21/9b/c0/74/17/7d/5f/da/a8/3dc04cb5-1706-467e-8478-ca27f2bc4a1d.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/192.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaartje van het Robben Eyland."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

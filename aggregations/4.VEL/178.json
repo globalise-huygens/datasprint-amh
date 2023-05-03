@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/178.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/63243536-1ddf-44dd-b2b4-5f64e1f2c3c7",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0178.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de Tafelbaai en het Robbeneiland en aanduiding van gezonken schepen",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Tafelbaai, het Robben Eiland, de Klip de Walvisch, benevens aanwyzing waar eenige schepen gebleven zijn.\nKompaslijnen gedrukt bij Willem Blaeu (dit gedrukte papier werd ook na diens sterven in 1638 nog dikwijls gebruikt).\nNotities verso: 1663-1664 [in potlood] / 989 of 909 [folionummer in de band ?] / No. 16 [volgnummer van het stuk in de band ?] / 178 [in rood potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0178",
+        "dc:subject": [
+            "huis / woonhuis",
+            "vesting",
+            "gebouw",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "54 x 74,5 cm",
+        "dcterms:date": "ca. 1663",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/398/kaart-van-de-tafelbaai-en-het-robbeneiland-en-aanduiding-van-gezonken"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/05/53/c3/7b/5a/63/45/1c/b0/19/83/4a/13/bc/9b/da/60301e52-de46-4cf0-9c51-c50813112ac5.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/05/53/c3/7b/5a/63/45/1c/b0/19/83/4a/13/bc/9b/da/60301e52-de46-4cf0-9c51-c50813112ac5.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/178.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Tafelbaai, het Robben Eiland, de Klip de Walvisch, benevens aanwyzing waar eenige schepen gebleven zyn."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

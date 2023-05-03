@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1764.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van het rivier Serameca en Paramaribo, uitgevonden en ter nedergesteld ingevolge ygene anotatie en opneming in den jaren 1750, 51 en 56, door: Nepveu"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1764"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1750/1756"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/88f459f8-169a-4fdc-8556-6ffcd69badf6\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1764.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1764.json#canvas/p1",
+            "type": "Canvas",
+            "height": 6117,
+            "width": 7837,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1764.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1764.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/61/93/54/1a/99/f5/46/4b/8c/d1/f8/93/46/d2/5f/b3/59320224-c628-4fa5-bd62-c950ceaf67c3.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6117,
+                                "width": 7837,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/61/93/54/1a/99/f5/46/4b/8c/d1/f8/93/46/d2/5f/b3/59320224-c628-4fa5-bd62-c950ceaf67c3.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1764.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

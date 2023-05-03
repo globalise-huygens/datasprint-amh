@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1098.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/524e2134-c0a1-4c2a-a926-87d6df5882b5",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1098.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan van 't fortres en stad Poedechery",
+        "dc:title": "Plattegrond van het fort en de stad Poedechery",
+        "dc:description": "Titel catalogus Leupe (NA): Plan van 't fortres en stad Poedechery.\nNotities verso: 3 stuks kaarten van de fortresse en stad Pondichery uit 6e Boek brieven en papieren overgekomen in 1695 folio 810-812 met beschryving / No. 1 / 810 / 592 g.\nLegenda: 1-31",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1098",
+        "dc:subject": [
+            "kompas / windroos",
+            "legenda",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "54 x 74 cm",
+        "dcterms:date": "november 1694",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/5571/plattegrond-van-het-fort-en-de-stad-poedechery"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8e/f8/4d/ae/95/40/4c/99/af/af/5a/c5/84/ba/b7/d8/92f53c83-de72-4bbf-9077-41e4e4d9b443.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8e/f8/4d/ae/95/40/4c/99/af/af/5a/c5/84/ba/b7/d8/92f53c83-de72-4bbf-9077-41e4e4d9b443.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1098.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van 't fortres en stad Poedechery."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1527.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/145921b3-7823-462e-bb9f-a20bcb64d972",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1527.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Legend)\nA. Fort et Bourg d\u2019Essequebe, B. Batterie sur L\u00e9guwaan\nPlan topographique de la Colonie d\u2019 Essequebe dans la Guianne Holandoise, Lev\u00e9 par ordre de Mr. De Laperriere Gouverneur General des Colonies, de Demerari, Essequebe a Berbice. Par le Sr. Pechon Ingenieur Geogr. des Colonies en 1783.",
+        "dc:title": "Schetskaart van de kolonie Essequibo met de ligging van de plantages",
+        "dc:description": "Titel Leupe: Plan topographique de la Colonie d'Essequebe dans la Guyane Hollandoise etc.\nDeze Franse overzichtskaart van de kolonie Essequibo toont de vestingen en plantages rond de riviermonding.\nDe kaart geeft een indruk van vaarroutes langs deze gecultiveerde gronden en geeft dieptes en stromen aan rond de monding. Daarnaast toont het de verdedigingswerken en geeft het een indruk van de kustgebieden die bij vloed onder water komen te staan.\nSchaal van 2000 Toises = 275 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1527",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "vesting",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "286 x 139,5 cm.",
+        "dcterms:date": "1783",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1871/schetskaart-van-de-kolonie-essequibo-met-de-ligging-van-de-plantages"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/46/44/b1/5a/f0/2e/49/25/82/60/c1/74/77/47/c5/e9/a7603e7c-f34c-4264-8ee9-5433abc3b6ab.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/46/44/b1/5a/f0/2e/49/25/82/60/c1/74/77/47/c5/e9/a7603e7c-f34c-4264-8ee9-5433abc3b6ab.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1527.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan topographique de la Colonie d'Essequebe dans la Guyane Hollandoise etc."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

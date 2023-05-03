@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1296.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/693570f2-f350-463d-b861-283ccd563dd3",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1296.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Land-kaart van Celebes Zuidwest kust Behelzende het Rijk en gebied van Maccassar, Mitsgaders het Rijkje van Toeratea, Lamoeroe, Sageebi, en eenige Bijleggende Landstreken",
+        "dc:title": "Kaart van een deel van de westkust van Celebes, 'Het Compagnies Gebied'",
+        "dc:description": "Titel catalogus Leupe (NA): Land-kaart van Celebes Zuidwest kust Behelzende het Rijk en gebied van Maccassar, Mitsgaders het Rijkje van Toeratea, Lamoeroe, Sageebi, en eenige Bijleggende Landstreken.\nGetekend op zeer dik papier.\nNotities verso: 906 c [in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1296",
+        "dc:subject": [
+            "banderol / cartouche / versiering",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen en penseel",
+        "dcterms:extent": "51 x 72,5 cm",
+        "dcterms:date": "1752",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3812/kaart-van-een-deel-van-de-westkust-van-celebes-het-compagnies-gebied"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/66/73/de/a9/96/6b/4c/40/91/ae/67/f9/24/32/df/48/89b794ca-02ce-4692-9a13-b21859f737a3.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/66/73/de/a9/96/6b/4c/40/91/ae/67/f9/24/32/df/48/89b794ca-02ce-4692-9a13-b21859f737a3.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1296.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Landkaart van Celebes S.W-kust: behelzende het ryk en gebied van Macassar, mitsgaders het rykje van Sadraboni, een gedeelte van Toeratea, Lamoeroe, Sageeri, en enige byleggende Landstreken."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

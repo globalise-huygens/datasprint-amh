@@ -1,0 +1,52 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/989.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b5f12c07-4216-4fa8-a8e8-f89618618e35",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0989.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plattegrond van de Stad, en fort Negombo",
+        "dc:title": "Plattegrond van de stad en het fort Negombo",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van de Stad en Fort Negombo, het Eylandt Pittuancarre en Walcheren, het Lak of Meir enz..\nPlankaart van de aanleg van een nieuwe vesting op het eiland Texel bij Negombo, met de klappertuinen en de geplande irrigatiekanalen.\nBijzonderheden in de Leupe catalogus: Met project van een Vyfhoek op 't Eyland Texel, en verdere aanwijzingen.\nNotities verso: 543 b.\nTopografische namen vermeld op deze kaart: Walcheren, eiland Texel.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0989",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "landerij / plantage",
+            "kompas / windroos",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "53 x 74 cm",
+        "dcterms:date": "ca. 1695",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3972/plattegrond-van-de-stad-en-het-fort-negombo"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/af/ee/87/84/00/4e/42/50/b4/d9/6a/f6/0a/b8/4b/e8/06e0cf15-50e1-4fa2-92be-191f45bf4d33.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/af/ee/87/84/00/4e/42/50/b4/d9/6a/f6/0a/b8/4b/e8/06e0cf15-50e1-4fa2-92be-191f45bf4d33.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/989.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van de Stad en Fort Negombo, het Eylandt Pittuancarre en Waleheren, het Lak of Meir enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

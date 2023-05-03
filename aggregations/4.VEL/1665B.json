@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1665B.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d880ea86-f864-4bf1-b852-91e22274ce49",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1665b.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [above centre] an inscription [partly transcribed] : \nActe Van Meeting, Van Agt En Twintig Erven Ider Erf Breed Twee Kettings, of Elf Roeden Rhijnlands Diepte Volgens Coers der Nieuwe Stad, Een Honderd, En Veertig Roeden, Geleegen Aan den Oost Wal, In de Groote Marripaan Aan den Boven Lijn der Nieuwe Stad. Door den Edele Hove, deezer Colonie, In Eijgendom Vergund Volgens Neevenstaande. \n[lower left] an inscription : \nAan den Boven Lijn, van de Nieuwe stad.",
+        "dc:title": "Plattegrond van de nieuwe stad in Rio Berbice",
+        "dc:description": "Titel Leupe: \u201cPlatte grond van de nieuwe Stad in Rio Berbice\u201d.\nJan Carel Willem Herlin bleef tot 1790 werkzaam voor de Soci\u00ebteit als opzichter-generaal en vanaf 1787 ad interim ook als eerste landmeter in de kolonie. Begin 1790 arriveerde diens opvolger, de landmeter Jan van Schoonenbeek, die tevens als opzichter van de gouvernementswerkplaatsen zou fungeren.\nHet jaar daarop nam hij feitelijk ook de taak van Herlin over, die zich intussen op eigen gezag had teruggetrokken uit de dienst, waarop de directie Van Schoonenbeek in oktober 1791 de (civiele) positie van \u2018Architect en Opzigter van alle de Colonie Werken\u2019 verleende. In deze hoedanigheid presenteerde hij in hetzelfde jaar nog voorstellen tot wijziging van het ontwerpplan van Herlin voor Nieuw-Amsterdam en voor de uitbreiding van de stad met nieuw uit te geven vrijmanserven ten zuiden van de gouvernementswijk. Deze kaart toont Van Schoonenbeeks nieuwe indeling voor het centrale gedeelte, dat hij ten opzichte van Herlins plan een kwartslag draaide; de slavenwijk zou daarbij verplaatst moeten worden naar een locatie op enige afstand naar het zuiden.\nHet noorden is linksonder.\nSchaalstok van 15 Roeden Rhijnl: = [ca. 1 : 970].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1665B",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "68,5 x 64,5 cm.",
+        "dcterms:date": "1791",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7623/plattegrond-van-de-nieuwe-stad-in-rio-berbice"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/0b/de/53/48/c3/8d/4a/f0/bf/5b/da/d1/54/82/23/59/f4185c5c-dc9f-4e7c-abe5-debdd4690f8a.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/0b/de/53/48/c3/8d/4a/f0/bf/5b/da/d1/54/82/23/59/f4185c5c-dc9f-4e7c-abe5-debdd4690f8a.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1665B.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Blad 2"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

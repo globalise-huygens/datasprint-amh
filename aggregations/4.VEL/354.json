@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/354.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/ba81161a-cf3a-405b-b06e-7eee68f6e6b9",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0354.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van Sumatra en de Straat van Malakka",
+        "dc:description": "Titel catalogus Leupe (NA): Kaart als voren, hiermee wordt bedoeld de titel van VEL0352: Kaart van Straat van Malakka en nabij gelegen Eilanden.\nBijzonderheden: de kaart is op blauw papier geplakt.\nNotities verso: XXXIII.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0354",
+        "dc:subject": [
+            "kompas / windroos",
+            "plattegrond / kaart"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "107,5 x 81,5 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9187/kaart-van-sumatra-en-de-straat-van-malakka"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/d0/1f/0a/ca/0e/cd/41/a0/9a/4a/3b/5d/4a/da/29/6e/3e166248-9ef1-43c3-9b91-1800101a79c2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/d0/1f/0a/ca/0e/cd/41/a0/9a/4a/3b/5d/4a/da/29/6e/3e166248-9ef1-43c3-9b91-1800101a79c2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/354.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van Straat Malakka en nabij gelegen Eilanden, met de dieptens in Straat Banca enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

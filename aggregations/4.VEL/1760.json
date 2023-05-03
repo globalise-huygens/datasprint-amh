@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1760.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/050e6b18-26a9-4ffa-98aa-6a07f5ba6055",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1760.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Explanations: [below centre] a note and a key to the letters a to e : \nNB. De schaal van de Lenghte is Kettings maat; en die van de Waterpassing en het profil is Voetmaat, sulx geene proportie met malkanderen kunnen hebben. \nab. is een Dam langs d\u2019Oopeningh van de Grond van D. D\u2019Avilar, en 50 kett.n lang. \nbc. is 14 \u00e0 20 duijmen lager, en is lang 32 kett.n. \ncd. is 34 \u00e0 40 duijmen hooger als d\u2019horizont en lang 56 kett.n. \nde. is doorgaans een swamp en 26 \u00e0 30 duijmen laager en lang 58 kett.n.",
+        "dc:title": "Kaart van een verbinding tussen de Parakreek en de Surinamerivier",
+        "dc:description": "Titel Leupe: Caart van de doorsnyding van Para Creeq tot de rivier Suriname, tusschen de gronden hierby ge\u00ebxpliceert.\nKort voor 1740 werden door het Surinaamse gouvernement plannen opgevat voor de aanleg van een waterverbinding, die enkele jaren later inderdaad tot stand kwam. Doel van deze doorsnijding was in de eerste plaats het verbeteren van de afvoer uit de Parakreek, waar de plantages vaak te maken hadden met wateroverlast. Daarnaast konden de planters hogerop aan de kreek langs deze weg gemakkelijker hun producten naar Paramaribo vervoeren. Dit hoogteprofiel van het tussenliggende land werd in 1741 als voorbereiding op het project opgemeten en getekend door Jacobus Reijnet, een militair afkomstig uit Maagdenburg in Duitsland die in Suriname actief was als landmeter in de periode 1732-1742.\nSchaal: niet aangegeven; werkelijke afstanden en hoogteverschillen vermeld op de kaart in kettingen en duimen [ca. 1 : 13.500].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1760",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "22,5 x 38 cm.",
+        "dcterms:date": "1741",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9848/kaart-van-een-verbinding-tussen-de-parakreek-en-de-surinamerivier"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/ff/0c/76/25/b9/06/48/46/81/c6/25/9c/d0/8c/a8/95/f5d27915-1e80-4dc5-b998-b8dcd2c9727f.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/ff/0c/76/25/b9/06/48/46/81/c6/25/9c/d0/8c/a8/95/f5d27915-1e80-4dc5-b998-b8dcd2c9727f.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1760.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Figurative verbeelding van een waterpassing gedaan van een strook land, gelegen tusschen de rivier Suriname en de Creeq Para, alsmede het profil van een aldaar te maken doorsnyding enz."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

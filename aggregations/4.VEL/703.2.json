@@ -1,0 +1,44 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/703.2.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/44a601d8-3d8d-4edf-9c8a-e6e57b8fc252",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_703_2.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Legenda voor een kaart van de kaap van St. Augustijn",
+        "dc:description": "Titel Leupe: Kaart van het Puntaal binnen Kaap St. Augustyn, met aparte legenda.\nOp basis van de in 1634 vervaardigde belegeringskaarten (Nationaal Archief, AANW128 en VEL713-714 en Stadsarchief Deventer, WIC ID 703-48) werd na de verdrijving van de Portugezen uit hun fort Nossa Senhora de Nazar\u00e9 (\u2018Nazareth\u2019) de situatie aan de Cabo in 1636 opnieuw opgenomen. Deze lijst geeft de gebouwen en verdedigingswerken weer die toen beschreven zijn. De bijbehorende kaart (VEL715) is gezien het handschrift van de titel waarschijnlijk getekend door ingenieur Tobias Commersteijn. Het is onduidelijk of hij ook deze aantekeningen heeft gemaakt.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL703.2",
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "0.33 - 0.42 El.",
+        "dcterms:date": "ca. 1634",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/7418/legenda-voor-een-kaart-van-de-kaap-van-st.-augustijn"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/cc/9e/44/7c/b6/87/4e/be/a8/45/7d/5d/ae/fd/e9/06/6657af67-5a21-464e-b22d-8892706a0937.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/cc/9e/44/7c/b6/87/4e/be/a8/45/7d/5d/ae/fd/e9/06/6657af67-5a21-464e-b22d-8892706a0937.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/703.2.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Legenda, 2e helft 19e eeuw.\n                              "
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

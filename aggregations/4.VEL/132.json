@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/132.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/22a0d681-c41e-4820-be8b-7ceeaa9a6ab3",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_132.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Pas caarte vande / Bocht van / Gabon / Tusschen C. Formosa en C. de Lopo / Gonsalves",
+        "dc:title": "Kaart van West-Afrika, van Caap Formosa tot C. de Lopo Gonsalves",
+        "dc:description": "Titel catalogus Leupe (NA): Pascaert van de Bocht van Gabon tusschen Caab Formosa en Caab de Lopo Gonsalves.\nUitgegeven door Johannes van Keulen.\nDe kaart is op blauw papier geplakt.\nNotities verso: No. 12, 3 maal / 14.\nNeem contact op met Nationaal ArchiefNationaal ArchiefRijksmuseum Amsterdam voor hergebruik en auteursrechten.",
+        "dc:type": "prent",
+        "dc:identifier": "VEL0132",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "banderol / cartouche / versiering",
+            "kompas / windroos",
+            "Aziaten",
+            "Afrikanen & Amerikanen",
+            "Persoon",
+            "fauna"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "koperdruk",
+        "dcterms:extent": "52 x 60 cm",
+        "dcterms:date": "1675-1715",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/6798/kaart-van-west-afrika-van-caap-formosa-tot-c.-de-lopo-gonsalves"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/60/55/31/88/95/49/4d/49/96/93/e9/21/67/b0/4f/e9/8af2d41d-bb50-46f6-92c3-e67eba1dba46.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/60/55/31/88/95/49/4d/49/96/93/e9/21/67/b0/4f/e9/8af2d41d-bb50-46f6-92c3-e67eba1dba46.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/132.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Pascaerte van de Bocht van Gabon tusschen Caab Formosa en Caab de Lopo Gonsalves."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

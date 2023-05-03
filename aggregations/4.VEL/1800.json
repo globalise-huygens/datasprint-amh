@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1800.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/1cad32bd-ea7c-4122-ad9c-4c4ed37d5d26",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1800.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van plantages aan de Commewijne",
+        "dc:description": "Titel Leupe :  Kaart van eenige plantagien gelegen aan beide oevers van de rivier Commewyne.\nDeze kaart is getekend op verzoek van de heer Cornelis Ad. van Rheelen om de omvang van de plantage Blakkreek weer te geven.\nDeze blijkt 1550 Surinaamse akkers te betreffen (645 hectare), verspreid over drie deelgebieden allen roodgekleurd.\nAanliggende plantages zijn slechts in vorm en kleur weergegeven, deze zijn de plantage Clarenbeek in het geel, de plantage Crawassiboen in het groen en de plantage Inkemonbo of Smirintibo in het blauw.\nDeze plantages liggen schots en scheef door elkaar, maar ter orientati\u00eb heeft de landmeter een kompas getekend dat het noorden als linksboven op de kaart aanduidt.\nDe meting vond plaats op 20 Februari 1735 en is erkend op 24 Januari 1736.\nMet acte van meetinge en aantekeningen.\nHerkomst : [OBP Suriname] 1736 [fols.] 1239-1240\nSchaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 123 strepen.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1800",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "landerij / plantage",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "Groot 0.42 - 0.33 El.",
+        "dcterms:date": "1732",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9755/kaart-van-plantages-aan-de-commewijne"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/10/e7/fa/2a/e1/73/42/e1/81/1d/98/db/7d/9a/48/d8/fc67383b-9d7d-4ebb-80a9-9d36f9dca2aa.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/10/e7/fa/2a/e1/73/42/e1/81/1d/98/db/7d/9a/48/d8/fc67383b-9d7d-4ebb-80a9-9d36f9dca2aa.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1800.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van eenige plantagien gelegen aan beide oevers van de rivier Commewyne."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

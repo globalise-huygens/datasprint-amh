@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1060.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/33f2d401-0123-41a9-a74d-5149df4f69d8",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel1060.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Nota [etc.]",
+        "dc:title": "Profielen van het fort te Gale",
+        "dc:description": "Titel catalogus Leupe (NA): Profils, relatif de projet de 1787.\nNotities verso: Feuille 6e Gale Profils Relatifs aux Projets de 1787 [daarna met potlood nog enkele slecht leesbare getallen, lijkt op 8604 maar kan ook A 4 zijn en daaronder staat:] 74.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1060",
+        "dc:subject": [
+            "vesting",
+            "overzicht / aanzicht",
+            "doorsnede / profiel",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "36,5 x 151 cm",
+        "dcterms:date": "1787",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3098/profielen-van-het-fort-te-gale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/92/37/46/54/92/6b/4e/62/81/c1/9a/92/50/4a/f8/dd/3e2369cc-b269-459e-a960-7ca190d94064.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/92/37/46/54/92/6b/4e/62/81/c1/9a/92/50/4a/f8/dd/3e2369cc-b269-459e-a960-7ca190d94064.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1060.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

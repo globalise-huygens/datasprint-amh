@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1668.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Generale Caart van de Provintie Suriname, rivieren en distrieten, met alle d'ontdekkingen van militaire togten, mitsgaders de groote der gemetene plantagien, gecarteert op de naauwkeurigste waarnemingen."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1668"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1737"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/058ead2e-d644-4bef-b544-ee04c4644cfb\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1668.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1668.json#canvas/p1",
+            "type": "Canvas",
+            "height": 18923,
+            "width": 23079,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1668.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1668.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/49/8b/12/41/74/bc/48/df/a7/5e/b3/c1/9d/13/98/d5/56075ec1-4760-4cf3-aeca-549e1e52914f.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 18923,
+                                "width": 23079,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/49/8b/12/41/74/bc/48/df/a7/5e/b3/c1/9d/13/98/d5/56075ec1-4760-4cf3-aeca-549e1e52914f.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1668.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

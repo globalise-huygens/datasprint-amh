@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/940.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/f7105b34-a4bc-4608-afa6-1a31c57e039c",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0940.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Aanwijsinge van de Eliphants Craal gelegen in het dorp Welancoelaan onder de kerk Ilpecarwe",
+        "dc:title": "Plattegrond van een olifantenkraal in het dorp Welancoelaan, onder de kerk Ilpecarwe",
+        "dc:description": "Titel catalogus Leupe (NA): Aanwijsinge van de Eliphants Craal gelegen in het dorp Welancoelaan onder de kerk Ilpecarwe.\nNotities verso: 1740 N2 / 711 [folionummer in de band ?] / No. 15 [volgnummer van het stuk in de band ?] / 521 g.\nLegenda: A-F",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0940",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "legenda",
+            "omheining / kraal"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "53,5 x 37,5 cm",
+        "dcterms:date": "ca. 1740",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/9170/plattegrond-van-een-olifantenkraal-in-het-dorp-welancoelaan-onder-de"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/63/7c/4a/50/bd/7f/46/16/90/50/fc/95/38/2a/ec/ca/3c3ac80a-2e95-45a2-91d3-92757f50aa89.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/63/7c/4a/50/bd/7f/46/16/90/50/fc/95/38/2a/ec/ca/3c3ac80a-2e95-45a2-91d3-92757f50aa89.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/940.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Aanwysinge van de Eliphants Craal, gelegen in het dorp Welancoelaan, onder de Kerk Ilpecarwe."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

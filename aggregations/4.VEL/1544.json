@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1544.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/2001b8a0-ef4e-4a1d-a090-1740030cd560",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_1544.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "(Verso) Vide receuil Essequibo en Demarary 2e halfjaar anno 1793 no. 9.",
+        "dc:title": "Kaart van Pomeroon",
+        "dc:description": "Titel Leupe: Caerte van Ponmaron.\nDeze kaart van de hernieuwde kolonisatie aan de Pomeroon is gemaakt onder het gouverneurschap van Willem August Sirtema, baron van Grovestins (1791-1795).\n-Gezien de aantekening op verso en het feit dat de nummering van de percelen begint bij 61, gaat het waarschijnlijk om een deel van een grotere kaart in meerdere bladen van de in 1793 bestaande en geplande landerijen langs het kustgedeelte tussen de Demerara en de Pomeroon.\nDe kustpost aan de monding van de Morokokreek (\u2018Morocco Ck\u2019) is ingetekend.\nOnder Brits bestuur zette de economische opgang zich versterkt voort, maar de eerder gemaakte plannen zijn nooit gerealiseerd. Louis Chollet ging in 1805 een maatschap aan met zijn collega-landmeter en plantagebezitter J.H. Wiedeman; zie diens kaart van het kustgebied van Berbice, VEL1575.\nSchaal van 3000 Roeden = 114 strepen. (ca. 1 : 100.000)\nEen kopie, VEL1544A, is niet apart opgenomen in deze database.\nOorsprong: vide receuil Essequibo en Demarary 2e halfjaar anno 1793 no. 9 (met extra potloodverwijzing 1792-1).",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL1544",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos",
+            "landerij / plantage"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "0.22 - 0.33 El. (27 x 43,5 cm)",
+        "dcterms:date": "1793",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/10241/kaart-van-pomeroon"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e9/f3/e7/12/c1/70/4e/33/8b/11/e8/3b/8f/60/52/99/d14aba8f-8995-435f-8849-8f6969459145.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e9/f3/e7/12/c1/70/4e/33/8b/11/e8/3b/8f/60/52/99/d14aba8f-8995-435f-8849-8f6969459145.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1544.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "1e exemplaar"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

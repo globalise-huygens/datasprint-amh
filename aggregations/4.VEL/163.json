@@ -1,0 +1,48 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/163.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/b0a89cb1-5445-498a-94d1-9262c11aca3d",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0163.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "dc:title": "Kaart van de kust van zuidelijk Afrika",
+        "dc:description": "Titel in catalogus Leupe (Nationaal Archief): Kaart van de Kust van Afrika, tusschen Cabo de Bon Esperance en Rio de la Goa.\nRanden en middenvouw geplakt.\nLinks van het midden een windroos.\nRechtsboven genummerd: 7\nMiddenboven en rechts schaalaanduidingen met nummering.\nNotities verso: [een onleesbaar getal in potlood].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0163",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "kompas / windroos"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "52 x 73 cm",
+        "dcterms:date": "1650-1700",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2694/kaart-van-de-kust-van-zuidelijk-afrika"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/b2/ee/be/ad/22/d5/4f/ac/8c/bb/cc/92/8a/7b/07/91/97c323e4-eaf1-4010-a10c-152dd8a752cf.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/b2/ee/be/ad/22/d5/4f/ac/8c/bb/cc/92/8a/7b/07/91/97c323e4-eaf1-4010-a10c-152dd8a752cf.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/163.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Kaart van de Kust van Afrika, tusschen Cabo de Bon Esperance en Rio de la Goa."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

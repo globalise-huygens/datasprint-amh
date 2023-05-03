@@ -1,0 +1,51 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/873.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/68a142b6-1fc1-4782-9a57-a70c24dfcca6",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0873.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Platte grond van 'S E Comps. Nieuwe Logie, synde het geweese huys van den overleden Gouverneur Ette Baarchan, groot 286 roeden streckende met dn eene zyde tegens dn stads wal langs de Souratse Revier",
+        "dc:title": "Plattegrond van de nieuwe loge van de compagie te Soeratte",
+        "dc:description": "Titel catalogus Leupe (NA): Platte grond van 's Ed. Comps. Nieuwe Logie, synde het geweese huys van den overleden Gouverneur Ette Baarchan, enz., streckende met de eene zyde tegens de stadswal langs de Souratse rivier.\nPlattegrond van de omtrek van de nieuwe logeterrein met aangegeven de verschillende poorten in de loge: achter de Armenstraat, bij de Engelse loge, de Mierbarie en de stadsmuur langs de rivier.\nRechts boven: 1031.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0873",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "poort",
+            "gouvernementshuis / -gebouw"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "42 x 54 cm",
+        "dcterms:date": "ca. 1714",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/4064/plattegrond-van-de-nieuwe-loge-van-de-compagie-te-soeratte"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/8a/8d/24/fc/bf/77/4d/76/8e/f3/11/32/eb/df/c0/fa/9a3b4927-f885-48d5-a62e-a7eaa384cb6e.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/8a/8d/24/fc/bf/77/4d/76/8e/f3/11/32/eb/df/c0/fa/9a3b4927-f885-48d5-a62e-a7eaa384cb6e.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/873.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Platte grond van 's Ed. Comp. Nieuwe Logie, synde het geweese huys van den overleden Gouverneur Ette Baarchan enz., streckende met de eene zyde tegens de stadswal langs de Souratse rivier."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

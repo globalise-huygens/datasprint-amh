@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1489.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Generale en speciale kaart der Colonien van de republicq der Ver. Nederl., geleegen in Guyana, langs de Zeekust der rivieren Poumaron, Essequebo, Demerary; van de grensen van Berbice tot de rivier Morocco aan de grens in de Spaansche Bezitting Oronoco."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1489"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1796"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/ca8f7076-03bf-4cd6-9a56-57166b873269\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1489.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1489.json#canvas/p1",
+            "type": "Canvas",
+            "height": 7905,
+            "width": 12251,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1489.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1489.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/b9/81/3b/b3/70/9d/46/5b/b9/1b/8b/83/70/e2/c6/2d/e2088a64-a879-419c-b0b5-33e79bdf41b0.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7905,
+                                "width": 12251,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/b9/81/3b/b3/70/9d/46/5b/b9/1b/8b/83/70/e2/c6/2d/e2088a64-a879-419c-b0b5-33e79bdf41b0.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1489.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

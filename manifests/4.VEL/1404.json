@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1404.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "A New Map of the Western Parts of Virginia, Pennsylvania, Maryland and North Carolina; comprehending the river Ohio, and all the rivers which fall into it etc."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1404"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1778"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/41436e0d-6de3-4296-bf95-b2364216e3a4\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1404.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1404.json#canvas/p1",
+            "type": "Canvas",
+            "height": 11832,
+            "width": 14699,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1404.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1404.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/c9/a7/bb/bf/eb/2a/4a/b7/bd/c1/ca/49/e1/c4/51/de/9b2cbe36-8a4b-468e-af3e-828e08356406.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 11832,
+                                "width": 14699,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/c9/a7/bb/bf/eb/2a/4a/b7/bd/c1/ca/49/e1/c4/51/de/9b2cbe36-8a4b-468e-af3e-828e08356406.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1404.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

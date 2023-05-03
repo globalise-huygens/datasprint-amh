@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/902.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/7eae3daa-347d-4f29-acd7-566a979c6727",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0902.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Plan der stadt en fortres Cochim",
+        "dc:title": "Plattegrond van de stad en het fort van Cochin",
+        "dc:description": "Titel catalogus Leupe (NA): Plan als voren, gewyzigd 2 april 1767, hier wordt bedoeld de titel van VEL0901: Plan der Stadt en Fortres, sodanig als hetselve geleegen was in de Maand February 1767, benevens een gedeelte van Baypin, zoodanig als hetzelve ook geleegen was den 1 maart 1767, met deszelfs strekking op de ware distantie enz..\nLegenda: niet aanwezig, wel cijfers aangegeven\nPlattegrond van de vestingwerken aangelegd in 1767.\nIncompleet, \u00e9\u00e9n blad ontbreekt.\nNotities verso: nr. 3; 617.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0902",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "60 x 98 cm",
+        "dcterms:date": "2 april 1767",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2821/plattegrond-van-de-stad-en-het-fort-van-cochin"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/54/de/b6/95/75/7d/49/19/84/da/43/fc/79/08/d9/53/7cb87017-11eb-437d-87a6-1b3287f274f1.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/54/de/b6/95/75/7d/49/19/84/da/43/fc/79/08/d9/53/7cb87017-11eb-437d-87a6-1b3287f274f1.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/902.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Gedeelte van den uytersten hoek van Baypin enz, dezelfde gelegenheid van tuynen, wildernis of ledig land en 't Zeestrand, gewyzigd 2 april 1767."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

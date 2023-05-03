@@ -1,0 +1,50 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/247.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/3dc11ba4-6f8d-4ede-9c8e-6613031a67e1",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0247.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Haven of Baay van Gale,",
+        "dc:title": "Haven of baai van Gale",
+        "dc:description": "Titel catalogus Leupe (NA): Haven of Baai van Gale.\nTopografische namen vermeld op deze kaart: Magalle, Tangalmoelle, Wacgalmodere, Calenburg, Herkules, Klossenburg, Dangiddere, den Berg van Oenewatte.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0247",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "rede / haven / pier",
+            "banderol / cartouche / versiering"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "750 x 535 mm",
+        "dcterms:date": "18e eeuw",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/3028/haven-of-baai-van-gale"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/c1/9d/f0/a7/5b/c2/46/3d/99/cb/01/7e/70/44/62/af/e0ec6c12-8238-446d-96be-1fae4558605c.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/c1/9d/f0/a7/5b/c2/46/3d/99/cb/01/7e/70/44/62/af/e0ec6c12-8238-446d-96be-1fae4558605c.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/247.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Haven of Baai van Gale."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

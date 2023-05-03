@@ -1,0 +1,59 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/781.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/a44e6f09-e657-44f2-b048-58e6a0130b84",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/4_vel_781.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "casteel St: George Delmina & het Fort conraatsburg De Berg St. Jago alsmeede het Dorp Eddona",
+        "dc:title": "Plattegrond van Elmina met de forten St. George en Coenraadsburg",
+        "dc:description": "Plattegrond van Elmina met de forten St. George en Coenraadsburg.\nTitel catalogus Leupe (NA) Plan van het Casteel St. George Delmina en het Fort Coenraadsburg, de berg St. Jago asmede het dorp Eddona, opgenomen door:.\ncasteel St: George Delmina & het Fort conraatsburg De Berg St. Jago alsmeede het Dorp Eddona.\nLegenda: 1-19; a-t.\nIn de hoeken: 781 [in potlood].\nRechtsboven: No: LII.\nNotities verso: no. 3 reg. 8. / 475 [met vette cijfers gestempeld op een etiketje] / Ingek. 7 Julij 1803.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0781",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "huis / woonhuis",
+            "vesting",
+            "flora",
+            "legenda",
+            "rede / haven / pier",
+            "gebouw",
+            "kompas / windroos",
+            "brug",
+            "pakhuis",
+            "kerk / pastorie",
+            "tuin / siertuin"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "48,5 x 69 cm",
+        "dcterms:date": "1799",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/1121/plattegrond-van-elmina-met-de-forten-st.-george-en-coenraadsburg"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/bf/ad/43/d3/eb/ca/49/b0/a1/23/db/ad/9d/1e/d8/f1/2e3cf503-af1a-4627-b8f4-9bc0167918d2.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/bf/ad/43/d3/eb/ca/49/b0/a1/23/db/ad/9d/1e/d8/f1/2e3cf503-af1a-4627-b8f4-9bc0167918d2.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/781.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan van het Casteel St. George Delmina en het Fort Coenraadsburg, de berg St. Jago, alsmede het dorp Eddona, opgenomen door:"
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

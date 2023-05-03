@@ -1,0 +1,49 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/2042.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/90c750b9-d84c-4399-8af7-245007f82144",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/nl_hana_4_vel_2042.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Verklaringen: [rechtsonder] een legenda bij de letters a t/m l : \nExplanations: [lower right] a key to the letters a to l : \na.a.a. Battery van 9 Stukke 12 lb:ders. \nb.b.b. Battery van 9 Stukke d:o. \nc.c. Twee batteryen ijder van Een stuk 4 \u00e0 6 lb. \nd.d. Plaats voor de Afdakken der batterij gereedschap. \ne. Officiers Huis. \nf. Keuke en Magas: voor d:o. \ng. Quartier voor 75 Mann. \nh. Keuke en Water magas: voor het quartier. \ni. Wagt & Proviant magasijn. \nk. Provost. \nl. Buite Wagt.",
+        "dc:title": "Kaart van de redoute Purmerend",
+        "dc:description": "Titel Leupe: Redoute Purmerent.\nIn aanvulling op Fort Nieuw Amsterdam was in het in 1733 opgestelde plan voor de verbetering van de verdediging van Suriname voorzien in de aanleg van twee hulpforten op de tegenoverliggende oevers aan de mondingen van de Suriname en de Commewijne. De eerste daarvan, de aarden redoute Purmerend aan de westoever van de Suriname, werd in 1748 begonnen naar een ontwerp van de vaandrig Andries Lodewijk (Andreas Ludovicus) Calvi, tussen 1744 en 1754 de functie 'waarnemend inspecteur der fortificati\u00ebn'. Deze plattegrond toont Calvi\u2019s ontwerp uit 1748 of iets daarvoor. Batterijen, verblijven en andere gebouwen zijn allen aangeduid. Eenmaal in dienst gesteld, bleek de redoute Purmerend op een aantal punten niet goed te voldoen. Zo had Calvi aan de rivierkant twee tenailles laten aanleggen waarvan de punten eigenlijk te klein waren om met voldoende geschut te worden bezet, terwijl de gracht en voorwal met glacis zo dicht op de oever als overbodig werd ervaren.\nHet noorden is linksboven.\nSchaalstok van 100 Voete Rhijnlands = [ca. 1 : 540].",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL2042",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vesting"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "pen",
+        "dcterms:extent": "43 x 54 cm.",
+        "dcterms:date": "1745-1748",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2228/kaart-van-de-redoute-purmerend"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/5f/cc/64/cb/55/d9/45/29/ab/b9/7d/eb/f0/b5/3d/f6/a51e0752-65ef-497a-8996-2574d8412e8b.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/5f/cc/64/cb/55/d9/45/29/ab/b9/7d/eb/f0/b5/3d/f6/a51e0752-65ef-497a-8996-2574d8412e8b.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2042.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Redoute Purmerent."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

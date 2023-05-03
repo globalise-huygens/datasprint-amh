@@ -1,0 +1,54 @@
+{
+    "@context": "https://globalise-huygens.github.io/datasprint-amh/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/910.json",
+    "type": "ore:Aggregation",
+    "edm:aggregatedCHO": {
+        "id": "http://hdl.handle.net/10648/d3704a19-e4fd-41a9-ac2e-827d1d2f3a90",
+        "type": [
+            "edm:ProvidedCHO",
+            "schema:Map"
+        ],
+        "image": "https://www.atlasofmutualheritage.nl/image/2022/4/21/vel0910.jpg%28mediaclass-meta-tag-image.4b190bfcc55e159332679890b17bd2261ced7954%29.jpg",
+        "schema:text": "Sesde blad behoorende tot de memorie over de defensie van Cochim. / Plan der vestingwerken, van Cochim; vertoonende dezelven in dien Staat, waarin zij bevinden zullen, wenneer de in de Memorie voorgestelde Verbeeteringen, daaraan ter Uitvoer zullen zijn gebragt.",
+        "dc:title": "Plattegrond van de vestingwerken van Cochin",
+        "dc:description": "Titel catalogus Leupe (NA]: Plan als voren, hier wordt bedoeld de titel van VEL0909: Plan der Vestingwerken van Cochim; vertoonende dezelven in dien staat, waarin ze zig bevinden zullen, wanneer de voorgestelde verbeteringen, daNAan ten uitvoer zullen zyn gebragt.\nBijschrift Catalogus leupe: Behoort bij de rapporten van de militaire commissie naar de Oost 1789-1792, o.l.v. J.O. Vaillant, C.A. Verhuell en J.F.L. van Gravenstein. Zie NA Staatssecretarie inv. nr. 1910-1932; Collectie Verhuell nrs. 7-45.\nLegenda: a-x\nTopografische namen vermeld op deze kaart: bolwerk Gelderland, bolwerk Utregt, bolwerk Vriesland, bolwerk Groningen, Overijssel, Stroomburg.",
+        "dc:type": "tekening",
+        "dc:identifier": "VEL0910",
+        "dc:subject": [
+            "plattegrond / kaart",
+            "vogelvlucht / opstand",
+            "opstand / vogelvlucht",
+            "vesting",
+            "ziekenhuis / lazaret",
+            "begraafplaats / kerkhof",
+            "legenda"
+        ],
+        "dc:language": "nl",
+        "dcterms:medium": "papier",
+        "edmfp:technique": "ingekleurde tekening",
+        "dcterms:extent": "50 x 88 cm",
+        "dcterms:date": "ca. 1790",
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": "https://www.atlasofmutualheritage.nl/page/2827/plattegrond-van-de-vestingwerken-van-cochin"
+    },
+    "edm:isShownBy": {
+        "id": "https://service.archief.nl/iip/e0/2f/0c/40/5a/03/4c/c5/a0/b7/0a/ec/ec/1c/92/3f/2e99d531-85be-4ed0-a813-21b4d6579411.jp2/full/full/0/default.jpg",
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": "https://service.archief.nl/iip/e0/2f/0c/40/5a/03/4c/c5/a0/b7/0a/ec/ec/1c/92/3f/2e99d531-85be-4ed0-a813-21b4d6579411.jp2",
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json"
+        },
+        "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "isReferencedBy": {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/910.json",
+            "type": "iiif:Manifest",
+            "rdfs:label": "Plan der Vestingwerken van Cochim."
+        }
+    },
+    "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+    "edm:provider": "Nationaal Archief",
+    "edm:rights": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

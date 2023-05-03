@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/345.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Kaart van de Indische Oost. (Van Straat Soenda, om de Noord tot de Golf van Siam, alle de Eilanden beoosten Sumatra tot Halmabera, en benoorden tot Mindanao enz.)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "none": [
+                    "345"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1717"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "none": [
+                    "<a href=\"http://hdl.handle.net/10648/8d857043-139b-48c3-bc8d-c5534a8f8ac3\"></a>"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/345.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/345.json#canvas/p1",
+            "type": "Canvas",
+            "height": 9652,
+            "width": 11446,
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/345.json#canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/345.json#canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/fd/ff/83/0c/5e/5a/49/fc/bd/55/f3/c4/a9/38/db/0f/47d29c20-76fe-4540-ba72-491715f73955.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 9652,
+                                "width": 11446,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/fd/ff/83/0c/5e/5a/49/fc/bd/55/f3/c4/a9/38/db/0f/47d29c20-76fe-4540-ba72-491715f73955.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/345.json#canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
