@@ -20,15 +20,15 @@ with open("data/4.VEL_metadata.json") as infile:
 
 
 def get_rdf(
-    cho_id,
-    aggregation_filename,
-    aggregation_id,
-    metadata,
-    iiif_service,
-    manifest_id,
-    manifest_label,
-    license_id,
-):
+    cho_id: str,
+    aggregation_filename: str,
+    aggregation_id: str,
+    metadata: dict,
+    iiif_service: str,
+    manifest_id: str,
+    manifest_label: str,
+    license_id: str,
+) -> dict:
     iiif_default_url = iiif_service + "/full/full/0/default.jpg"  # IIIF2
 
     cho = {
@@ -105,7 +105,9 @@ def get_rdf(
     return aggregation
 
 
-def make_collection(collection_number, metadata_file, base_url, language="nl"):
+def make_collection(
+    collection_number: str, metadata_file: str, base_url: str, language: str = "nl"
+) -> iiif_prezi3.Collection:
     collection_filename = f"manifests/{collection_number}.json"
     collection_id = base_url + collection_filename
 
@@ -135,12 +137,12 @@ def make_collection(collection_number, metadata_file, base_url, language="nl"):
 
 
 def make_manifest(
-    inventory_number,
-    collection_number,
-    metadata,
-    base_url,
-    license_id="https://creativecommons.org/publicdomain/mark/1.0/",
-):
+    inventory_number: str,
+    collection_number: str,
+    metadata: dict,
+    base_url: str,
+    license_id: str = "https://creativecommons.org/publicdomain/mark/1.0/",
+) -> iiif_prezi3.Manifest:
     manifest_filename = f"manifests/{collection_number}/{inventory_number}.json"
     manifest_id = base_url + manifest_filename
 
@@ -182,7 +184,7 @@ def make_manifest(
     return manifest
 
 
-def main(metadata_file, collection_number, base_url):
+def main(metadata_file: str, collection_number: str, base_url: str) -> None:
     collection = make_collection(
         collection_number,
         metadata_file,
