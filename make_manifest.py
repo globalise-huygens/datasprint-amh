@@ -101,7 +101,9 @@ def make_collection(
     collection.label = {"en": ["Leupe Collection"]}
 
     manifests = []
-    for inventory_number, metadata in metadata_file:
+    for n, (inventory_number, metadata) in enumerate(metadata_file, 1):
+        print(f"Processing {n}/{len(metadata_file)}", end="\r")
+
         manifest = make_manifest(
             inventory_number,
             collection_number,
@@ -150,6 +152,20 @@ def make_manifest(
     manifest = iiif_prezi3.Manifest(
         id=manifest_id,
         label=title,
+        metadata=[
+            iiif_prezi3.KeyValueString(
+                label="Identifier",
+                value={"none": [inventory_number]},
+            ),
+            iiif_prezi3.KeyValueString(
+                label="Date",
+                value={"none": [date]},
+            ),
+            iiif_prezi3.KeyValueString(
+                label="Permalink",
+                value={"none": [f'<a href="{handle}"></a>']},
+            ),
+        ],
         seeAlso=[ore_aggregation],
         rights=license_id,
     )
