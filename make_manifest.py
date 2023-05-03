@@ -1,7 +1,7 @@
 import os
 import json
 import iiif_prezi3
-from rdflib import Namespace
+from rdflib import ConjunctiveGraph
 
 with open("data/inventory2info.json", "r") as infile:
     inventory2info = json.load(infile)
@@ -18,46 +18,181 @@ with open("data/inventory2date.json", "r") as infile:
 with open("data/4.VEL_metadata.json") as infile:
     metadata_VEL = json.load(infile)
 
-# Namespaces
-BASE_URL = Namespace("https://globalise-huygens.github.io/datasprint-amh/")
 
-# Config
-collection_number = "4.VEL"
-collection_filename = f"manifests/{collection_number}.json"
-collection_id = BASE_URL.term(collection_filename)
+def get_rdf(
+    cho_id,
+    aggregation_filename,
+    aggregation_id,
+    metadata,
+    iiif_service,
+    manifest_id,
+    manifest_label,
+    license_id,
+):
+    iiif_default_url = iiif_service + "/full/full/0/default.jpg"  # IIIF2
 
-os.makedirs(f"manifests/{collection_number}", exist_ok=True)
-iiif_prezi3.config.configs["helpers.auto_fields.AutoLang"].auto_lang = "nl"
+    cho = {
+        "id": cho_id,
+        "type": ["edm:ProvidedCHO", "schema:Map"],
+        "image": metadata["og:image"],
+        "schema:text": metadata["inscription"],
+        "dc:title": metadata["og:title"],
+        "dc:description": "\n".join(metadata["comments"]),
+        "dc:type": metadata["kind"],
+        "dc:identifier": metadata["number"],
+        "dc:subject": metadata["tags"],
+        "dc:language": "nl",
+        "dcterms:medium": metadata["material"],
+        "edmfp:technique": metadata["technique"],
+        "dcterms:extent": metadata["dimension"],
+        "dcterms:date": metadata["period"],
+        "dcterms:provenance": "Nationaal Archief",
+        "dcterms:isPartOf": "Atlas of Mutual Heritage",
+        "seeAlso": metadata["og:url"].replace("/nl/page/", "/page/"),
+    }
 
-# Collection
-collection = iiif_prezi3.Collection(id=collection_id)
-collection.label = {"en": ["Leupe Collection"]}
+    webResource = {
+        "id": iiif_default_url,
+        "type": "edm:WebResource",
+        "svcs:has_service": {
+            "id": iiif_service,
+            "type": "svcs:Service",
+            "profile": "http://iiif.io/api/image",
+            "implements": "http://iiif.io/api/image/2/level1.json",  # Original says "http://iiif.io/api/image/2/level1"?
+        },
+        "rights": license_id,
+        "isReferencedBy": {
+            "id": manifest_id,
+            "type": "iiif:Manifest",
+            "rdfs:label": manifest_label,
+        },
+    }
 
-# Manifest
-for inventory_number, metadata in metadata_VEL[:1]:
+    aggregation = {
+        "@context": {
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+            "iiif": "http://iiif.io/api/presentation/3#",
+            "edm": "http://www.europeana.eu/schemas/edm/",
+            "ore": "http://www.openarchives.org/ore/terms/",
+            "schema": "https://schema.org/",
+            "dc": "http://purl.org/dc/elements/1.1/",
+            "dcterms": "http://purl.org/dc/terms/",
+            "edmfp": "http://www.europeanafashion.eu/edmfp/",
+            "svcs": "http://rdfs.org/sioc/services#",
+            "implements": {
+                "@type": "@id",
+                "@id": "http://usefulinc.com/ns/doap#implements",
+            },
+            "profile": {"@type": "@vocab", "@id": "dcterms:conformsTo"},
+            "isReferencedBy": {"@type": "@id", "@id": "dcterms:isReferencedBy"},
+            "seeAlso": {"@type": "@id", "@id": "rdfs:seeAlso"},
+            "image": {"@type": "@id", "@id": "schema:image"},
+            "id": "@id",
+            "type": "@type",
+        },
+        "id": aggregation_id,
+        "type": "ore:Aggregation",
+        "edm:aggregatedCHO": cho,
+        "edm:isShownBy": webResource,
+        "edm:dataProvider": "Rijksdienst voor het Cultureel Erfgoed",
+        "edm:provider": "Nationaal Archief",
+        "edm:rights": license_id,
+    }
+
+    with open(aggregation_filename, "w") as outfile:
+        json.dump(aggregation, outfile, indent=4)
+
+    return aggregation
+
+
+def make_collection(collection_number, metadata_file, base_url, language="nl"):
+    collection_filename = f"manifests/{collection_number}.json"
+    collection_id = base_url + collection_filename
+
+    os.makedirs(f"manifests/{collection_number}", exist_ok=True)
+    os.makedirs(f"aggregations/{collection_number}", exist_ok=True)
+
+    iiif_prezi3.config.configs["helpers.auto_fields.AutoLang"].auto_lang = language
+
+    collection = iiif_prezi3.Collection(id=collection_id)
+    collection.label = {"en": ["Leupe Collection"]}
+
+    manifests = []
+    for inventory_number, metadata in metadata_file[:10]:  # DEBUG
+        manifest = make_manifest(
+            inventory_number,
+            collection_number,
+            metadata,
+            base_url,
+        )
+        manifests.append(manifest)
+        collection.add_item(manifest)
+
+    with open(collection_filename, "w") as outfile:
+        outfile.write(collection.json(indent=4))
+
+    return collection
+
+
+def make_manifest(
+    inventory_number,
+    collection_number,
+    metadata,
+    base_url,
+    license_id="https://creativecommons.org/publicdomain/mark/1.0/",
+):
     manifest_filename = f"manifests/{collection_number}/{inventory_number}.json"
-    manifest_id = BASE_URL.term(manifest_filename)
+    manifest_id = base_url + manifest_filename
+
+    aggregation_filename = f"aggregations/{collection_number}/{inventory_number}.json"
+    aggregation_id = base_url + aggregation_filename
 
     handle = inventory2handle[inventory_number]
-    info_json = inventory2info[inventory_number].replace("/info.json", "")
+    iiif_service = inventory2info[inventory_number].replace("/info.json", "")
     title = inventory2title[inventory_number]
     date = inventory2date[inventory_number]
 
-    manifest = iiif_prezi3.Manifest(label=title, id=manifest_id)
+    ore_aggregation = get_rdf(
+        cho_id=handle,
+        aggregation_filename=aggregation_filename,
+        aggregation_id=aggregation_id,
+        metadata=metadata,
+        iiif_service=iiif_service,
+        manifest_id=manifest_id,
+        manifest_label=title,
+        license_id=license_id,
+    )
+
+    manifest = iiif_prezi3.Manifest(
+        id=manifest_id,
+        label=title,
+        seeAlso=[ore_aggregation],
+        rights=license_id,
+    )
     canvas = manifest.make_canvas_from_iiif(
-        url=info_json,
+        url=iiif_service,
         id=f"{manifest_id}#canvas/p1",
         anno_id=f"{manifest_id}#canvas/p1/anno",
         anno_page_id=f"{manifest_id}#canvas/p1/annotationpage",
     )
 
-    collection.add_item(manifest)  # Just a ref!
-
     with open(manifest_filename, "w") as outfile:
-        outfile.write(manifest.json(indent=2))
+        outfile.write(manifest.json(indent=4))
 
-with open(collection_filename, "w") as outfile:
-    outfile.write(collection.json(indent=2))
+    return manifest
+
+
+def main(metadata_file, collection_number, base_url):
+    collection = make_collection(
+        collection_number,
+        metadata_file,
+        base_url,
+    )
+
 
 if __name__ == "__main__":
-    pass
+    main(
+        metadata_file=metadata_VEL,
+        collection_number="4.VEL",
+        base_url="https://globalise-huygens.github.io/datasprint-amh/",
+    )
