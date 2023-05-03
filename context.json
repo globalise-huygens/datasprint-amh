@@ -1,0 +1,36 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "iiif": "http://iiif.io/api/presentation/3#",
+        "edm": "http://www.europeana.eu/schemas/edm/",
+        "ore": "http://www.openarchives.org/ore/terms/",
+        "schema": "https://schema.org/",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "dcterms": "http://purl.org/dc/terms/",
+        "edmfp": "http://www.europeanafashion.eu/edmfp/",
+        "svcs": "http://rdfs.org/sioc/services#",
+        "implements": {
+            "@type": "@id",
+            "@id": "http://usefulinc.com/ns/doap#implements"
+        },
+        "profile": {
+            "@type": "@vocab",
+            "@id": "dcterms:conformsTo"
+        },
+        "isReferencedBy": {
+            "@type": "@id",
+            "@id": "dcterms:isReferencedBy"
+        },
+        "seeAlso": {
+            "@type": "@id",
+            "@id": "rdfs:seeAlso"
+        },
+        "image": {
+            "@type": "@id",
+            "@id": "schema:image"
+        },
+        "id": "@id",
+        "type": "@type"
+    }
+}
