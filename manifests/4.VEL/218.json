@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "218"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1634"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/1746bde0-8dd6-4ac8-9469-0b8a817b314e\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de rede voor de stad Mocha<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van de Reede voor de Stad Mocha, met een gezigt op de Stad.<br>Geschenk van het gemeentebestuur Rotterdam, waarschijnlijk in 1866.<br>Notitie op kaart: vgl. missieve minister BiZa d.d. 5-2-1866 nr. 277 3e afd. ingekomen nr. 28.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5691/kaart-van-de-rede-voor-de-stad-mocha\">https://www.atlasofmutualheritage.nl/page/5691/kaart-van-de-rede-voor-de-stad-mocha</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/218.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/218.json/canvas/p1",
             "type": "Canvas",
             "height": 5561,
             "width": 6976,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/218.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/218.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/218.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/218.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/218.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/218.json/canvas/p1"
                         }
                     ]
                 }

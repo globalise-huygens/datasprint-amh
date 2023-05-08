@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1200"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1763"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/746082e2-182d-4406-b2c8-01793b3a2ebb\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond en profielen van het kasteel Batavia<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Platte grond van de nieuwe gordijnen met de twee Corps de Gardes.<br>Op de randen geplakt, maar in het midden is een lange strook weer losgeraakt zodat daar een grote scheur zit.<br>Notities verso: (\u00dd1764) [in potlood] / 1764 [in potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/459/plattegrond-en-profielen-van-het-kasteel-batavia\">https://www.atlasofmutualheritage.nl/page/459/plattegrond-en-profielen-van-het-kasteel-batavia</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1200.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1200.json/canvas/p1",
             "type": "Canvas",
             "height": 6343,
             "width": 17494,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1200.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1200.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1200.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1200.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1200.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1200.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "720"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/870fb2c2-334d-4927-8844-44d5d5233f31\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van het fort Monte Calvare nabij Sao Luis<br>\n    <strong>Description</strong>: Plattegrond van het fort Monte Calvare nabij Sao Luis.<br>Titel Catalogus Leupe (NA): Kaart van Rio Tapicuru.<br>AET Ft Monte Calvare / Aent Hanegn vanden Bergh.<br>Cf. Koninklijke Bibliotheek, Den Haag, inv. nr. 1043 B 14, na p. 240 no. 53.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2247/plattegrond-van-het-fort-monte-calvare-nabij-sao-luis\">https://www.atlasofmutualheritage.nl/page/2247/plattegrond-van-het-fort-monte-calvare-nabij-sao-luis</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/720.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/720.json/canvas/p1",
             "type": "Canvas",
             "height": 9644,
             "width": 7311,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/720.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/720.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/720.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/720.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/720.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/720.json/canvas/p1"
                         }
                     ]
                 }

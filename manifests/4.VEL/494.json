@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "494"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/bac4b1cd-c9cb-48c6-aadc-83306a1d62da\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de noordwesthoek van Nova Guinea<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Zuidwesthoek [moet zijn: noordwesthoek] van Nova-Guinea, waarop de trek der voyagie van Johannes Keyts, en die van Augustyn Dirks met de Pisang, in 1678 en 1679.<br>Rechtsboven genummerd: 44.<br>De achterkant is beplakt met een vel papier.<br>Notities verso: De Noortwest-hoek van Nova Guinea [leesbaar in een uitsparing van het vel papier].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4216/kaart-van-de-noordwesthoek-van-nova-guinea\">https://www.atlasofmutualheritage.nl/page/4216/kaart-van-de-noordwesthoek-van-nova-guinea</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json/canvas/p1",
             "type": "Canvas",
             "height": 6370,
             "width": 8965,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json/canvas/p1"
                         }
                     ]
                 }

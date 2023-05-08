@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "448"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1500/1600"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/86b69a9b-2ca4-4045-9780-4c298f7f0b32\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de kust van Sumbawa<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van de Bogt van Sumbawa tot aan die van Bima, met het eilandje Goenong Api..<br>Uit VOC 456.<br>Behoort tot de tweede reis van Van Neck 1598-1600.<br>Linksboven bevindt zich de maatverhouding in mylen.<br>Topografische namen in het Maleis vermeld.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5637/kaart-van-de-kust-van-sumbawa\">https://www.atlasofmutualheritage.nl/page/5637/kaart-van-de-kust-van-sumbawa</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json/canvas/p1",
             "type": "Canvas",
             "height": 3952,
             "width": 5114,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/448.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "135"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/f345a27b-826f-46ce-b6f4-e7e80833f354\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Karat van West-Afrika, Van Sierra Leone tot Caap Formosa<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): _Nieuwe en naauwkeurige Paskaart van de Guineesche Goud-, Tand<br>en Slavekust, strekkende van Sierra Lionis tot aan Caap Formosa_.<br>Uitgegeven door Johannes van Keulen.<br>De kaart is op blauw papier geplakt.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/6027/karat-van-west-afrika-van-sierra-leone-tot-caap-formosa\">https://www.atlasofmutualheritage.nl/page/6027/karat-van-west-afrika-van-sierra-leone-tot-caap-formosa</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/135.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/135.json/canvas/p1",
             "type": "Canvas",
             "height": 7508,
             "width": 14358,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/135.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/135.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/135.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/135.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/135.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/135.json/canvas/p1"
                         }
                     ]
                 }

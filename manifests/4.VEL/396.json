@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "396"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/ecfad0f7-6fd2-4152-9c84-70245b02ecc2\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart met peilingen in de rivier van Batavia<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart als voren, hiermee wordt bedoeld de kaart van VEL0388: Kaarten van gedane peilingen op de bank voor de Rivier.<br>Peildatum: 12 oktober.<br>Notities verso: Kaart vande peijling vande Zandbank voor de Bataviase groote Rivier den 12e october 1719 [deze tekst vrijwel identiek twee keer, zowel links als rechts] /     Behoort by de overgekomen Brieven en Papieren van Batavia 1720 2 deel / 998 [folionummer in de band ?] / No. 33 [volgnummer van het stuk in de band ?] / 268 [in potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3584/kaart-met-peilingen-in-de-rivier-van-batavia\">https://www.atlasofmutualheritage.nl/page/3584/kaart-met-peilingen-in-de-rivier-van-batavia</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/396.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/396.json/canvas/p1",
             "type": "Canvas",
             "height": 6395,
             "width": 8897,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/396.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/396.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/396.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/396.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/396.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/396.json/canvas/p1"
                         }
                     ]
                 }

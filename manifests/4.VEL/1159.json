@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1159"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1700/1800"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/f359d422-53a7-43b3-b81c-37257a17330e\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van een deel van de noordkust van Java, deel 1<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van een gedeelte van het Eiland Java: aan de Noordkust, van de rivier Tsippara tot aan Soengi Karakahan, en aan de Zuidkust, van Soekapoera tot de Zoute rivier.<br>Notities verso: No. 18. Cheribon en de Preanger Landen / d 602.<br>Zes bladen gezamenlijk.<br>Zie ook Nationaal Archief, inv.nr. VEL1159_2.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4269/kaart-van-een-deel-van-de-noordkust-van-java-deel-1\">https://www.atlasofmutualheritage.nl/page/4269/kaart-van-een-deel-van-de-noordkust-van-java-deel-1</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1159.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1159.json/canvas/p1",
             "type": "Canvas",
             "height": 17426,
             "width": 12547,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1159.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1159.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1159.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1159.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1159.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1159.json/canvas/p1"
                         }
                     ]
                 }

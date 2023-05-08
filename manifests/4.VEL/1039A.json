@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1039A"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/4d966efb-0bac-4aaf-af7e-864114602a33\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Profielen van fort Oostenburg<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Plan d'Ostenbourg, relatif au project de mr. Reimer.<br>Notities verso: Feuille 16e. Ostimbourg Profils Relatifs aux Projets de 1787. / 568 [in potlood].<br>Vijf doorsnedes van fort Oostenburg en de heuvel waarop het is gebouwd.<br>Rechtsonder is de schaalverdeling Echelle de 50 Roudes ou de 100 Toises Rijnlandes.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/597/profielen-van-fort-oostenburg\">https://www.atlasofmutualheritage.nl/page/597/profielen-van-fort-oostenburg</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039A.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039A.json/canvas/p1",
             "type": "Canvas",
             "height": 4400,
             "width": 18180,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039A.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039A.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039A.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039A.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039A.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1039A.json/canvas/p1"
                         }
                     ]
                 }

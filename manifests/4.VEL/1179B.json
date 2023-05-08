@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1179B"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/64b5a84a-0553-4678-b57a-ed0e9f2134fc\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van Batavia en omstreken<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Afbeelding van de stadt Batavia, met het Leeger daerom leggende; gedaen ende uytgegeven door:.<br>In potlood genummerd 1179.<br>Op de kaart staat de aantekening dese Cleyne caerte is Corrext, waarschijnlijk een bijschrift van Hessel Gerritsz.<br>In de catalogus Leupe is een verwijzing naar een catalogus van een tentoonstelling Amsterdam 1919 bijgeschreven, alsmede Gravure als copie in F Valentyn en KA 1008 ?.<br>Notities verso: Affteeckeninge vant belegh der stad Batavia a 1629 /a [of o] 823 [in potlood] / 50 R. R op 1 duim schaal = rond 1 : 7200 [in potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3415/plattegrond-van-batavia-en-omstreken\">https://www.atlasofmutualheritage.nl/page/3415/plattegrond-van-batavia-en-omstreken</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1179B.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1179B.json/canvas/p1",
             "type": "Canvas",
             "height": 3894,
             "width": 5106,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1179B.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1179B.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1179B.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1179B.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1179B.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1179B.json/canvas/p1"
                         }
                     ]
                 }

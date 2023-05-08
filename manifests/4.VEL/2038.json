@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "2038"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1778"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/2a561f08-ba13-49e2-b736-3ff500098cad\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van fort Nieuw Amsterdam<br>\n    <strong>Description</strong>: Titel Leupe: Plan van 't fortresse Nieuw Amsterdam.<br>Deze gedetailleerde kaart van het fort Nieuw-Amsterdam fort is lang na het voltooien van de herbouw ervan getekend. Hij is door de daar gelegerde officier Hurter als overzichtswerk en wegwijzer binnen het fort bedoeld. Het resultaat is een van de meest complete kaarten van het fort. Naast de bastions zijn ook alle gebouwen voorzien van referenties; van het magazijn tot de bakkerij.<br>Schaal van 100 Rijnlandse roeden = 370 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2024/kaart-van-fort-nieuw-amsterdam\">https://www.atlasofmutualheritage.nl/page/2024/kaart-van-fort-nieuw-amsterdam</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2038.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2038.json/canvas/p1",
             "type": "Canvas",
             "height": 11292,
             "width": 10833,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2038.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2038.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2038.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2038.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2038.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2038.json/canvas/p1"
                         }
                     ]
                 }

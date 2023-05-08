@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "164"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1660"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/a4357c9a-0d3e-4056-860f-45cebbfb38bd\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de kusten van de Saldanabaai tot de Baai Fals<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart als voren, hiermee wordt bedoeld de titel van VEL0165: Kaart van de Kust en eenige baayen aan de Kaap de Goede Hoop, tusschen de Saldanha Bay en Vleisbay.<br>Bijzonderheden: de kaart is op blauw papier geplakt.<br>Notities verso: XXV.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5229/kaart-van-de-kusten-van-de-saldanabaai-tot-de-baai-fals\">https://www.atlasofmutualheritage.nl/page/5229/kaart-van-de-kusten-van-de-saldanabaai-tot-de-baai-fals</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/164.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/164.json/canvas/p1",
             "type": "Canvas",
             "height": 6385,
             "width": 11246,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/164.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/164.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/164.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/164.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/164.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/164.json/canvas/p1"
                         }
                     ]
                 }

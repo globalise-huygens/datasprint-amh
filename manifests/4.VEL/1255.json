@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1255"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/e79e6565-bb0a-4c4a-8fce-c08f272c616f\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond in vogelvlucht van de vesting Missier<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): De Vesting Missier en desselfs Buyten-wercken, by den Ed. Comp. verovert onder het beleyd van den Comm:o Couper, op 16 december 1681.<br>Rechts boven genummerd: 5.d.<br>Notities verso: N 4 : 12 [in potlood] / 626 a.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/6319/plattegrond-in-vogelvlucht-van-de-vesting-missier\">https://www.atlasofmutualheritage.nl/page/6319/plattegrond-in-vogelvlucht-van-de-vesting-missier</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1255.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1255.json/canvas/p1",
             "type": "Canvas",
             "height": 6319,
             "width": 8779,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1255.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1255.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1255.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1255.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1255.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1255.json/canvas/p1"
                         }
                     ]
                 }

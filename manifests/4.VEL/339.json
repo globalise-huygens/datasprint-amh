@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "339"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1500/1600"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/bace0d7c-1518-48b2-a45d-7444e113ebdd\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de Straat van Soenda<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van een gedeelte van de Kust van Sumatra, van den Vlakken Hoek tot Ganday (de Varkenshoek), en van Java een klein gedeelte tot aan de bogt van Bantam..<br>Uit VOC 456.<br>Behoort tot de schepen tweede reis van Van Neck 1598-1600.<br>Met landverkenningen van de Kust van Sumatra en Java.<br>Notities verso: Sumatra Straat Soenda.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2469/kaart-van-de-straat-van-soenda\">https://www.atlasofmutualheritage.nl/page/2469/kaart-van-de-straat-van-soenda</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/339.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/339.json/canvas/p1",
             "type": "Canvas",
             "height": 5069,
             "width": 3955,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/339.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/339.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/339.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/339.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/339.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/339.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1096"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/424f5b68-3ce5-4250-91c8-6462438cfd44\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plan van Poedechery<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Situatie-plan van de stad en fort Podechery.<br>Rechtsboven genummerd 25.h., met uitvoerige verklaring.<br>Notities verso: 592 c.<br>Legenda op de kaart, 1-69, Aanwijsinge van de gront en situatie des dorps Podechery en het daar ingelege France fort, opgemaekt volgens t' rapport van twee tolpassen [?] .<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5577/plan-van-poedechery\">https://www.atlasofmutualheritage.nl/page/5577/plan-van-poedechery</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1096.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1096.json/canvas/p1",
             "type": "Canvas",
             "height": 6361,
             "width": 8897,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1096.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1096.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1096.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1096.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1096.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1096.json/canvas/p1"
                         }
                     ]
                 }

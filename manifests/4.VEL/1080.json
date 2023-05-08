@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1080"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1705"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/80db2fce-7514-4f37-ab6c-f7a05c33141d\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van kasteel de Vyf Sinnen te Nagapatnam<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van de omtrek van het nieuwe fort of Casteel de Vyf Sinnen.<br>VEL1080a: Plan als voren, van de oude Portugesche stad, zoo als deselve tegenwoordig is.<br>Legenda: A-N; A-H; J-Z; 1-22<br>Notities verso: N.40 / 587 c / 2102 Behoort by de brieven en papieren overgekomen van Batavia vierde deel 1706.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/881/plattegrond-van-kasteel-de-vyf-sinnen-te-nagapatnam\">https://www.atlasofmutualheritage.nl/page/881/plattegrond-van-kasteel-de-vyf-sinnen-te-nagapatnam</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1080.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1080.json/canvas/p1",
             "type": "Canvas",
             "height": 9477,
             "width": 12451,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1080.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1080.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1080.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1080.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1080.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1080.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "512"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/e83ddc5a-25a3-4fba-92e2-f44607714c90\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart met de locatie van het schip Zeewyk<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de droogtens en Eylanden all waar het schip Zeewyk opgebleven is.<br>De kaart is op linnen/katoen geplakt.<br>Notities verso: Caart van de Droogtens en Eijlanden All waar het schip Zeeweijk op gebleeven is Anno 1727, van de schipper [op de stof geschreven] / Behoort by de overgekomen Brieven en papieren van Batavia 2 stukken 1729 1e deel [zeer vaag leesbaar door de stof heen].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/9166/kaart-met-de-locatie-van-het-schip-zeewyk\">https://www.atlasofmutualheritage.nl/page/9166/kaart-met-de-locatie-van-het-schip-zeewyk</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/512.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/512.json/canvas/p1",
             "type": "Canvas",
             "height": 6378,
             "width": 8965,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/512.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/512.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/512.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/512.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/512.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/512.json/canvas/p1"
                         }
                     ]
                 }

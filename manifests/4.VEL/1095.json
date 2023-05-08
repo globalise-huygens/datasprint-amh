@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1095"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1693"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/de2177c5-d472-4a20-a930-9f611bd40d4b\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van het district van Pondicherry tijdens de belegering ervan in 1693<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van het beleg van de Stad en het fort Podechery.<br>Legenda: 1-63<br>De VOC belegerde in 1693 Pondichery dat toen in handen van de Fransen was.<br>Rechtsboven genummerd: 25.g.<br>Notities verso: 592 d / N3 : 52 [in potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5574/kaart-van-het-district-van-pondicherry-tijdens-de-belegering-ervan-in\">https://www.atlasofmutualheritage.nl/page/5574/kaart-van-het-district-van-pondicherry-tijdens-de-belegering-ervan-in</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1095.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1095.json/canvas/p1",
             "type": "Canvas",
             "height": 6378,
             "width": 8914,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1095.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1095.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1095.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1095.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1095.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1095.json/canvas/p1"
                         }
                     ]
                 }

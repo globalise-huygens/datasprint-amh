@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "171"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1653"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/7268a214-c150-4953-909b-3d8724ef89a4\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de Saldanhabaai<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Saldanhabay.<br>Notities verso: Saldanhabaij / 1653 uit 1e boek brieven en papieren Kaap / No. 13 [volgnummer van het stuk in de band ?] / 247 [folionummer in de band ?] / 171 [in rood potlood].<br>Boven een schaalaanduiding met nummering.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5227/kaart-van-de-saldanhabaai\">https://www.atlasofmutualheritage.nl/page/5227/kaart-van-de-saldanhabaai</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/171.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/171.json/canvas/p1",
             "type": "Canvas",
             "height": 4888,
             "width": 3799,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/171.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/171.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/171.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/171.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/171.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/171.json/canvas/p1"
                         }
                     ]
                 }

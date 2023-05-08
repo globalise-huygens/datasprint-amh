@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1414"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/5d90270e-aeea-4a89-b0b4-03b3647ee074\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de Cariben<br>\n    <strong>Description</strong>: Titel Leupe: The West-Indies, exhibiting the English, French, Spanish, Dutch and Danish Settlements etc.<br>Voor dit totaaloverzicht van de Cariben heeft Jefferys gebruik gemaakt van Britse, Franse, Spaanse, Nederlandse en Deense bronnen. Hij heeft al deze informatie bij elkaar gebracht, en richtte zich daarbij bijna uitsluitend op plaatsnamen. Alleen op de Britse eillanden is iets van het relief weggegeven. Ook fouten uit zijn bronmateriaal is gekopieerd, zo is het zuidelijkste punt van Florida afgebeeld als archipel.<br>Schaal van 400 Statute m. = 100 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7273/kaart-van-de-cariben\">https://www.atlasofmutualheritage.nl/page/7273/kaart-van-de-cariben</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1414.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1414.json/canvas/p1",
             "type": "Canvas",
             "height": 5915,
             "width": 5519,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1414.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1414.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1414.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1414.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1414.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1414.json/canvas/p1"
                         }
                     ]
                 }

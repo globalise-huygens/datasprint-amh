@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "337"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1754"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/cfb8f222-2148-4bb2-a79d-2bdf4f62d4b1\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond en aanzicht van de eilanden St. Paul en Amsterdam<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaartje van de Eilanden St. Paulus en Amsterdam, benevens de Zuyd-Oost en Noord-Westhoek van het eiland St. Paulus enz..<br>Volgens aantekening catalogus Leupe vervaardigd door Godlob Silo, schipper op het O.I. Comp. schip de Drie Heuvelen, 1754.<br>Rechtsboven genummerd: 4.<br>Legenda: A-L<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/6673/plattegrond-en-aanzicht-van-de-eilanden-st.-paul-en-amsterdam\">https://www.atlasofmutualheritage.nl/page/6673/plattegrond-en-aanzicht-van-de-eilanden-st.-paul-en-amsterdam</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/337.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/337.json/canvas/p1",
             "type": "Canvas",
             "height": 4263,
             "width": 5232,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/337.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/337.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/337.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/337.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/337.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/337.json/canvas/p1"
                         }
                     ]
                 }

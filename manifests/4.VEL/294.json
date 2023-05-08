@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "294"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/83f9d650-2e35-4620-81db-e26737f5761f\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de Filipijnen<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Philippynsche Eilanden, Mindanao enz..<br>Notities verso: No. 3 Philippijnsche Eilanden. Register 1, Deel 1, Folio .., Portefeul. 1 [op een blauw etiket].<br>Opmerking catalogus Leupe: Behalve eene beschrijving dezer eilanden, wordt er op gevonden de trek der reis van Hernando Magalanes, Anno 1521.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/9147/kaart-van-de-filipijnen\">https://www.atlasofmutualheritage.nl/page/9147/kaart-van-de-filipijnen</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json/canvas/p1",
             "type": "Canvas",
             "height": 6631,
             "width": 7853,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json/canvas/p1"
                         }
                     ]
                 }

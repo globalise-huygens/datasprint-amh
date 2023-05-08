@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1970"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1748"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/e1a5958d-35fc-47ba-bb55-389c40ea85a1\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de grond van de heer Lemmers<br>\n    <strong>Description</strong>: Titel Leupe: Kaart van de Sandrits tusschen de Plantagien Java en Norandibo. (links in 't opvaren).<br>Deze kaart toont drie percelen van de heer Lemmers ten westen (bovenkant kaart) van de Mot-kreek.<br>De heer Jacob Lemmers heeft de meting aangevraagd na het land te hebben bemachtigd tussen 1684 en 1731, zoals aangegeven in de aantekeningen rechts op de kaart.<br>De meest zuidelijke grond (A, I-T) tussen de Java en Queekhoven plantages (A-D) is na een lange controverse aan Lemmers toegewezen.<br>De metingen staan in de aantekeningen vermeld in Surinaamse akkers (1 Surinaamse akker = 0.43 hectare).<br>De kaart is een kopie van een eerdere meting van De Lavaux.<br>De aantekeningen lopen door op de achterkant van de kaart (hier niet zichtbaar). Daar staat ook de ondertekening, gedateerd 9 Januari 1748 (zie VEL1970V).<br>Schaal van 50 Kettingen \u00e0 66 Rijnlandse voeten = 104 strepen.<br>Oorsprong: [OBP Suriname] 1749 La B [fol.] 142.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10065/kaart-van-de-grond-van-de-heer-lemmers\">https://www.atlasofmutualheritage.nl/page/10065/kaart-van-de-grond-van-de-heer-lemmers</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1970.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1970.json/canvas/p1",
             "type": "Canvas",
             "height": 5117,
             "width": 6380,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1970.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1970.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1970.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1970.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1970.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1970.json/canvas/p1"
                         }
                     ]
                 }

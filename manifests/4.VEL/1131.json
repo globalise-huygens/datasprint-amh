@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1131"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1638"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/958cea1b-7a33-4213-aff4-250ad03905fe\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van het fort op Mauritius<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Ontwerp van 't fort van Mauritius.<br>Rechtsboven staat 256, waarschijnlijk het folionummer in de band<br>Notities verso: ontwerp van tfort op Mauritius door den commandeur de Goyer begrepen 1638 / uit de Portefeuille 1638 II uit den omslag Mauritius / 498 oo.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5870/plattegrond-van-het-fort-op-mauritius\">https://www.atlasofmutualheritage.nl/page/5870/plattegrond-van-het-fort-op-mauritius</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1131.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1131.json/canvas/p1",
             "type": "Canvas",
             "height": 2612,
             "width": 2511,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1131.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1131.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1131.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1131.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1131.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1131.json/canvas/p1"
                         }
                     ]
                 }

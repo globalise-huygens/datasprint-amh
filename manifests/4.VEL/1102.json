@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1102"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/72f7afc1-7fe9-4b12-a789-40637d7f9374\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van de loge te Hougli en omgeving<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van 's Comp:s Logie, tuyn en omstreken te Hougli.<br>Gerestaureerd op randen en middenvouw, duidelijk dubbelgevouwen geweest.<br>Rechts boven genummerd: 29 a.<br>Notities verso: 659 [zou ook 759 kunnen zijn, in potlood] / 593 b.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2807/plattegrond-van-de-loge-te-hougli-en-omgeving\">https://www.atlasofmutualheritage.nl/page/2807/plattegrond-van-de-loge-te-hougli-en-omgeving</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1102.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1102.json/canvas/p1",
             "type": "Canvas",
             "height": 6420,
             "width": 8956,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1102.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1102.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1102.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1102.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1102.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1102.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "234"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/27284337-5324-4daf-8125-2f97cfdd0be9\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Ceilon, de Maladiven en de kusten van Malabar en Madure<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van de Maldivische Eylanden, de Kust van Malabaar, Madure en Ceilon.<br>Bijzonderheden: de kaart is op blauw papier geplakt.<br>Notities verso: XXX.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4288/kaart-van-ceilon-de-maladiven-en-de-kusten-van-malabar-en-madure\">https://www.atlasofmutualheritage.nl/page/4288/kaart-van-ceilon-de-maladiven-en-de-kusten-van-malabar-en-madure</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/234.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/234.json/canvas/p1",
             "type": "Canvas",
             "height": 9927,
             "width": 12714,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/234.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/234.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/234.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/234.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/234.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/234.json/canvas/p1"
                         }
                     ]
                 }

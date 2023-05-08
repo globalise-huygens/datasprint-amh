@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1307"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/62e7d455-444a-47ea-b161-34b31ed21c3e\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond en aanzicht van kasteel Rotterdam te Macasser<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Het Kasteel Rotterdam op Macasser.<br>VEL1307a: Het Kasteel Rotterdam van de Landzyde.<br>VEL1307b: Het Kasteel Rotterdam van de Zeekant, so als het was voor den jare 16?.<br>Rechts boven genummerd: 16.<br>De randen rondom zijn helemaal beplakt.<br>Notities verso: 19 [in potlood].<br>30 Rijnlandse roeden = 77 strepen; omgerekende schaal [1 : 1467] / 100 Rijnlandse voeten = 62 strepen; omgerekende schaal 1 : 506.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7060/plattegrond-en-aanzicht-van-kasteel-rotterdam-te-macasser\">https://www.atlasofmutualheritage.nl/page/7060/plattegrond-en-aanzicht-van-kasteel-rotterdam-te-macasser</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1307.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1307.json/canvas/p1",
             "type": "Canvas",
             "height": 6370,
             "width": 8923,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1307.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1307.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1307.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1307.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1307.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1307.json/canvas/p1"
                         }
                     ]
                 }

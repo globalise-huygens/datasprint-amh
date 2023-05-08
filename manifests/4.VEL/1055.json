@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1055"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1694"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/ae17628e-5e20-4c93-9842-6dc9adbd6b3d\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van Gale<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaarte van een gedeelte der stadt Gale.<br>Rechts onder: N 737a.<br>Notities verso: caarte der stad gale, waer in aengewesen werden de blocken, daer de clappies boomen staen. No 38: / 903 [geschreven aan de bovenkant, op ongeveer 1/3 van de kaart] / Behoord tot de overgekomen Papieren van Ceilon [gevolgd door een onleesbaar woord] 4, 1694 fol 904 / N 418.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3095/plattegrond-van-gale\">https://www.atlasofmutualheritage.nl/page/3095/plattegrond-van-gale</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1055.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1055.json/canvas/p1",
             "type": "Canvas",
             "height": 3370,
             "width": 5654,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1055.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1055.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1055.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1055.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1055.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1055.json/canvas/p1"
                         }
                     ]
                 }

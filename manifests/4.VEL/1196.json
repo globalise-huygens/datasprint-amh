@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1196"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1762"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/354e024d-6598-43cd-9117-7321bd5faa58\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van de stad en het kasteel Batavia<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van de stadt en het Casteel van Batavia, met een gedeelte van desselfs Voorsteeden en meerdere Buytenplaatsen.<br>Kopie uit 1764 naar de situatie van 1762.<br>Bij de bovenrand staat geschreven Copie No. 2 La A. Plan van Batavia zoo als t' selve Ao 1762 is bevonden.<br>Notities verso: Copie La A No 2 [staat zowel aan de bovenkant als aan de onderkant] / 1762 [in potlood] / Schaal van 24 R op den duim op 1/3456 [in potlood, getallen staan in een breuk].<br>Diverse legenda's.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/462/plattegrond-van-de-stad-en-het-kasteel-batavia\">https://www.atlasofmutualheritage.nl/page/462/plattegrond-van-de-stad-en-het-kasteel-batavia</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1196.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1196.json/canvas/p1",
             "type": "Canvas",
             "height": 12206,
             "width": 7181,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1196.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1196.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1196.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1196.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1196.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1196.json/canvas/p1"
                         }
                     ]
                 }

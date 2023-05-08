@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "222"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/4a34bd48-ed24-4858-9d92-6b8182f37e9f\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van een gedeelte van de Persische Golf van Mascate tot Pt. Doggeby<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van een gedeelte van den Persischen Golf van Mascate tot Pt. Doggeby.<br>Drie inzetkaarten met de baai van Mascatta;<br>Rechtsboven: De Bay van Mascatta.<br>Links: Een gedeelte van den Persischen Golf, van Dobby tot Cabo Monzandan.<br>Rechtsonder: Een gedeelte van het Eiland Kismis, Ormus en van Gamron tot Cabo de Jasque.<br>Notities verso: A. A. nr. 13c en potlood nr. 21.<br>Topografische namen op deze kaart vermeld: Cabo Monzandan, Boppose, Dobby, Cabo de Jasquis.<br>Het betreft een kopie van een tekening die werd vervaardigd tijdens een expeditie van de Omaanse kusten in 1666.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4354/kaart-van-een-gedeelte-van-de-persische-golf-van-mascate-tot-pt.\">https://www.atlasofmutualheritage.nl/page/4354/kaart-van-een-gedeelte-van-de-persische-golf-van-mascate-tot-pt.</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/222.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/222.json/canvas/p1",
             "type": "Canvas",
             "height": 7137,
             "width": 9681,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/222.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/222.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/222.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/222.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/222.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/222.json/canvas/p1"
                         }
                     ]
                 }

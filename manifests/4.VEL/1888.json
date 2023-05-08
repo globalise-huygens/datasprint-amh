@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1888"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1732"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/13dcd5ae-2d07-436f-b2f0-a22c9b96b404\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de plantage van de heer Dupeiron<br>\n    <strong>Description</strong>: Titel Leupe: Kaart van de Plantagien, gelegen in Cottica tusschen het 1e en 2e tabbetje.<br>Deze kaart toont de kavels van de heer Dupeiron (rood omlijnd, en aangegeven met de letters A-D) aan de zuidoever (boven op de kaart) van de Cottica-rivier.<br>De meting is aangevraagd door de heer Jean Dupeiron om zijn nieuwe stuk grond, ten westen van zijn oude kavel, te laten meten en vastleggen.<br>De kavel blijkt 600 Surinaamse akkers (258 hectare) in omvang.<br>De nieuwe kavel ligt ten westen (rechts van op de kaart) van de plantage behorend tot de heren Neale en Charron in Compe en het land van Jean Andre Droilhet.<br>Aan de noordkant zijn verschillende gebouwen en kreken afgebeeld.<br>De kaart is door de landmeter ondertekend op 29 Juli 1732 en officieel erkend op 23 September 1732 te Paramaribo.<br>Schaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 80 strepen.<br>Oorsprong: [OBP Suriname] 1732, [fols.] 1070-1071.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10016/kaart-van-de-plantage-van-de-heer-dupeiron\">https://www.atlasofmutualheritage.nl/page/10016/kaart-van-de-plantage-van-de-heer-dupeiron</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1888.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1888.json/canvas/p1",
             "type": "Canvas",
             "height": 4058,
             "width": 5092,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1888.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1888.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1888.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1888.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1888.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1888.json/canvas/p1"
                         }
                     ]
                 }

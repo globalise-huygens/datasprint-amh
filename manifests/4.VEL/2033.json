@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "2033"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/e4e4a0fc-c02d-46f0-bd0f-d7465913f81b\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van een nieuw ontwerp voor het fort Nieuw Amsterdam<br>\n    <strong>Description</strong>: Titel Leupe: Plan van het fort Amsterdam, op de hoek van de rivieren Suriname en Commewine, benevens grondteekeningen en profiles voor de militaire gebouwen.<br>Deze grote verzamelkaart is gelet op het handschrift en de inhoud een kopie door de hoofdingenieur Pierre-Dominique Desmarestz van zijn originele ontwerp voor de gebouwen binnen Fort Nieuw Amsterdam, gemaakt in de aanloopperiode van het project in de jaren 1734-1737. Bij de uitvoering in de volgende tien jaar zijn mede op initiatief van commandant Chambrier verscheidene wijzigingen doorgevoerd.<br>Eind 1733 werd door de Staten-Generaal een overeenkomst tussen de Soci\u00ebteit van Suriname en de vertegenwoordigers van de kolonisten bekrachtigd tot het versterken van de verdediging van Suriname. Dit ontwerp voor fort Nieuw Amsterdam werd vermoedelijk kort hierop gemaakt. De daadwerkelijke bouw begon in 1736, bleek aanzienlijk moeilijker en bewerkelijker dan voorzien, en werd pas in 1747 voltooid. Ook daarna bleef het fort altijd problematisch in onderhoud en verdediging. (Zie voor meer details de titels onder 'documentatie', in het bijzonder die van Temminck Groll.)<br>Het noorden is linksboven.<br>Schaalstokken van 80 Roeden Rhijnlands voor het Fort = [ca. 1 : 2.350] / [gebouwen] en voor de Barakken dienen zij voor sestig Voeten = [ca. 1 : 150].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2019/kaart-van-een-nieuw-ontwerp-voor-het-fort-nieuw-amsterdam\">https://www.atlasofmutualheritage.nl/page/2019/kaart-van-een-nieuw-ontwerp-voor-het-fort-nieuw-amsterdam</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2033.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2033.json/canvas/p1",
             "type": "Canvas",
             "height": 12151,
             "width": 8919,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2033.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2033.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2033.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2033.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2033.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2033.json/canvas/p1"
                         }
                     ]
                 }

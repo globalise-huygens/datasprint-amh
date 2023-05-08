@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1424"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1801"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/a1d921f5-d324-4d64-b6cc-2a73bf3cc5c8\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Saint Barthelemy<br>\n    <strong>Description</strong>: Titel Leupe: Charta ofver on St. Barthelemy.<br>Dit is een Zweedse kaart van nederzettingen op het eiland Saint Barthelemy. De kaart geeft een indruk van de plantages en een index linksonder toont bevolkinsaantallen in de verschillende gebieden van het eiland. Kerken en andere gebouwen zijn aangeduid.<br>Een tweede exemplaar aanwezig in Nationaal Archief, 4.JBF inv.nr. 3.<br>Schaal van 1000 Fr. Voeten = 15 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10369/kaart-van-saint-barthelemy\">https://www.atlasofmutualheritage.nl/page/10369/kaart-van-saint-barthelemy</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1424.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1424.json/canvas/p1",
             "type": "Canvas",
             "height": 6538,
             "width": 9074,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1424.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1424.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1424.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1424.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1424.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1424.json/canvas/p1"
                         }
                     ]
                 }

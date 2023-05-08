@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "912"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/9457a553-9ca0-4020-a847-057aec636762\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Afbeelding van het fort Coylan<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA]: D' Waare affbeeldinge van de Fortresse Coylan, leggende nae de gemeene rekening ongeveer 24 Mylen besuyden de hoofd-Stadt Cochim enz..<br>Legenda: A-X<br>Links boven in het cartouche is een aantekening over situering van Coylan.<br>Topografische namen vermeld op deze kaart: Punt Madure, punt Ceijlon, punt Mallabaar.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4670/afbeelding-van-het-fort-coylan\">https://www.atlasofmutualheritage.nl/page/4670/afbeelding-van-het-fort-coylan</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/912.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/912.json/canvas/p1",
             "type": "Canvas",
             "height": 6227,
             "width": 8771,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/912.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/912.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/912.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/912.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/912.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/912.json/canvas/p1"
                         }
                     ]
                 }

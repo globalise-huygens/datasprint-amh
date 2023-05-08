@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1432"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/f21ef4d6-b2e9-4801-83a6-8f21cde5d46f\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Basse-terre<br>\n    <strong>Description</strong>: Titel Leupe: Plan of the Town of Basseterre the Capital of Guadeloupe from an authentic survey.<br>Deze kaart is vijf jaar na het einde van de tijdelijke Britse bezetting (1759-1763) uitgegeven en geeft een goede indruk van de stedelijke indeling en locatie van verdedigingswerken, alsook de omliggende velden voor de herindeling die aan het eind van de achtiende eeuw zou plaatsvinden.<br>Het noorden is rechtsboven.<br>Schaal van 400 Yards = 50 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10372/kaart-van-basse-terre\">https://www.atlasofmutualheritage.nl/page/10372/kaart-van-basse-terre</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1432.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1432.json/canvas/p1",
             "type": "Canvas",
             "height": 5772,
             "width": 4314,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1432.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1432.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1432.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1432.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1432.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1432.json/canvas/p1"
                         }
                     ]
                 }

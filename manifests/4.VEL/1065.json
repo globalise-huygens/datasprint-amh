@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1065"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/1c6a7b03-967e-4c32-9d87-d6ac0e58f83a\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van het fort van Gale<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Hoofdplan van een project tot verbetering der vestingwerken van de Landfront te Gale, gelyk hetzelve beraamt is door de H. H. Vaillant, Ver-Huell en Graevesteyn, Commissarissen-Militair enz..<br>Notities verso: No. 8 Gale / 583 [met vette cijfers gestempeld op een etiketje].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3102/plattegrond-van-het-fort-van-gale\">https://www.atlasofmutualheritage.nl/page/3102/plattegrond-van-het-fort-van-gale</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1065.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1065.json/canvas/p1",
             "type": "Canvas",
             "height": 12495,
             "width": 7709,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1065.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1065.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1065.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1065.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1065.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1065.json/canvas/p1"
                         }
                     ]
                 }

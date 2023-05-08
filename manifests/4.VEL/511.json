@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "511"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/9720e949-394e-4c38-a64f-36326ac2fd04\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van een deel van Australi\u00eb<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van het Westkelykste gedeelte van 't land van de Eendragt of Hollandia Nova, strekkende van het Eyland Rottenest tot voorby de Willems-Rivier.<br>De kaart is op blauw papier geplakt.<br>Linksboven genummerd: 13<br>Notities verso: XXXVIII.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/9190/kaart-van-een-deel-van-australi%C3%AB\">https://www.atlasofmutualheritage.nl/page/9190/kaart-van-een-deel-van-australi%C3%AB</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/511.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/511.json/canvas/p1",
             "type": "Canvas",
             "height": 7492,
             "width": 12301,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/511.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/511.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/511.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/511.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/511.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/511.json/canvas/p1"
                         }
                     ]
                 }

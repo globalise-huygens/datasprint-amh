@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1406"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1770"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/e498a876-8578-4251-bbcb-a35bed9f7ba5\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van North Carolina<br>\n    <strong>Description</strong>: Titel Leupe: A Compleat Map of North Carolina from an actual survey.<br>Een kaart van Noord Carolina die het gebied tot de Table [Rock] Berg in het achterland weergeeft. Het feit dat zo veel details over het westelijke gedeelte van de provincie bekend waren had te maken met de toename van migratie voorbij het Piedmont plateau sind halverwege de achtiende eeuw. De kaart bleef invloedrijk tot het begin van de negentiende eeuw. Dit had gedeeltelijk te maken met de landmetingen van William Churton waarop grote delen van de kaart gebaseerd waren en gedeeltelijk met de accruate weergave van het relief.<br>Schaal van 30 Eng. M. = 98 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10331/kaart-van-north-carolina\">https://www.atlasofmutualheritage.nl/page/10331/kaart-van-north-carolina</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1406.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1406.json/canvas/p1",
             "type": "Canvas",
             "height": 9798,
             "width": 14069,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1406.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1406.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1406.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1406.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1406.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1406.json/canvas/p1"
                         }
                     ]
                 }

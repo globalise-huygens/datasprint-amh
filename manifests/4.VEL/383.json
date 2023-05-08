@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "383"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/83577a46-a2a1-42ef-97cc-eba1f08df67c\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van een fort aan de rivier van Batavia<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Project van een Zeefort voor de Rivier van Batavia.<br>Maakt deel uit van serie VEL0383-0419; Deze kaarten hebben betrekking op de peilingen op de bank voor de rivier; Tussen 1708 en 1742 werden deze peilingen twee maal per jaar verricht.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3219/plattegrond-van-een-fort-aan-de-rivier-van-batavia\">https://www.atlasofmutualheritage.nl/page/3219/plattegrond-van-een-fort-aan-de-rivier-van-batavia</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/383.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/383.json/canvas/p1",
             "type": "Canvas",
             "height": 6370,
             "width": 8779,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/383.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/383.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/383.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/383.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/383.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/383.json/canvas/p1"
                         }
                     ]
                 }

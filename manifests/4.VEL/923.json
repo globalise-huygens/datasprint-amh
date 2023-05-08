@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "923"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/0b56ca3a-f015-46b0-b82c-78b8d1759f75\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Ceylon, de kusten van Malabar, Cormandel, Madure en Inchiado<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaarte van 't Eyland Ceylon, benevens een gedeelte der Kusten Malabar en Cormandel, geheel Madure en Inchiado enz..<br>Notities verso: 512 c / Allerkeurigst bewerkte uitvoerige kaart, met aanteekeningen.<br>Boven het opschrift Kaart van 't Eijland Ceylon. Benevens Een Gedeelte der [?] Malabar en Cormandel Geheel Madure en Inchiado.<br>Topografische namen aangeduid Malabaar Pars,Tengapatnam.<br>Rechtsonder de schaalverdeling Duijtsche Mijlen 15 in een graadt.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/6401/kaart-van-ceylon-de-kusten-van-malabar-cormandel-madure-en-inchiado\">https://www.atlasofmutualheritage.nl/page/6401/kaart-van-ceylon-de-kusten-van-malabar-cormandel-madure-en-inchiado</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json/canvas/p1",
             "type": "Canvas",
             "height": 7836,
             "width": 8414,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/923.json/canvas/p1"
                         }
                     ]
                 }

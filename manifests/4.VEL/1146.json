@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1146"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1700/1800"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/103e3bb0-2260-489b-b136-8cab08f42167\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van het eilandje Poeloe Tjinkoek ofwel Chinco<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van Poele Chinco, met eene afteekening van den Berg.<br>Notities verso: 1582 [folionummer in de band ?] / No. 15. [volgnummer van het stuk in de band ?] / 599 g / N 2.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/6522/plattegrond-van-het-eilandje-poeloe-tjinkoek-ofwel-chinco\">https://www.atlasofmutualheritage.nl/page/6522/plattegrond-van-het-eilandje-poeloe-tjinkoek-ofwel-chinco</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1146.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1146.json/canvas/p1",
             "type": "Canvas",
             "height": 6370,
             "width": 8889,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1146.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1146.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1146.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1146.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1146.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1146.json/canvas/p1"
                         }
                     ]
                 }

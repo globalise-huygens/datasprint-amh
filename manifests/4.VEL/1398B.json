@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1398B"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/d5427ca4-62de-4ff4-8e67-5ed7e480dfb0\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Pennsylvania, blad 2<br>\n    <strong>Description</strong>: Titel Leupe: A Map of Pennsylvania, exhibiting not only the improved parts of the Province, but also its extensive frontiers etc.<br>Tweede blad van de kaart van Pennsylvania, grotendeels gebasseerd op de kaart die William Scull tijdens zijn landmeting in 1770 tekende. Scull kreeg het voor elkaar de gehele frontier van Pennsylvania op de kaart te zetten, inclusief wegen, forten en de grens zoals vastgesteld door Mason-Dixon in 1763 en 1767. De uitgevers Sayer en Bennett besloten een nieuwe versie van Sculls werk uit te brengen kort na de slagen van Lexington en Concord (april 1775). Zij verbeterden de weergave van relief en voegden indicaties toe van hoogte<br>en breedtegraden. Naar zich laat aanzien zijn deze aanpassingen gedaan ter ondersteuning van de Britse troepen die zich in dit gebied bevonden.<br>Schaal van 30 Eng.m. = 175 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7241/kaart-van-pennsylvania-blad-2\">https://www.atlasofmutualheritage.nl/page/7241/kaart-van-pennsylvania-blad-2</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1398B.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1398B.json/canvas/p1",
             "type": "Canvas",
             "height": 9588,
             "width": 7020,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1398B.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1398B.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1398B.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1398B.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1398B.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1398B.json/canvas/p1"
                         }
                     ]
                 }

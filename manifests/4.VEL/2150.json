@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "2150"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1700/1800"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/88c6fd38-6e95-4275-bd5c-d5d2f90f4366\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Cayenne<br>\n    <strong>Description</strong>: Titel Leupe: Plan of the town of Cayenne and Fort St. Michael.<br>Deze kaart maakte deel uit van Jefferys' overzichtwerk van alle Franse nederzettingen in Noord<br>en Zuid Amerika. De stad en het fort St. Louis worden in detail weergegeven met straatnamen en indicaties van gebouwen. Daarnaast worden ook omliggende wegen, een mangrove en een koffieplantage getoond.<br>Schaal van 150 Roeden = 101 strep.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2147/kaart-van-cayenne\">https://www.atlasofmutualheritage.nl/page/2147/kaart-van-cayenne</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2150.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2150.json/canvas/p1",
             "type": "Canvas",
             "height": 4305,
             "width": 5822,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2150.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2150.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2150.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2150.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2150.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2150.json/canvas/p1"
                         }
                     ]
                 }

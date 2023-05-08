@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "950"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/a8a32751-cd5d-4e0d-bd0d-2ab1f07369b4\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van het kasteel, de stad en omstreken van Colombo<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van het Kasteel, de Stad en omstreken van Colombo.<br>Legenda: 1-42<br>Kaart van de stad Colombo en omgeving met de dorpen, wegen, tuinen en landerijen. Tevens olifantfuiken vermeld.<br>Notities verso: A A 23e; 524g potlood gerenvoyeerd nr. 37 en nr. 21.<br>Topografische namen vermeld op deze kaart: Pittuancarre Pars, Goensdorp, Wereletolle, Mehewatte, klooster St. Sebastiaan, Kapihentoudou, Narahenpitte, Nawalgodde, Wallakarkota, Kirrelepane, Gangadawile, Kaiboil, Dissigele, Galkisse Pars, Pepiliane, Hetigwatte.<br>Tuinen en landerijen van particulieren: Goenswijck, Motuaal, Bloemendal, Lascarijns Dorp, Coutenchene, Wolvendal, Van der Meijden polder, Hulstdorp, Mattedou of Mattedon, T' Leeger dorp, Wellewatte, Mampewatte.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/695/kaart-van-het-kasteel-de-stad-en-omstreken-van-colombo\">https://www.atlasofmutualheritage.nl/page/695/kaart-van-het-kasteel-de-stad-en-omstreken-van-colombo</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/950.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/950.json/canvas/p1",
             "type": "Canvas",
             "height": 6353,
             "width": 8931,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/950.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/950.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/950.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/950.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/950.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/950.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "509"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1697"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/0a459429-eba2-4ac5-9cbb-cd6f3d316811\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van het Zuidland, ofwel Australi\u00eb<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van 't Zuydland bezeilt door den schipper Willem de Vlamingh, in de maanden January en February, Anno 1697, met 't jacht de Geelvink, de hoecker de Nyptangh, ende 't galjoot 't Weseltje enz.. Geheel rechts: Eijlandt Rottenest, in het midden: Dirck Hartoogs Eylandt.<br>Linksboven een inzet met het eiland Rottenest.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/8061/kaart-van-het-zuidland-ofwel-australi%C3%AB\">https://www.atlasofmutualheritage.nl/page/8061/kaart-van-het-zuidland-ofwel-australi%C3%AB</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/509.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/509.json/canvas/p1",
             "type": "Canvas",
             "height": 9065,
             "width": 18814,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/509.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/509.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/509.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/509.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/509.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/509.json/canvas/p1"
                         }
                     ]
                 }

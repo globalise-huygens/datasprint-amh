@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1490B"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/2b3518bc-d4d3-4215-bed8-1ea53d574bc3\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Lijst behorend bij kaart van Nederlandse bezittingen in Guyana<br>\n    <strong>Description</strong>: Titel Leupe: Liste des Habitations, leurs Numeros, Noms des Proprietaires, Nombre des Carreaux en Culture, et Qualit\u00e9 des Productions Principales de la Colonie Essequebe et Demerarie, eerste blad.<br>Hoort bij VEL1490A. Zie ook VEL1490C.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/9377/lijst-behorend-bij-kaart-van-nederlandse-bezittingen-in-guyana\">https://www.atlasofmutualheritage.nl/page/9377/lijst-behorend-bij-kaart-van-nederlandse-bezittingen-in-guyana</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490B.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490B.json/canvas/p1",
             "type": "Canvas",
             "height": 5310,
             "width": 6760,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490B.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490B.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490B.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490B.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490B.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1490B.json/canvas/p1"
                         }
                     ]
                 }

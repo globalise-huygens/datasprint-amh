@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1395E"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/219cfff8-a75d-4963-b640-c2997bbf99dc\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Gedeelte van een kaart van de provincie New York<br>\n    <strong>Description</strong>: Gedeelte van een kaart van de provincie New York.<br>Titel in Catalogus Leupe (NA): A Chorographical Map of the Province of New-York in North-America, divided into Counties, Manors, Patents and Townships etc.<br>De rest van deze kaart: Nationaal Archief, Den Haag, inv. nr. 1395A-D, F.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7174/gedeelte-van-een-kaart-van-de-provincie-new-york\">https://www.atlasofmutualheritage.nl/page/7174/gedeelte-van-een-kaart-van-de-provincie-new-york</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1395E.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1395E.json/canvas/p1",
             "type": "Canvas",
             "height": 8024,
             "width": 11780,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1395E.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1395E.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1395E.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1395E.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1395E.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1395E.json/canvas/p1"
                         }
                     ]
                 }

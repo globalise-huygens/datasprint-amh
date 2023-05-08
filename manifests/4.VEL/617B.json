@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "617B"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1737"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/aa7ff97f-7597-4460-b0bf-f67257f818b4\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de Bullebaai<br>\n    <strong>Description</strong>: Titel Leupe: Plan van de Bulle bay, gepeyld den 9 juli 1737.<br>Aan de grote baai ten oosten van Kaap Sint Marie, de Bullenbaai, was door kapitein-ter-zee Cornelis Schrijver eveneens een nieuwe \u2018Tooren\u2019 voorzien, die tezamen met die van Porto Marie bedoeld was als aanvulling op de bestaande versterkingen aan de Sint Kruisbaai, de Sint Michielsbaai en de Piscaderabaai.<br>Zie ook VEL617A, een ander exemplaar van deze kaart.<br>Het noorden is linksboven.<br>Schaalstok van 3/8 van een duijtse Meijl = [ca. 1 : 32.000].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/1707/kaart-van-de-bullebaai\">https://www.atlasofmutualheritage.nl/page/1707/kaart-van-de-bullebaai</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/617B.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/617B.json/canvas/p1",
             "type": "Canvas",
             "height": 3216,
             "width": 4512,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/617B.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/617B.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/617B.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/617B.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/617B.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/617B.json/canvas/p1"
                         }
                     ]
                 }

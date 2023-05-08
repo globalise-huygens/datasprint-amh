@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1261"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1741"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/4c85f4d0-5a10-48e3-b9f0-aec30876606f\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Semarang<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Accurate afteekening van de present-situatie, soo van 's Ed. Comps. nieuwe aangelegde fortificatie-werken als de opgerigte bentings der rebellerende Chineesen en Javanen tot Samarangh..<br>Notities verso: N3 1741 / 817 [doorgestreept, misschien een foutief folionummer ?] / 1040 [folionummer in de band ?] / 633 b.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4931/kaart-van-semarang\">https://www.atlasofmutualheritage.nl/page/4931/kaart-van-semarang</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1261.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1261.json/canvas/p1",
             "type": "Canvas",
             "height": 8944,
             "width": 12486,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1261.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1261.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1261.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1261.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1261.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1261.json/canvas/p1"
                         }
                     ]
                 }

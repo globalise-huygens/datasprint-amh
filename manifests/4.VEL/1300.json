@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1300"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1752"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/e8c80789-4c28-4efd-9e16-ef3a132d0be4\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van het gebied rondom Macassar en Bone op Celebes<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van een gedeelte van de Westkust, tusschen de rivieren Gresse en Labakang, en aan de Oostkust tusschen de Rivieren Cadjang en Salanketa.<br>Notities verso: 906 f [in potlood]<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3813/kaart-van-het-gebied-rondom-macassar-en-bone-op-celebes\">https://www.atlasofmutualheritage.nl/page/3813/kaart-van-het-gebied-rondom-macassar-en-bone-op-celebes</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1300.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1300.json/canvas/p1",
             "type": "Canvas",
             "height": 8881,
             "width": 6403,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1300.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1300.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1300.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1300.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1300.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1300.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1230A"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/60e132bc-8bf7-4b70-b3da-73525fcc02d2\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van kruidkelders te Batavia<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van eenige kruidkelders.<br>Notities verso: Behoort by het copie rapport nopens de bevinding der Bataviase kruidkelders overgekomen 1723, 3 deel, 2 stuks / 1204 [folionummer in de band ?] / No. 29 [volgnummer van het stuk in de band ?] / 602 ii.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/529/plattegrond-van-kruidkelders-te-batavia\">https://www.atlasofmutualheritage.nl/page/529/plattegrond-van-kruidkelders-te-batavia</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A.json/canvas/p1",
             "type": "Canvas",
             "height": 4348,
             "width": 6286,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A.json/canvas/p1"
                         }
                     ]
                 }

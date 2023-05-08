@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1306"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/704049d9-8e49-4489-8528-66b621f517d3\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de stad Tjinrana Bone<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Plattegrond van de stad Cinrana, woonplaats van Radja Bona op Macassar.<br>Rechtsboven genummerd: 11.b.<br>Atlas Amsterdam<br>Notities verso: 652 c / N3: 18 [in potlood].<br>Legenda: a-o, zie bij b: Logiment der Hollantse gesanten<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/6729/kaart-van-de-stad-tjinrana-bone\">https://www.atlasofmutualheritage.nl/page/6729/kaart-van-de-stad-tjinrana-bone</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1306.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1306.json/canvas/p1",
             "type": "Canvas",
             "height": 6378,
             "width": 8855,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1306.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1306.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1306.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1306.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1306.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1306.json/canvas/p1"
                         }
                     ]
                 }

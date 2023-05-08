@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "136"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1716"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/6b1704ba-bde4-4b0e-ab0e-ff4cc9e23be3\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van West-Afrika, van de Greinkust<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van de Kusten van Madre Bombe en Greynkust, aan de Kust van Guinea.<br>De kaart is op blauw papier geplakt.<br>Notities verso: No. 1 De Grijn kust van Caapmont tot Caap de Lespalmo / No. 6.<br>Legenda: A-O<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/6821/kaart-van-west-afrika-van-de-greinkust\">https://www.atlasofmutualheritage.nl/page/6821/kaart-van-west-afrika-van-de-greinkust</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/136.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/136.json/canvas/p1",
             "type": "Canvas",
             "height": 7575,
             "width": 12513,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/136.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/136.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/136.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/136.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/136.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/136.json/canvas/p1"
                         }
                     ]
                 }

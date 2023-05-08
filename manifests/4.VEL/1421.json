@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1421"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/e05a6769-766d-4dd2-84f0-b5f7d7fda034\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van het huis van de gouverneur van Sint Maarten en Saba<br>\n    <strong>Description</strong>: Titel Leupe: Afteekening en grondplan van het huis en verder getimmerte enz. Toebehoorende den Heer en Mr. Willem Hendrik Rink.<br>Deze kaart met plattegrond en vooraanzicht geeft de woning en aanliggende opstallen van mr. Willem Hendrik Rink in Philipsburg weer in 1802, toen hij onder Bataafs bewind gouverneur van Sint Maarten en Saba was. De kamers van zijn vertrek zijn met referentienummers aangegeven (zie onder inscriptie).<br>Schaalstok van 30 voeten = [ca. 1 : 120].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7304/plattegrond-van-het-huis-van-de-gouverneur-van-sint-maarten-en-saba\">https://www.atlasofmutualheritage.nl/page/7304/plattegrond-van-het-huis-van-de-gouverneur-van-sint-maarten-en-saba</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1421.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1421.json/canvas/p1",
             "type": "Canvas",
             "height": 6412,
             "width": 4188,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1421.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1421.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1421.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1421.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1421.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1421.json/canvas/p1"
                         }
                     ]
                 }

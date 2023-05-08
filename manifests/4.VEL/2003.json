@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "2003"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/cb873ac0-1b68-4352-bad4-d11f44a5455e\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van geplande batterijen bij de monding van de rivieren Suriname en Commewijne<br>\n    <strong>Description</strong>: Titel Leupe: Plan of plattegrond van de fortress Nieuw Amsterdam, met derzelver Kostgronden en nieuw geprojecteerde werken.<br>Deze kaart toont hoe het fort Amsterdam en de net voltooide redoutes Leyden en Purmerend vijandelijke schepen buiten kunnen houden. Metingen zijn gemaakt van de afstand tussen de fortificaties en het bereik van de schootslijnen. Daarnaast zijn de locatie en de schootslijnen van een aantal verdedigingsschepen weergegeven.<br>Een uitgebreide index toont ook alle gebouwen binnen het fort Amsterdam.<br>De directe omgeving van dit fort wordt ontoegankelijk geacht.<br>VEL2003A, een kopie van deze kaart, is niet apart in deze database opgenomen.<br>Schaal van 60 Rijnlandse Roeden = 145 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/1990/kaart-van-geplande-batterijen-bij-de-monding-van-de-rivieren-suriname\">https://www.atlasofmutualheritage.nl/page/1990/kaart-van-geplande-batterijen-bij-de-monding-van-de-rivieren-suriname</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2003.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2003.json/canvas/p1",
             "type": "Canvas",
             "height": 16476,
             "width": 14582,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2003.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2003.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2003.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2003.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2003.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/2003.json/canvas/p1"
                         }
                     ]
                 }

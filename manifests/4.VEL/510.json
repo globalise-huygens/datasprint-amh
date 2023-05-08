@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "510"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1601/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/420432a8-b987-4c6d-b876-47cf20e35022\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart met een kustdeel van Australi\u00eb, met inzet van het eiland 't Rottenest<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart als voren, hiermee wordt bedoeld de titel van VEL0509: Kaart van 't Zuydland bezeilt door den schipper Willem de Vlamingh, in de maanden January en February, Anno 1697, met 't jacht de Geelvink, de hoecker de Nyptangh ende 't galjoot 't Weseltje enz..<br>Rechtsonder genummerd: 42.c.<br>De kaart is op linnen/katoen geplakt.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/9165/kaart-met-een-kustdeel-van-australi%C3%AB-met-inzet-van-het-eiland-t\">https://www.atlasofmutualheritage.nl/page/9165/kaart-met-een-kustdeel-van-australi%C3%AB-met-inzet-van-het-eiland-t</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/510.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/510.json/canvas/p1",
             "type": "Canvas",
             "height": 8838,
             "width": 6319,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/510.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/510.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/510.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/510.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/510.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/510.json/canvas/p1"
                         }
                     ]
                 }

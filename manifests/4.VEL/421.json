@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "421"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/896cf8be-a836-48fa-8a10-0cbeebfdb1a1\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de stranden ten westen en oosten van kasteel Batavia<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (NA): Kaart van de Stranden en gesamentlyke situatie der bewesten en beoosten 't Kasteel Batavia gelegene landen en tuynen, van den Mond der Rivier Ank\u00e9 af tot voorby den Mond der rivier van Antsjol en Slingerland<br>Kopie naar de kaart van C.F. Reimer.<br>Topografische namen vermeld op deze kaart: Batterij Bottelier, Rivier van Antsjol, Batterij Zeelucht, Batterij Slingerland, Rotterdamer Poort, Fort Antsjol, Tandjong Priok, 't Kasteel, Saphier, Parel, Diamant, Robijn, Cuylenburg, Zeeburg, Groningen, Kampen, Overijsel, Batterij van Ploederhuijsie [?], Waterkasteel, Dieren, Batterij de Fluyt, Rivier Ankee, Grote Rivier.<br>Zie ook VEL0422 en VELH0444.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/1467/kaart-van-de-stranden-ten-westen-en-oosten-van-kasteel-batavia\">https://www.atlasofmutualheritage.nl/page/1467/kaart-van-de-stranden-ten-westen-en-oosten-van-kasteel-batavia</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/421.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/421.json/canvas/p1",
             "type": "Canvas",
             "height": 8174,
             "width": 27699,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/421.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/421.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/421.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/421.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/421.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/421.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "703.2"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/44a601d8-3d8d-4edf-9c8a-e6e57b8fc252\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Legenda voor een kaart van de kaap van St. Augustijn<br>\n    <strong>Description</strong>: Titel Leupe: Kaart van het Puntaal binnen Kaap St. Augustyn, met aparte legenda.<br>Op basis van de in 1634 vervaardigde belegeringskaarten (Nationaal Archief, AANW128 en VEL713-714 en Stadsarchief Deventer, WIC ID 703-48) werd na de verdrijving van de Portugezen uit hun fort Nossa Senhora de Nazar\u00e9 (\u2018Nazareth\u2019) de situatie aan de Cabo in 1636 opnieuw opgenomen. Deze lijst geeft de gebouwen en verdedigingswerken weer die toen beschreven zijn. De bijbehorende kaart (VEL715) is gezien het handschrift van de titel waarschijnlijk getekend door ingenieur Tobias Commersteijn. Het is onduidelijk of hij ook deze aantekeningen heeft gemaakt.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7418/legenda-voor-een-kaart-van-de-kaap-van-st.-augustijn\">https://www.atlasofmutualheritage.nl/page/7418/legenda-voor-een-kaart-van-de-kaap-van-st.-augustijn</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/703.2.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/703.2.json/canvas/p1",
             "type": "Canvas",
             "height": 4710,
             "width": 5957,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/703.2.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/703.2.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/703.2.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/703.2.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/703.2.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/703.2.json/canvas/p1"
                         }
                     ]
                 }

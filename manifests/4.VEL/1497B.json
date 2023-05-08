@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1497B"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/42da9bc4-2672-45d3-a11e-864f6b6fd247\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Nederlandse plantages langs de Demerari-rivier<br>\n    <strong>Description</strong>: Titel Leupe: Plan topographique de la Colonie de Demerari dans la Guyane Hollandaise etc.<br>De kaart toont de plantages langs de rivier de Demerari in vermeldt de eigenaren in 1783. De kaart is van Franse makelij en dateert van kort na de verovering van het gebied door de Fransen in 1782.<br>Deze kaart is een vervolg van VEL1497A. Zie aldaar voor legenda, schaal etc.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7526/kaart-van-nederlandse-plantages-langs-de-demerari-rivier\">https://www.atlasofmutualheritage.nl/page/7526/kaart-van-nederlandse-plantages-langs-de-demerari-rivier</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497B.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497B.json/canvas/p1",
             "type": "Canvas",
             "height": 6066,
             "width": 27945,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497B.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497B.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497B.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497B.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497B.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497B.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1497A"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/7ccd66a8-98a2-4379-ad65-cf963372900a\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Nederlandse plantages langs de Demerara-rivier<br>\n    <strong>Description</strong>: Titel Leupe: Plan topographique de la Colonie de Demerari dans la Guyane Hollandaise etc.<br>De kaart toont de plantages langs de rivier de Demerara en vermeldt de eigenaren rond 1783. De kaart is van Franse makelij en werd gemaakt na de verovering van het gebied door de Fransen in 1782.<br>Legenda:  Sucre. Caf\u00e9. Coton. A Batterie du jeune Dauphin ou il y a un Magasin \u00e0 Poudre, \u00e0 l\u2019\u00e9preuve de la Bombe, un Corps de Garde d\u2019 Officiers, et un hangard pour loger les troupes et les provisions, et une citerne. B Batterie de l\u2019avant-garde avec embrasures, pour 4 pi\u00e8ces de 4 en fonte. C Batterie de la Reine, \u00e0 la pointe Albinus, ou l\u2019on peur m\u00e8tre 6 pi\u00e8ces de 24 et 6 de douze.<br>Schaalstok: 1600 Toises \u00e0 6, lignes pour 100 Toises (een \u2018Toise \u00e0 6\u2019 is ca 1,95 meter)<br>Het tweede deel van deze kaart is VEL1497B<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7793/kaart-van-nederlandse-plantages-langs-de-demerara-rivier\">https://www.atlasofmutualheritage.nl/page/7793/kaart-van-nederlandse-plantages-langs-de-demerara-rivier</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497A.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497A.json/canvas/p1",
             "type": "Canvas",
             "height": 28552,
             "width": 10091,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497A.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497A.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497A.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497A.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497A.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1497A.json/canvas/p1"
                         }
                     ]
                 }

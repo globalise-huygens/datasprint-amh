@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "424"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/bb054a1d-d655-411b-95bc-a808a2be7307\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de noordkust van Java, van Batavia tot aan Kading Gaw\u00e9<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (NA): Kaart van de Noordkust van Java, van Batavia met de daarvoor liggende Eilanden tot aan Kading Gaw\u00e9.<br>Opmerking in catalogus Leupe: Met aanwijzing van het rif van Pamanoekan, waarop het schip 't Casteel van Woerden in 1748 is gebleven.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3598/kaart-van-de-noordkust-van-java-van-batavia-tot-aan-kading-gaw%C3%A9\">https://www.atlasofmutualheritage.nl/page/3598/kaart-van-de-noordkust-van-java-van-batavia-tot-aan-kading-gaw%C3%A9</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/424.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/424.json/canvas/p1",
             "type": "Canvas",
             "height": 4322,
             "width": 5831,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/424.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/424.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/424.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/424.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/424.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/424.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1035B"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/5fe56f3c-5b17-4024-acdb-51119ee3ef61\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond en profiel van de hoofdpoort van fort Oostenburg te Trinconomale<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Profils, platte gronden enz. tot bovenstaande werken behoorende; van verschillende grootte en afmetingen.<br>Notities verso: Blauw etiket [ODG] nr: 23B; nr. 32; 1778 [jaartal?].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/592/plattegrond-en-profiel-van-de-hoofdpoort-van-fort-oostenburg-te\">https://www.atlasofmutualheritage.nl/page/592/plattegrond-en-profiel-van-de-hoofdpoort-van-fort-oostenburg-te</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1035B.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1035B.json/canvas/p1",
             "type": "Canvas",
             "height": 3003,
             "width": 10926,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1035B.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1035B.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1035B.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1035B.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1035B.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1035B.json/canvas/p1"
                         }
                     ]
                 }

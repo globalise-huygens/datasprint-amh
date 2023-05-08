@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "426"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/c4d3432d-0e5e-417b-9fb7-3c248da73eba\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de noordkust van Java, van Batang tot Japara<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (NA): Kaart als voren, van Batang tot Japara, benevens de eilanden Karimon Java.<br>Opmerking in catalogus Leupe: Met aanteekening: dat Capt. Willem 't Hoen in 1748 het schip Kleverskerk op laatstgenoemde eilanden heeft verloren.<br>Notities verso: Noord Kust van Java.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3019/kaart-van-de-noordkust-van-java-van-batang-tot-japara\">https://www.atlasofmutualheritage.nl/page/3019/kaart-van-de-noordkust-van-java-van-batang-tot-japara</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json/canvas/p1",
             "type": "Canvas",
             "height": 6875,
             "width": 4255,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/426.json/canvas/p1"
                         }
                     ]
                 }

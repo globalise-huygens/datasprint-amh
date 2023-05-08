@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "239"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1743"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/3eabff15-c25f-45a6-a405-0b49fda1d067\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Mature en de Baygam<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart als voren, hiermee wordt bedoeld de titel van VEL0238: Kaart van de Groote Rivier van Mature Nielvalle Gange genoemt enz..<br>Notities verso: 1877 [folionummer in de band ?] / 1743 N 2 / No 75 [volgnummer van het stuk in de band ?] / 239 [in rood potlood].<br>Legenda: A-D<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3846/kaart-van-mature-en-de-baygam\">https://www.atlasofmutualheritage.nl/page/3846/kaart-van-mature-en-de-baygam</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/239.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/239.json/canvas/p1",
             "type": "Canvas",
             "height": 8999,
             "width": 6454,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/239.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/239.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/239.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/239.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/239.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/239.json/canvas/p1"
                         }
                     ]
                 }

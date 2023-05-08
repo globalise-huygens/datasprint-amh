@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "375"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1731"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/2aa95035-5f2b-444a-99b2-6a9d5945c714\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de noordkust van Java<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart als voren, hier wordt bedoeld de titel van VEL0374: Kaart van de Noordkust van Java, van Geertruyts Eyland tot aan de hoek van Crawang, met de daarvoor liggende kleinere Eilanden.<br>Topografische namen vermeld op deze kaart: Duyven Eijlandt, Leyden, Onrust kerkhof, 't Jagers Eilandt, Thanari, Alkmaar, Enkhuysen, Hoorn, Rotterdam, Haerlem, Schiedam, Amsterdam, Middelburg, Duijfjens Eylandt [2e eiland met deze naam), 't Langt Eylandt, Menseeters Eijlant, Bronkhorst Eylandt, P. Tidong, 't Wapen van Hoorn Eylandt<br>Topografische namen vermeld bij Bantam: P.o Doa, Hollands kerkhof, [bij eiland geschreven:] Cheribon P.o Ba [...] Touda, P. Panjang, Houtsagers Eylandt, Toppers Hoetjen, Brabants hoetjen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2431/kaart-van-de-noordkust-van-java\">https://www.atlasofmutualheritage.nl/page/2431/kaart-van-de-noordkust-van-java</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json/canvas/p1",
             "type": "Canvas",
             "height": 4656,
             "width": 12470,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/375.json/canvas/p1"
                         }
                     ]
                 }

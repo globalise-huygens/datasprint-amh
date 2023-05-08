@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1775"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/9d765fba-5247-4063-b3f4-8e24061dae8b\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de plantage Dankbaarheyd<br>\n    <strong>Description</strong>: Titel Leupe: Kaarte van de Plantagie de Dankbaarheyd aan Rio de Berbice enz. Van twee nieuwe gronden.<br>Kaart van de nieuw ontgonnen plantage Dankbaarheyd in bezit van de heer H. Volkmaar te Amsterdam en gelegen ten westen van de Berbice rivier.<br>Afgaande op eerdere kaarten van dit gebied (VEL1599), lijkt het kompas op de kaart een verkeerde richting aan te geven.<br>Deze kaart toont de omvang nadat nieuwe grond aan de plantage Dankbaarheyd is toegevoegd.<br>Nabij de rivier liggen bossen met verschillende soorten hout.<br>De plantage blijkt 500 Surinaamse akkers te meten (oftewel 215 hectare) en het toegevoegde stuk grond blijkt 1000 Surinaamse akkers (oftwel 430 hectare) te meten.<br>De kaart is op 17 October 1775 ondertekend.<br>Schaal van 300 Rijnlandse roeden = 150 strepen.<br>Zie ook VEL1601, een kopie van deze kaart.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10267/kaart-van-de-plantage-dankbaarheyd\">https://www.atlasofmutualheritage.nl/page/10267/kaart-van-de-plantage-dankbaarheyd</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1600.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1600.json/canvas/p1",
             "type": "Canvas",
             "height": 6261,
             "width": 8040,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1600.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1600.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1600.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1600.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1600.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1600.json/canvas/p1"
                         }
                     ]
                 }

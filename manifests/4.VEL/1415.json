@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1415"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/a105b4e2-bcb6-4fa9-a3c8-59c06705847e\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Hispaniola<br>\n    <strong>Description</strong>: Titel Leupe:  Carte de I'Isle St. Dominique dressee par le Sr. de Cressy, cidevant Commandant pour le Roi de I'Isle de la Tortue et Costes de St. Dominque.<br>Waarschijnlijk geeft deze kaart situatie weer rond 1697 toen het verdrag van Ryswick getekend werd en Spanje officieel de Franse kolonie erkende. Veel meer dan de plaatsnamen aan de kust worden niet genoemd; het binnenland bevat slechts twee Spaanse vestingen, meren en rivieren en bergen. Het is niet duidelijk hoe dit Franse manuscript in de Nederlandse archieven is beland. Een hypothese is dat na de val van Napoleon en de terugkeer van de Nederlandse kaartencollectie uit Parijs dit manuscript per abuis is meegenomen.<br>Schaal van 20 Lieus = 92 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10349/kaart-van-hispaniola\">https://www.atlasofmutualheritage.nl/page/10349/kaart-van-hispaniola</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1415.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1415.json/canvas/p1",
             "type": "Canvas",
             "height": 6176,
             "width": 8501,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1415.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1415.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1415.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1415.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1415.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1415.json/canvas/p1"
                         }
                     ]
                 }

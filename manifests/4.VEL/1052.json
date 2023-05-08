@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1052"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/0f4ec4de-c541-45c2-bf72-7876772fc2cc\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegronden van Baticaloa en Kalture<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van de fortresse Batacalo.<br>1052a; De fortresse Batacalo; Schaal van 20 Roeden=71 strepen; 1052a [ca. 1:1062]; legenda: A-S;<br>1052b; De Kat binnen Batacalo; Schaal van 4 Roeden=61 strepen; 1052b [ca. 1:247]; legenda: A-R;<br>1052c; Afbeeldinge van de fortresse Kalture, sodanig deselve in Juny A. 1681 is gemeeten en bevonden; Schaal van 20 Roeden=115 strepen; 1052c [ca. 1:656]; legenda: 1-22; A-V.<br>Notities verso: A.A. nr. 23 m; [verso] 576b [met potlood] n.2: 44 [Met aanwijzingen].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4345/plattegronden-van-baticaloa-en-kalture\">https://www.atlasofmutualheritage.nl/page/4345/plattegronden-van-baticaloa-en-kalture</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1052.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1052.json/canvas/p1",
             "type": "Canvas",
             "height": 6370,
             "width": 8881,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1052.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1052.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1052.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1052.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1052.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1052.json/canvas/p1"
                         }
                     ]
                 }

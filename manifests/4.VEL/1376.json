@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1376"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/e2037aec-90bb-4e54-a049-c6aaeddb3660\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van Noord en Zuid Amerika<br>\n    <strong>Description</strong>: Kaart van Noord en Zuid Amerika.<br>Titel Catalogus Leupe (NA): Recentissima Novi Orbis Sive Americae Septentrionalis et Meridionalis etc.<br>Recenti\u00dfima Novi Orbis Sive Americae Septentrionalis et Meridionalis Tabula.<br>Cf. Koninklijke Bibliotheek, Den Haag, inv. nr. 1049B13_072 , Idem, inv. nr. 185 B 14 deel I, voor p. 1 en Rijksmuseum, Amsterdam, inv. nr. NG-501-89.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/6779/kaart-van-noord-en-zuid-amerika\">https://www.atlasofmutualheritage.nl/page/6779/kaart-van-noord-en-zuid-amerika</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1376.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1376.json/canvas/p1",
             "type": "Canvas",
             "height": 6732,
             "width": 7979,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1376.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1376.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1376.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1376.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1376.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1376.json/canvas/p1"
                         }
                     ]
                 }

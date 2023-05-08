@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1789"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1747"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/e4429837-4d26-42e2-967c-f70af856bf15\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de landen gelegen tussen fort Nieuw-Amsterdam en Plantage Jagtlust<br>\n    <strong>Description</strong>: Titel Leupe : _Kaart van de landen, gelegen tusschen de Plantage Jagtlust en het fortres Nieuw<br>Amsterdam._<br>De kaart toont de exacte ligging van enkele kavels en plantages gelegen ten Zuidoosten van het fort Nieuw-Amsterdam.<br>De plantage is gelegen aan de rechteroever van de Suriname rivier (in 't afvaren).<br>De plantages zijn voorzien van eigennamen en de oppervlakten ervan zijn aangegeven in Surinaamse akkers (0,43 hectare per akker).<br>Schaal van 210 Kettingen a\u0300 66 Rijnlandse voeten = 72 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/1970/kaart-van-de-landen-gelegen-tussen-fort-nieuw-amsterdam-en-plantage\">https://www.atlasofmutualheritage.nl/page/1970/kaart-van-de-landen-gelegen-tussen-fort-nieuw-amsterdam-en-plantage</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1789.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1789.json/canvas/p1",
             "type": "Canvas",
             "height": 2915,
             "width": 4533,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1789.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1789.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1789.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1789.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1789.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1789.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "810"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/f03e4b5c-4880-47e6-bca8-a03b4fe6c2a3\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart met landverdelingen rondom Kaap de Goede Hoop<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van de verdeeling in vier gedeelten van het land Verlegen.<br>De kaart verkeert in een zeer slechte materi\u00eble staat, met veel bruine vochtplekken en gaten.<br>Notities verso: Kaap overgekomen 1709, No. 30 [volgnummer van het stuk in de band ?].<br>Onderin schaalverdeling Schaal van 100 Reijnlands Roede.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2739/kaart-met-landverdelingen-rondom-kaap-de-goede-hoop\">https://www.atlasofmutualheritage.nl/page/2739/kaart-met-landverdelingen-rondom-kaap-de-goede-hoop</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/810.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/810.json/canvas/p1",
             "type": "Canvas",
             "height": 8888,
             "width": 21309,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/810.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/810.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/810.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/810.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/810.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/810.json/canvas/p1"
                         }
                     ]
                 }

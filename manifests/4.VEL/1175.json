@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1175"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/12dd77a6-76b0-4838-8f7e-017921ecab3e\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van de stad Bantam<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Platte grond als voren, met zyne wallen en bolwerken enz.; hier wordt bedoeld de titel van VEL1174: Grondteekening van de stad Bantam.<br>Rechts boven genummerd: 2.h.<br>Beplakt met rijstpapier waarbij rondom aan de randen stroken uitsteken.<br>Notities verso: 50 [in potlood in rechterbovenhoek maar doorgestreept] / 624 d.<br>Legenda: A-X; a-z<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2445/plattegrond-van-de-stad-bantam\">https://www.atlasofmutualheritage.nl/page/2445/plattegrond-van-de-stad-bantam</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1175.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1175.json/canvas/p1",
             "type": "Canvas",
             "height": 6370,
             "width": 8940,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1175.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1175.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1175.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1175.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1175.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1175.json/canvas/p1"
                         }
                     ]
                 }

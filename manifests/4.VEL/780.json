@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "780"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/23c535fe-8050-442f-ae4e-d488ec7b7def\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van het fort Coenraadsburg te Elmina<br>\n    <strong>Description</strong>: Plattegrond van het fort Coenraadsburg te Elmina.<br>Titel catalogus Leupe (NA): Plan van de Platte grond van S. Ed. Comp. Fortres Coenraadsboerg, op de berg St. Jago.<br>Plan / Van de Platte-Grond van S: Edl: Comp: Fortress Coenraadsboerg op de Berg St: Jago.<br>Notities verso: No. 7 Fortres Coenraads Burg. Register 8, Deel 1, Folio 32, Portefeuille .. [geschreven op een blauw etiket] / 476 509 [in potlood].<br>Legenda: 1-71.<br>In de hoeken: 780 [in potlood].<br>Rechtsonder: No: 13.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/1120/plattegrond-van-het-fort-coenraadsburg-te-elmina\">https://www.atlasofmutualheritage.nl/page/1120/plattegrond-van-het-fort-coenraadsburg-te-elmina</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/780.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/780.json/canvas/p1",
             "type": "Canvas",
             "height": 5291,
             "width": 6808,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/780.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/780.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/780.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/780.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/780.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/780.json/canvas/p1"
                         }
                     ]
                 }

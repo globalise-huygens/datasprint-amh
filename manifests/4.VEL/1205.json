@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1205"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/5e8a09dc-86bc-4744-b8e3-bf852c0cddc6\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegronden van de schansen Ryswyk, Noortwyk, Jacatra en de Vyfhoek<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Platte grond van de Veldschans Ryswyk;<br>VEL1205a: _Platte grond van de Veldschans Noortwyk;<br>VEL1205b: Platte grond van 't Fort Jacatra;<br>VEL1205c: Platte grond van de Redout de Vyfhoek.<br>De randen zijn gerafeld en ingescheurd.<br>Rechts boven genummerd: 3.f.<br>Notities verso: 558 [in potlood] / 602 s / b 18e eeuw [in potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/654/plattegronden-van-de-schansen-ryswyk-noortwyk-jacatra-en-de-vyfhoek\">https://www.atlasofmutualheritage.nl/page/654/plattegronden-van-de-schansen-ryswyk-noortwyk-jacatra-en-de-vyfhoek</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1205.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1205.json/canvas/p1",
             "type": "Canvas",
             "height": 6378,
             "width": 8914,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1205.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1205.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1205.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1205.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1205.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1205.json/canvas/p1"
                         }
                     ]
                 }

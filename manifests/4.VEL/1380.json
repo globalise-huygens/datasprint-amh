@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1380"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1772"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/5c0c606c-3f94-422f-b692-766dd96b3130\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de Amerikaanse continenten<br>\n    <strong>Description</strong>: Titel Leupe: A Map of the whole continent of America, divided into North and South and West Indies etc. Vier bladen.<br>Een kaart van Noord<br>en Zuid-Amerika alsook de Cariben met een uitgebreide index die alle Europese koloni\u00ebn bevat. De grenzen tussen deze koloni\u00ebn zijn met verschillende kleuren getekend en staan centraal in deze kaart. Ze zijn gebaseerd op het verdrag dat op 10 Februari 1763 in Parijs werd getekend. De voorwaarden van dit verdrag zijn ook ingevoegd, wat aantoont dat de uitgever Sayer met deze kaart de nieuwe politieke balans op deze twee continenten wil weergeven. De erkenning die de kaart in het buitenland kreeg maakte hem belangrijk voor de Nederlandse Republiek aangezien het WIC-gebied hiermee internationaal werd vastgelegd. Linksonder is ook een kaart van het Noord-Amerikaanse toendra gebied te vinden.<br>Schaal van ca. 1:11,250,000.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7196/kaart-van-de-amerikaanse-continenten\">https://www.atlasofmutualheritage.nl/page/7196/kaart-van-de-amerikaanse-continenten</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1380.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1380.json/canvas/p1",
             "type": "Canvas",
             "height": 12772,
             "width": 15625,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1380.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1380.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1380.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1380.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1380.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1380.json/canvas/p1"
                         }
                     ]
                 }

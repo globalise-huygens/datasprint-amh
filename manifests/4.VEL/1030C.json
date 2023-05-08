@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1030C"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/67e2b861-7f2e-498a-8db4-2c7f1045512a\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond en profielen van fort Oostenburg<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (NA): Plan van Oostenburg en de benedenwerken, gedeeltelyk nog op te bouwen.<br>Stempeltje: Depot des Cart. Pl. et Journ. de la Marine.<br>De kaart heeft vele roze vlekken, veroorzaakt door vocht.<br>Volgens een aantekening in Leupe is de kaart overgekomen van Ceylon in 1780.<br>Notities verso: No. 21 B Profilen bij Oostenburg Register 4 Deel 1 Folio 14 Porte-feul [geschreven op een blauw etiket] / No. 34 [geschreven op een wit etiketje].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/596/plattegrond-en-profielen-van-fort-oostenburg\">https://www.atlasofmutualheritage.nl/page/596/plattegrond-en-profielen-van-fort-oostenburg</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030C.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030C.json/canvas/p1",
             "type": "Canvas",
             "height": 5915,
             "width": 8813,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030C.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030C.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030C.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030C.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030C.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1030C.json/canvas/p1"
                         }
                     ]
                 }

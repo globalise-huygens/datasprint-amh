@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1960"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/87a8f7fe-0be3-45cc-a1b4-65fee8c06e7e\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van kustgebied rond de Motkreek<br>\n    <strong>Description</strong>: Titel Leupe: Kaart van de Plantagien, gelegen aan beide oevers van de Motkreek, van Zeezigt en Dageraad tot aan Zee.<br>De kaart geeft een deel van het gebied tussen de zeekust en de Cottica rond de Motkreek weer dat in hoofdzaak pas na ca. 1785 werd ontgonnen.<br>De meting betreft twee kavels: een van de heer Gomarre (aangegeven met de letters A-D), en de ander van de heer Sjaak (aangegeven met de letters E-G en C).<br>De eerste kavel (genaamd de plantage Zeezigt) blijkt 500 Surinaamse akkers (215 hectare) en de tweede 296 akkers (127,28 hectare).<br>De kavels zijn nog omringd door de natuur; tussen de grond van de heer Sjaak en de Motkreek ligt bijvoorbeeld een blaka-beri bos.<br>-Ten westen (boven op de kaart) van de kavels ligt de plantage Dageraad en Dankbaarheid en het nieuwe kanaal.<br>De kaart is ondertekend op 26 Mei 1794.<br>Een kopie van deze kaart, VEL1960A, is niet apart in de AMH opgenomen.<br>Schaal van 100 Kettingen \u00e0 66 Rijnlandse voeten = 125 strepen.<br>Oorsprong: missive van de Gouv.-Gen. dd 26 mei 1794 sub. no. 852.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2255/kaart-van-kustgebied-rond-de-motkreek\">https://www.atlasofmutualheritage.nl/page/2255/kaart-van-kustgebied-rond-de-motkreek</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1960.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1960.json/canvas/p1",
             "type": "Canvas",
             "height": 6609,
             "width": 5185,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1960.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1960.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1960.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1960.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1960.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1960.json/canvas/p1"
                         }
                     ]
                 }

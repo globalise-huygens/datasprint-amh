@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "999"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1693"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/f5f34a5d-9cab-4286-9732-3e5f8da9b131\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van het fort te Jaffnapatnam<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Platte grond van het Fort Jaffanapatnam.<br>VEL0999a: 8 Roeden = 91 strepen; Omgerekende schaal [ca. 1:331].<br>VEL0999b: 8 Roeden = 59 strepen; Omgerekende schaal [ca. 1:511].<br>VEL0999c: 4 Roeden = 78 strepen; Omgerekende schaal [ca. 1:193].<br>Legenda: 1-39<br>Gekopieerd naar een origineel in 1693, dat niet bewaard is gebleven.<br>Notities verso: A. A. nr. 23 s Verso 586 d. [met potlood] nr. 2:46.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/879/plattegrond-van-het-fort-te-jaffnapatnam\">https://www.atlasofmutualheritage.nl/page/879/plattegrond-van-het-fort-te-jaffnapatnam</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/999.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/999.json/canvas/p1",
             "type": "Canvas",
             "height": 6277,
             "width": 8822,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/999.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/999.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/999.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/999.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/999.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/999.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "483"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1600/1700"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/791cd214-eaf4-444c-83f8-a4f7bf921b5d\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van het oostelijke gedeelte van Seram<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van het Oostelykste gedeelte van Ceram.<br>Linksboven: 'T West-eynde van Bouro.; met schaalaanduiding: 1 duitse mijl = 114 strepen; omgerekende schaal [ca. 1:64.977], formaat (26 x 37 cm).<br>Rechtsboven: Het Oostelykste van Ceram; met schaalaanduiding: 1 duitse mijl = 6,4 cm; omgerekende schaal [ ca. 1:115.740]; legenda aanwezig.<br>Linksonder: De Pagger op het Eyland Bouro; met schaalaanduiding: 12 Rijnl. roeden = 115 strepen; omgerekende schaal [ca. 1:393].<br>Rechtsonder: Het Westelykste van Ceram; met schaalaanduiding: 1 duitse mijl = 11,5 cm; omgerekende schaal [ca. 1:64.412]; legenda aanwezig.<br>Topografische namen op deze kaarten vermeld: _Ceram Laut, Lissidi, out Alangh, Assahoedi, Hataumalo, Niborn, Hatumalu).<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4306/kaart-van-het-oostelijke-gedeelte-van-seram\">https://www.atlasofmutualheritage.nl/page/4306/kaart-van-het-oostelijke-gedeelte-van-seram</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/483.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/483.json/canvas/p1",
             "type": "Canvas",
             "height": 6378,
             "width": 8914,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/483.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/483.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/483.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/483.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/483.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/483.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1344"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/f11bbb30-b445-4953-b516-1befb157e54a\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Plattegrond van de pakhuizen te Amboina<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Plattegrond van de pakhuizen aldaar, bedoeld wordt Amboina.<br>Notities verso: Behoort by deel IV der overgekomenen papieren van Batavia 1699 / Pakhuizen / 1650 [moet het folionummer in de band OBP zijn] / 602 hh jj [hh doorgestreept en vervangen door jj].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2369/plattegrond-van-de-pakhuizen-te-amboina\">https://www.atlasofmutualheritage.nl/page/2369/plattegrond-van-de-pakhuizen-te-amboina</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1344.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1344.json/canvas/p1",
             "type": "Canvas",
             "height": 4786,
             "width": 6690,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1344.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1344.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1344.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1344.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1344.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1344.json/canvas/p1"
                         }
                     ]
                 }

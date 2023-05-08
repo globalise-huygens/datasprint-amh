@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "160"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1670"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/23f8fca9-8053-452f-aa6f-f1cb78614a2b\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de westkust van Afrika, van Sierras de St. Thom\u00e9 tot de Kaap de Goede Hoop<br>\n    <strong>Description</strong>: Kaart van de westkust van Afrika, van Sierras de St. Thom\u00e9 tot de Kaap de Goede Hoop.<br>Titel catalogus Leupe (NA): Kaart van de Kust van Afrika, tusschen Sierras de St. Thom\u00e9 en Cabo de Bona Esperan\u00e7a.<br>Notitie verso: Kaart van de Kaap en Tafelbaay bladz. 988 brieven en papieren uit de Kaap overgekomen no. 19.<br>Op verschillende plekken op de kaart: 160 [in potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2790/kaart-van-de-westkust-van-afrika-van-sierras-de-st.-thom%C3%A9-tot-de-kaap\">https://www.atlasofmutualheritage.nl/page/2790/kaart-van-de-westkust-van-afrika-van-sierras-de-st.-thom%C3%A9-tot-de-kaap</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json/canvas/p1",
             "type": "Canvas",
             "height": 11884,
             "width": 8389,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/160.json/canvas/p1"
                         }
                     ]
                 }

@@ -15,7 +15,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "1586"
                 ]
             }
@@ -27,7 +27,7 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "?"
                 ]
             }
@@ -39,8 +39,20 @@
                 ]
             },
             "value": {
-                "none": [
+                "en": [
                     "<a href=\"http://hdl.handle.net/10648/333671e9-8360-4b27-8f84-0267bf439126\"></a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n    <strong>Title</strong>: Kaart van de suikerplantage Johanna<br>\n    <strong>Description</strong>: Titel Leupe: Plann van de Compagnies Plantagie Johanna en de Vryplantagies Hofwerck, Slingeland, Solitude enz.<br>Centraal op deze kaart staat het land van de suikerplantage Johanna, die verder onderverdeeld is in stukken land met verschillende \u2018jaren\u2019. Er is tevens onderscheid gemaakt tussen twee typen land: het centrale groengekleurde deel en rode stukken direct aan de rivieroever.<br>De gebouwen en woningen zijn aan de noordwestkant (i.e. onderkant) van de plantage .<br>Het noorden is linksonder.<br>Schaal: 500 Rijnlandse roeden = 125 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10249/kaart-van-de-suikerplantage-johanna\">https://www.atlasofmutualheritage.nl/page/10249/kaart-van-de-suikerplantage-johanna</a>\n    "
                 ]
             }
         }
@@ -54,17 +66,17 @@
     ],
     "items": [
         {
-            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1586.json#canvas/p1",
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1586.json/canvas/p1",
             "type": "Canvas",
             "height": 5816,
             "width": 7600,
             "items": [
                 {
-                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1586.json#canvas/p1/annotationpage",
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1586.json/canvas/p1/annotationpage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1586.json#canvas/p1/anno",
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1586.json/canvas/p1/anno",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -81,7 +93,7 @@
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1586.json#canvas/p1"
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1586.json/canvas/p1"
                         }
                     ]
                 }
