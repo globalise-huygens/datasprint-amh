@@ -109,11 +109,11 @@ def make_collection(
         metadata=[
             iiif_prezi3.KeyValueString(
                 label="Identifier",
-                value={"none": [collection_number]},
+                value={"en": [collection_number]},
             ),
             iiif_prezi3.KeyValueString(
                 label="Permalink",
-                value={"none": [f'<a href="{collection_permalink}"></a>']},
+                value={"en": [f'<a href="{collection_permalink}"></a>']},
             ),
         ],
     )
@@ -167,21 +167,36 @@ def make_manifest(
         base_url=base_url,
     )
 
+    amh_metadata_title = ore_aggregation["edm:aggregatedCHO"]["dc:title"]
+    amh_metadata_description = ore_aggregation["edm:aggregatedCHO"][
+        "dc:description"
+    ].replace("\n", "<br>")
+    amh_metadata_url = ore_aggregation["edm:aggregatedCHO"]["seeAlso"]
+    amh_metadata_blob = f"""
+    <strong>Title</strong>: {amh_metadata_title}<br>
+    <strong>Description</strong>: {amh_metadata_description}<br>
+    <strong>URL</strong>: <a href="{amh_metadata_url}">{amh_metadata_url}</a>
+    """
+
     manifest = iiif_prezi3.Manifest(
         id=manifest_id,
         label=title,
         metadata=[
             iiif_prezi3.KeyValueString(
                 label="Identifier",
-                value={"none": [inventory_number]},
+                value={"en": [inventory_number]},
             ),
             iiif_prezi3.KeyValueString(
                 label="Date",
-                value={"none": [date or "?"]},
+                value={"en": [date or "?"]},
             ),
             iiif_prezi3.KeyValueString(
                 label="Permalink",
-                value={"none": [f'<a href="{handle}"></a>']},
+                value={"en": [f'<a href="{handle}"></a>']},
+            ),
+            iiif_prezi3.KeyValueString(
+                label="Metadata from the Atlas of Mutual Heritage",
+                value={"en": [amh_metadata_blob]},
             ),
         ],
         seeAlso=[ore_aggregation],
@@ -190,9 +205,9 @@ def make_manifest(
     try:
         canvas = manifest.make_canvas_from_iiif(
             url=iiif_service,
-            id=f"{manifest_id}#canvas/p1",
-            anno_id=f"{manifest_id}#canvas/p1/anno",
-            anno_page_id=f"{manifest_id}#canvas/p1/annotationpage",
+            id=f"{manifest_id}/canvas/p1",
+            anno_id=f"{manifest_id}/canvas/p1/anno",
+            anno_page_id=f"{manifest_id}/canvas/p1/annotationpage",
         )
     except HTTPError:
         pass
