@@ -168,9 +168,11 @@ def make_manifest(
     )
 
     amh_metadata_title = ore_aggregation["edm:aggregatedCHO"]["dc:title"]
-    amh_metadata_description = ore_aggregation["edm:aggregatedCHO"][
-        "dc:description"
-    ].replace("\n", "<br>")
+    amh_metadata_description = (
+        ore_aggregation["edm:aggregatedCHO"]
+        .get("dc:description", "")
+        .replace("\n", "<br>")
+    )
     amh_metadata_url = ore_aggregation["edm:aggregatedCHO"]["seeAlso"]
     amh_metadata_blob = f"""
     <strong>Title</strong>: {amh_metadata_title}<br>
