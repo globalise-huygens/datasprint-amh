@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Plattegrond van Antonio Vaez, Recife en Olinda<br>\n    <strong>Description</strong>: Plattegrond van Antonio Vaez, Recife en Olinda.<br>Titel in de Catalogus Leupe (NA): Kaert van het Eiland Antonio Vaaz, het recif en de Stad Pernambuc enz.<br>Legenda: Aenwisinge op de Letteren in de Caerte A-X.<br>Deze kaart dateert van voor de verovering door de WIC.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/1792/plattegrond-van-antonio-vaez-recife-en-olinda\">https://www.atlasofmutualheritage.nl/page/1792/plattegrond-van-antonio-vaez-recife-en-olinda</a>\n    "
+                    "\n        <strong>Title</strong>: Plattegrond van Antonio Vaez, Recife en Olinda<br>\n        <strong>Description</strong>: Plattegrond van Antonio Vaez, Recife en Olinda.<br>Titel in de Catalogus Leupe (NA): Kaert van het Eiland Antonio Vaaz, het recif en de Stad Pernambuc enz.<br>Legenda: Aenwisinge op de Letteren in de Caerte A-X.<br>Deze kaart dateert van voor de verovering door de WIC.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/1792/plattegrond-van-antonio-vaez-recife-en-olinda\">https://www.atlasofmutualheritage.nl/page/1792/plattegrond-van-antonio-vaez-recife-en-olinda</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/708.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart van het Eiland Antonie Vaaz, het recif en de Stad Pernambuc enz."
+                ]
+            },
             "height": 7170,
             "width": 9470,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "708"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1600/1700"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/a2c3fd6a-3d23-41a2-a9f8-7d34a89bd3f2\">http://hdl.handle.net/10648/a2c3fd6a-3d23-41a2-a9f8-7d34a89bd3f2</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plattegrond van Antonio Vaez, Recife en Olinda<br>\n        <strong>Description</strong>: Plattegrond van Antonio Vaez, Recife en Olinda.<br>Titel in de Catalogus Leupe (NA): Kaert van het Eiland Antonio Vaaz, het recif en de Stad Pernambuc enz.<br>Legenda: Aenwisinge op de Letteren in de Caerte A-X.<br>Deze kaart dateert van voor de verovering door de WIC.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/1792/plattegrond-van-antonio-vaez-recife-en-olinda\">https://www.atlasofmutualheritage.nl/page/1792/plattegrond-van-antonio-vaez-recife-en-olinda</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/708.json/canvas/p1/annotationpage",

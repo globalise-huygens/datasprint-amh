@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van Dasseneiland<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaartje van het Dassen Eyland.<br>Scheurtjes en vochtplekken met name in de onderrand.<br>Notities verso: Kaarten en plans van de Kaap de Goede Hoop uit Brieven en papieren van de Kaap. Deel II 1654 / 208 [folionummer in de band ?] / 189 [in rood potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5604/kaart-van-dasseneiland\">https://www.atlasofmutualheritage.nl/page/5604/kaart-van-dasseneiland</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van Dasseneiland<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaartje van het Dassen Eyland.<br>Scheurtjes en vochtplekken met name in de onderrand.<br>Notities verso: Kaarten en plans van de Kaap de Goede Hoop uit Brieven en papieren van de Kaap. Deel II 1654 / 208 [folionummer in de band ?] / 189 [in rood potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5604/kaart-van-dasseneiland\">https://www.atlasofmutualheritage.nl/page/5604/kaart-van-dasseneiland</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/189.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaartje van het Dassen Eylant."
+                ]
+            },
             "height": 3926,
             "width": 4710,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "189"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1654"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/21b4263c-ab6f-4744-babf-6f7f7708a41f\">http://hdl.handle.net/10648/21b4263c-ab6f-4744-babf-6f7f7708a41f</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van Dasseneiland<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaartje van het Dassen Eyland.<br>Scheurtjes en vochtplekken met name in de onderrand.<br>Notities verso: Kaarten en plans van de Kaap de Goede Hoop uit Brieven en papieren van de Kaap. Deel II 1654 / 208 [folionummer in de band ?] / 189 [in rood potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5604/kaart-van-dasseneiland\">https://www.atlasofmutualheritage.nl/page/5604/kaart-van-dasseneiland</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/189.json/canvas/p1/annotationpage",

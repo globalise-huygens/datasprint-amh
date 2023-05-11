@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van het eiland Mauritius<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van het eiland Mauritius.<br>Notities verso: 129 a [in potlood, cijfer 9 niet helemaal zeker].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5861/kaart-van-het-eiland-mauritius\">https://www.atlasofmutualheritage.nl/page/5861/kaart-van-het-eiland-mauritius</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van het eiland Mauritius<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van het eiland Mauritius.<br>Notities verso: 129 a [in potlood, cijfer 9 niet helemaal zeker].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5861/kaart-van-het-eiland-mauritius\">https://www.atlasofmutualheritage.nl/page/5861/kaart-van-het-eiland-mauritius</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/333.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart van 't Eyland Mauritius."
+                ]
+            },
             "height": 8536,
             "width": 11526,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "333"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1600/1700"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/8460bd27-5ef1-4eaf-9913-d0182e73fdf5\">http://hdl.handle.net/10648/8460bd27-5ef1-4eaf-9913-d0182e73fdf5</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van het eiland Mauritius<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van het eiland Mauritius.<br>Notities verso: 129 a [in potlood, cijfer 9 niet helemaal zeker].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5861/kaart-van-het-eiland-mauritius\">https://www.atlasofmutualheritage.nl/page/5861/kaart-van-het-eiland-mauritius</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/333.json/canvas/p1/annotationpage",

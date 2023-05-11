@@ -1,0 +1,71 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.6.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Bengalen"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.6"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/256.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Kust van Bengale, van P. Palmeris tot de Rivier Arakan."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/257.json",
+            "label": {
+                "nl": [
+                    "Kaart van Bengale, van P. Palmeris tot Martavan (Pegu)."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/258.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Rivier van Bengalen, van de Mond tot de Hollandsche Logie (Hougly)."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/259.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Rivier de Ganges getrocken uyt een Moorsche Kaart."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/261.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Rivier van Arakan, van de Mond tot de Stad van dien naam."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

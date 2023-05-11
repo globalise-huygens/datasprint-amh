@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van de Molukken<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Caarte van Amboina met d' onderhoorige Eylanden.<br>Volgens de catalogus Leupe zou hierbij een landsbeschrijving van Amboina gepaard moeten gaan.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2379/kaart-van-de-molukken\">https://www.atlasofmutualheritage.nl/page/2379/kaart-van-de-molukken</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van de Molukken<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Caarte van Amboina met d' onderhoorige Eylanden.<br>Volgens de catalogus Leupe zou hierbij een landsbeschrijving van Amboina gepaard moeten gaan.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2379/kaart-van-de-molukken\">https://www.atlasofmutualheritage.nl/page/2379/kaart-van-de-molukken</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1325.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Caarte van Amboina met d' onderhoorige Eylanden."
+                ]
+            },
             "height": 5057,
             "width": 11017,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1325"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1600/1700"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/04e18a93-5144-4c0a-8a11-2c56453400f3\">http://hdl.handle.net/10648/04e18a93-5144-4c0a-8a11-2c56453400f3</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van de Molukken<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Caarte van Amboina met d' onderhoorige Eylanden.<br>Volgens de catalogus Leupe zou hierbij een landsbeschrijving van Amboina gepaard moeten gaan.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2379/kaart-van-de-molukken\">https://www.atlasofmutualheritage.nl/page/2379/kaart-van-de-molukken</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1325.json/canvas/p1/annotationpage",

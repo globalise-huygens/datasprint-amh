@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van de westkust van India<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van Gouzaratte, Cucan of Visiapoer, van R. Pilatus tot Dabul.<br>Rechtsboven genummerd: 15.<br>Notities verso: 226 [in rood potlood] / Ryks-Archief 's Gravenhage [stempeltje].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2530/kaart-van-de-westkust-van-india\">https://www.atlasofmutualheritage.nl/page/2530/kaart-van-de-westkust-van-india</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van de westkust van India<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van Gouzaratte, Cucan of Visiapoer, van R. Pilatus tot Dabul.<br>Rechtsboven genummerd: 15.<br>Notities verso: 226 [in rood potlood] / Ryks-Archief 's Gravenhage [stempeltje].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2530/kaart-van-de-westkust-van-india\">https://www.atlasofmutualheritage.nl/page/2530/kaart-van-de-westkust-van-india</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/226.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart van Gouzaratte, Cucan of Visiapoer, van R. Pilatus tot Dabul."
+                ]
+            },
             "height": 6353,
             "width": 8889,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "226"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1600/1700"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/093da5cb-618b-41d7-abdc-d3691f566201\">http://hdl.handle.net/10648/093da5cb-618b-41d7-abdc-d3691f566201</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van de westkust van India<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van Gouzaratte, Cucan of Visiapoer, van R. Pilatus tot Dabul.<br>Rechtsboven genummerd: 15.<br>Notities verso: 226 [in rood potlood] / Ryks-Archief 's Gravenhage [stempeltje].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2530/kaart-van-de-westkust-van-india\">https://www.atlasofmutualheritage.nl/page/2530/kaart-van-de-westkust-van-india</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/226.json/canvas/p1/annotationpage",

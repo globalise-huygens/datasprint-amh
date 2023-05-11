@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.4.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Ceylon"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.4"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/247.json",
+            "label": {
+                "nl": [
+                    "Haven of Baai van Gale."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/248.json",
+            "label": {
+                "nl": [
+                    "Plan van de baay van Gale."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/249.json",
+            "label": {
+                "nl": [
+                    "Plan van de baay van Gale."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

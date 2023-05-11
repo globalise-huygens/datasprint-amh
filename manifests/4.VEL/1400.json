@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van Virginia<br>\n    <strong>Description</strong>: Titel Leupe: Nova Virginiae Tabula.<br>Latijnse versie van John Smith's kaart van Virginia. (Zie VEL1399), in Nederland uitgegeven door Henricus Hondius. Ondanks stilistische verschillen, zoals andere cartouches, een andere graveerstijl van het landschap, en de verkleinde en gespiegelde afbeelding van de Sasquesahanough, is de kaart in hoofdzaak hetzelfde als het Engele origineel.<br>Zie voor het Engelse origineel: VEL1399.<br>Schaal van 12 D. m. = 76 strepen.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10324/kaart-van-virginia\">https://www.atlasofmutualheritage.nl/page/10324/kaart-van-virginia</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van Virginia<br>\n        <strong>Description</strong>: Titel Leupe: Nova Virginiae Tabula.<br>Latijnse versie van John Smith's kaart van Virginia. (Zie VEL1399), in Nederland uitgegeven door Henricus Hondius. Ondanks stilistische verschillen, zoals andere cartouches, een andere graveerstijl van het landschap, en de verkleinde en gespiegelde afbeelding van de Sasquesahanough, is de kaart in hoofdzaak hetzelfde als het Engele origineel.<br>Zie voor het Engelse origineel: VEL1399.<br>Schaal van 12 D. m. = 76 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10324/kaart-van-virginia\">https://www.atlasofmutualheritage.nl/page/10324/kaart-van-virginia</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1400.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "\n                            Nova Virginiae Tabula."
+                ]
+            },
             "height": 6606,
             "width": 7802,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1400"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1600/1700"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/f44b97d3-e8fe-4fce-93bf-4962d6300af4\">http://hdl.handle.net/10648/f44b97d3-e8fe-4fce-93bf-4962d6300af4</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van Virginia<br>\n        <strong>Description</strong>: Titel Leupe: Nova Virginiae Tabula.<br>Latijnse versie van John Smith's kaart van Virginia. (Zie VEL1399), in Nederland uitgegeven door Henricus Hondius. Ondanks stilistische verschillen, zoals andere cartouches, een andere graveerstijl van het landschap, en de verkleinde en gespiegelde afbeelding van de Sasquesahanough, is de kaart in hoofdzaak hetzelfde als het Engele origineel.<br>Zie voor het Engelse origineel: VEL1399.<br>Schaal van 12 D. m. = 76 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10324/kaart-van-virginia\">https://www.atlasofmutualheritage.nl/page/10324/kaart-van-virginia</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1400.json/canvas/p1/annotationpage",

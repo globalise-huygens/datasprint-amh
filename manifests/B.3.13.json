@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.13.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Philippijnsche Eilanden"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.13"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/294.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Philippynsche Eilanden, Mindanao enz."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/296.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Baay van Manilha. 18e eeuw."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/297.json",
+            "label": {
+                "nl": [
+                    "Platte grond van het Kasteel St. Jago en de Stadt Manilha."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

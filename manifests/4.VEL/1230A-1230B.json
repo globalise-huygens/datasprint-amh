@@ -1,0 +1,250 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A-1230B.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan van eenige Kruidkelders."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1230A-1230B"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "en": [
+                    "?",
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "en": [
+                    "<a href=\"http://hdl.handle.net/10648/60e132bc-8bf7-4b70-b3da-73525fcc02d2\">http://hdl.handle.net/10648/60e132bc-8bf7-4b70-b3da-73525fcc02d2</a>",
+                    "<a href=\"http://hdl.handle.net/10648/3b3b4af0-3a25-4b9f-8a5a-752ce571a0c0\">http://hdl.handle.net/10648/3b3b4af0-3a25-4b9f-8a5a-752ce571a0c0</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n        <strong>Title</strong>: Plattegrond van kruidkelders te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van eenige kruidkelders.<br>Notities verso: Behoort by het copie rapport nopens de bevinding der Bataviase kruidkelders overgekomen 1723, 3 deel, 2 stuks / 1204 [folionummer in de band ?] / No. 29 [volgnummer van het stuk in de band ?] / 602 ii.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/529/plattegrond-van-kruidkelders-te-batavia\">https://www.atlasofmutualheritage.nl/page/529/plattegrond-van-kruidkelders-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plattegrond van kruidkelders te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van eenige kruidkelders.<br>Notities verso: 1723 N1 / 1203 [folionummer in de band ?] / 602 ii.<br>Legenda: A-E<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/530/plattegrond-van-kruidkelders-te-batavia\">https://www.atlasofmutualheritage.nl/page/530/plattegrond-van-kruidkelders-te-batavia</a>\n        "
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1230B.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A-1230B.json/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 1"
+                ]
+            },
+            "height": 4348,
+            "width": 6286,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1230A"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/60e132bc-8bf7-4b70-b3da-73525fcc02d2\">http://hdl.handle.net/10648/60e132bc-8bf7-4b70-b3da-73525fcc02d2</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plattegrond van kruidkelders te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van eenige kruidkelders.<br>Notities verso: Behoort by het copie rapport nopens de bevinding der Bataviase kruidkelders overgekomen 1723, 3 deel, 2 stuks / 1204 [folionummer in de band ?] / No. 29 [volgnummer van het stuk in de band ?] / 602 ii.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/529/plattegrond-van-kruidkelders-te-batavia\">https://www.atlasofmutualheritage.nl/page/529/plattegrond-van-kruidkelders-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A-1230B.json/canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A-1230B.json/canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/2c/af/1c/a5/62/34/4a/93/80/f9/a9/dd/64/89/ae/09/c43cc03c-5488-4d69-873c-17941d2b8abe.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4348,
+                                "width": 6286,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/2c/af/1c/a5/62/34/4a/93/80/f9/a9/dd/64/89/ae/09/c43cc03c-5488-4d69-873c-17941d2b8abe.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A-1230B.json/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A-1230B.json/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 2"
+                ]
+            },
+            "height": 4929,
+            "width": 6243,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1230B"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/3b3b4af0-3a25-4b9f-8a5a-752ce571a0c0\">http://hdl.handle.net/10648/3b3b4af0-3a25-4b9f-8a5a-752ce571a0c0</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plattegrond van kruidkelders te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van eenige kruidkelders.<br>Notities verso: 1723 N1 / 1203 [folionummer in de band ?] / 602 ii.<br>Legenda: A-E<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/530/plattegrond-van-kruidkelders-te-batavia\">https://www.atlasofmutualheritage.nl/page/530/plattegrond-van-kruidkelders-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A-1230B.json/canvas/p2/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A-1230B.json/canvas/p2/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/3a/a4/a1/4f/46/2f/42/7d/82/22/7d/1a/ca/6a/8b/78/ae7f865f-ce5c-4a8e-8612-b793c191ca6b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4929,
+                                "width": 6243,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/3a/a4/a1/4f/46/2f/42/7d/82/22/7d/1a/ca/6a/8b/78/ae7f865f-ce5c-4a8e-8612-b793c191ca6b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1230A-1230B.json/canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

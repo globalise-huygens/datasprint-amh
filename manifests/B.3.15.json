@@ -1,0 +1,35 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.15.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Pescadores"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.15"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/300.json",
+            "label": {
+                "nl": [
+                    "Afteyckeninghe van Cincheo, de Piscadores enz."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

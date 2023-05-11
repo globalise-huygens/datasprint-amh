@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.7.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Schiereiland Malakka"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.7"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/262.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Westkust van het Schiereiland Malakka, met de daarvoor liggende Andaman-eilanden\n                        "
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/263.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Westkust van het Schiereiland Malakka, met de Andaman en Nickubaris Eylanden."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/264.json",
+            "label": {
+                "nl": [
+                    "Verbeterde Kaart van een gedeelte der Straat Malacca enz."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

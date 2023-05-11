@@ -1,0 +1,35 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.12.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Eilanden in de Chineesche Zee"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.12"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/293.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Eilanden benoorden en ten Noord-Oosten van Halmaheira tot Japan."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

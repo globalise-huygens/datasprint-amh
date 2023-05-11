@@ -1,0 +1,2826 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1564.1-1564.9"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "en": [
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "en": [
+                    "<a href=\"http://hdl.handle.net/10648/0cfc38d3-bef5-4e3e-8fbd-5ad155434f3f\">http://hdl.handle.net/10648/0cfc38d3-bef5-4e3e-8fbd-5ad155434f3f</a>",
+                    "<a href=\"http://hdl.handle.net/10648/c1052c02-2893-43a2-bea1-538942c2c6c2\">http://hdl.handle.net/10648/c1052c02-2893-43a2-bea1-538942c2c6c2</a>",
+                    "<a href=\"http://hdl.handle.net/10648/173034d4-4238-4fa5-936b-ad0ddb6d63a2\">http://hdl.handle.net/10648/173034d4-4238-4fa5-936b-ad0ddb6d63a2</a>",
+                    "<a href=\"http://hdl.handle.net/10648/d79fd971-ccc8-41e9-af1e-873b6016fa6e\">http://hdl.handle.net/10648/d79fd971-ccc8-41e9-af1e-873b6016fa6e</a>",
+                    "<a href=\"http://hdl.handle.net/10648/2e719763-ca0d-493c-baf0-b34648c1b767\">http://hdl.handle.net/10648/2e719763-ca0d-493c-baf0-b34648c1b767</a>",
+                    "<a href=\"http://hdl.handle.net/10648/c1389bde-c819-443f-b553-86a649c30ef8\">http://hdl.handle.net/10648/c1389bde-c819-443f-b553-86a649c30ef8</a>",
+                    "<a href=\"http://hdl.handle.net/10648/dea6aa20-dc62-4aff-b840-46b41505ba0f\">http://hdl.handle.net/10648/dea6aa20-dc62-4aff-b840-46b41505ba0f</a>",
+                    "<a href=\"http://hdl.handle.net/10648/713dcead-d233-4bdb-bc8a-b907c1afbc3a\">http://hdl.handle.net/10648/713dcead-d233-4bdb-bc8a-b907c1afbc3a</a>",
+                    "<a href=\"http://hdl.handle.net/10648/227827b8-d7db-4907-9241-fe397b7345ce\">http://hdl.handle.net/10648/227827b8-d7db-4907-9241-fe397b7345ce</a>",
+                    "<a href=\"http://hdl.handle.net/10648/76ba49eb-0251-49c6-9a5b-127b36c15b51\">http://hdl.handle.net/10648/76ba49eb-0251-49c6-9a5b-127b36c15b51</a>",
+                    "<a href=\"http://hdl.handle.net/10648/ebe72af6-b082-418e-8316-3c06ab0598e3\">http://hdl.handle.net/10648/ebe72af6-b082-418e-8316-3c06ab0598e3</a>",
+                    "<a href=\"http://hdl.handle.net/10648/fe6866a7-54a2-47cd-9f9a-50c9b8aa3774\">http://hdl.handle.net/10648/fe6866a7-54a2-47cd-9f9a-50c9b8aa3774</a>",
+                    "<a href=\"http://hdl.handle.net/10648/79f612ff-adf3-4231-8835-e7696c50d820\">http://hdl.handle.net/10648/79f612ff-adf3-4231-8835-e7696c50d820</a>",
+                    "<a href=\"http://hdl.handle.net/10648/41f220b9-652b-49a4-9171-82edbfdc409a\">http://hdl.handle.net/10648/41f220b9-652b-49a4-9171-82edbfdc409a</a>",
+                    "<a href=\"http://hdl.handle.net/10648/cf8ebfbc-7ab5-491c-aab8-f35b1dd43e9f\">http://hdl.handle.net/10648/cf8ebfbc-7ab5-491c-aab8-f35b1dd43e9f</a>",
+                    "<a href=\"http://hdl.handle.net/10648/31bd5539-d6b7-46c8-a2b3-5ebda689f4f4\">http://hdl.handle.net/10648/31bd5539-d6b7-46c8-a2b3-5ebda689f4f4</a>",
+                    "<a href=\"http://hdl.handle.net/10648/4d2349f7-c8d7-468d-887a-3a626315942e\">http://hdl.handle.net/10648/4d2349f7-c8d7-468d-887a-3a626315942e</a>",
+                    "<a href=\"http://hdl.handle.net/10648/bf84339a-8383-48c8-8bf9-54cc70d50c65\">http://hdl.handle.net/10648/bf84339a-8383-48c8-8bf9-54cc70d50c65</a>",
+                    "<a href=\"http://hdl.handle.net/10648/b8b5212c-ff81-4fe4-87bd-30b234dbf2b7\">http://hdl.handle.net/10648/b8b5212c-ff81-4fe4-87bd-30b234dbf2b7</a>",
+                    "<a href=\"http://hdl.handle.net/10648/0988a2be-37e5-4292-880c-83853dd7b051\">http://hdl.handle.net/10648/0988a2be-37e5-4292-880c-83853dd7b051</a>",
+                    "<a href=\"http://hdl.handle.net/10648/39442981-8610-4495-8cb6-2a4a10b75dd0\">http://hdl.handle.net/10648/39442981-8610-4495-8cb6-2a4a10b75dd0</a>",
+                    "<a href=\"http://hdl.handle.net/10648/074b4a69-2b76-4767-81b6-31c9e5b38d61\">http://hdl.handle.net/10648/074b4a69-2b76-4767-81b6-31c9e5b38d61</a>",
+                    "<a href=\"http://hdl.handle.net/10648/d42938e7-20b5-442c-b1fd-a5b7bef02977\">http://hdl.handle.net/10648/d42938e7-20b5-442c-b1fd-a5b7bef02977</a>",
+                    "<a href=\"http://hdl.handle.net/10648/fa7d5eab-96df-40c0-8548-04cdc5e7f5ec\">http://hdl.handle.net/10648/fa7d5eab-96df-40c0-8548-04cdc5e7f5ec</a>",
+                    "<a href=\"http://hdl.handle.net/10648/ae9eb702-9913-4d92-9c8f-9b43dfa66000\">http://hdl.handle.net/10648/ae9eb702-9913-4d92-9c8f-9b43dfa66000</a>",
+                    "<a href=\"http://hdl.handle.net/10648/bd3e9dd6-b6eb-4a0b-928d-088a8b00f816\">http://hdl.handle.net/10648/bd3e9dd6-b6eb-4a0b-928d-088a8b00f816</a>",
+                    "<a href=\"http://hdl.handle.net/10648/a66223fb-51c6-43bc-8409-cb52bad215ac\">http://hdl.handle.net/10648/a66223fb-51c6-43bc-8409-cb52bad215ac</a>",
+                    "<a href=\"http://hdl.handle.net/10648/ceb16a5d-a721-44b3-97b9-fe63b30ea5b1\">http://hdl.handle.net/10648/ceb16a5d-a721-44b3-97b9-fe63b30ea5b1</a>",
+                    "<a href=\"http://hdl.handle.net/10648/89d11d27-b5b5-4ef6-8101-5dedd39fc667\">http://hdl.handle.net/10648/89d11d27-b5b5-4ef6-8101-5dedd39fc667</a>",
+                    "<a href=\"http://hdl.handle.net/10648/ebc8af7b-4cb5-4137-a816-c6e58d86c31a\">http://hdl.handle.net/10648/ebc8af7b-4cb5-4137-a816-c6e58d86c31a</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kannes plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 60 Roeden Rynlands.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7801/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7801/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Hij toont het ontwerp van de commandantswoning met aanzichten, doorsneden en plattegronden.<br>Schaalstok van 50 Voet = [ca. 1 : 100].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7803/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7803/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kannes plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Hij toont het ontwerp van de commandantswoning met aanzichten, doorsneden en plattegronden.<br>Schaalstok van 50 Voet = [ca. 1 : 100].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7802/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7802/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Hij toont het ontwerp van de commandantswoning met aanzichten, doorsneden en plattegronden.<br>Schaalstok van 50 Voet = [ca. 1 : 100].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7804/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7804/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kannes plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 48 voet = 12 strepen<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7805/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7805/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 24 Voet = 12 strepen<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7806/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7806/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Het hier getoonde huis is een kleinere versie van dat op VEL1564.6.<br>Schaalstok van 24 voet = 12 strepen<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7807/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7807/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 12 Voet.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7808/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7808/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 36 Voet<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7809/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7809/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor een nieuw gebouw voor het Gouvernement aan de rivier Demerara<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Deze ontwerptekening met twee aanzichten en twee plattegronden heeft betrekking op een geprojecteerd nieuw gouvernementsgebouw in Stabroek. Het werd in 1802 vervaardigd in voorbereiding op de terugkeer van het Bataafse bestuur in Demerara door de directeur der werken en gebouwen in Amsterdam, Abraham van der Hart. Deze had twintig jaar eerder al een belangrijk aandeel gehad in de voorontwerpen voor de vernieuwing van de hoofdplaats in de buurkolonie Berbice, Nieuw-Amsterdam.<br>Voor zover bekend is met de uitvoering van zijn plan voor het gouvernement in Demerara in de korte periode tussen 1802 en de blijvende Britse bezetting in 1804 geen begin meer gemaakt.<br>Het noorden is links / onder.<br>Zie ook VEL1564.12<br>Schaalstok van 70 Voeten Rhynl: Voetmaat = [ca. 1 : 170].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10211/ontwerp-voor-een-nieuw-gebouw-voor-het-gouvernement-aan-de-rivier\">https://www.atlasofmutualheritage.nl/page/10211/ontwerp-voor-een-nieuw-gebouw-voor-het-gouvernement-aan-de-rivier</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier rivier Demerara en het eiland Borselen..<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7810/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7810/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuw gebouw voor het Gouvernement aan de rivier Demerara<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Deze ontwerptekening met twee aanzichten en twee plattegronden heeft betrekking op een geprojecteerd nieuw gouvernementsgebouw in Stabroek en werd in 1802 vervaardigd in voorbereiding op de terugkeer van het Bataafse bestuur in Demerara door de directeur der werken en gebouwen in Amsterdam, Abraham van der Hart.<br>Deze had twintig jaar eerder al een belangrijk aandeel gehad in de voorontwerpen voor de vernieuwing van de hoofdplaats in de buurkolonie Berbice, Nieuw-Amsterdam.<br>Voor zover bekend is met de uitvoering van zijn plan voor het gouvernement in Demerara in de korte periode tussen 1802 en de blijvende Britse bezetting in 1804 geen begin meer gemaakt.<br>Zie ook VEL1564.10<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10212/ontwerp-voor-nieuw-gebouw-voor-het-gouvernement-aan-de-rivier-demerara\">https://www.atlasofmutualheritage.nl/page/10212/ontwerp-voor-nieuw-gebouw-voor-het-gouvernement-aan-de-rivier-demerara</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier rivier Demerara en het eiland Borselen.<br>Schaal 25 Rijnlandse voeten = 12 'strepen<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7811/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7811/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.15, VEL1564.17 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7812/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7812/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14, VEL1564.17 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok 20 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7813/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7813/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen.<br>Schaal van 36 Rijnlandse voeten = 12 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7814/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7814/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15, VEL1564.18 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een achter<br>en vooraanzicht.<br>Schaalstok 20 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7815/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7815/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15, VEL1564.17 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, profile en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7816/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7816/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostoever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15, VEL1564.17 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, profile en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7817/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7817/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15, VEL1564.17 t/m 19 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, profiel en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7818/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7818/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Op deze plattegrond is Kanne's voorstel voor de kantoren van de commandeur en de beheerder van de magazijnen weergegeven, rechtsmidden een ontwerp voor de woning van de militair commandant, en onder voor de commandeurswoning.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok van [40<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7819/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7819/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor een kruithuis op het eiland Borselen (Plan XIV)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15 en VEL1564.17 t/m 20, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, profile en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7820/ontwerp-voor-een-kruithuis-op-het-eiland-borselen-plan-xiv\">https://www.atlasofmutualheritage.nl/page/7820/ontwerp-voor-een-kruithuis-op-het-eiland-borselen-plan-xiv</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond van Kanne toont een alternatief ontwerp vooreen kazerne.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok van 60 Rijnlandse voeten = 11 strepen [ca. 1 : 90].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7821/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7821/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond van Kanne toont een ontwerp voor de commandeurswoning.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok van 50 Voet Amsterd; Maat = [ca. 1 : 90].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7822/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7822/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond van Kanne toont een ontwerp voor de commandantswoning.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok van 50 Voet = [ca. 1 : 90].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7823/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7823/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Schaalstok 200 Rijnland voet = 100 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7824/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7824/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Schaalstok 200 Rijnland voet = 100 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7825/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7825/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Schaalstok 200 Rijnland voet = 100 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7826/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7826/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Schaalstok 200 Rijnland voet = 100 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7827/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7827/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        ",
+                    "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Dit is een kopie gemaakt op 27 Juli 1775.<br>Schaalstok 300 Rijnland voet = 30 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7828/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7828/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        "
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1564.30.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 1"
+                ]
+            },
+            "height": 8475,
+            "width": 5945,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.1"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/0cfc38d3-bef5-4e3e-8fbd-5ad155434f3f\">http://hdl.handle.net/10648/0cfc38d3-bef5-4e3e-8fbd-5ad155434f3f</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kannes plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 60 Roeden Rynlands.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7801/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7801/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/3d/dd/37/94/ae/5c/43/51/89/56/40/85/db/fa/64/d8/94d5ee48-fb61-4df3-80d0-e9a1cf84bb65.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8475,
+                                "width": 5945,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/3d/dd/37/94/ae/5c/43/51/89/56/40/85/db/fa/64/d8/94d5ee48-fb61-4df3-80d0-e9a1cf84bb65.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 2"
+                ]
+            },
+            "height": 5576,
+            "width": 7652,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.2"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/c1052c02-2893-43a2-bea1-538942c2c6c2\">http://hdl.handle.net/10648/c1052c02-2893-43a2-bea1-538942c2c6c2</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Hij toont het ontwerp van de commandantswoning met aanzichten, doorsneden en plattegronden.<br>Schaalstok van 50 Voet = [ca. 1 : 100].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7803/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7803/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p2/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p2/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/fe/ef/9c/e0/89/93/47/39/a2/a5/2e/64/99/21/8a/43/ad200dbd-fe05-4f38-bff5-4a57f66290d7.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5576,
+                                "width": 7652,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/fe/ef/9c/e0/89/93/47/39/a2/a5/2e/64/99/21/8a/43/ad200dbd-fe05-4f38-bff5-4a57f66290d7.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p3",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 3"
+                ]
+            },
+            "height": 5576,
+            "width": 7669,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.3"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/173034d4-4238-4fa5-936b-ad0ddb6d63a2\">http://hdl.handle.net/10648/173034d4-4238-4fa5-936b-ad0ddb6d63a2</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kannes plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Hij toont het ontwerp van de commandantswoning met aanzichten, doorsneden en plattegronden.<br>Schaalstok van 50 Voet = [ca. 1 : 100].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7802/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7802/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p3/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p3/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f1/d6/84/45/98/74/4f/bb/b9/81/3a/65/e2/ff/da/76/03ae486f-e1ce-4f7d-b4a6-06f69947fe86.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5576,
+                                "width": 7669,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f1/d6/84/45/98/74/4f/bb/b9/81/3a/65/e2/ff/da/76/03ae486f-e1ce-4f7d-b4a6-06f69947fe86.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p4",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 4"
+                ]
+            },
+            "height": 5584,
+            "width": 7669,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.4"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/d79fd971-ccc8-41e9-af1e-873b6016fa6e\">http://hdl.handle.net/10648/d79fd971-ccc8-41e9-af1e-873b6016fa6e</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Hij toont het ontwerp van de commandantswoning met aanzichten, doorsneden en plattegronden.<br>Schaalstok van 50 Voet = [ca. 1 : 100].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7804/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7804/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p4/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p4/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/31/a9/eb/de/22/50/46/19/ab/17/d0/55/37/bf/e9/7f/993436ff-5b58-45ca-b92c-2bea5fbfba45.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5584,
+                                "width": 7669,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/31/a9/eb/de/22/50/46/19/ab/17/d0/55/37/bf/e9/7f/993436ff-5b58-45ca-b92c-2bea5fbfba45.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p5",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 5"
+                ]
+            },
+            "height": 8424,
+            "width": 5910,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.5"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/2e719763-ca0d-493c-baf0-b34648c1b767\">http://hdl.handle.net/10648/2e719763-ca0d-493c-baf0-b34648c1b767</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kannes plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 48 voet = 12 strepen<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7805/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7805/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p5/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p5/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/c5/b1/55/f8/6d/9a/4a/81/b4/4a/22/33/17/e2/91/29/2dcf32ed-29b8-4d6f-bcf9-f40c03efb170.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 8424,
+                                "width": 5910,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/c5/b1/55/f8/6d/9a/4a/81/b4/4a/22/33/17/e2/91/29/2dcf32ed-29b8-4d6f-bcf9-f40c03efb170.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p6",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 6"
+                ]
+            },
+            "height": 6039,
+            "width": 8552,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.6"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/c1389bde-c819-443f-b553-86a649c30ef8\">http://hdl.handle.net/10648/c1389bde-c819-443f-b553-86a649c30ef8</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 24 Voet = 12 strepen<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7806/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7806/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p6/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p6/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f7/27/30/97/4e/b2/45/d3/a0/0f/99/4f/68/ae/76/e9/8334e8ad-32b2-41c2-90dd-f01f8c05da1f.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6039,
+                                "width": 8552,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f7/27/30/97/4e/b2/45/d3/a0/0f/99/4f/68/ae/76/e9/8334e8ad-32b2-41c2-90dd-f01f8c05da1f.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p7",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 7"
+                ]
+            },
+            "height": 6005,
+            "width": 8535,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.7"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/dea6aa20-dc62-4aff-b840-46b41505ba0f\">http://hdl.handle.net/10648/dea6aa20-dc62-4aff-b840-46b41505ba0f</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Het hier getoonde huis is een kleinere versie van dat op VEL1564.6.<br>Schaalstok van 24 voet = 12 strepen<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7807/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7807/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p7/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p7/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/76/de/fe/52/65/b1/46/e6/b9/53/2a/c2/05/b9/99/4c/71091b54-749b-4237-b3ed-6c6c7f195547.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6005,
+                                "width": 8535,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/76/de/fe/52/65/b1/46/e6/b9/53/2a/c2/05/b9/99/4c/71091b54-749b-4237-b3ed-6c6c7f195547.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p8",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 8"
+                ]
+            },
+            "height": 5953,
+            "width": 8441,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.8"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/713dcead-d233-4bdb-bc8a-b907c1afbc3a\">http://hdl.handle.net/10648/713dcead-d233-4bdb-bc8a-b907c1afbc3a</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 12 Voet.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7808/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7808/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p8/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p8/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ae/d9/c2/c6/ec/19/48/c3/9e/6e/b2/56/b9/8d/8f/e5/8ca1f7f9-ad3b-4792-9691-540db5ef48b3.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5953,
+                                "width": 8441,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ae/d9/c2/c6/ec/19/48/c3/9e/6e/b2/56/b9/8d/8f/e5/8ca1f7f9-ad3b-4792-9691-540db5ef48b3.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p9",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 9"
+                ]
+            },
+            "height": 6065,
+            "width": 8527,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.9"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/227827b8-d7db-4907-9241-fe397b7345ce\">http://hdl.handle.net/10648/227827b8-d7db-4907-9241-fe397b7345ce</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen (zie VEL1564.1-9).<br>Schaalstok van 36 Voet<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7809/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7809/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p9/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p9/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/70/3a/01/ec/5b/b0/4f/0d/95/f4/ec/e3/bf/da/39/b0/cf21a5ed-7520-47b0-9cad-e6e933f44a0f.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6065,
+                                "width": 8527,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/70/3a/01/ec/5b/b0/4f/0d/95/f4/ec/e3/bf/da/39/b0/cf21a5ed-7520-47b0-9cad-e6e933f44a0f.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p10",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 10"
+                ]
+            },
+            "height": 6090,
+            "width": 6562,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.10"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/76ba49eb-0251-49c6-9a5b-127b36c15b51\">http://hdl.handle.net/10648/76ba49eb-0251-49c6-9a5b-127b36c15b51</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor een nieuw gebouw voor het Gouvernement aan de rivier Demerara<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Deze ontwerptekening met twee aanzichten en twee plattegronden heeft betrekking op een geprojecteerd nieuw gouvernementsgebouw in Stabroek. Het werd in 1802 vervaardigd in voorbereiding op de terugkeer van het Bataafse bestuur in Demerara door de directeur der werken en gebouwen in Amsterdam, Abraham van der Hart. Deze had twintig jaar eerder al een belangrijk aandeel gehad in de voorontwerpen voor de vernieuwing van de hoofdplaats in de buurkolonie Berbice, Nieuw-Amsterdam.<br>Voor zover bekend is met de uitvoering van zijn plan voor het gouvernement in Demerara in de korte periode tussen 1802 en de blijvende Britse bezetting in 1804 geen begin meer gemaakt.<br>Het noorden is links / onder.<br>Zie ook VEL1564.12<br>Schaalstok van 70 Voeten Rhynl: Voetmaat = [ca. 1 : 170].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10211/ontwerp-voor-een-nieuw-gebouw-voor-het-gouvernement-aan-de-rivier\">https://www.atlasofmutualheritage.nl/page/10211/ontwerp-voor-een-nieuw-gebouw-voor-het-gouvernement-aan-de-rivier</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p10/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p10/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/df/8d/4f/d6/16/33/43/81/bb/95/ed/d7/32/d6/2f/af/b2ed0d44-7b3d-41cb-a406-16cc2f35e155.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6090,
+                                "width": 6562,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/df/8d/4f/d6/16/33/43/81/bb/95/ed/d7/32/d6/2f/af/b2ed0d44-7b3d-41cb-a406-16cc2f35e155.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p11",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 11"
+                ]
+            },
+            "height": 5996,
+            "width": 8492,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.11"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/ebe72af6-b082-418e-8316-3c06ab0598e3\">http://hdl.handle.net/10648/ebe72af6-b082-418e-8316-3c06ab0598e3</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier rivier Demerara en het eiland Borselen..<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7810/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7810/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p11/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p11/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f3/8a/47/14/27/a1/4b/5a/a5/83/73/c2/e6/b3/4e/3d/f8cdb946-fe9b-40d9-9a37-e6c4a3f18399.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5996,
+                                "width": 8492,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f3/8a/47/14/27/a1/4b/5a/a5/83/73/c2/e6/b3/4e/3d/f8cdb946-fe9b-40d9-9a37-e6c4a3f18399.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p12",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 12"
+                ]
+            },
+            "height": 5010,
+            "width": 6168,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.12"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/fe6866a7-54a2-47cd-9f9a-50c9b8aa3774\">http://hdl.handle.net/10648/fe6866a7-54a2-47cd-9f9a-50c9b8aa3774</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuw gebouw voor het Gouvernement aan de rivier Demerara<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Deze ontwerptekening met twee aanzichten en twee plattegronden heeft betrekking op een geprojecteerd nieuw gouvernementsgebouw in Stabroek en werd in 1802 vervaardigd in voorbereiding op de terugkeer van het Bataafse bestuur in Demerara door de directeur der werken en gebouwen in Amsterdam, Abraham van der Hart.<br>Deze had twintig jaar eerder al een belangrijk aandeel gehad in de voorontwerpen voor de vernieuwing van de hoofdplaats in de buurkolonie Berbice, Nieuw-Amsterdam.<br>Voor zover bekend is met de uitvoering van zijn plan voor het gouvernement in Demerara in de korte periode tussen 1802 en de blijvende Britse bezetting in 1804 geen begin meer gemaakt.<br>Zie ook VEL1564.10<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/10212/ontwerp-voor-nieuw-gebouw-voor-het-gouvernement-aan-de-rivier-demerara\">https://www.atlasofmutualheritage.nl/page/10212/ontwerp-voor-nieuw-gebouw-voor-het-gouvernement-aan-de-rivier-demerara</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p12/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p12/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/31/4b/53/ec/0d/ed/49/4f/84/7c/db/7e/4e/64/a0/f2/bde40b3e-6054-44de-ad36-b151f5031d19.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5010,
+                                "width": 6168,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/31/4b/53/ec/0d/ed/49/4f/84/7c/db/7e/4e/64/a0/f2/bde40b3e-6054-44de-ad36-b151f5031d19.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p13",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 13"
+                ]
+            },
+            "height": 5962,
+            "width": 8407,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.13"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/79f612ff-adf3-4231-8835-e7696c50d820\">http://hdl.handle.net/10648/79f612ff-adf3-4231-8835-e7696c50d820</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier rivier Demerara en het eiland Borselen.<br>Schaal 25 Rijnlandse voeten = 12 'strepen<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7811/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7811/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p13/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p13/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/e5/f3/c3/04/19/f2/41/ce/b6/6a/34/da/1a/43/24/11/4ad118e7-c20f-4ef7-a601-940e3ebc811c.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5962,
+                                "width": 8407,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/e5/f3/c3/04/19/f2/41/ce/b6/6a/34/da/1a/43/24/11/4ad118e7-c20f-4ef7-a601-940e3ebc811c.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p14",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 14"
+                ]
+            },
+            "height": 4632,
+            "width": 3834,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.14"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/41f220b9-652b-49a4-9171-82edbfdc409a\">http://hdl.handle.net/10648/41f220b9-652b-49a4-9171-82edbfdc409a</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.15, VEL1564.17 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7812/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7812/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p14/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p14/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/b3/da/e4/d6/b6/95/41/11/93/bc/4e/7f/6f/e8/d1/7a/06bd5b49-6a17-4ae4-b910-3252f6f21127.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4632,
+                                "width": 3834,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/b3/da/e4/d6/b6/95/41/11/93/bc/4e/7f/6f/e8/d1/7a/06bd5b49-6a17-4ae4-b910-3252f6f21127.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p15",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 15"
+                ]
+            },
+            "height": 4546,
+            "width": 3740,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.15"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/cf8ebfbc-7ab5-491c-aab8-f35b1dd43e9f\">http://hdl.handle.net/10648/cf8ebfbc-7ab5-491c-aab8-f35b1dd43e9f</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14, VEL1564.17 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok 20 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7813/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7813/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p15/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p15/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/24/8f/1d/37/fb/b0/47/2a/b5/3e/ac/f5/3c/7f/52/49/c769e5e4-e3ee-4dc5-86b1-438550282b46.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4546,
+                                "width": 3740,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/24/8f/1d/37/fb/b0/47/2a/b5/3e/ac/f5/3c/7f/52/49/c769e5e4-e3ee-4dc5-86b1-438550282b46.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p16",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 16"
+                ]
+            },
+            "height": 5979,
+            "width": 8484,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.16"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/31bd5539-d6b7-46c8-a2b3-5ebda689f4f4\">http://hdl.handle.net/10648/31bd5539-d6b7-46c8-a2b3-5ebda689f4f4</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze kaart vormt een onderdeel van Kanne's plannen uit 1779 voor een nieuwe vesting aan de oostoever van de rivier Demerara en het eiland Borselen.<br>Schaal van 36 Rijnlandse voeten = 12 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7814/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7814/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p16/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p16/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/a9/29/92/9f/64/d9/4d/03/97/5b/f1/a1/ca/db/93/1b/4f950a61-0da6-4e66-b35d-7a9bc35a5c6e.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5979,
+                                "width": 8484,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/a9/29/92/9f/64/d9/4d/03/97/5b/f1/a1/ca/db/93/1b/4f950a61-0da6-4e66-b35d-7a9bc35a5c6e.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p17",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 17"
+                ]
+            },
+            "height": 5370,
+            "width": 4341,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.17"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/4d2349f7-c8d7-468d-887a-3a626315942e\">http://hdl.handle.net/10648/4d2349f7-c8d7-468d-887a-3a626315942e</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15, VEL1564.18 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een achter<br>en vooraanzicht.<br>Schaalstok 20 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7815/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7815/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p17/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p17/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ce/c1/1d/fc/98/ff/44/03/b9/44/3f/6e/05/bd/e4/fe/910a9b59-2763-4cdb-bc1a-76cabbac1f41.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5370,
+                                "width": 4341,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ce/c1/1d/fc/98/ff/44/03/b9/44/3f/6e/05/bd/e4/fe/910a9b59-2763-4cdb-bc1a-76cabbac1f41.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p17"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p18",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 18"
+                ]
+            },
+            "height": 5421,
+            "width": 4323,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.18"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/bf84339a-8383-48c8-8bf9-54cc70d50c65\">http://hdl.handle.net/10648/bf84339a-8383-48c8-8bf9-54cc70d50c65</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15, VEL1564.17 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, profile en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7816/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7816/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p18/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p18/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/7e/6c/ff/b4/73/1a/4e/26/86/28/43/b4/90/6c/98/21/c83b4536-32e1-488d-bdfe-6d79e44b2cec.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5421,
+                                "width": 4323,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/7e/6c/ff/b4/73/1a/4e/26/86/28/43/b4/90/6c/98/21/c83b4536-32e1-488d-bdfe-6d79e44b2cec.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p18"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p19",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 19"
+                ]
+            },
+            "height": 6794,
+            "width": 5267,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.19"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/b8b5212c-ff81-4fe4-87bd-30b234dbf2b7\">http://hdl.handle.net/10648/b8b5212c-ff81-4fe4-87bd-30b234dbf2b7</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostoever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15, VEL1564.17 t/m 20 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, profile en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7817/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7817/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p19/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p19/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/a0/0f/9c/de/9b/e2/45/c9/85/27/71/c9/32/2f/4f/07/6a190c95-8f0c-41ec-b640-e0c99c1b60a3.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6794,
+                                "width": 5267,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/a0/0f/9c/de/9b/e2/45/c9/85/27/71/c9/32/2f/4f/07/6a190c95-8f0c-41ec-b640-e0c99c1b60a3.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p19"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p20",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 20"
+                ]
+            },
+            "height": 7677,
+            "width": 6639,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.20"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/0988a2be-37e5-4292-880c-83853dd7b051\">http://hdl.handle.net/10648/0988a2be-37e5-4292-880c-83853dd7b051</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15, VEL1564.17 t/m 19 en VEL1564.22, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, profiel en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7818/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7818/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p20/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p20/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/e8/8c/16/5c/42/e9/4f/7e/b1/d8/1f/90/34/c5/37/bc/2262e7d1-8d47-44be-9e30-e56beaa7350d.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7677,
+                                "width": 6639,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/e8/8c/16/5c/42/e9/4f/7e/b1/d8/1f/90/34/c5/37/bc/2262e7d1-8d47-44be-9e30-e56beaa7350d.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p21",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 21"
+                ]
+            },
+            "height": 4323,
+            "width": 5962,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.21"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/39442981-8610-4495-8cb6-2a4a10b75dd0\">http://hdl.handle.net/10648/39442981-8610-4495-8cb6-2a4a10b75dd0</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Op deze plattegrond is Kanne's voorstel voor de kantoren van de commandeur en de beheerder van de magazijnen weergegeven, rechtsmidden een ontwerp voor de woning van de militair commandant, en onder voor de commandeurswoning.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok van [40<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7819/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7819/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p21/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p21/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/54/a4/08/a0/69/22/4a/c3/a1/2e/c6/c1/2f/5e/ef/41/749177a5-f276-4b0a-9247-d03f2df780f2.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4323,
+                                "width": 5962,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/54/a4/08/a0/69/22/4a/c3/a1/2e/c6/c1/2f/5e/ef/41/749177a5-f276-4b0a-9247-d03f2df780f2.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p21"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p22",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 22"
+                ]
+            },
+            "height": 7163,
+            "width": 6271,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.22"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/074b4a69-2b76-4767-81b6-31c9e5b38d61\">http://hdl.handle.net/10648/074b4a69-2b76-4767-81b6-31c9e5b38d61</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor een kruithuis op het eiland Borselen (Plan XIV)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond toont een detailtekening voor het geprojecteerde kruithuis door Heneman, in het kader van de opdracht bij zijn uitzending in 1774-1775.<br>Zie ook VEL1564.14 en 15 en VEL1564.17 t/m 20, eveneens ontwerptekeningen voor dit kruithuis. Zie de overzichtstekening VEL1561 voor een overzicht van het grotere plan waarvan dit kruithuis onderdeel uitmaakt.<br>Het ontwerp wordt weergegeven met een aanzicht, profile en plattegrond.<br>Schaalstok 30 Rijnland voet = 10 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7820/ontwerp-voor-een-kruithuis-op-het-eiland-borselen-plan-xiv\">https://www.atlasofmutualheritage.nl/page/7820/ontwerp-voor-een-kruithuis-op-het-eiland-borselen-plan-xiv</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p22/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p22/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/55/56/c4/9e/71/d4/49/e6/bb/e1/1e/e6/f0/85/7b/ad/e4bf05e7-d7bb-47fa-afa7-178b6adf14c2.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7163,
+                                "width": 6271,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/55/56/c4/9e/71/d4/49/e6/bb/e1/1e/e6/f0/85/7b/ad/e4bf05e7-d7bb-47fa-afa7-178b6adf14c2.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p22"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p23",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 23"
+                ]
+            },
+            "height": 4057,
+            "width": 5713,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.23"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/d42938e7-20b5-442c-b1fd-a5b7bef02977\">http://hdl.handle.net/10648/d42938e7-20b5-442c-b1fd-a5b7bef02977</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond van Kanne toont een alternatief ontwerp vooreen kazerne.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok van 60 Rijnlandse voeten = 11 strepen [ca. 1 : 90].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7821/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7821/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p23/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p23/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/08/91/4d/3a/fc/af/41/45/af/62/e7/5f/97/bd/0c/0e/10bc768f-4ead-4e35-95a9-ad3a1be9c7b2.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4057,
+                                "width": 5713,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/08/91/4d/3a/fc/af/41/45/af/62/e7/5f/97/bd/0c/0e/10bc768f-4ead-4e35-95a9-ad3a1be9c7b2.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p23"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p24",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 24"
+                ]
+            },
+            "height": 4083,
+            "width": 6940,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.24"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/fa7d5eab-96df-40c0-8548-04cdc5e7f5ec\">http://hdl.handle.net/10648/fa7d5eab-96df-40c0-8548-04cdc5e7f5ec</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond van Kanne toont een ontwerp voor de commandeurswoning.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok van 50 Voet Amsterd; Maat = [ca. 1 : 90].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7822/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7822/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p24/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p24/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/71/4f/21/b7/1c/97/4a/99/96/fa/92/cb/ee/31/c7/39/4245b3cb-015c-4b38-8535-9455fa36dba3.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4083,
+                                "width": 6940,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/71/4f/21/b7/1c/97/4a/99/96/fa/92/cb/ee/31/c7/39/4245b3cb-015c-4b38-8535-9455fa36dba3.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p24"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p25",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 25"
+                ]
+            },
+            "height": 4049,
+            "width": 6897,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.25"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/ae9eb702-9913-4d92-9c8f-9b43dfa66000\">http://hdl.handle.net/10648/ae9eb702-9913-4d92-9c8f-9b43dfa66000</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>Deze plattegrond van Kanne toont een ontwerp voor de commandantswoning.<br>Het ontwerp wordt weergegeven met een aanzicht, doorsnede en plattegrond.<br>Schaalstok van 50 Voet = [ca. 1 : 90].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7823/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen\">https://www.atlasofmutualheritage.nl/page/7823/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p25/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p25/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/5a/00/b7/e2/3a/58/4c/e1/97/01/ce/f5/68/8c/68/d9/52c5856d-6f94-4350-b06d-0721ad6f2752.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4049,
+                                "width": 6897,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/5a/00/b7/e2/3a/58/4c/e1/97/01/ce/f5/68/8c/68/d9/52c5856d-6f94-4350-b06d-0721ad6f2752.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p26",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 26"
+                ]
+            },
+            "height": 5267,
+            "width": 6648,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.26"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/bd3e9dd6-b6eb-4a0b-928d-088a8b00f816\">http://hdl.handle.net/10648/bd3e9dd6-b6eb-4a0b-928d-088a8b00f816</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Schaalstok 200 Rijnland voet = 100 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7824/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7824/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p26/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p26/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/26/1f/e3/8e/20/91/4a/43/b6/d7/91/3f/ee/1a/66/71/eba7488e-633a-4c7f-9c82-8145fd6fd394.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5267,
+                                "width": 6648,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/26/1f/e3/8e/20/91/4a/43/b6/d7/91/3f/ee/1a/66/71/eba7488e-633a-4c7f-9c82-8145fd6fd394.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p26"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p27",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 27"
+                ]
+            },
+            "height": 5207,
+            "width": 6691,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.27"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/a66223fb-51c6-43bc-8409-cb52bad215ac\">http://hdl.handle.net/10648/a66223fb-51c6-43bc-8409-cb52bad215ac</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Schaalstok 200 Rijnland voet = 100 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7825/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7825/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p27/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p27/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/4e/0f/6e/f9/22/d0/4c/82/b3/f4/b3/89/fd/d8/01/34/0bbbb85c-f5e4-43ab-a2c9-60321a17cb08.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5207,
+                                "width": 6691,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/4e/0f/6e/f9/22/d0/4c/82/b3/f4/b3/89/fd/d8/01/34/0bbbb85c-f5e4-43ab-a2c9-60321a17cb08.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p27"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p28",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 28"
+                ]
+            },
+            "height": 4787,
+            "width": 6073,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.28"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/ceb16a5d-a721-44b3-97b9-fe63b30ea5b1\">http://hdl.handle.net/10648/ceb16a5d-a721-44b3-97b9-fe63b30ea5b1</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Schaalstok 200 Rijnland voet = 100 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7826/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7826/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p28/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p28/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f4/5d/7a/14/fd/1f/4d/02/98/24/0d/39/cc/c1/b4/1c/39001858-cd03-4b39-a267-278da8899060.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4787,
+                                "width": 6073,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f4/5d/7a/14/fd/1f/4d/02/98/24/0d/39/cc/c1/b4/1c/39001858-cd03-4b39-a267-278da8899060.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p28"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p29",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 29"
+                ]
+            },
+            "height": 4915,
+            "width": 6253,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.29"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/89d11d27-b5b5-4ef6-8101-5dedd39fc667\">http://hdl.handle.net/10648/89d11d27-b5b5-4ef6-8101-5dedd39fc667</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Schaalstok 200 Rijnland voet = 100 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7827/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7827/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p29/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p29/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/b2/25/da/6f/6b/15/45/0f/a4/75/e9/0a/36/0d/87/3b/5848e03d-4a8c-4294-b9fb-5b29cd2c7b56.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4915,
+                                "width": 6253,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/b2/25/da/6f/6b/15/45/0f/a4/75/e9/0a/36/0d/87/3b/5848e03d-4a8c-4294-b9fb-5b29cd2c7b56.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p29"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p30",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 30"
+                ]
+            },
+            "height": 19751,
+            "width": 6450,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1564.30"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/ebc8af7b-4cb5-4137-a816-c6e58d86c31a\">http://hdl.handle.net/10648/ebc8af7b-4cb5-4137-a816-c6e58d86c31a</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Ontwerp voor nieuwe gebouwen op het eiland Borselen (Plan XI)<br>\n        <strong>Description</strong>: Titel Leupe: Grondteekeningen en opstanden van Militaire en Burgerlyke gebouwen te Demerary, van verschillende groote en afmeetingen.<br>Bij de projectplannen voor Borselen en de oostelijke oever van de rivier Demerara door Heneman en Kanne uit respectievelijk 1774-1775 en 1779 leverden deze ingenieurs niet alleen kaarten en plattegronden, maar ook ontwerpen voor de nieuwe gebouwen.<br>VEL1564.26 t/m VEL1564.30 tonen allemaal ditzelfde 'Plan XI'. Het plan toont verschillende gebouwen die ook gedeeltelijk op de overzichtkaart VEL1561 voorkomen.<br>Dit is een kopie gemaakt op 27 Juli 1775.<br>Schaalstok 300 Rijnland voet = 30 strepen.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/7828/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi\">https://www.atlasofmutualheritage.nl/page/7828/ontwerp-voor-nieuwe-gebouwen-op-het-eiland-borselen-plan-xi</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p30/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p30/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/e5/c8/99/59/09/ab/4e/3e/ae/c4/ea/f1/e6/04/1a/a2/a633c8e5-5d5d-46a3-a7b0-97ac52b92c6d.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 19751,
+                                "width": 6450,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/e5/c8/99/59/09/ab/4e/3e/ae/c4/ea/f1/e6/04/1a/a2/a633c8e5-5d5d-46a3-a7b0-97ac52b92c6d.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1564.1-1564.9.json/canvas/p30"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

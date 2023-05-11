@@ -1,0 +1,2090 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plans van de verschillende bolwerken van de stad."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1204A-1204V"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "en": [
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?",
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "en": [
+                    "<a href=\"http://hdl.handle.net/10648/2d703950-366e-4e9a-b25b-4cc277edc1fe\">http://hdl.handle.net/10648/2d703950-366e-4e9a-b25b-4cc277edc1fe</a>",
+                    "<a href=\"http://hdl.handle.net/10648/93be1a1a-78c8-4a14-bfe4-4b4553274eeb\">http://hdl.handle.net/10648/93be1a1a-78c8-4a14-bfe4-4b4553274eeb</a>",
+                    "<a href=\"http://hdl.handle.net/10648/f8b126e9-aad6-4bfa-b031-0eee287ce393\">http://hdl.handle.net/10648/f8b126e9-aad6-4bfa-b031-0eee287ce393</a>",
+                    "<a href=\"http://hdl.handle.net/10648/c3ee73fa-3575-4b83-abf9-97748a97851c\">http://hdl.handle.net/10648/c3ee73fa-3575-4b83-abf9-97748a97851c</a>",
+                    "<a href=\"http://hdl.handle.net/10648/5f8c4a10-965c-4697-a336-ad021ec435a6\">http://hdl.handle.net/10648/5f8c4a10-965c-4697-a336-ad021ec435a6</a>",
+                    "<a href=\"http://hdl.handle.net/10648/47b9ca89-cc59-4426-883f-15449715a732\">http://hdl.handle.net/10648/47b9ca89-cc59-4426-883f-15449715a732</a>",
+                    "<a href=\"http://hdl.handle.net/10648/ed23f8cc-9946-4f81-b139-bf871a81b2f2\">http://hdl.handle.net/10648/ed23f8cc-9946-4f81-b139-bf871a81b2f2</a>",
+                    "<a href=\"http://hdl.handle.net/10648/a2979230-aaa0-41a6-97fb-7ea1801d1b06\">http://hdl.handle.net/10648/a2979230-aaa0-41a6-97fb-7ea1801d1b06</a>",
+                    "<a href=\"http://hdl.handle.net/10648/7cfa96dd-30fc-4357-ab29-4f126b4e4009\">http://hdl.handle.net/10648/7cfa96dd-30fc-4357-ab29-4f126b4e4009</a>",
+                    "<a href=\"http://hdl.handle.net/10648/38bcb0e3-6316-40f5-81af-1b7bfd94cf37\">http://hdl.handle.net/10648/38bcb0e3-6316-40f5-81af-1b7bfd94cf37</a>",
+                    "<a href=\"http://hdl.handle.net/10648/c4c26ea8-9a6a-4120-8008-d863a3e5cd2c\">http://hdl.handle.net/10648/c4c26ea8-9a6a-4120-8008-d863a3e5cd2c</a>",
+                    "<a href=\"http://hdl.handle.net/10648/87374ad3-667a-4436-9fbc-39e36098d321\">http://hdl.handle.net/10648/87374ad3-667a-4436-9fbc-39e36098d321</a>",
+                    "<a href=\"http://hdl.handle.net/10648/b8c9d0ca-895f-423f-ae02-36e933404608\">http://hdl.handle.net/10648/b8c9d0ca-895f-423f-ae02-36e933404608</a>",
+                    "<a href=\"http://hdl.handle.net/10648/46674487-d332-4305-9fbe-314d38021d19\">http://hdl.handle.net/10648/46674487-d332-4305-9fbe-314d38021d19</a>",
+                    "<a href=\"http://hdl.handle.net/10648/e20dfb8e-c556-48b6-92f7-814e4cbb036c\">http://hdl.handle.net/10648/e20dfb8e-c556-48b6-92f7-814e4cbb036c</a>",
+                    "<a href=\"http://hdl.handle.net/10648/44250c98-23c4-40cf-afa9-a987842b2b58\">http://hdl.handle.net/10648/44250c98-23c4-40cf-afa9-a987842b2b58</a>",
+                    "<a href=\"http://hdl.handle.net/10648/543d5cdd-7bb5-45c5-b9c5-2755b8cac461\">http://hdl.handle.net/10648/543d5cdd-7bb5-45c5-b9c5-2755b8cac461</a>",
+                    "<a href=\"http://hdl.handle.net/10648/3236b668-6eae-413f-99ac-1ca092b92ead\">http://hdl.handle.net/10648/3236b668-6eae-413f-99ac-1ca092b92ead</a>",
+                    "<a href=\"http://hdl.handle.net/10648/d84c05eb-022b-402b-8f7a-f0617e00ecc9\">http://hdl.handle.net/10648/d84c05eb-022b-402b-8f7a-f0617e00ecc9</a>",
+                    "<a href=\"http://hdl.handle.net/10648/3575e940-e5c3-44d3-b23b-dfe6698e5809\">http://hdl.handle.net/10648/3575e940-e5c3-44d3-b23b-dfe6698e5809</a>",
+                    "<a href=\"http://hdl.handle.net/10648/65924da1-5c16-4041-b503-d30ada26c448\">http://hdl.handle.net/10648/65924da1-5c16-4041-b503-d30ada26c448</a>",
+                    "<a href=\"http://hdl.handle.net/10648/01fac1bc-b169-4c19-bf02-03b3e0d9c59a\">http://hdl.handle.net/10648/01fac1bc-b169-4c19-bf02-03b3e0d9c59a</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n        <strong>Title</strong>: Plan van bolwerk Zeeburg te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXIX het bolwerk Zeeburg.<br>Notities verso: 8 Aa / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/507/plan-van-bolwerk-zeeburg-te-batavia\">https://www.atlasofmutualheritage.nl/page/507/plan-van-bolwerk-zeeburg-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van bolwerk Kampen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXVII het bolwerk Kampen.<br>Notities verso: 8. Y./ 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/508/plan-van-bolwerk-kampen-te-batavia\">https://www.atlasofmutualheritage.nl/page/508/plan-van-bolwerk-kampen-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van bolwerk Zeelandia te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXVII het bolwerk Zeelandia.<br>Notities verso: 8. T. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/509/plan-van-bolwerk-zeelandia-te-batavia\">https://www.atlasofmutualheritage.nl/page/509/plan-van-bolwerk-zeelandia-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van de bolwerken Nassau en Oostfriesland te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXI de bolwerken Nassau en Oostfriesland<br>Notities verso: 8. S. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/510/plan-van-de-bolwerken-nassau-en-oostfriesland-te-batavia\">https://www.atlasofmutualheritage.nl/page/510/plan-van-de-bolwerken-nassau-en-oostfriesland-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Middelburg te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XII het bolwerk Middelburg.<br>Notities verso: 8. J. [zou ook een I kunnen zijn] / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/511/plan-van-het-bolwerk-middelburg-te-batavia\">https://www.atlasofmutualheritage.nl/page/511/plan-van-het-bolwerk-middelburg-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Hollandia te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XVII het bolwerk Hollandia.<br>Notities verso: 8. O. / no. 209 / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/512/plan-van-het-bolwerk-hollandia-te-batavia\">https://www.atlasofmutualheritage.nl/page/512/plan-van-het-bolwerk-hollandia-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Enkhuizen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. X het bolwerk Enkhuizen.<br>Notities verso: 8. G. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/513/plan-van-het-bolwerk-enkhuizen-te-batavia\">https://www.atlasofmutualheritage.nl/page/513/plan-van-het-bolwerk-enkhuizen-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Rotterdam te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XI het bolwerk Rotterdam.<br>Notities verso: 8. H. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/514/plan-van-het-bolwerk-rotterdam-te-batavia\">https://www.atlasofmutualheritage.nl/page/514/plan-van-het-bolwerk-rotterdam-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het toren Vianen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. IX de toren Vianen.<br>Notities verso: 8. F..<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/515/plan-van-het-toren-vianen-te-batavia\">https://www.atlasofmutualheritage.nl/page/515/plan-van-het-toren-vianen-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van de toren Catzenellenbogen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XIV de toren Catzenellenbogen.<br>notities verso: 8. L. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/516/plan-van-de-toren-catzenellenbogen-te-batavia\">https://www.atlasofmutualheritage.nl/page/516/plan-van-de-toren-catzenellenbogen-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van de toren Nieuwpoort te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XVI de toren Nieuwpoort.<br>Notities verso: 8. N. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/517/plan-van-de-toren-nieuwpoort-te-batavia\">https://www.atlasofmutualheritage.nl/page/517/plan-van-de-toren-nieuwpoort-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Amsterdam te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XIII het bolwerk Amsterdam.<br>Notities verso: 8. K. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/518/plan-van-het-bolwerk-amsterdam-te-batavia\">https://www.atlasofmutualheritage.nl/page/518/plan-van-het-bolwerk-amsterdam-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Diest te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XIX het bolwerk Diest.<br>Notities verso: 8. Q. / 620 [in potlood] / 166 / Casteel Batavia [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/519/plan-van-het-bolwerk-diest-te-batavia\">https://www.atlasofmutualheritage.nl/page/519/plan-van-het-bolwerk-diest-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het de bolwerken Leiden en Westfriesland te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXIII het bolwerk Leiden.<br>Notities verso: 8. U. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/520/plan-van-het-de-bolwerken-leiden-en-westfriesland-te-batavia\">https://www.atlasofmutualheritage.nl/page/520/plan-van-het-de-bolwerken-leiden-en-westfriesland-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van de toren en poort Utrecht te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXIV de toren en poort Utrecht.<br>Notities verso: 8. V. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/521/plan-van-de-toren-en-poort-utrecht-te-batavia\">https://www.atlasofmutualheritage.nl/page/521/plan-van-de-toren-en-poort-utrecht-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het hoornwerk te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XX het Hoornwerk.<br>Notities verso: 8. R. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/522/plan-van-het-hoornwerk-te-batavia\">https://www.atlasofmutualheritage.nl/page/522/plan-van-het-hoornwerk-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Gelderland te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. VIII het bolwerk Gelderland.<br>Notities verso: 8. .. [de letter is onleesbaar] / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/523/plan-van-het-bolwerk-gelderland-te-batavia\">https://www.atlasofmutualheritage.nl/page/523/plan-van-het-bolwerk-gelderland-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Groningen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXVIII het bolwerk Groningen.<br>Notities verso: 8. Z / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/524/plan-van-het-bolwerk-groningen-te-batavia\">https://www.atlasofmutualheritage.nl/page/524/plan-van-het-bolwerk-groningen-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van de toren de Klip te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXV de toren de Klip.<br>Notities verso: 8. W / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/525/plan-van-de-toren-de-klip-te-batavia\">https://www.atlasofmutualheritage.nl/page/525/plan-van-de-toren-de-klip-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Overijssel te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXVI het bolwerk Overijssel.<br>Notities verso: 8. X. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/526/plan-van-het-bolwerk-overijssel-te-batavia\">https://www.atlasofmutualheritage.nl/page/526/plan-van-het-bolwerk-overijssel-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Oranje te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XV het bolwerk Oranje.<br>Notities verso: 8. M. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/527/plan-van-het-bolwerk-oranje-te-batavia\">https://www.atlasofmutualheritage.nl/page/527/plan-van-het-bolwerk-oranje-te-batavia</a>\n        ",
+                    "\n        <strong>Title</strong>: Plan van het bolwerk Culemborg te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXX het bolwerk Cuylenburg.<br>Notities verso: 8. B.b. / 620 [met vette cijfers gestempeld op een etiketje].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/528/plan-van-het-bolwerk-culemborg-te-batavia\">https://www.atlasofmutualheritage.nl/page/528/plan-van-het-bolwerk-culemborg-te-batavia</a>\n        "
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1204V.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 1"
+                ]
+            },
+            "height": 5923,
+            "width": 8257,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204A"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/2d703950-366e-4e9a-b25b-4cc277edc1fe\">http://hdl.handle.net/10648/2d703950-366e-4e9a-b25b-4cc277edc1fe</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van bolwerk Zeeburg te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXIX het bolwerk Zeeburg.<br>Notities verso: 8 Aa / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/507/plan-van-bolwerk-zeeburg-te-batavia\">https://www.atlasofmutualheritage.nl/page/507/plan-van-bolwerk-zeeburg-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/a4/53/6f/f0/45/82/46/2d/83/3a/92/5e/cc/f4/5b/a5/ef28cd7b-231d-4968-a908-052b80676133.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5923,
+                                "width": 8257,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/a4/53/6f/f0/45/82/46/2d/83/3a/92/5e/cc/f4/5b/a5/ef28cd7b-231d-4968-a908-052b80676133.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 2"
+                ]
+            },
+            "height": 4364,
+            "width": 5915,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204B"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/93be1a1a-78c8-4a14-bfe4-4b4553274eeb\">http://hdl.handle.net/10648/93be1a1a-78c8-4a14-bfe4-4b4553274eeb</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van bolwerk Kampen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXVII het bolwerk Kampen.<br>Notities verso: 8. Y./ 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/508/plan-van-bolwerk-kampen-te-batavia\">https://www.atlasofmutualheritage.nl/page/508/plan-van-bolwerk-kampen-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p2/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p2/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/17/76/f4/df/99/19/48/05/ae/49/51/11/81/fc/fd/3f/912d3b4b-85a7-4392-957e-6df7a9811567.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4364,
+                                "width": 5915,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/17/76/f4/df/99/19/48/05/ae/49/51/11/81/fc/fd/3f/912d3b4b-85a7-4392-957e-6df7a9811567.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p3",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 3"
+                ]
+            },
+            "height": 5932,
+            "width": 8493,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204C"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/f8b126e9-aad6-4bfa-b031-0eee287ce393\">http://hdl.handle.net/10648/f8b126e9-aad6-4bfa-b031-0eee287ce393</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van bolwerk Zeelandia te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXVII het bolwerk Zeelandia.<br>Notities verso: 8. T. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/509/plan-van-bolwerk-zeelandia-te-batavia\">https://www.atlasofmutualheritage.nl/page/509/plan-van-bolwerk-zeelandia-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p3/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p3/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/60/32/81/39/00/d2/4b/be/89/04/03/4a/d6/54/1f/3a/2658872d-3ef6-4fd2-8f72-31b294784667.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5932,
+                                "width": 8493,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/60/32/81/39/00/d2/4b/be/89/04/03/4a/d6/54/1f/3a/2658872d-3ef6-4fd2-8f72-31b294784667.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p4",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 4"
+                ]
+            },
+            "height": 4145,
+            "width": 5932,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204D"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/c3ee73fa-3575-4b83-abf9-97748a97851c\">http://hdl.handle.net/10648/c3ee73fa-3575-4b83-abf9-97748a97851c</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van de bolwerken Nassau en Oostfriesland te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXI de bolwerken Nassau en Oostfriesland<br>Notities verso: 8. S. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/510/plan-van-de-bolwerken-nassau-en-oostfriesland-te-batavia\">https://www.atlasofmutualheritage.nl/page/510/plan-van-de-bolwerken-nassau-en-oostfriesland-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p4/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p4/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/f4/6b/9d/cb/99/47/48/05/b4/23/51/38/27/87/c4/bc/64f96a35-e6d6-40ee-af25-c1c283e50626.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4145,
+                                "width": 5932,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/f4/6b/9d/cb/99/47/48/05/b4/23/51/38/27/87/c4/bc/64f96a35-e6d6-40ee-af25-c1c283e50626.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p5",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 5"
+                ]
+            },
+            "height": 4272,
+            "width": 6083,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204E"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/5f8c4a10-965c-4697-a336-ad021ec435a6\">http://hdl.handle.net/10648/5f8c4a10-965c-4697-a336-ad021ec435a6</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Middelburg te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XII het bolwerk Middelburg.<br>Notities verso: 8. J. [zou ook een I kunnen zijn] / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/511/plan-van-het-bolwerk-middelburg-te-batavia\">https://www.atlasofmutualheritage.nl/page/511/plan-van-het-bolwerk-middelburg-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p5/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p5/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/3c/8c/8c/b4/3c/da/43/b5/80/70/56/9c/8a/0f/af/53/78747e54-5402-4923-94dd-a2f0414f2b81.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4272,
+                                "width": 6083,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/3c/8c/8c/b4/3c/da/43/b5/80/70/56/9c/8a/0f/af/53/78747e54-5402-4923-94dd-a2f0414f2b81.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p6",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 6"
+                ]
+            },
+            "height": 5847,
+            "width": 8266,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204F"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/47b9ca89-cc59-4426-883f-15449715a732\">http://hdl.handle.net/10648/47b9ca89-cc59-4426-883f-15449715a732</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Hollandia te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XVII het bolwerk Hollandia.<br>Notities verso: 8. O. / no. 209 / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/512/plan-van-het-bolwerk-hollandia-te-batavia\">https://www.atlasofmutualheritage.nl/page/512/plan-van-het-bolwerk-hollandia-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p6/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p6/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/d2/7c/28/18/df/03/4f/28/87/83/4b/06/74/dd/68/73/86ca8bd5-2fa9-43e6-882a-7d5a6764ff15.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5847,
+                                "width": 8266,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/d2/7c/28/18/df/03/4f/28/87/83/4b/06/74/dd/68/73/86ca8bd5-2fa9-43e6-882a-7d5a6764ff15.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p7",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 7"
+                ]
+            },
+            "height": 4171,
+            "width": 5898,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204G"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/ed23f8cc-9946-4f81-b139-bf871a81b2f2\">http://hdl.handle.net/10648/ed23f8cc-9946-4f81-b139-bf871a81b2f2</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Enkhuizen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. X het bolwerk Enkhuizen.<br>Notities verso: 8. G. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/513/plan-van-het-bolwerk-enkhuizen-te-batavia\">https://www.atlasofmutualheritage.nl/page/513/plan-van-het-bolwerk-enkhuizen-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p7/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p7/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/21/7a/bf/0c/41/96/40/22/b5/87/a7/7a/2b/f6/f9/f0/3cd54abc-1f10-4301-8f22-6517c058c72b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4171,
+                                "width": 5898,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/21/7a/bf/0c/41/96/40/22/b5/87/a7/7a/2b/f6/f9/f0/3cd54abc-1f10-4301-8f22-6517c058c72b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p8",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 8"
+                ]
+            },
+            "height": 4322,
+            "width": 5982,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204H"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/a2979230-aaa0-41a6-97fb-7ea1801d1b06\">http://hdl.handle.net/10648/a2979230-aaa0-41a6-97fb-7ea1801d1b06</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Rotterdam te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XI het bolwerk Rotterdam.<br>Notities verso: 8. H. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/514/plan-van-het-bolwerk-rotterdam-te-batavia\">https://www.atlasofmutualheritage.nl/page/514/plan-van-het-bolwerk-rotterdam-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p8/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p8/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/c0/36/98/57/48/de/47/a9/96/c0/20/07/6d/1b/44/26/f9a0653f-8d00-44df-96f4-87d8173f835b.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4322,
+                                "width": 5982,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/c0/36/98/57/48/de/47/a9/96/c0/20/07/6d/1b/44/26/f9a0653f-8d00-44df-96f4-87d8173f835b.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p9",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 9"
+                ]
+            },
+            "height": 3926,
+            "width": 2890,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204I"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/7cfa96dd-30fc-4357-ab29-4f126b4e4009\">http://hdl.handle.net/10648/7cfa96dd-30fc-4357-ab29-4f126b4e4009</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het toren Vianen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. IX de toren Vianen.<br>Notities verso: 8. F..<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/515/plan-van-het-toren-vianen-te-batavia\">https://www.atlasofmutualheritage.nl/page/515/plan-van-het-toren-vianen-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p9/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p9/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/36/3c/b2/91/14/31/43/04/ae/c1/6e/fe/ba/d2/6f/c6/67faa5a8-f0bb-4959-8e38-cf1f4811f208.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3926,
+                                "width": 2890,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/36/3c/b2/91/14/31/43/04/ae/c1/6e/fe/ba/d2/6f/c6/67faa5a8-f0bb-4959-8e38-cf1f4811f208.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p10",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 10"
+                ]
+            },
+            "height": 3943,
+            "width": 2915,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204J"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/38bcb0e3-6316-40f5-81af-1b7bfd94cf37\">http://hdl.handle.net/10648/38bcb0e3-6316-40f5-81af-1b7bfd94cf37</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van de toren Catzenellenbogen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XIV de toren Catzenellenbogen.<br>notities verso: 8. L. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/516/plan-van-de-toren-catzenellenbogen-te-batavia\">https://www.atlasofmutualheritage.nl/page/516/plan-van-de-toren-catzenellenbogen-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p10/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p10/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/6b/76/73/f3/dc/dc/4a/c0/bc/3d/e5/ff/a7/52/b3/83/5d16166e-1e37-4e08-9375-bee97159afbd.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 3943,
+                                "width": 2915,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/6b/76/73/f3/dc/dc/4a/c0/bc/3d/e5/ff/a7/52/b3/83/5d16166e-1e37-4e08-9375-bee97159afbd.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p11",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 11"
+                ]
+            },
+            "height": 5064,
+            "width": 7886,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204K"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/c4c26ea8-9a6a-4120-8008-d863a3e5cd2c\">http://hdl.handle.net/10648/c4c26ea8-9a6a-4120-8008-d863a3e5cd2c</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van de toren Nieuwpoort te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XVI de toren Nieuwpoort.<br>Notities verso: 8. N. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/517/plan-van-de-toren-nieuwpoort-te-batavia\">https://www.atlasofmutualheritage.nl/page/517/plan-van-de-toren-nieuwpoort-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p11/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p11/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/ee/14/b5/fd/f2/ce/45/ba/8e/63/72/e8/0a/ec/86/3d/3aeb9dc2-97f1-45b4-b290-92e4901e1c2c.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5064,
+                                "width": 7886,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/ee/14/b5/fd/f2/ce/45/ba/8e/63/72/e8/0a/ec/86/3d/3aeb9dc2-97f1-45b4-b290-92e4901e1c2c.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p12",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 12"
+                ]
+            },
+            "height": 6075,
+            "width": 8468,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204L"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/87374ad3-667a-4436-9fbc-39e36098d321\">http://hdl.handle.net/10648/87374ad3-667a-4436-9fbc-39e36098d321</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Amsterdam te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XIII het bolwerk Amsterdam.<br>Notities verso: 8. K. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/518/plan-van-het-bolwerk-amsterdam-te-batavia\">https://www.atlasofmutualheritage.nl/page/518/plan-van-het-bolwerk-amsterdam-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p12/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p12/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/47/18/65/27/de/17/42/bd/8e/2d/fd/4f/59/aa/e3/8c/d27b20da-7005-41d7-b4a7-9eeb70582ffe.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 6075,
+                                "width": 8468,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/47/18/65/27/de/17/42/bd/8e/2d/fd/4f/59/aa/e3/8c/d27b20da-7005-41d7-b4a7-9eeb70582ffe.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p13",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 13"
+                ]
+            },
+            "height": 5839,
+            "width": 8493,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204M"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/b8c9d0ca-895f-423f-ae02-36e933404608\">http://hdl.handle.net/10648/b8c9d0ca-895f-423f-ae02-36e933404608</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Diest te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XIX het bolwerk Diest.<br>Notities verso: 8. Q. / 620 [in potlood] / 166 / Casteel Batavia [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/519/plan-van-het-bolwerk-diest-te-batavia\">https://www.atlasofmutualheritage.nl/page/519/plan-van-het-bolwerk-diest-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p13/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p13/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/5f/d1/7a/66/4a/a5/4b/87/be/81/32/22/30/d3/f7/77/14a53a17-382f-457b-92ac-e28030636728.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5839,
+                                "width": 8493,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/5f/d1/7a/66/4a/a5/4b/87/be/81/32/22/30/d3/f7/77/14a53a17-382f-457b-92ac-e28030636728.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p14",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 14"
+                ]
+            },
+            "height": 4247,
+            "width": 6100,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204N"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/46674487-d332-4305-9fbe-314d38021d19\">http://hdl.handle.net/10648/46674487-d332-4305-9fbe-314d38021d19</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het de bolwerken Leiden en Westfriesland te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXIII het bolwerk Leiden.<br>Notities verso: 8. U. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/520/plan-van-het-de-bolwerken-leiden-en-westfriesland-te-batavia\">https://www.atlasofmutualheritage.nl/page/520/plan-van-het-de-bolwerken-leiden-en-westfriesland-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p14/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p14/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/76/b5/ce/ff/9d/69/45/ee/81/8f/bd/3a/4a/f8/08/f8/98ba2a88-6073-484b-8c8f-4d397600238a.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4247,
+                                "width": 6100,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/76/b5/ce/ff/9d/69/45/ee/81/8f/bd/3a/4a/f8/08/f8/98ba2a88-6073-484b-8c8f-4d397600238a.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p15",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 15"
+                ]
+            },
+            "height": 4280,
+            "width": 5915,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204O"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/e20dfb8e-c556-48b6-92f7-814e4cbb036c\">http://hdl.handle.net/10648/e20dfb8e-c556-48b6-92f7-814e4cbb036c</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van de toren en poort Utrecht te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXIV de toren en poort Utrecht.<br>Notities verso: 8. V. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/521/plan-van-de-toren-en-poort-utrecht-te-batavia\">https://www.atlasofmutualheritage.nl/page/521/plan-van-de-toren-en-poort-utrecht-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p15/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p15/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/65/f1/0b/3e/2b/6c/4d/87/bf/d4/c4/5d/4a/6b/43/89/948ad6bb-ed24-486c-a391-6610a2d98620.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4280,
+                                "width": 5915,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/65/f1/0b/3e/2b/6c/4d/87/bf/d4/c4/5d/4a/6b/43/89/948ad6bb-ed24-486c-a391-6610a2d98620.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p16",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 16"
+                ]
+            },
+            "height": 5485,
+            "width": 7962,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204P"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/44250c98-23c4-40cf-afa9-a987842b2b58\">http://hdl.handle.net/10648/44250c98-23c4-40cf-afa9-a987842b2b58</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het hoornwerk te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XX het Hoornwerk.<br>Notities verso: 8. R. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/522/plan-van-het-hoornwerk-te-batavia\">https://www.atlasofmutualheritage.nl/page/522/plan-van-het-hoornwerk-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p16/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p16/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/4e/e9/5c/87/07/63/4f/f3/a2/4e/25/a7/d7/f8/ed/3b/f751881d-5565-43a2-ac6c-4e2a766ec495.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5485,
+                                "width": 7962,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/4e/e9/5c/87/07/63/4f/f3/a2/4e/25/a7/d7/f8/ed/3b/f751881d-5565-43a2-ac6c-4e2a766ec495.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p17",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 17"
+                ]
+            },
+            "height": 5873,
+            "width": 8400,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204Q"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/543d5cdd-7bb5-45c5-b9c5-2755b8cac461\">http://hdl.handle.net/10648/543d5cdd-7bb5-45c5-b9c5-2755b8cac461</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Gelderland te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. VIII het bolwerk Gelderland.<br>Notities verso: 8. .. [de letter is onleesbaar] / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/523/plan-van-het-bolwerk-gelderland-te-batavia\">https://www.atlasofmutualheritage.nl/page/523/plan-van-het-bolwerk-gelderland-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p17/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p17/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/3a/5b/f1/47/28/1d/48/39/9c/77/19/21/21/de/7c/4e/12b5113e-3f47-46b6-9e88-44ff5f6279c4.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5873,
+                                "width": 8400,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/3a/5b/f1/47/28/1d/48/39/9c/77/19/21/21/de/7c/4e/12b5113e-3f47-46b6-9e88-44ff5f6279c4.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p17"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p18",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 18"
+                ]
+            },
+            "height": 5932,
+            "width": 6740,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204R"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/3236b668-6eae-413f-99ac-1ca092b92ead\">http://hdl.handle.net/10648/3236b668-6eae-413f-99ac-1ca092b92ead</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Groningen te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXVIII het bolwerk Groningen.<br>Notities verso: 8. Z / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/524/plan-van-het-bolwerk-groningen-te-batavia\">https://www.atlasofmutualheritage.nl/page/524/plan-van-het-bolwerk-groningen-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p18/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p18/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/4a/fb/c9/41/60/82/4c/60/b3/27/67/3c/66/47/a1/dc/519b766f-dd52-47e3-88e7-947868b49342.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5932,
+                                "width": 6740,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/4a/fb/c9/41/60/82/4c/60/b3/27/67/3c/66/47/a1/dc/519b766f-dd52-47e3-88e7-947868b49342.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p18"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p19",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 19"
+                ]
+            },
+            "height": 4423,
+            "width": 6294,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204S"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/d84c05eb-022b-402b-8f7a-f0617e00ecc9\">http://hdl.handle.net/10648/d84c05eb-022b-402b-8f7a-f0617e00ecc9</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van de toren de Klip te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXV de toren de Klip.<br>Notities verso: 8. W / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/525/plan-van-de-toren-de-klip-te-batavia\">https://www.atlasofmutualheritage.nl/page/525/plan-van-de-toren-de-klip-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p19/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p19/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/aa/9a/88/00/9e/39/44/82/95/82/08/b1/fa/d4/13/cb/ae41ffc8-aa98-48e9-b8ed-2bd05ca6834e.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4423,
+                                "width": 6294,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/aa/9a/88/00/9e/39/44/82/95/82/08/b1/fa/d4/13/cb/ae41ffc8-aa98-48e9-b8ed-2bd05ca6834e.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p19"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p20",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 20"
+                ]
+            },
+            "height": 5906,
+            "width": 6850,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204T"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/3575e940-e5c3-44d3-b23b-dfe6698e5809\">http://hdl.handle.net/10648/3575e940-e5c3-44d3-b23b-dfe6698e5809</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Overijssel te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXVI het bolwerk Overijssel.<br>Notities verso: 8. X. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/526/plan-van-het-bolwerk-overijssel-te-batavia\">https://www.atlasofmutualheritage.nl/page/526/plan-van-het-bolwerk-overijssel-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p20/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p20/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/0f/4c/9b/0a/96/d6/4d/9f/bc/16/f1/74/02/86/54/33/9cbc460d-0c23-46d1-a3be-80a39a294ad4.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5906,
+                                "width": 6850,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/0f/4c/9b/0a/96/d6/4d/9f/bc/16/f1/74/02/86/54/33/9cbc460d-0c23-46d1-a3be-80a39a294ad4.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p21",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 21"
+                ]
+            },
+            "height": 4398,
+            "width": 5839,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204U"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/65924da1-5c16-4041-b503-d30ada26c448\">http://hdl.handle.net/10648/65924da1-5c16-4041-b503-d30ada26c448</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Oranje te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XV het bolwerk Oranje.<br>Notities verso: 8. M. / 620 [in potlood].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/527/plan-van-het-bolwerk-oranje-te-batavia\">https://www.atlasofmutualheritage.nl/page/527/plan-van-het-bolwerk-oranje-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p21/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p21/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/af/81/c9/07/35/1e/48/42/92/90/b8/b2/96/02/3b/3f/5b2d9a1e-e98f-4b75-8c48-e2b693253280.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4398,
+                                "width": 5839,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/af/81/c9/07/35/1e/48/42/92/90/b8/b2/96/02/3b/3f/5b2d9a1e-e98f-4b75-8c48-e2b693253280.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p21"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p22",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Blad 22"
+                ]
+            },
+            "height": 5965,
+            "width": 8207,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1204V"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/01fac1bc-b169-4c19-bf02-03b3e0d9c59a\">http://hdl.handle.net/10648/01fac1bc-b169-4c19-bf02-03b3e0d9c59a</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plan van het bolwerk Culemborg te Batavia<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plans van de verschillende bolwerken van de stad; van verschillende grootte en afmetingen.<br>No. XXX het bolwerk Cuylenburg.<br>Notities verso: 8. B.b. / 620 [met vette cijfers gestempeld op een etiketje].<br>Serie VEL1204A t/m VEL1204V.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/528/plan-van-het-bolwerk-culemborg-te-batavia\">https://www.atlasofmutualheritage.nl/page/528/plan-van-het-bolwerk-culemborg-te-batavia</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p22/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p22/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/72/57/9b/49/fd/75/44/3a/8f/c1/e5/cd/6a/6c/49/c1/d5cc475f-83ed-44fb-9e17-579b75446138.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 5965,
+                                "width": 8207,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/72/57/9b/49/fd/75/44/3a/8f/c1/e5/cd/6a/6c/49/c1/d5cc475f-83ed-44fb-9e17-579b75446138.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1204A-1204V.json/canvas/p22"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

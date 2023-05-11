@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van de Tafelbaai<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van de Tafelbaay, vertoonende de Reede van Caap de Goede Hoop.<br>Losse atlaskaart uit 'De Nieuwe Lichtende Zeefakkel', deel 6, uitgegeven door J. van Keulen 1753.<br>Linksonder: 1.<br>Aangeduid op de kaart staat: Windmolen.<br>Topografische naam vermeld op de kaart: Leeuwenberg.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/374/kaart-van-de-tafelbaai\">https://www.atlasofmutualheritage.nl/page/374/kaart-van-de-tafelbaai</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van de Tafelbaai<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van de Tafelbaay, vertoonende de Reede van Caap de Goede Hoop.<br>Losse atlaskaart uit 'De Nieuwe Lichtende Zeefakkel', deel 6, uitgegeven door J. van Keulen 1753.<br>Linksonder: 1.<br>Aangeduid op de kaart staat: Windmolen.<br>Topografische naam vermeld op de kaart: Leeuwenberg.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/374/kaart-van-de-tafelbaai\">https://www.atlasofmutualheritage.nl/page/374/kaart-van-de-tafelbaai</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/180.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart van de Tafelbaay, vertoonende de Reede van Caap de Goede Hoop."
+                ]
+            },
             "height": 7406,
             "width": 9395,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "180"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/76d04c9a-7924-4a51-b5c0-113d04acbc85\">http://hdl.handle.net/10648/76d04c9a-7924-4a51-b5c0-113d04acbc85</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van de Tafelbaai<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Kaart van de Tafelbaay, vertoonende de Reede van Caap de Goede Hoop.<br>Losse atlaskaart uit 'De Nieuwe Lichtende Zeefakkel', deel 6, uitgegeven door J. van Keulen 1753.<br>Linksonder: 1.<br>Aangeduid op de kaart staat: Windmolen.<br>Topografische naam vermeld op de kaart: Leeuwenberg.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/374/kaart-van-de-tafelbaai\">https://www.atlasofmutualheritage.nl/page/374/kaart-van-de-tafelbaai</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/180.json/canvas/p1/annotationpage",

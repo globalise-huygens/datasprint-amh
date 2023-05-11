@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van de noordkust van Java<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Noordkust van Java, van Ondjong Java tot en met de Straat van Madure.<br>Rechtsboven genummerd: 2.i.<br>Notities verso: De kust van Java van Batavia tot de Straat van Madura / gepeijlt ende bevaren door ? [in potlood] / 51 [in potlood, doorgestreept] / 4 17 45 [in potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3147/kaart-van-de-noordkust-van-java\">https://www.atlasofmutualheritage.nl/page/3147/kaart-van-de-noordkust-van-java</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van de noordkust van Java<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Noordkust van Java, van Ondjong Java tot en met de Straat van Madure.<br>Rechtsboven genummerd: 2.i.<br>Notities verso: De kust van Java van Batavia tot de Straat van Madura / gepeijlt ende bevaren door ? [in potlood] / 51 [in potlood, doorgestreept] / 4 17 45 [in potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3147/kaart-van-de-noordkust-van-java\">https://www.atlasofmutualheritage.nl/page/3147/kaart-van-de-noordkust-van-java</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/372.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart van de Noordkust van Java, van Ondjong Java tot en met de Straat van Madure."
+                ]
+            },
             "height": 6370,
             "width": 8881,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "372"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1600/1700"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/3467449e-7830-4c3b-99cb-6cefc4a3cbef\">http://hdl.handle.net/10648/3467449e-7830-4c3b-99cb-6cefc4a3cbef</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van de noordkust van Java<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Noordkust van Java, van Ondjong Java tot en met de Straat van Madure.<br>Rechtsboven genummerd: 2.i.<br>Notities verso: De kust van Java van Batavia tot de Straat van Madura / gepeijlt ende bevaren door ? [in potlood] / 51 [in potlood, doorgestreept] / 4 17 45 [in potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/3147/kaart-van-de-noordkust-van-java\">https://www.atlasofmutualheritage.nl/page/3147/kaart-van-de-noordkust-van-java</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/372.json/canvas/p1/annotationpage",

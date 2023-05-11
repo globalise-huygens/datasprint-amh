@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van de noordkust van Java<br>\n    <strong>Description</strong>: Titel catalogus Leupe (NA): Nieuwe Verken kaart strekkende van Batavia tot Bantam, naar de nieuwste bevinding verbeterd.<br>Rechtsboven genummerd: 2.f.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2453/kaart-van-de-noordkust-van-java\">https://www.atlasofmutualheritage.nl/page/2453/kaart-van-de-noordkust-van-java</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van de noordkust van Java<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Nieuwe Verken kaart strekkende van Batavia tot Bantam, naar de nieuwste bevinding verbeterd.<br>Rechtsboven genummerd: 2.f.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2453/kaart-van-de-noordkust-van-java\">https://www.atlasofmutualheritage.nl/page/2453/kaart-van-de-noordkust-van-java</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/377.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Nieuwe Verkenkaart, strekkende van Batavia tot Bantam, naar de nieuwste bevinding verbeterd."
+                ]
+            },
             "height": 5892,
             "width": 12252,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "377"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1754"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/a3f73a44-525c-486b-8e13-1c6e3db53028\">http://hdl.handle.net/10648/a3f73a44-525c-486b-8e13-1c6e3db53028</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van de noordkust van Java<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Nieuwe Verken kaart strekkende van Batavia tot Bantam, naar de nieuwste bevinding verbeterd.<br>Rechtsboven genummerd: 2.f.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2453/kaart-van-de-noordkust-van-java\">https://www.atlasofmutualheritage.nl/page/2453/kaart-van-de-noordkust-van-java</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/377.json/canvas/p1/annotationpage",

@@ -1,0 +1,35 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.17.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Prata Shoal"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.17"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/308.json",
+            "label": {
+                "nl": [
+                    "Kaart van O'Ilha de Prata met syn omliggende riff, gelegen op de Noorderbreete van 20 graden 42 minuten."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

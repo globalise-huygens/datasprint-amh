@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van Robbeneiland<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaartje van het Robben Eyland.<br>Randen gescheurd en verkleurd.<br>Notities verso: 1654 van de Kaap deel II / 207 [folionummer in de band ?] / 192 [in rood potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4690/kaart-van-robbeneiland\">https://www.atlasofmutualheritage.nl/page/4690/kaart-van-robbeneiland</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van Robbeneiland<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaartje van het Robben Eyland.<br>Randen gescheurd en verkleurd.<br>Notities verso: 1654 van de Kaap deel II / 207 [folionummer in de band ?] / 192 [in rood potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4690/kaart-van-robbeneiland\">https://www.atlasofmutualheritage.nl/page/4690/kaart-van-robbeneiland</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/192.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaartje van het Robben Eyland."
+                ]
+            },
             "height": 3935,
             "width": 5047,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "192"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1654"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/0cf7975a-fdee-4bdc-9953-da05177f2cde\">http://hdl.handle.net/10648/0cf7975a-fdee-4bdc-9953-da05177f2cde</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van Robbeneiland<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaartje van het Robben Eyland.<br>Randen gescheurd en verkleurd.<br>Notities verso: 1654 van de Kaap deel II / 207 [folionummer in de band ?] / 192 [in rood potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4690/kaart-van-robbeneiland\">https://www.atlasofmutualheritage.nl/page/4690/kaart-van-robbeneiland</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/192.json/canvas/p1/annotationpage",

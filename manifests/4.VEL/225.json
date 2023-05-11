@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van de plaats en rivier Souratte<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Rivier Souratte.<br>Met bruine vochtplekken.<br>Notities verso: N2 van Soeratte overgekomen 1699-1700 8e boek / 234 [folionummer in de band ?] / 225 [in rood potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4071/kaart-van-de-plaats-en-rivier-souratte\">https://www.atlasofmutualheritage.nl/page/4071/kaart-van-de-plaats-en-rivier-souratte</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van de plaats en rivier Souratte<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Rivier Souratte.<br>Met bruine vochtplekken.<br>Notities verso: N2 van Soeratte overgekomen 1699-1700 8e boek / 234 [folionummer in de band ?] / 225 [in rood potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4071/kaart-van-de-plaats-en-rivier-souratte\">https://www.atlasofmutualheritage.nl/page/4071/kaart-van-de-plaats-en-rivier-souratte</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/225.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart van de rivier Souratte."
+                ]
+            },
             "height": 6429,
             "width": 8872,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "225"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1600/1700"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/6ccde456-856c-425e-91d5-4d3b69eabaab\">http://hdl.handle.net/10648/6ccde456-856c-425e-91d5-4d3b69eabaab</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van de plaats en rivier Souratte<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Rivier Souratte.<br>Met bruine vochtplekken.<br>Notities verso: N2 van Soeratte overgekomen 1699-1700 8e boek / 234 [folionummer in de band ?] / 225 [in rood potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4071/kaart-van-de-plaats-en-rivier-souratte\">https://www.atlasofmutualheritage.nl/page/4071/kaart-van-de-plaats-en-rivier-souratte</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/225.json/canvas/p1/annotationpage",

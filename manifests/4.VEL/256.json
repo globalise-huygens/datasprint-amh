@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van Bengalen<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Kust van Bengale, van P. Palmeris tot de rivier Arakan.<br>Rechtsboven genummerd: 26.b..<br>Randen geplakt.<br>Notities verso: 50 [met potlood in rechterbovenhoek] / 49 [met potlood, doorgestreept] / 24 [met potlood, doorgestreept] / 256 [in rood potlood] / Ryks-Archief 's Gravenhage [stempeltje].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5420/kaart-van-bengalen\">https://www.atlasofmutualheritage.nl/page/5420/kaart-van-bengalen</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van Bengalen<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Kust van Bengale, van P. Palmeris tot de rivier Arakan.<br>Rechtsboven genummerd: 26.b..<br>Randen geplakt.<br>Notities verso: 50 [met potlood in rechterbovenhoek] / 49 [met potlood, doorgestreept] / 24 [met potlood, doorgestreept] / 256 [in rood potlood] / Ryks-Archief 's Gravenhage [stempeltje].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5420/kaart-van-bengalen\">https://www.atlasofmutualheritage.nl/page/5420/kaart-van-bengalen</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/256.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart van de Kust van Bengale, van P. Palmeris tot de Rivier Arakan."
+                ]
+            },
             "height": 6370,
             "width": 8897,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "256"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1600/1700"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/83cd6a8f-1720-4629-b11a-8d27a9612e01\">http://hdl.handle.net/10648/83cd6a8f-1720-4629-b11a-8d27a9612e01</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van Bengalen<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Kust van Bengale, van P. Palmeris tot de rivier Arakan.<br>Rechtsboven genummerd: 26.b..<br>Randen geplakt.<br>Notities verso: 50 [met potlood in rechterbovenhoek] / 49 [met potlood, doorgestreept] / 24 [met potlood, doorgestreept] / 256 [in rood potlood] / Ryks-Archief 's Gravenhage [stempeltje].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/5420/kaart-van-bengalen\">https://www.atlasofmutualheritage.nl/page/5420/kaart-van-bengalen</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/256.json/canvas/p1/annotationpage",

@@ -1,0 +1,71 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.2.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Decan, Kanara"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.2"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/223.json",
+            "label": {
+                "nl": [
+                    "Kaart van de kust van Dekan en Canare, van de Kom van Sualy (Soeratte) tot de Rivier Pen."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/225.json",
+            "label": {
+                "nl": [
+                    "Kaart van de rivier Souratte."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/226.json",
+            "label": {
+                "nl": [
+                    "Kaart van Gouzaratte, Cucan of Visiapoer, van R. Pilatus tot Dabul."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/227.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Kust van Decan van Sualy tot Rajapoer."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/228.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Baai en Kust by Goa."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

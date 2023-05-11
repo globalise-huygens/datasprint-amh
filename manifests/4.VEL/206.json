@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van de Lagoabaai tot Terra di Natal<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Oostkust van Afrika, tusschen Bay de la Goa tot twee graden benoorden Terra di Natal.<br>Rechtsboven genummerd 8.a..<br>Notities verso: 206 [in rood potlood] / 9 [in potlood in rechterbovenhoek].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4717/kaart-van-de-lagoabaai-tot-terra-di-natal\">https://www.atlasofmutualheritage.nl/page/4717/kaart-van-de-lagoabaai-tot-terra-di-natal</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van de Lagoabaai tot Terra di Natal<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Oostkust van Afrika, tusschen Bay de la Goa tot twee graden benoorden Terra di Natal.<br>Rechtsboven genummerd 8.a..<br>Notities verso: 206 [in rood potlood] / 9 [in potlood in rechterbovenhoek].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4717/kaart-van-de-lagoabaai-tot-terra-di-natal\">https://www.atlasofmutualheritage.nl/page/4717/kaart-van-de-lagoabaai-tot-terra-di-natal</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/206.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart van de Oostkust van Afrika, tusschen Bay de la Goa tot twee graden benoorden Terra di Natal."
+                ]
+            },
             "height": 6412,
             "width": 8923,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "206"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1600/1700"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/1dbc47c1-3f1e-4aac-8bc5-e30a4b094835\">http://hdl.handle.net/10648/1dbc47c1-3f1e-4aac-8bc5-e30a4b094835</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van de Lagoabaai tot Terra di Natal<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Oostkust van Afrika, tusschen Bay de la Goa tot twee graden benoorden Terra di Natal.<br>Rechtsboven genummerd 8.a..<br>Notities verso: 206 [in rood potlood] / 9 [in potlood in rechterbovenhoek].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4717/kaart-van-de-lagoabaai-tot-terra-di-natal\">https://www.atlasofmutualheritage.nl/page/4717/kaart-van-de-lagoabaai-tot-terra-di-natal</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/206.json/canvas/p1/annotationpage",

@@ -1,0 +1,44 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.9.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Quinam, Tonquin, Cochin-China"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.9"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/269.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Kust van Quinam, Toncquin en Cochin-China, van R. Cantaon tot aan Punta Lamtaon, benevens het Eyland Aynam en Isla de Pracel."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/270.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Rivier van Toncquin, van de Mond tot aan de Hollandsche Logie."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

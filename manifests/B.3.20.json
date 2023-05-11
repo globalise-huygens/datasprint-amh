@@ -1,0 +1,71 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.20.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Indische Archipel"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.20"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/488.json",
+            "label": {
+                "nl": [
+                    "Kaart van de West- en Noordkust van Nieuw-Guinea, benevens de Papoesche Eilanden."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/489.json",
+            "label": {
+                "nl": [
+                    "Kaart van de West- en Noordkust van Nova-Guinea tot aan de hoek van Pammenoeke, de Papoese Eilanden en een gedeelte van de Noord-oostkust van Halmaheira."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/490.json",
+            "label": {
+                "nl": [
+                    "Kaart van het Noordelijk gedeelte van Nova-Guinea van Brebes tot Geelvinks Oosthoek, de Groote Inbocht, met de daartegenoverleggende Eilandjes."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/493.json",
+            "label": {
+                "nl": [
+                    "Caerte van de ontdecte Custe ende plaetsen van Nova Guina, in 1623."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/494.json",
+            "label": {
+                "nl": [
+                    "Kaart van de Zuidwestkust van Nova - Guinea, waarop de trek der voyagie van Johannes Keyts, en die van Augustyn Dirks met de Pisang. In 1678 en 1679."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

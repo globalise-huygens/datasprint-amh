@@ -1,0 +1,35 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.14.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Mindanao"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "B.3.14"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/299.json",
+            "label": {
+                "nl": [
+                    "Kaart van de bocht of Rheede van Symeay op Magindanao, de bocht van Soegoeroe en het Varkens-Eyland."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van de omgeving van Tullier, aan de zuid-westkust van Madagascar<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart der ankerplaatsen voor Tullier enz., op de Zuyderbreedte van 23.23 graden.<br>Legenda: A-O<br>Tussen de letters C en F is een (Nederlandse?) vlag aangegeven.<br>Rechtsonder genummerd: 10.b.<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/8530/kaart-van-de-omgeving-van-tullier-aan-de-zuid-westkust-van-madagascar\">https://www.atlasofmutualheritage.nl/page/8530/kaart-van-de-omgeving-van-tullier-aan-de-zuid-westkust-van-madagascar</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van de omgeving van Tullier, aan de zuid-westkust van Madagascar<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart der ankerplaatsen voor Tullier enz., op de Zuyderbreedte van 23.23 graden.<br>Legenda: A-O<br>Tussen de letters C en F is een (Nederlandse?) vlag aangegeven.<br>Rechtsonder genummerd: 10.b.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/8530/kaart-van-de-omgeving-van-tullier-aan-de-zuid-westkust-van-madagascar\">https://www.atlasofmutualheritage.nl/page/8530/kaart-van-de-omgeving-van-tullier-aan-de-zuid-westkust-van-madagascar</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/326.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart der ankerplaatsen voor Tullier enz., op de"
+                ]
+            },
             "height": 4247,
             "width": 5325,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "326"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1754"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/df528638-0b15-4b9d-a6fa-4f9d459b4876\">http://hdl.handle.net/10648/df528638-0b15-4b9d-a6fa-4f9d459b4876</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van de omgeving van Tullier, aan de zuid-westkust van Madagascar<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart der ankerplaatsen voor Tullier enz., op de Zuyderbreedte van 23.23 graden.<br>Legenda: A-O<br>Tussen de letters C en F is een (Nederlandse?) vlag aangegeven.<br>Rechtsonder genummerd: 10.b.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/8530/kaart-van-de-omgeving-van-tullier-aan-de-zuid-westkust-van-madagascar\">https://www.atlasofmutualheritage.nl/page/8530/kaart-van-de-omgeving-van-tullier-aan-de-zuid-westkust-van-madagascar</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/326.json/canvas/p1/annotationpage",

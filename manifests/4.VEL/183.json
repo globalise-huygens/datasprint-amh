@@ -52,7 +52,7 @@
             },
             "value": {
                 "en": [
-                    "\n    <strong>Title</strong>: Kaart van de Tafelbaai<br>\n    <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Tafelbaai, waarin eene voorstelling der wyze waarop men kan vertuyen om klare kluizen te houden.<br>Notities verso: uit 1e deel brieven en papieren overgek van de Kaap 1743 / 50 [folionummer in de band ?] / 183 [in rood potlood].<br>\n    <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2699/kaart-van-de-tafelbaai\">https://www.atlasofmutualheritage.nl/page/2699/kaart-van-de-tafelbaai</a>\n    "
+                    "\n        <strong>Title</strong>: Kaart van de Tafelbaai<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Tafelbaai, waarin eene voorstelling der wyze waarop men kan vertuyen om klare kluizen te houden.<br>Notities verso: uit 1e deel brieven en papieren overgek van de Kaap 1743 / 50 [folionummer in de band ?] / 183 [in rood potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2699/kaart-van-de-tafelbaai\">https://www.atlasofmutualheritage.nl/page/2699/kaart-van-de-tafelbaai</a>\n        "
                 ]
             }
         }
@@ -68,8 +68,63 @@
         {
             "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/183.json/canvas/p1",
             "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Kaart van de Tafelbaai, waarin eene voorstelling de wyze waarop men kan vertuyen om klare kluizen te houden."
+                ]
+            },
             "height": 4494,
             "width": 6462,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "183"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1743"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/56d37836-9464-48b8-a490-11e099a44326\">http://hdl.handle.net/10648/56d37836-9464-48b8-a490-11e099a44326</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Kaart van de Tafelbaai<br>\n        <strong>Description</strong>: Titel in catalogus Leupe (Nationaal Archief): Kaart van de Tafelbaai, waarin eene voorstelling der wyze waarop men kan vertuyen om klare kluizen te houden.<br>Notities verso: uit 1e deel brieven en papieren overgek van de Kaap 1743 / 50 [folionummer in de band ?] / 183 [in rood potlood].<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/2699/kaart-van-de-tafelbaai\">https://www.atlasofmutualheritage.nl/page/2699/kaart-van-de-tafelbaai</a>\n        "
+                        ]
+                    }
+                }
+            ],
             "items": [
                 {
                     "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/183.json/canvas/p1/annotationpage",
