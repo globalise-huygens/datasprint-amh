@@ -49,13 +49,7 @@ def get_subseries(subseries_el, series_code, collection_name=""):
     # if "B.3" not in subseries_code:
     #     return
 
-    subseries_els = subseries_el.findall("c[@level='subseries']")
-    for subseries_el in subseries_els:
-        get_subseries(subseries_el, series_code, collection_name)
-
-    file_and_filegrp_els = subseries_el.xpath(
-        "c[@level='file']|c[@otherlevel='filegrp']"
-    )
+    file_and_filegrp_els = subseries_el.xpath("child::*")
     for el in file_and_filegrp_els:
         if el.get("level") == "file":
             file_code = get_file(el)
@@ -84,6 +78,9 @@ def get_subseries(subseries_el, series_code, collection_name=""):
 
             if collection_name:
                 series2files[collection_name].append(filegrp_stack)
+
+        elif el.get("level") == "subseries":
+            get_subseries(el, series_code, collection_name)
 
 
 def get_file(file_el):
