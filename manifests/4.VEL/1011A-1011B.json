@@ -1,0 +1,250 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011A-1011B.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan van Trincoenemale."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1011A-1011B"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "en": [
+                    "?",
+                    "?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "en": [
+                    "<a href=\"http://hdl.handle.net/10648/047504b1-3534-41d0-9ae7-1a0853ce3417\">http://hdl.handle.net/10648/047504b1-3534-41d0-9ae7-1a0853ce3417</a>",
+                    "<a href=\"http://hdl.handle.net/10648/a6055825-5ae2-4d13-876c-d8f12d782a0f\">http://hdl.handle.net/10648/a6055825-5ae2-4d13-876c-d8f12d782a0f</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n        <strong>Title</strong>: Plattegrond van Trinconomale<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van Trincoenemale.<br>Notities verso: [Blauw etiket ODG] nr.: 82 Trinconomale.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4778/plattegrond-van-trinconomale\">https://www.atlasofmutualheritage.nl/page/4778/plattegrond-van-trinconomale</a>\n        ",
+                    "\n        <strong>Title</strong>: Profiel van Trinconomale<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van Trincoenemale.<br>Profieltekening van de geplande vetsingwerken ter insluiting van het voorterrein tussen de vestingwal en Pagodeberg.<br>Notities verso: Nr. 40 [Blauw etiket] nr. 29 b Profilen van Trinconomale.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4779/profiel-van-trinconomale\">https://www.atlasofmutualheritage.nl/page/4779/profiel-van-trinconomale</a>\n        "
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1011B.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011A-1011B.json/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Plan"
+                ]
+            },
+            "height": 11310,
+            "width": 8219,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1011A"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/047504b1-3534-41d0-9ae7-1a0853ce3417\">http://hdl.handle.net/10648/047504b1-3534-41d0-9ae7-1a0853ce3417</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plattegrond van Trinconomale<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van Trincoenemale.<br>Notities verso: [Blauw etiket ODG] nr.: 82 Trinconomale.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4778/plattegrond-van-trinconomale\">https://www.atlasofmutualheritage.nl/page/4778/plattegrond-van-trinconomale</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011A-1011B.json/canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011A-1011B.json/canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/05/cb/30/30/a8/40/47/56/a4/b2/ac/ba/58/7d/35/ec/b223f622-18d9-43fe-9ec3-8b5145f6a2df.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 11310,
+                                "width": 8219,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/05/cb/30/30/a8/40/47/56/a4/b2/ac/ba/58/7d/35/ec/b223f622-18d9-43fe-9ec3-8b5145f6a2df.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011A-1011B.json/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011A-1011B.json/canvas/p2",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Profiel"
+                ]
+            },
+            "height": 4067,
+            "width": 11897,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1011B"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "?"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/a6055825-5ae2-4d13-876c-d8f12d782a0f\">http://hdl.handle.net/10648/a6055825-5ae2-4d13-876c-d8f12d782a0f</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Profiel van Trinconomale<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan van Trincoenemale.<br>Profieltekening van de geplande vetsingwerken ter insluiting van het voorterrein tussen de vestingwal en Pagodeberg.<br>Notities verso: Nr. 40 [Blauw etiket] nr. 29 b Profilen van Trinconomale.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4779/profiel-van-trinconomale\">https://www.atlasofmutualheritage.nl/page/4779/profiel-van-trinconomale</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011A-1011B.json/canvas/p2/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011A-1011B.json/canvas/p2/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/d8/28/af/62/36/1a/49/62/bf/42/ad/b0/01/58/a5/b8/c7c27066-d8f9-441f-8d2a-396dc2d70773.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 4067,
+                                "width": 11897,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/d8/28/af/62/36/1a/49/62/bf/42/ad/b0/01/58/a5/b8/c7c27066-d8f9-441f-8d2a-396dc2d70773.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1011A-1011B.json/canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

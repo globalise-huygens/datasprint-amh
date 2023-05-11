@@ -1,0 +1,158 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1026.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Plan de Trinkonomale, avec un projet de fortification."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1026"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1795"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Permalink"
+                ]
+            },
+            "value": {
+                "en": [
+                    "<a href=\"http://hdl.handle.net/10648/c0fcdb48-2a07-4419-a282-48bb94414884\">http://hdl.handle.net/10648/c0fcdb48-2a07-4419-a282-48bb94414884</a>"
+                ]
+            }
+        },
+        {
+            "label": {
+                "nl": [
+                    "Metadata from the Atlas of Mutual Heritage"
+                ]
+            },
+            "value": {
+                "en": [
+                    "\n        <strong>Title</strong>: Plattegrond van het fort te Trinkonomale en omgeving<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan de Trinkonomale avec un Projet de Fortification.<br>Notities verso: plan de Trinkonomale avec un Projet de Fortification / No. 31 Plan van Trinconomale. Register 4, Deel 1, Folio 15, Portefeuille .. [geschreven op een blauw etiket] / 561 [met vette cijfers gestempeld op een etiketje].<br>Opmerking catalogus Leupe: Hierop komen voor: de werken der Eng. op 26 Aug. 1795.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4801/plattegrond-van-het-fort-te-trinkonomale-en-omgeving\">https://www.atlasofmutualheritage.nl/page/4801/plattegrond-van-het-fort-te-trinkonomale-en-omgeving</a>\n        "
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "seeAlso": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/aggregations/4.VEL/1026.json",
+            "type": "ore:Aggregation"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1026.json/canvas/p1",
+            "type": "Canvas",
+            "label": {
+                "nl": [
+                    "Plan de Trinkonomale, avec un projet de fortification."
+                ]
+            },
+            "height": 7900,
+            "width": 9170,
+            "metadata": [
+                {
+                    "label": {
+                        "nl": [
+                            "Identifier"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1026"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Date"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1795"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Permalink"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "<a href=\"http://hdl.handle.net/10648/c0fcdb48-2a07-4419-a282-48bb94414884\">http://hdl.handle.net/10648/c0fcdb48-2a07-4419-a282-48bb94414884</a>"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "nl": [
+                            "Metadata from the Atlas of Mutual Heritage"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "\n        <strong>Title</strong>: Plattegrond van het fort te Trinkonomale en omgeving<br>\n        <strong>Description</strong>: Titel catalogus Leupe (NA): Plan de Trinkonomale avec un Projet de Fortification.<br>Notities verso: plan de Trinkonomale avec un Projet de Fortification / No. 31 Plan van Trinconomale. Register 4, Deel 1, Folio 15, Portefeuille .. [geschreven op een blauw etiket] / 561 [met vette cijfers gestempeld op een etiketje].<br>Opmerking catalogus Leupe: Hierop komen voor: de werken der Eng. op 26 Aug. 1795.<br>\n        <strong>URL</strong>: <a href=\"https://www.atlasofmutualheritage.nl/page/4801/plattegrond-van-het-fort-te-trinkonomale-en-omgeving\">https://www.atlasofmutualheritage.nl/page/4801/plattegrond-van-het-fort-te-trinkonomale-en-omgeving</a>\n        "
+                        ]
+                    }
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1026.json/canvas/p1/annotationpage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1026.json/canvas/p1/anno",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://service.archief.nl/iipsrv?IIIF=/94/30/e9/65/db/27/4c/f9/a7/e4/11/31/e1/5b/61/46/8844ea28-c8a0-42fa-8e74-e3378dd6d8ca.jp2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "height": 7900,
+                                "width": 9170,
+                                "service": [
+                                    {
+                                        "@id": "https://service.archief.nl/iipsrv?IIIF=/94/30/e9/65/db/27/4c/f9/a7/e4/11/31/e1/5b/61/46/8844ea28-c8a0-42fa-8e74-e3378dd6d8ca.jp2",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1026.json/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
