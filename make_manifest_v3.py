@@ -113,7 +113,11 @@ def make_collection(
             ),
             iiif_prezi3.KeyValueString(
                 label="Permalink",
-                value={"en": [f'<a href="{collection_permalink}"></a>']},
+                value={
+                    "en": [
+                        f'<a href="{collection_permalink}">{collection_permalink}</a>'
+                    ]
+                },
             ),
         ],
     )
@@ -194,7 +198,7 @@ def make_manifest(
             ),
             iiif_prezi3.KeyValueString(
                 label="Permalink",
-                value={"en": [f'<a href="{handle}"></a>']},
+                value={"en": [f'<a href="{handle}">{handle}</a>']},
             ),
             iiif_prezi3.KeyValueString(
                 label="Metadata from the Atlas of Mutual Heritage",
