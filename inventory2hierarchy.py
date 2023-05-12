@@ -26,7 +26,7 @@ def main(xmlfile, destination, collection_name=""):
         subseries_els = series_el.findall("c[@level='subseries']")
 
         for subseries_el in subseries_els:
-            get_subseries(subseries_el, series_code, collection_name)
+            get_subseries(subseries_el, [series_code], collection_name)
 
     with open(os.path.join(destination, "series2title.json"), "w") as outfile:
         json.dump(series2title, outfile, indent=4)
@@ -35,7 +35,7 @@ def main(xmlfile, destination, collection_name=""):
         json.dump(series2files, outfile, indent=4)
 
 
-def get_subseries(subseries_el, series_code, collection_name=""):
+def get_subseries(subseries_el, series_codes, collection_name=""):
     subseries_code_el = subseries_el.find("did/unitid[@type='series_code']")
     subseries_title = "".join(subseries_el.find("did/unittitle").itertext()).strip()
     if subseries_code_el is not None:
@@ -55,7 +55,8 @@ def get_subseries(subseries_el, series_code, collection_name=""):
             file_code = get_file(el)
 
             if file_code:
-                series2files[series_code].append(file_code)
+                for series_code in series_codes:
+                    series2files[series_code].append(file_code)
                 series2files[subseries_code].append(file_code)
 
                 if collection_name:
@@ -73,14 +74,15 @@ def get_subseries(subseries_el, series_code, collection_name=""):
                 file_code = get_file(file_el)
                 filegrp_stack[filegrp_code].append(file_code)
 
-            series2files[series_code].append(filegrp_stack)
+            for series_code in series_codes:
+                series2files[series_code].append(filegrp_stack)
             series2files[subseries_code].append(filegrp_stack)
 
             if collection_name:
                 series2files[collection_name].append(filegrp_stack)
 
         elif el.get("level") == "subseries":
-            get_subseries(el, series_code, collection_name)
+            get_subseries(el, series_codes + [subseries_code], collection_name)
 
 
 def get_file(file_el):

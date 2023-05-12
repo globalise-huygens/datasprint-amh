@@ -1,0 +1,62 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/C.2.11.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Formosa"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "C.2.11"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1125.json",
+            "label": {
+                "nl": [
+                    "Caerte van Wancans gelegentheyt."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1126.json",
+            "label": {
+                "nl": [
+                    "Caerte van de besayde velden aen Saccam."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1127.json",
+            "label": {
+                "nl": [
+                    "Kaartje van Tamsuy en omleggende dorpen, zoo mede het eilandje Kelang."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/1128.json",
+            "label": {
+                "nl": [
+                    "Caartje van de Fortres op Quelang."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

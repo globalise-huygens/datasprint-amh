@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/C.2.1.json",
+    "type": "Collection",
+    "label": {
+        "nl": [
+            "Algemeen"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "nl": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "en": [
+                    "C.2.1"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/860.json",
+            "label": {
+                "nl": [
+                    "\n                          Asia Antigua cum finitimis Africae et Europae Regionibus."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/861.json",
+            "label": {
+                "nl": [
+                    "\n                          Indiae Orientalis nec non Insularum adiacentium. Nova discriptio."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/862.json",
+            "label": {
+                "nl": [
+                    "The East Indies, with the Roads."
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}
