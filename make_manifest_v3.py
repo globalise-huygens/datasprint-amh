@@ -327,7 +327,9 @@ def main(
     for collection_code, collection_content in series2files.items():
         if collection_code == collection_number:
             continue
-        elif "B.3" not in collection_code:  # Asia only (and first level) for now
+        elif (
+            "B.3" not in collection_code and "C.2" not in collection_code
+        ):  # Asia only (and first level) for now
             continue
 
         collection_title = series2title[collection_code]
