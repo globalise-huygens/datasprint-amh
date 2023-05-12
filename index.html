@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>GLOBALISE AMH Datasprint - Mirador3</title>
+  </head>
+  <body>
+    <div id="osd-mirador"></div>
+
+    <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+    <script>
+      const getURL = () => {
+        let hashValue = window.location.hash.slice(1);
+        let url = hashValue.split(',')[1]
+        return url;
+      }
+
+        const defaultCollection = "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL.json"
+
+        const toLoad = getURL() || defaultCollection;
+
+        var mirador = Mirador.viewer({
+            "id": "osd-mirador",
+            "manifests": [
+        ],
+            "windows": [
+                {
+                    "loadedManifest": toLoad,
+                    "canvasIndex": 0,
+                    "thumbnailNavigationPosition": 'far-bottom'
+                }
+            ],
+            catalog: [
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.1.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.2.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.3.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.4.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.5.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.6.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.7.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.8.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.9.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.10.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.11.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.12.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.13.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.14.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.15.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.16.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.17.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.18.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.19.json"},
+                { manifestId: "https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.20.json"} 
+            ]
+        });
+    </script>
+
+      
+
+    </script>
+  </body>
+</html>
+
