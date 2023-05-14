@@ -56,7 +56,12 @@ def main():
 
         # And save it
         with open("manifests/4.VEL/v2/" + jsonfile, "w") as f:
-            json.dump(manifest.toJSON(top=True), f, indent=2)
+            manifest_json = manifest.toJSON(top=True)
+            manifest_json["@id"] = manifest_json["@id"].replace(
+                "manifest.json", jsonfile
+            )
+
+            json.dump(manifest_json, f, indent=4)
 
 
 def make_manifest_v2(data, jsonfile):
