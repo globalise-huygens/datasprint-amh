@@ -11,7 +11,7 @@ These IIIF Collections can be found in the [`manifests`](manifests) folder. The 
 
 * [4.VEL Entire collection](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.1.json)
   * B Zee-, kust- en rivierkaarten
-    * B.3 Azië
+    * [B.3 Azië](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.json)
       * [B.3.1 Roode Zee en Perzische Golf](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.1.json)
       * [B.3.2 Decan, Kanara](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.2.json)
       * [B.3.3 Malabar](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.3.json)
@@ -32,8 +32,8 @@ These IIIF Collections can be found in the [`manifests`](manifests) folder. The 
       * [B.3.18 Indische Oceaan](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.18.json)
       * [B.3.19 Eilanden in de Indische Oceaan](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.19.json)
       * [B.3.20 Indische Archipel](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests/B.3.20.json)
-  * Landkaarten, plans, enz.
-    * C.2 Azië
+  * C Landkaarten, plans, enz.
+    * [C.2 Azië](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests/B.2.json)
       * [C.2.1 Algemeen](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests//C.2.1.json)
       * [C.2.2 Perzische Golf](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests//C.2.2.json)
       * [C.2.3 Gujarat](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests//C.2.3.json)
