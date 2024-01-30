@@ -1,0 +1,234 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json",
+    "@type": "sc:Manifest",
+    "label": "Digital History Lecture Florence February 2024 - GLOBALISE",
+    "viewingDirection": "left-to-right",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p0",
+                    "@type": "sc:Canvas",
+                    "label": "NL-HaNA_4.VEL_234",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "234"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "1e exemplaar"
+                        },
+                        {
+                            "label": "Date",
+                            "value": "?"
+                        },
+                        {
+                            "label": "Permalink",
+                            "value": "<a href=\"http://hdl.handle.net/10648/27284337-5324-4daf-8125-2f97cfdd0be9\">http://hdl.handle.net/10648/27284337-5324-4daf-8125-2f97cfdd0be9</a>"
+                        }
+                    ],
+                    "height": 9927,
+                    "width": 12714,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://service.archief.nl/iipsrv?IIIF=//c3/85/e2/e0/58/0c/4c/9c/a2/06/a4/3d/e8/d2/bf/32/ab408e71-392d-48b0-9396-fda0cffb63e4.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 9927,
+                                "width": 12714,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://service.archief.nl/iipsrv?IIIF=//c3/85/e2/e0/58/0c/4c/9c/a2/06/a4/3d/e8/d2/bf/32/ab408e71-392d-48b0-9396-fda0cffb63e4.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p0"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "label": "NL-HaNA_4.VEL_427",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "427"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Kaart van de Noordkust van Java, van Po. Mandelique tot Petjerang, 18de eeuw."
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1700/1800"
+                        },
+                        {
+                            "label": "Permalink",
+                            "value": "<a href=\"http://hdl.handle.net/10648/d1b22a21-91ed-4df1-9e42-a33faa447ef3\">http://hdl.handle.net/10648/d1b22a21-91ed-4df1-9e42-a33faa447ef3</a>"
+                        }
+                    ],
+                    "height": 3759,
+                    "width": 5851,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://service.archief.nl/iipsrv?IIIF=//ab/ba/2a/1e/11/5a/4c/0b/b4/59/08/40/f6/d3/83/f8/6b62e3ad-dd97-4378-a4bc-47a99922c171.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 3759,
+                                "width": 5851,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://service.archief.nl/iipsrv?IIIF=//ab/ba/2a/1e/11/5a/4c/0b/b4/59/08/40/f6/d3/83/f8/6b62e3ad-dd97-4378-a4bc-47a99922c171.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "label": "NL-HaNA_4.VEL_429",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "429"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Kaart van de Noordkust van Java, van Banjer Anjer tot Tanjong Taagagoerang, Straat Madura en genoemd Eiland, 18de eeuw."
+                        },
+                        {
+                            "label": "Date",
+                            "value": "1700/1800"
+                        },
+                        {
+                            "label": "Permalink",
+                            "value": "<a href=\"http://hdl.handle.net/10648/914359cc-f0de-4d64-aeb0-3c7bc587cc16\">http://hdl.handle.net/10648/914359cc-f0de-4d64-aeb0-3c7bc587cc16</a>"
+                        }
+                    ],
+                    "height": 6328,
+                    "width": 8325,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://service.archief.nl/iipsrv?IIIF=//00/08/8f/e7/f0/6f/41/b5/82/fa/08/70/2e/7d/5d/b0/ef8b5c5f-3858-49c8-9660-89238b575d1b.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 6328,
+                                "width": 8325,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://service.archief.nl/iipsrv?IIIF=//00/08/8f/e7/f0/6f/41/b5/82/fa/08/70/2e/7d/5d/b0/ef8b5c5f-3858-49c8-9660-89238b575d1b.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p2"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "label": "NL-HaNA_4.VEL_473",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "473"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Kaart van de Ternataansche Eilanden, Ternate, Tidor, Halmaheira of Batachina, Macquian, Batchain enz."
+                        },
+                        {
+                            "label": "Date",
+                            "value": "?"
+                        },
+                        {
+                            "label": "Permalink",
+                            "value": "<a href=\"http://hdl.handle.net/10648/446cf682-c49e-4cc6-97c3-ff27d5710021\">http://hdl.handle.net/10648/446cf682-c49e-4cc6-97c3-ff27d5710021</a>"
+                        }
+                    ],
+                    "height": 6277,
+                    "width": 8813,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://service.archief.nl/iipsrv?IIIF=//91/1b/ed/1b/53/9b/47/97/a2/a8/0a/2b/30/5c/4f/a8/b5588627-a83e-44b1-b41e-fc3645488db4.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 6277,
+                                "width": 8813,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://service.archief.nl/iipsrv?IIIF=//91/1b/ed/1b/53/9b/47/97/a2/a8/0a/2b/30/5c/4f/a8/b5588627-a83e-44b1-b41e-fc3645488db4.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p3"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "label": "NL-HaNA_4.VEL_484",
+                    "metadata": [
+                        {
+                            "label": "Identifier",
+                            "value": "484"
+                        },
+                        {
+                            "label": "Title",
+                            "value": "Proeve eener Topographique kaart der voornaamste Eylanden, van Banda, voornamentlyk Neira Lonthoir, Goenong Api, Pisang en 't noordelykste gedeelte van Aay enz."
+                        },
+                        {
+                            "label": "Date",
+                            "value": "?"
+                        },
+                        {
+                            "label": "Permalink",
+                            "value": "<a href=\"http://hdl.handle.net/10648/40602bc2-6353-4226-b945-9a0f288762c5\">http://hdl.handle.net/10648/40602bc2-6353-4226-b945-9a0f288762c5</a>"
+                        }
+                    ],
+                    "height": 21598,
+                    "width": 23078,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://service.archief.nl/iipsrv?IIIF=//37/41/34/c7/a6/83/40/b2/92/02/35/07/f3/d7/f3/4a/bd86811a-885f-49b0-ba0e-6a3209dbf149.jp2/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 21598,
+                                "width": 23078,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://service.archief.nl/iipsrv?IIIF=//37/41/34/c7/a6/83/40/b2/92/02/35/07/f3/d7/f3/4a/bd86811a-885f-49b0-ba0e-6a3209dbf149.jp2",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://globalise-huygens.github.io/datasprint-amh/manifests/4.VEL/v2/eui2024.json/canvas/p4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
