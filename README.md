@@ -1,14 +1,19 @@
 # GLOBALISE AMH Datasprint
 
-Materials for the GLOBALISE datasprint on places in the Indian Ocean world.
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-| :warning: | A more recent version of the 4.VEL map data can be found in this GLOBALISE [`maps`](https://github.com/globalise-huygens/maps) repository. |
+
+_Materials for the GLOBALISE datasprint on places in the Indian Ocean world, University of Amsterdam, May 15th 2023._
+
+| :warning: | A more recent version of the 4.VEL map data can be found in the GLOBALISE [`maps`](https://github.com/globalise-huygens/maps) repository. |
 | :-------: | :----------------------------------------------------------------------------------------------------------------------------------------- |
 
 - [GLOBALISE AMH Datasprint](#globalise-amh-datasprint)
   - [Introduction](#introduction)
-  - [Collections](#collections)
-  - [Aggregations](#aggregations)
+  - [Sessions and documentation](#sessions-and-documentation)
+  - [Preparation and data](#preparation-and-data)
+    - [Collections](#collections)
+    - [Aggregations](#aggregations)
   - [Scripts](#scripts)
   - [About](#about)
 
@@ -18,7 +23,22 @@ Historical places are important building blocks for the reconstruction of histor
 
 This datasprint aims to foster collaboration between historians, heritage professionals and data scientists for better availability of data on historical places. It intends to curate, publish, and link data on historical places collected by researchers within their own projects, as well as test and improve digital techniques to extract, structure, and share data on places. In addition to data creation, curation, and linking, this datasprint will offer a space to exchange knowledge and expertise on historical places and contexts, and digital techniques. We hope that by the end of the datasprint, all participants will have learned something, and that we will have generated valuable data on historical locations with which to improve our understanding of the early modern Indian Ocean and Indonesian archipelago worlds.
 
-## Collections
+## Sessions and documentation
+
+The datasprint consists of three sessions:
+1. Georeferencing early modern maps
+2. Data extraction from early modern maps
+3. Curating and linking new places data(sets)
+
+Reports and documentation for each session can be found in the [`docs`](docs) folder.
+
+## Preparation and data
+
+Two of these sessions require access to digital map data. For this purpose, we selected the National Archives' 4.VEL collection. The maps from this collection are presented in a standardized format according to the IIIF Image API specification. Additionally, the Atlas of Mutual Heritage provides detailed descriptions of this material. We incorporated that metadata into the IIIF Collections and Manifests we generated, making these maps accessible through session annotation tools. Furthermore, we connected the images, the IIIF Manifests, and the structured metadata of the Atlas of Mutual Heritage by modeling the data in the Europeana Data Model (RDF).
+
+We thank the RCE and the National Archives for providing us with a data dump of the Atlas of Mutual Heritage and the 4.VEL collection.
+
+### Collections
 
 These IIIF Collections can be found in the [`manifests`](manifests) folder. The URLs below point to a [Mirador3 viewer](https://globalise-huygens.github.io/datasprint-amh/) with the respective collection loaded.
 
@@ -61,9 +81,9 @@ These IIIF Collections can be found in the [`manifests`](manifests) folder. The 
       - [C.2.12 Indische Zee](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests//C.2.12.json)
       - [C.2.13 Indische Archipel](https://globalise-huygens.github.io/datasprint-amh/#data:text/x-url,https://globalise-huygens.github.io/datasprint-amh/manifests//C.2.13.json)
 
-## Aggregations
+### Aggregations
 
-To bridge between the image itself, the IIIF Collections and Manifests, and the structured metdata of the Atlas of Mutual Heritage, the Atlas's data is modelled in the Europeana Data Model as RDF. The Manifests then link to the structured RDF data using the `rdfs:seeAlso` property, and the map links to the Manifest using the `dcterms:isReferencedBy` property. An example of this data (coming from [aggregations/4.VEL/297.json](aggregations/4.VEL/297.json)):
+To connect the image itself, the IIIF Collections and Manifests, and the structured metadata of the Atlas of Mutual Heritage, the Atlas's data is modelled in the Europeana Data Model as RDF. The Manifests then link to the structured RDF data using the `rdfs:seeAlso` property, while the map links to the Manifest using the `dcterms:isReferencedBy` property. An example of this data can be found in [aggregations/4.VEL/297.json](aggregations/4.VEL/297.json):
 
 ```json
 {
@@ -122,6 +142,6 @@ An RDF dump of all the aggregations (in text/turtle) can be found in the [rdf](r
 
 ## About
 
-The scripts and data in this repository were created for the GLOBALISE and [CREATE](https://create.humanities.uva.nl/) datasprint in spring 2023. A blog post is written about the sprint's results: https://globalise.huygens.knaw.nl/old-maps-new-discoveries-a-datasprints-digital-exploration/.
+The scripts and data in this repository were created for the GLOBALISE and [CREATE](https://create.humanities.uva.nl/) datasprint in Spring 2023. A blog post is written about the sprint's results: https://globalise.huygens.knaw.nl/old-maps-new-discoveries-a-datasprints-digital-exploration/.
 
-See https://globalise.huygens.knaw.nl/ for more information about the project.
+See the GLOBALISE website (https://globalise.huygens.knaw.nl/) for more information about the project.

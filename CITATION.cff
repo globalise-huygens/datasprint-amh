@@ -1,0 +1,67 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  GLOBALISE Datasprint: Mapping Places in the Indian Ocean
+  World
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Leon
+    name-particle: van
+    family-names: Wissen
+    email: l.vanwissen@uva.nl
+    affiliation: University of Amsterdam
+    orcid: 'https://orcid.org/0000-0001-8672-025X'
+  - given-names: Jules
+    family-names: Schoonman
+    orcid: 'https://orcid.org/0000-0002-8689-6076'
+    affiliation: Delft University of Technology
+    email: j.a.schoonman@tudelft.nl
+  - given-names: Melvin
+    family-names: Wevers
+    email: m.j.h.f.wevers@uva.nl
+    affiliation: University of Amsterdam
+    orcid: 'https://orcid.org/0000-0001-8177-4582'
+  - given-names: Rombert
+    family-names: Stapel
+    orcid: 'https://orcid.org/0000-0001-6394-260X'
+    affiliation: International Institute of Social History
+    email: rombert.stapel@iisg.nl
+  - name: GLOBALISE Project
+    website: 'https://globalise.huygens.knaw.nl/'
+repository-code: 'https://github.com/globalise-huygens/datasprint-amh'
+abstract: >-
+  The GLOBALISE AMH Datasprint, held at the University of
+  Amsterdam on May 15, 2023, focused on identifying and
+  geolocating historical places within the VOC (Dutch East
+  India Company) archives, which document two centuries of
+  events across the Indian Ocean and the Indonesian
+  archipelago. The sprint addressed the complex challenges
+  of pinpointing these locations, often complicated by
+  spelling variations, evolving place names, and ambiguous
+  references.
+
+  The event brought together historians, heritage
+  professionals, and data scientists to collaboratively
+  create a comprehensive dataset of these historical
+  locations. The datasprint featured sessions on
+  georeferencing early modern maps, extracting relevant
+  data, and curating new datasets. Key resources included
+  the 4.VEL Leupe collection from the National Archives,
+  which was prepared using IIIF Manifests and Collections.
+  Additionally, a link was established between this
+  collection and contextual information from the Atlas of
+  Mutual Heritage, modeled as Linked Open Data. The outcomes
+  of the breakout sessions, including the developed scripts
+  and data, were also incorporated into the dataset.
+keywords:
+  - Dutch East India Company
+  - Historical Places
+  - VOC Archives
+  - GLOBALISE
+  - Linked Open Data
+license: CC-BY-4.0
