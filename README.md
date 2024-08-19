@@ -1,12 +1,11 @@
 # GLOBALISE AMH Datasprint
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
-
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13341556.svg)](https://doi.org/10.5281/zenodo.13341556)
 
 _Materials for the GLOBALISE datasprint on places in the Indian Ocean world, University of Amsterdam, May 15th 2023._
 
 | :warning: | A more recent version of the 4.VEL map data can be found in the GLOBALISE [`maps`](https://github.com/globalise-huygens/maps) repository. |
-| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------: | :---------------------------------------------------------------------------------------------------------------------------------------- |
 
 - [GLOBALISE AMH Datasprint](#globalise-amh-datasprint)
   - [Introduction](#introduction)
@@ -26,6 +25,7 @@ This datasprint aims to foster collaboration between historians, heritage profes
 ## Sessions and documentation
 
 The datasprint consists of three sessions:
+
 1. Georeferencing early modern maps
 2. Data extraction from early modern maps
 3. Curating and linking new places data(sets)
@@ -145,3 +145,7 @@ An RDF dump of all the aggregations (in text/turtle) can be found in the [rdf](r
 The scripts and data in this repository were created for the GLOBALISE and [CREATE](https://create.humanities.uva.nl/) datasprint in Spring 2023. A blog post is written about the sprint's results: https://globalise.huygens.knaw.nl/old-maps-new-discoveries-a-datasprints-digital-exploration/.
 
 See the GLOBALISE website (https://globalise.huygens.knaw.nl/) for more information about the project.
+
+A copy of the repository is archived on Zenodo:
+
+- Van Wissen, L., Schoonman, J., Wevers, M., Stapel, R., & GLOBALISE Project. (2023). GLOBALISE Datasprint: Mapping Places in the Indian Ocean World (v0.1). Zenodo. https://doi.org/10.5281/zenodo.13341556
